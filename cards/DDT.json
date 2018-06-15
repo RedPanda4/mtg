@@ -1,0 +1,7159 @@
+{
+  "code": "DDT",
+  "name": "Duel Decks: Merfolk vs. Goblins",
+  "type": "duel deck",
+  "border": "black",
+  "mkm_id": null,
+  "mkm_name": null,
+  "release_date": "2017-11-10",
+  "gatherer_code": null,
+  "magic_cards_info_code": "ddt",
+  "booster": null,
+  "old_code": null,
+  "block": null,
+  "online_only": null,
+  "cards": [
+    {
+      "name": "Master of Waves",
+      "layout": "normal",
+      "mana_cost": "{3}{U}",
+      "cmc": 4,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Merfolk Wizard",
+      "supertypes": null,
+      "subtypes": [
+        "Merfolk",
+        "Wizard"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Protection from red\nElemental creatures you control get +1/+1.\nWhen Master of Waves enters the battlefield, create a number of 1/0 blue Elemental creature tokens equal to your devotion to blue. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)",
+      "flavor": null,
+      "artist": "Svetlin Velinov",
+      "number": "1",
+      "power": "2",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 438441,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "THS",
+        "DDT"
+      ],
+      "original_text": "Protection from red\nElemental creatures you control get +1/+1.\nWhen Master of Waves enters the battlefield, create a number of 1/0 blue Elemental creature tokens equal to your devotion to blue. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)",
+      "original_type": "Creature \u2014 Merfolk Wizard",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438441&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "79e4f0cff7ff3fffec262106f8fd235bbf0c33c0",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-09-15",
+          "text": "Use your devotion to blue as the triggered ability resolves to determine how many tokens are put onto the battlefield. If Master of Waves is still on the battlefield at that time, its mana cost will count toward your devotion to blue."
+        },
+        {
+          "date": "2013-09-15",
+          "text": "Barring other effects, the Elemental tokens will enter the battlefield as 2/1 creatures."
+        },
+        {
+          "date": "2013-09-15",
+          "text": "If Master of Waves leaves the battlefield, and nothing else is raising the toughness of the Elemental tokens above 0, the Elemental tokens will die and subsequently cease to exist."
+        },
+        {
+          "date": "2013-09-15",
+          "text": "Numeric mana symbols ({0}, {1}, and so on) in mana costs of permanents you control don't count toward your devotion to any color."
+        },
+        {
+          "date": "2013-09-15",
+          "text": "Mana symbols in the text boxes of permanents you control don't count toward your devotion to any color."
+        },
+        {
+          "date": "2013-09-15",
+          "text": "Hybrid mana symbols, monocolored hybrid mana symbols, and Phyrexian mana symbols do count toward your devotion to their color(s)."
+        },
+        {
+          "date": "2013-09-15",
+          "text": "If an activated ability or triggered ability has an effect that depends on your devotion to a color, you count the number of mana symbols of that color among the mana costs of permanents you control as the ability resolves. The permanent with that ability will be counted if it's still on the battlefield at that time."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u6ce2\u4f7f\u3044",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438504&type=card",
+          "language": "Japanese",
+          "multiverseid": 438504
+        }
+      ]
+    },
+    {
+      "name": "Aquitect's Will",
+      "layout": "normal",
+      "mana_cost": "{U}",
+      "cmc": 1,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Tribal Sorcery \u2014 Merfolk",
+      "supertypes": null,
+      "subtypes": [
+        "Merfolk"
+      ],
+      "types": [
+        "Tribal",
+        "Sorcery"
+      ],
+      "rarity": "Common",
+      "text": "Put a flood counter on target land. That land is an Island in addition to its other types for as long as it has a flood counter on it. If you control a Merfolk, draw a card.",
+      "flavor": "\"You may want to hold your breath.\"\n\u2014Kellyg, merrow aquitect",
+      "artist": "Dimitar",
+      "number": "2",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 438442,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LRW",
+        "DDT"
+      ],
+      "original_text": "Put a flood counter on target land. That land is an Island in addition to its other types for as long as it has a flood counter on it. If you control a Merfolk, draw a card.",
+      "original_type": "Tribal Sorcery \u2014 Merfolk",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438442&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "424c38c656582dc11a7f826281a7b531b4dca967",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u6c34\u5927\u5de5\u306e\u610f\u601d",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438505&type=card",
+          "language": "Japanese",
+          "multiverseid": 438505
+        }
+      ]
+    },
+    {
+      "name": "Claustrophobia",
+      "layout": "normal",
+      "mana_cost": "{1}{U}{U}",
+      "cmc": 3,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Enchantment \u2014 Aura",
+      "supertypes": null,
+      "subtypes": [
+        "Aura"
+      ],
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Common",
+      "text": "Enchant creature\nWhen Claustrophobia enters the battlefield, tap enchanted creature.\nEnchanted creature doesn't untap during its controller's untap step.",
+      "flavor": "Six feet of earth muffled his cries.",
+      "artist": "Ryan Pancoast",
+      "number": "3",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 438443,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ISD",
+        "M14",
+        "DDM",
+        "ORI",
+        "DDT",
+        "IMA"
+      ],
+      "original_text": "Enchant creature\nWhen Claustrophobia enters the battlefield, tap enchanted creature.\nEnchanted creature doesn't untap during its controller's untap step.",
+      "original_type": "Enchantment \u2014 Aura",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438443&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "fe530c712fdf0379dc7d088bc842309b66b93403",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2015-06-22",
+          "text": "Claustrophobia can target and enchant a tapped or untapped creature."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "The enchanted creature can still be untapped in other ways. Claustrophobia will remain attached, and the creature will continue to not untap during its controller's untap step."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u9589\u6240\u6050\u6016\u75c7",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438506&type=card",
+          "language": "Japanese",
+          "multiverseid": 438506
+        }
+      ]
+    },
+    {
+      "name": "Concentrate",
+      "layout": "normal",
+      "mana_cost": "{2}{U}{U}",
+      "cmc": 4,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Uncommon",
+      "text": "Draw three cards.",
+      "flavor": "\"The treasure in my mind is greater than any worldly glory.\"",
+      "artist": "rk post",
+      "number": "4",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 438444,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ODY",
+        "8ED",
+        "PC2",
+        "C14",
+        "PCA",
+        "DDT",
+        "E02"
+      ],
+      "original_text": "Draw three cards.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438444&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "7489b7277e8be81cbd276a55c007cd794b820cb4",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u96c6\u4e2d",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438507&type=card",
+          "language": "Japanese",
+          "multiverseid": 438507
+        }
+      ]
+    },
+    {
+      "name": "Engulf the Shore",
+      "layout": "normal",
+      "mana_cost": "{3}{U}",
+      "cmc": 4,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Rare",
+      "text": "Return to their owners' hands all creatures with toughness less than or equal to the number of Islands you control.",
+      "flavor": "\"The tides have begun to ignore the moon.\"\n\u2014Tamiyo's journal",
+      "artist": "Cliff Childs",
+      "number": "5",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 438445,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "SOI",
+        "DDT"
+      ],
+      "original_text": "Return to their owners' hands all creatures with toughness less than or equal to the number of Islands you control.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438445&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "2bd2c743bf25ca4fd213e90c2ed81fd0cfd823bf",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u5cb8\u306e\u98f2\u307f\u8fbc\u307f",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438508&type=card",
+          "language": "Japanese",
+          "multiverseid": 438508
+        }
+      ]
+    },
+    {
+      "name": "Essence Scatter",
+      "layout": "normal",
+      "mana_cost": "{1}{U}",
+      "cmc": 2,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Common",
+      "text": "Counter target creature spell.",
+      "flavor": "\"What you attempt to pull from the aether, I can spread onto the wind.\"\n\u2014Jace Beleren",
+      "artist": "Jon Foster",
+      "number": "6",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 438446,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "M10",
+        "DPA",
+        "M13",
+        "M14",
+        "AKH",
+        "DDT"
+      ],
+      "original_text": "Counter target creature spell.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438446&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "a6d555885bb35bdcfee879e5be1c2b6b132e7fbb",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2009-10-01",
+          "text": "A \"creature spell\" is any spell with the type creature, even if it has other types such as artifact or enchantment. Older cards of type summon are also creature spells."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u672c\u8cea\u306e\u6563\u4e71",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438509&type=card",
+          "language": "Japanese",
+          "multiverseid": 438509
+        }
+      ]
+    },
+    {
+      "name": "Harbinger of the Tides",
+      "layout": "normal",
+      "mana_cost": "{U}{U}",
+      "cmc": 2,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Merfolk Wizard",
+      "supertypes": null,
+      "subtypes": [
+        "Merfolk",
+        "Wizard"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": "You may cast Harbinger of the Tides as though it had flash if you pay {2} more to cast it. (You may cast it any time you could cast an instant.)\nWhen Harbinger of the Tides enters the battlefield, you may return target tapped creature an opponent controls to its owner's hand.",
+      "flavor": null,
+      "artist": "Svetlin Velinov",
+      "number": "7",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 438447,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pPRE",
+        "ORI",
+        "C17",
+        "DDT"
+      ],
+      "original_text": "You may cast Harbinger of the Tides as though it had flash if you pay {2} more to cast it. (You may cast it any time you could cast an instant.)\nWhen Harbinger of the Tides enters the battlefield, you may return target tapped creature an opponent controls to its owner's hand.",
+      "original_type": "Creature \u2014 Merfolk Wizard",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438447&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "b86c01e0694c83eab1d8908db3b940c3c1c1c32c",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u6f6e\u6d41\u306e\u5148\u99c6\u3051",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438510&type=card",
+          "language": "Japanese",
+          "multiverseid": 438510
+        }
+      ]
+    },
+    {
+      "name": "Inkfathom Divers",
+      "layout": "normal",
+      "mana_cost": "{3}{U}{U}",
+      "cmc": 5,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Merfolk Soldier",
+      "supertypes": null,
+      "subtypes": [
+        "Merfolk",
+        "Soldier"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Islandwalk (This creature can't be blocked as long as defending player controls an Island.)\nWhen Inkfathom Divers enters the battlefield, look at the top four cards of your library, then put them back in any order.",
+      "flavor": null,
+      "artist": "Steven Belledin",
+      "number": "8",
+      "power": "3",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": 438448,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LRW",
+        "DDT"
+      ],
+      "original_text": "Islandwalk (This creature can't be blocked as long as defending player controls an Island.)\nWhen Inkfathom Divers enters the battlefield, look at the top four cards of your library, then put them back in any order.",
+      "original_type": "Creature \u2014 Merfolk Soldier",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438448&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "613570169b8bdf5efa646f31bbd029ff9d907299",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u58a8\u6df1\u307f\u306e\u6f5c\u308a\u624b",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438511&type=card",
+          "language": "Japanese",
+          "multiverseid": 438511
+        }
+      ]
+    },
+    {
+      "name": "Master of the Pearl Trident",
+      "layout": "normal",
+      "mana_cost": "{U}{U}",
+      "cmc": 2,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Merfolk",
+      "supertypes": null,
+      "subtypes": [
+        "Merfolk"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": "Other Merfolk creatures you control get +1/+1 and have islandwalk. (They can't be blocked as long as defending player controls an Island.)",
+      "flavor": "\"Let the land dwellers know the coast is no longer the border between our realms. A new age of empire has begun.\"",
+      "artist": "Ryan Pancoast",
+      "number": "9",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 438449,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "M13",
+        "DDT"
+      ],
+      "original_text": "Other Merfolk creatures you control get +1/+1 and have islandwalk. (They can't be blocked as long as defending player controls an Island.)",
+      "original_type": "Creature \u2014 Merfolk",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438449&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "cadc7027d48c26246d69cd20d985d9bed893ec8a",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u771f\u73e0\u4e09\u53c9\u77db\u306e\u9054\u4eba",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438512&type=card",
+          "language": "Japanese",
+          "multiverseid": 438512
+        }
+      ]
+    },
+    {
+      "name": "Merfolk Looter",
+      "layout": "normal",
+      "mana_cost": "{1}{U}",
+      "cmc": 2,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Merfolk Rogue",
+      "supertypes": null,
+      "subtypes": [
+        "Merfolk",
+        "Rogue"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "{T}: Draw a card, then discard a card.",
+      "flavor": "Merfolk don't always know what they're looking for, but they're certain once they find it.",
+      "artist": "Austin Hsu",
+      "number": "10",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 438450,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "EXO",
+        "7ED",
+        "10E",
+        "M10",
+        "M12",
+        "TPR",
+        "EMA",
+        "CN2",
+        "DDT",
+        "A25"
+      ],
+      "original_text": "{T}: Draw a card, then discard a card.",
+      "original_type": "Creature \u2014 Merfolk Rogue",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438450&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "c2afb90e9a449a2fa8b055c516e95696af195630",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2018-03-16",
+          "text": "You can't do anything in between drawing a card and discarding a card, including casting or cycling the card you drew."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u30de\u30fc\u30d5\u30a9\u30fc\u30af\u306e\u7269\u3042\u3055\u308a",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438513&type=card",
+          "language": "Japanese",
+          "multiverseid": 438513
+        }
+      ]
+    },
+    {
+      "name": "Merfolk Sovereign",
+      "layout": "normal",
+      "mana_cost": "{1}{U}{U}",
+      "cmc": 3,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Merfolk",
+      "supertypes": null,
+      "subtypes": [
+        "Merfolk"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": "Other Merfolk creatures you control get +1/+1.\n{T}: Target Merfolk creature can't be blocked this turn.",
+      "flavor": "\"Be like the sea: flow around that which is unmovable; for everything else, crash into it unrelentingly.\"",
+      "artist": "Jesper Ejsing",
+      "number": "11",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 438451,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "M10",
+        "M11",
+        "DDT",
+        "E02"
+      ],
+      "original_text": "Other Merfolk creatures you control get +1/+1.\n{T}: Target Merfolk creature can't be blocked this turn.",
+      "original_type": "Creature \u2014 Merfolk",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438451&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "f5e60ea7a78ff6a64afefd519c6b58ceb5009c14",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2009-10-01",
+          "text": "To have any effect, Merfolk Sovereign's activated ability must be activated before the declare blockers step begins. Once a Merfolk has become blocked, activating Merfolk Sovereign's ability won't change that."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u30de\u30fc\u30d5\u30a9\u30fc\u30af\u306e\u541b\u4e3b",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438514&type=card",
+          "language": "Japanese",
+          "multiverseid": 438514
+        }
+      ]
+    },
+    {
+      "name": "Merfolk Wayfinder",
+      "layout": "normal",
+      "mana_cost": "{2}{U}",
+      "cmc": 3,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Merfolk Scout",
+      "supertypes": null,
+      "subtypes": [
+        "Merfolk",
+        "Scout"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "Flying\nWhen Merfolk Wayfinder enters the battlefield, reveal the top three cards of your library. Put all Island cards revealed this way into your hand and the rest on the bottom of your library in any order.",
+      "flavor": null,
+      "artist": "Christopher Moeller",
+      "number": "12",
+      "power": "1",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 438452,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ZEN",
+        "DDM",
+        "DDT"
+      ],
+      "original_text": "Flying\nWhen Merfolk Wayfinder enters the battlefield, reveal the top three cards of your library. Put all Island cards revealed this way into your hand and the rest on the bottom of your library in any order.",
+      "original_type": "Creature \u2014 Merfolk Scout",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438452&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "f9702973832c1db6ebcebd8da8abbdde168e6ad2",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2009-10-01",
+          "text": "If there are three or fewer cards in your library, you'll reveal all of them."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u30de\u30fc\u30d5\u30a9\u30fc\u30af\u306e\u9053\u63a2\u3057",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438515&type=card",
+          "language": "Japanese",
+          "multiverseid": 438515
+        }
+      ]
+    },
+    {
+      "name": "Merrow Reejerey",
+      "layout": "normal",
+      "mana_cost": "{2}{U}",
+      "cmc": 3,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Merfolk Soldier",
+      "supertypes": null,
+      "subtypes": [
+        "Merfolk",
+        "Soldier"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "Other Merfolk creatures you control get +1/+1.\nWhenever you cast a Merfolk spell, you may tap or untap target permanent.",
+      "flavor": "Steady and silent as the deep current, the reejerey guides the course of the school.",
+      "artist": "Greg Staples",
+      "number": "13",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 438453,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pFNM",
+        "LRW",
+        "DDT"
+      ],
+      "original_text": "Other Merfolk creatures you control get +1/+1.\nWhenever you cast a Merfolk spell, you may tap or untap target permanent.",
+      "original_type": "Creature \u2014 Merfolk Soldier",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438453&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "47c9cf3e4dc7ef41d9677f987df5d084f1699328",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u30e1\u30ed\u30a6\u306e\u9a0e\u5175",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438516&type=card",
+          "language": "Japanese",
+          "multiverseid": 438516
+        }
+      ]
+    },
+    {
+      "name": "Mind Spring",
+      "layout": "normal",
+      "mana_cost": "{X}{U}{U}",
+      "cmc": 2,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Rare",
+      "text": "Draw X cards.",
+      "flavor": "Fragments of thought refract and multiply, surging in a geyser of dizzying insight.",
+      "artist": "Mark Zug",
+      "number": "14",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 438454,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MOR",
+        "M10",
+        "DPA",
+        "DDT"
+      ],
+      "original_text": "Draw X cards.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438454&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "c4e5656a20a9fd1b2c51b5550b14e69dbcc95d71",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u601d\u8003\u306e\u6cc9",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438517&type=card",
+          "language": "Japanese",
+          "multiverseid": 438517
+        }
+      ]
+    },
+    {
+      "name": "Misdirection",
+      "layout": "normal",
+      "mana_cost": "{3}{U}{U}",
+      "cmc": 5,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Rare",
+      "text": "You may exile a blue card from your hand rather than pay this spell's mana cost.\nChange the target of target spell with a single target.",
+      "flavor": null,
+      "artist": "Mathias Kollros",
+      "number": "15",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 438455,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MMQ",
+        "CNS",
+        "DDT"
+      ],
+      "original_text": "You may exile a blue card from your hand rather than pay Misdirection's mana cost.\nChange the target of target spell with a single target.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438455&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "a19bc8d56f838b3773d9c53e9125ae4fe32e5f82",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "Once the spell resolves, the new target is considered to be targeted by the deflected spell. This will trigger any effects which trigger on being targeted."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "This only targets the spell being changed, not the original or new target of the spell it is affecting."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "The target of a spell that targets another spell on the stack can be changed to any other spell on the stack, even if the new target will resolve before the spell does."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "You can't make a spell which is on the stack target itself."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "You can choose to make a spell on the stack target this spell (if such a target choice would be legal had the spell been cast while this spell was on the stack). The new target for the deflected spell is not chosen until this spell resolves. This spell is still on the stack when new targets are selected for the spell."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "If there is no other legal target for the spell, this does not change the target."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "This does not check if the current target is legal. It just checks if the spell has a single target."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "You choose the spell to target on announcement, but you pick the new target for that spell on resolution."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u8aa4\u3063\u305f\u6307\u56f3",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438518&type=card",
+          "language": "Japanese",
+          "multiverseid": 438518
+        }
+      ]
+    },
+    {
+      "name": "Rootwater Hunter",
+      "layout": "normal",
+      "mana_cost": "{2}{U}",
+      "cmc": 3,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Merfolk",
+      "supertypes": null,
+      "subtypes": [
+        "Merfolk"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "{T}: Rootwater Hunter deals 1 damage to any target.",
+      "flavor": "\"Bitter water, vicious wave;\nShadow-cold shallows, root-made maze.\nHome's angry embrace.\"\n\u2014Rootwater Saga",
+      "artist": "Brom",
+      "number": "16",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 438456,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "TMP",
+        "TPR",
+        "DDT"
+      ],
+      "original_text": "{T}: Rootwater Hunter deals 1 damage to target creature or player.",
+      "original_type": "Creature \u2014 Merfolk",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438456&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "d2c8b259efd0321d317360346dfc51886f21cabc",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u30eb\u30fc\u30c8\u30a6\u30a9\u30fc\u30bf\u30fc\u306e\u30cf\u30f3\u30bf\u30fc",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438519&type=card",
+          "language": "Japanese",
+          "multiverseid": 438519
+        }
+      ]
+    },
+    {
+      "name": "Scroll Thief",
+      "layout": "normal",
+      "mana_cost": "{2}{U}",
+      "cmc": 3,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Merfolk Rogue",
+      "supertypes": null,
+      "subtypes": [
+        "Merfolk",
+        "Rogue"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Whenever Scroll Thief deals combat damage to a player, draw a card.",
+      "flavor": "Kapsho merfolk have infiltrated fortresses as remote as the desert citadel in Sunari in their relentless quest for arcane knowledge.",
+      "artist": "Alex Horley-Orlandelli",
+      "number": "17",
+      "power": "1",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": 438457,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "M11",
+        "DDI",
+        "M13",
+        "M14",
+        "DDT"
+      ],
+      "original_text": "Whenever Scroll Thief deals combat damage to a player, draw a card.",
+      "original_type": "Creature \u2014 Merfolk Rogue",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438457&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "9d701d70380742b7e465d589157c1904d70e094a",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2010-08-15",
+          "text": "The ability triggers just once each time Scroll Thief deals combat damage to a player, regardless of how much damage it deals."
+        },
+        {
+          "date": "2010-08-15",
+          "text": "The ability is mandatory. You must draw a card when it resolves."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u5dfb\u7269\u6ce5\u68d2",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438520&type=card",
+          "language": "Japanese",
+          "multiverseid": 438520
+        }
+      ]
+    },
+    {
+      "name": "Streambed Aquitects",
+      "layout": "normal",
+      "mana_cost": "{1}{U}{U}",
+      "cmc": 3,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Merfolk Scout",
+      "supertypes": null,
+      "subtypes": [
+        "Merfolk",
+        "Scout"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "{T}: Target Merfolk creature gets +1/+1 and gains islandwalk until end of turn. (It can't be blocked as long as defending player controls an Island.)\n{T}: Target land becomes an Island until end of turn.",
+      "flavor": null,
+      "artist": "William O'Connor",
+      "number": "18",
+      "power": "2",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": 438458,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LRW",
+        "DDT"
+      ],
+      "original_text": "{T}: Target Merfolk creature gets +1/+1 and gains islandwalk until end of turn. (It can't be blocked as long as defending player controls an Island.)\n{T}: Target land becomes an Island until end of turn.",
+      "original_type": "Creature \u2014 Merfolk Scout",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438458&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "811aa94e21a2b32d7a8d89a919fd66c46b4e20cf",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u5ddd\u5e8a\u306e\u6c34\u5927\u5de5",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438521&type=card",
+          "language": "Japanese",
+          "multiverseid": 438521
+        }
+      ]
+    },
+    {
+      "name": "Tidal Courier",
+      "layout": "normal",
+      "mana_cost": "{3}{U}",
+      "cmc": 4,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Merfolk",
+      "supertypes": null,
+      "subtypes": [
+        "Merfolk"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "When Tidal Courier enters the battlefield, reveal the top four cards of your library. Put all Merfolk cards revealed this way into your hand and the rest on the bottom of your library in any order.\n{3}{U}: Tidal Courier gains flying until end of turn.",
+      "flavor": null,
+      "artist": "Slawomir Maniak",
+      "number": "19",
+      "power": "1",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 438459,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "APC",
+        "DDT"
+      ],
+      "original_text": "When Tidal Courier enters the battlefield, reveal the top four cards of your library. Put all Merfolk cards revealed this way into your hand and the rest on the bottom of your library in any order.\n{3}{U}: Tidal Courier gains flying until end of turn.",
+      "original_type": "Creature \u2014 Merfolk",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438459&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "596d0b90cd8912195db41bb6d3345a1665c43c95",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u9ad8\u6f6e\u306e\u6025\u4f7f",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438522&type=card",
+          "language": "Japanese",
+          "multiverseid": 438522
+        }
+      ]
+    },
+    {
+      "name": "Tidal Warrior",
+      "layout": "normal",
+      "mana_cost": "{U}",
+      "cmc": 1,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Merfolk Warrior",
+      "supertypes": null,
+      "subtypes": [
+        "Merfolk",
+        "Warrior"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "{T}: Target land becomes an Island until end of turn.",
+      "flavor": "The tide of battle favors those who can swim.",
+      "artist": "Daren Bader",
+      "number": "20",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 438460,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "STH",
+        "DDT"
+      ],
+      "original_text": "{T}: Target land becomes an Island until end of turn.",
+      "original_type": "Creature \u2014 Merfolk Warrior",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438460&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "88e89542015acd9cb8b721f39c5deed9053e40a3",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u9ad8\u6f6e\u306e\u6226\u58eb",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438523&type=card",
+          "language": "Japanese",
+          "multiverseid": 438523
+        }
+      ]
+    },
+    {
+      "name": "Tidal Wave",
+      "layout": "normal",
+      "mana_cost": "{2}{U}",
+      "cmc": 3,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Common",
+      "text": "Create a 5/5 blue Wall creature token with defender. Sacrifice it at the beginning of the next end step.",
+      "flavor": "\"The floor of the sea is paved with the shattered remnants of vessels that navigated its surface unwelcomed.\"\n\u2014Thassa, god of the sea",
+      "artist": "Brian Sn\u00f5ddy",
+      "number": "21",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 438461,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MIR",
+        "EMA",
+        "DDT"
+      ],
+      "original_text": "Create a 5/5 blue Wall creature token with defender. Sacrifice it at the beginning of the next end step.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438461&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "5e266aabc1e6226b4275292cf16b18e981bb229a",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u9ad8\u6ce2",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438524&type=card",
+          "language": "Japanese",
+          "multiverseid": 438524
+        }
+      ]
+    },
+    {
+      "name": "Tidebinder Mage",
+      "layout": "normal",
+      "mana_cost": "{U}{U}",
+      "cmc": 2,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Merfolk Wizard",
+      "supertypes": null,
+      "subtypes": [
+        "Merfolk",
+        "Wizard"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": "When Tidebinder Mage enters the battlefield, tap target red or green creature an opponent controls. That creature doesn't untap during its controller's untap step for as long as you control Tidebinder Mage.",
+      "flavor": null,
+      "artist": "John Severin Brassell",
+      "number": "22",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 438462,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "M14",
+        "DDT"
+      ],
+      "original_text": "When Tidebinder Mage enters the battlefield, tap target red or green creature an opponent controls. That creature doesn't untap during its controller's untap step for as long as you control Tidebinder Mage.",
+      "original_type": "Creature \u2014 Merfolk Wizard",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438462&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "fdca7b71a105e086f70b1921da03f5ecdafff6fe",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-07-01",
+          "text": "If you lose control of Tidebinder Mage between when it entered the battlefield and when the ability resolves, the target creature will become tapped. However, it won't be affected by the other effect and will untap as normal during its controller's untap step."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "If another player gains control of Tidebinder Mage, the creature will no longer be affected by the ability preventing it from untapping, even if you later regain control of Tidebinder Mage."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "If you gain control of the creature that's being prevented from untapping, that creature won't untap during your untap step for as long as you control Tidebinder Mage."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "The ability can target a tapped creature. If the targeted creature is already tapped when it resolves, that creature just remains tapped and doesn't untap during its controller's next untap step."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u6f6e\u7e1b\u308a\u306e\u9b54\u9053\u58eb",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438525&type=card",
+          "language": "Japanese",
+          "multiverseid": 438525
+        }
+      ]
+    },
+    {
+      "name": "Triton Tactics",
+      "layout": "normal",
+      "mana_cost": "{U}",
+      "cmc": 1,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Uncommon",
+      "text": "Up to two target creatures each get +0/+3 until end of turn. Untap those creatures. At this turn's next end of combat, tap each creature that was blocked by one of those creatures this turn and it doesn't untap during its controller's next untap step.",
+      "flavor": null,
+      "artist": "Jack Wang",
+      "number": "23",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 438463,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "THS",
+        "DDT"
+      ],
+      "original_text": "Up to two target creatures each get +0/+3 until end of turn. Untap those creatures. At this turn's next end of combat, tap each creature that was blocked by one of those creatures this turn and it doesn't untap during its controller's next untap step.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438463&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "c9a5a387f8e7b6138b9fd9d22e5eb8ff4f1532c1",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u30c8\u30ea\u30c8\u30f3\u306e\u6226\u8853",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438526&type=card",
+          "language": "Japanese",
+          "multiverseid": 438526
+        }
+      ]
+    },
+    {
+      "name": "Wake Thrasher",
+      "layout": "normal",
+      "mana_cost": "{2}{U}",
+      "cmc": 3,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Merfolk Soldier",
+      "supertypes": null,
+      "subtypes": [
+        "Merfolk",
+        "Soldier"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": "Whenever a permanent you control becomes untapped, Wake Thrasher gets +1/+1 until end of turn.",
+      "flavor": "Anyone who thinks merrows have more brains than brawn has never been run over by one.",
+      "artist": "Jesper Ejsing",
+      "number": "24",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 438464,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "EVE",
+        "DDT"
+      ],
+      "original_text": "Whenever a permanent you control becomes untapped, Wake Thrasher gets +1/+1 until end of turn.",
+      "original_type": "Creature \u2014 Merfolk Soldier",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438464&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "da11ea9bbc6b7a743ba1a3b3a4b89591dbcaee73",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-08-01",
+          "text": "If permanents you control become untapped during your untap step, Wake Thresher's ability will trigger that many times. However, since no player gets priority during the untap step, those abilities wait to be put on the stack until your upkeep starts. At that time, all your \"beginning of upkeep\" triggers will also trigger. You can put them and Wake Thresher's abilities on the stack in any order."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u822a\u8de1\u306e\u6253\u7834\u8005",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438527&type=card",
+          "language": "Japanese",
+          "multiverseid": 438527
+        }
+      ]
+    },
+    {
+      "name": "Cold-Eyed Selkie",
+      "layout": "normal",
+      "mana_cost": "{1}{G/U}{G/U}",
+      "cmc": 3,
+      "colors": [
+        "Blue",
+        "Green"
+      ],
+      "color_identity": [
+        "U",
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Merfolk Rogue",
+      "supertypes": null,
+      "subtypes": [
+        "Merfolk",
+        "Rogue"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": "Islandwalk (This creature can't be blocked as long as defending player controls an Island.)\nWhenever Cold-Eyed Selkie deals combat damage to a player, you may draw that many cards.",
+      "flavor": "She follows the old tributaries built when merrows still shaped the tides.",
+      "artist": "Jaime Jones",
+      "number": "25",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 438465,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "EVE",
+        "MMA",
+        "C15",
+        "DDT"
+      ],
+      "original_text": "Islandwalk (This creature can't be blocked as long as defending player controls an Island.)\nWhenever Cold-Eyed Selkie deals combat damage to a player, you may draw that many cards.",
+      "original_type": "Creature \u2014 Merfolk Rogue",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438465&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "60f3ebb92000d53fa5f84408f68e4ef922e9ceae",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u51b7\u6de1\u306a\u30bb\u30eb\u30ad\u30fc",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438528&type=card",
+          "language": "Japanese",
+          "multiverseid": 438528
+        }
+      ]
+    },
+    {
+      "name": "Blighted Cataract",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Land",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Uncommon",
+      "text": "{T}: Add {C}.\n{5}{U}, {T}, Sacrifice Blighted Cataract: Draw two cards.",
+      "flavor": "Once, water ran here. Now only dust and ash fall from the clifftops.",
+      "artist": "Vincent Proce",
+      "number": "26",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 438466,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "BFZ",
+        "DDT"
+      ],
+      "original_text": "{T}: Add {C} to your mana pool.\n{5}{U}, {T}, Sacrifice Blighted Cataract: Draw two cards.",
+      "original_type": "Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438466&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "7e5f5a2b73207e2867997278312d64abd3bbb5d8",
+      "legalities": [
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u8352\u5ec3\u3057\u305f\u7011\u5e03",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438529&type=card",
+          "language": "Japanese",
+          "multiverseid": 438529
+        }
+      ]
+    },
+    {
+      "name": "Lonely Sandbar",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Land",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Common",
+      "text": "Lonely Sandbar enters the battlefield tapped.\n{T}: Add {U}.\nCycling {U} ({U}, Discard this card: Draw a card.)",
+      "flavor": null,
+      "artist": "Noah Bradley",
+      "number": "27",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 438467,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ONS",
+        "CMD",
+        "DDJ",
+        "C13",
+        "VMA",
+        "C14",
+        "DDT"
+      ],
+      "original_text": "Lonely Sandbar enters the battlefield tapped.\n{T}: Add {U} to your mana pool.\nCycling {U} ({U}, Discard this card: Draw a card.)",
+      "original_type": "Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438467&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "859ba7f8e09921a0a960b5c93d0cafc862ca27e2",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-10-01",
+          "text": "Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u5b64\u7acb\u3057\u305f\u7802\u5dde",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438530&type=card",
+          "language": "Japanese",
+          "multiverseid": 438530
+        }
+      ]
+    },
+    {
+      "name": "Island",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Island",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Island"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Rob Alexander",
+      "number": "28",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 438468,
+      "variations": [
+        438469,
+        438470,
+        438471
+      ],
+      "watermark": "Blue",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DD2",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "DDF",
+        "SOM",
+        "MBS",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "M14",
+        "THS",
+        "C13",
+        "DDM",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_JVC",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "DDT",
+        "UST",
+        "RIX",
+        "DDU",
+        "DOM"
+      ],
+      "original_text": "U",
+      "original_type": "Basic Land \u2014 Island",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438468&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "b3a41527969d46abb00ae2af610718ee1fbf97d5",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u5cf6",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438531&type=card",
+          "language": "Japanese",
+          "multiverseid": 438531
+        },
+        {
+          "name": "\u5cf6",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438532&type=card",
+          "language": "Japanese",
+          "multiverseid": 438532
+        },
+        {
+          "name": "\u5cf6",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438533&type=card",
+          "language": "Japanese",
+          "multiverseid": 438533
+        },
+        {
+          "name": "\u5cf6",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438534&type=card",
+          "language": "Japanese",
+          "multiverseid": 438534
+        }
+      ]
+    },
+    {
+      "name": "Island",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Island",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Island"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Steven Belledin",
+      "number": "29",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 438469,
+      "variations": [
+        438468,
+        438470,
+        438471
+      ],
+      "watermark": "Blue",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DD2",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "DDF",
+        "SOM",
+        "MBS",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "M14",
+        "THS",
+        "C13",
+        "DDM",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_JVC",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "DDT",
+        "UST",
+        "RIX",
+        "DDU",
+        "DOM"
+      ],
+      "original_text": "U",
+      "original_type": "Basic Land \u2014 Island",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438469&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "42f2ff9b8a6b0cc068fa57ccadb7cfd190574636",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u5cf6",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438531&type=card",
+          "language": "Japanese",
+          "multiverseid": 438531
+        },
+        {
+          "name": "\u5cf6",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438532&type=card",
+          "language": "Japanese",
+          "multiverseid": 438532
+        },
+        {
+          "name": "\u5cf6",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438533&type=card",
+          "language": "Japanese",
+          "multiverseid": 438533
+        },
+        {
+          "name": "\u5cf6",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438534&type=card",
+          "language": "Japanese",
+          "multiverseid": 438534
+        }
+      ]
+    },
+    {
+      "name": "Island",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Island",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Island"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Martina Pilcerova",
+      "number": "30",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 438470,
+      "variations": [
+        438468,
+        438469,
+        438471
+      ],
+      "watermark": "Blue",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DD2",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "DDF",
+        "SOM",
+        "MBS",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "M14",
+        "THS",
+        "C13",
+        "DDM",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_JVC",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "DDT",
+        "UST",
+        "RIX",
+        "DDU",
+        "DOM"
+      ],
+      "original_text": "U",
+      "original_type": "Basic Land \u2014 Island",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438470&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "dfdf0d7bb85288330e9373daa27311cfeb895ce1",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u5cf6",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438531&type=card",
+          "language": "Japanese",
+          "multiverseid": 438531
+        },
+        {
+          "name": "\u5cf6",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438532&type=card",
+          "language": "Japanese",
+          "multiverseid": 438532
+        },
+        {
+          "name": "\u5cf6",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438533&type=card",
+          "language": "Japanese",
+          "multiverseid": 438533
+        },
+        {
+          "name": "\u5cf6",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438534&type=card",
+          "language": "Japanese",
+          "multiverseid": 438534
+        }
+      ]
+    },
+    {
+      "name": "Island",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Island",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Island"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Raoul Vitale",
+      "number": "31",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 438471,
+      "variations": [
+        438468,
+        438469,
+        438470
+      ],
+      "watermark": "Blue",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DD2",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "DDF",
+        "SOM",
+        "MBS",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "M14",
+        "THS",
+        "C13",
+        "DDM",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_JVC",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "DDT",
+        "UST",
+        "RIX",
+        "DDU",
+        "DOM"
+      ],
+      "original_text": "U",
+      "original_type": "Basic Land \u2014 Island",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438471&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "12801f0b891559e347cc3e5968e5bf23be3833c5",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u5cf6",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438531&type=card",
+          "language": "Japanese",
+          "multiverseid": 438531
+        },
+        {
+          "name": "\u5cf6",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438532&type=card",
+          "language": "Japanese",
+          "multiverseid": 438532
+        },
+        {
+          "name": "\u5cf6",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438533&type=card",
+          "language": "Japanese",
+          "multiverseid": 438533
+        },
+        {
+          "name": "\u5cf6",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438534&type=card",
+          "language": "Japanese",
+          "multiverseid": 438534
+        }
+      ]
+    },
+    {
+      "name": "Warren Instigator",
+      "layout": "normal",
+      "mana_cost": "{R}{R}",
+      "cmc": 2,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Goblin Berserker",
+      "supertypes": null,
+      "subtypes": [
+        "Goblin",
+        "Berserker"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Double strike\nWhenever Warren Instigator deals damage to an opponent, you may put a Goblin creature card from your hand onto the battlefield.",
+      "flavor": "There is always a rabble to be roused.",
+      "artist": "Svetlin Velinov",
+      "number": "32",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 438472,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ZEN",
+        "DDT"
+      ],
+      "original_text": "Double strike\nWhenever Warren Instigator deals damage to an opponent, you may put a Goblin creature card from your hand onto the battlefield.",
+      "original_type": "Creature \u2014 Goblin Berserker",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438472&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "fd87ed00596d21fd02989e6a22b835d34a1e1d59",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2009-10-01",
+          "text": "Warren Instigator's ability triggers when it deals any kind of damage to an opponent, not just combat damage."
+        },
+        {
+          "date": "2009-10-01",
+          "text": "If Warren Instigator attacks an opponent and isn't blocked, its double strike ability will cause it to deal combat damage to that opponent twice, once during each combat damage step. Its triggered ability will thus trigger twice: Warren Instigator deals first-strike combat damage, its ability triggers and resolves, it deals regular combat damage, and its ability triggers and resolves again."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u5de3\u7a74\u306e\u717d\u52d5\u8005",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438535&type=card",
+          "language": "Japanese",
+          "multiverseid": 438535
+        }
+      ]
+    },
+    {
+      "name": "Battle Squadron",
+      "layout": "normal",
+      "mana_cost": "{3}{R}{R}",
+      "cmc": 5,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Goblin",
+      "supertypes": null,
+      "subtypes": [
+        "Goblin"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "Flying\nBattle Squadron's power and toughness are each equal to the number of creatures you control.",
+      "flavor": "The goblins made an unruly pile with military precision.",
+      "artist": "Mark Tedin",
+      "number": "33",
+      "power": "*",
+      "toughness": "*",
+      "loyalty": null,
+      "multiverse_id": 438473,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MMQ",
+        "EMA",
+        "DDT"
+      ],
+      "original_text": "Flying\nBattle Squadron's power and toughness are each equal to the number of creatures you control.",
+      "original_type": "Creature \u2014 Goblin",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438473&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "5a974818c2713c3caa4de5b583c4fb0362287b2a",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2016-06-08",
+          "text": "Battle Squadron's last ability applies in all zones. While it's on the battlefield, it counts itself, so it'll be at least 1/1."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u6226\u95d8\u98db\u7fd4\u8247\u968a",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438536&type=card",
+          "language": "Japanese",
+          "multiverseid": 438536
+        }
+      ]
+    },
+    {
+      "name": "Boggart Brute",
+      "layout": "normal",
+      "mana_cost": "{2}{R}",
+      "cmc": 3,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Goblin Warrior",
+      "supertypes": null,
+      "subtypes": [
+        "Goblin",
+        "Warrior"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Menace (This creature can't be blocked except by two or more creatures.)",
+      "flavor": "He has the biggest bashing stick, so it's a safe bet he's the leader.",
+      "artist": "Igor Kieryluk",
+      "number": "34",
+      "power": "3",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 438474,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ORI",
+        "DDT"
+      ],
+      "original_text": "Menace (This creature can't be blocked except by two or more creatures.)",
+      "original_type": "Creature \u2014 Goblin Warrior",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438474&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "7a7505ac77b4f07351f2fa4c11e6fad01f1a3682",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2015-06-22",
+          "text": "Once an attacking creature with menace is legally blocked by two or more creatures, removing one or more of those blockers from combat won't change or undo that block."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u30dc\u30ac\u30fc\u30c8\u306e\u7c97\u66b4\u8005",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438537&type=card",
+          "language": "Japanese",
+          "multiverseid": 438537
+        }
+      ]
+    },
+    {
+      "name": "Brute Strength",
+      "layout": "normal",
+      "mana_cost": "{1}{R}",
+      "cmc": 2,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Common",
+      "text": "Target creature gets +3/+1 and gains trample until end of turn.",
+      "flavor": "It's not the size of the rock. It's how badly you want to lift it.",
+      "artist": "Wayne Reynolds",
+      "number": "35",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 438475,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "OGW",
+        "AKH",
+        "DDT"
+      ],
+      "original_text": "Target creature gets +3/+1 and gains trample until end of turn.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438475&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "95f9d35656e5027f99dae3ca7292c1814d7b581c",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u51f6\u66b4\u306a\u529b",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438538&type=card",
+          "language": "Japanese",
+          "multiverseid": 438538
+        }
+      ]
+    },
+    {
+      "name": "Cleaver Riot",
+      "layout": "normal",
+      "mana_cost": "{4}{R}",
+      "cmc": 5,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Uncommon",
+      "text": "Creatures you control gain double strike until end of turn. (They deal both first-strike and regular combat damage.)",
+      "flavor": "Measure once, cut twice.",
+      "artist": "Dave Kendall",
+      "number": "36",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 438476,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "M13",
+        "DDT"
+      ],
+      "original_text": "Creatures you control gain double strike until end of turn.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438476&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "946fda4b6fb8d4089c4056a69850b503e66b8923",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2012-07-01",
+          "text": "Cleaver Riot affects only creatures you control at the time it resolves. It won't affect creatures that come under your control later in the turn."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u5927\u9248\u66b4\u52d5",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438539&type=card",
+          "language": "Japanese",
+          "multiverseid": 438539
+        }
+      ]
+    },
+    {
+      "name": "Ember Hauler",
+      "layout": "normal",
+      "mana_cost": "{R}{R}",
+      "cmc": 2,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Goblin",
+      "supertypes": null,
+      "subtypes": [
+        "Goblin"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "{1}, Sacrifice Ember Hauler: Ember Hauler deals 2 damage to any target.",
+      "flavor": "Flurk's crude goblin language didn't differentiate between \"I bring the flame\" and \"I am the flame.\"",
+      "artist": "Steve Prescott",
+      "number": "37",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 438477,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "M11",
+        "DDT"
+      ],
+      "original_text": "{1}, Sacrifice Ember Hauler: Ember Hauler deals 2 damage to target creature or player.",
+      "original_type": "Creature \u2014 Goblin",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438477&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "c56700078a7c0ff8bce5fc3ceb4d0b3eb71a13f4",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u71c3\u3048\u3055\u3057\u904b\u3073",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438540&type=card",
+          "language": "Japanese",
+          "multiverseid": 438540
+        }
+      ]
+    },
+    {
+      "name": "Foundry Street Denizen",
+      "layout": "normal",
+      "mana_cost": "{R}",
+      "cmc": 1,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Goblin Warrior",
+      "supertypes": null,
+      "subtypes": [
+        "Goblin",
+        "Warrior"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Whenever another red creature enters the battlefield under your control, Foundry Street Denizen gets +1/+0 until end of turn.",
+      "flavor": "After the Foundry Street riot, Arrester Hulbein tried to ban bludgeons. Which, inevitably, resulted in another riot.",
+      "artist": "Raoul Vitale",
+      "number": "38",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 438478,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "GTC",
+        "M15",
+        "DDT"
+      ],
+      "original_text": "Whenever another red creature enters the battlefield under your control, Foundry Street Denizen gets +1/+0 until end of turn.",
+      "original_type": "Creature \u2014 Goblin Warrior",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438478&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "9567d945358ab1aedf9306dae50ae4e2f420b4b3",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u92f3\u9020\u6240\u901a\u308a\u306e\u4f4f\u4eba",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438541&type=card",
+          "language": "Japanese",
+          "multiverseid": 438541
+        }
+      ]
+    },
+    {
+      "name": "Gempalm Incinerator",
+      "layout": "normal",
+      "mana_cost": "{2}{R}",
+      "cmc": 3,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Goblin",
+      "supertypes": null,
+      "subtypes": [
+        "Goblin"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "Cycling {1}{R} ({1}{R}, Discard this card: Draw a card.)\nWhen you cycle Gempalm Incinerator, you may have it deal X damage to target creature, where X is the number of Goblins on the battlefield.",
+      "flavor": null,
+      "artist": "Mark Behm",
+      "number": "39",
+      "power": "2",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 438479,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LGN",
+        "EVG",
+        "DD3_EVG",
+        "DDT"
+      ],
+      "original_text": "Cycling {1}{R} ({1}{R}, Discard this card: Draw a card.)\nWhen you cycle Gempalm Incinerator, you may have it deal X damage to target creature, where X is the number of Goblins on the battlefield.",
+      "original_type": "Creature \u2014 Goblin",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438479&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "9551c41e7bb07248ea1b3c8939e27b5fd4f0aba7",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "The target of the ability can't be a creature with Protection from Creatures, with Protection from Goblins, or with Protection from Red."
+        },
+        {
+          "date": "2008-10-01",
+          "text": "Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not."
+        },
+        {
+          "date": "2008-10-01",
+          "text": "When you cycle this card, first the cycling ability goes on the stack, then the triggered ability goes on the stack on top of it. The triggered ability will resolve before you draw a card from the cycling ability."
+        },
+        {
+          "date": "2008-10-01",
+          "text": "The cycling ability and the triggered ability are separate. If the triggered ability doesn't resolve (due to being countered with Stifle, for example, or if all its targets have become illegal), the cycling ability will still resolve and you'll draw a card."
+        },
+        {
+          "date": "2008-10-01",
+          "text": "You can cycle this card even if there are no targets for the triggered ability. That's because the cycling ability itself has no targets."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u5b9d\u77f3\u306e\u624b\u306e\u713c\u5374\u8005",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438542&type=card",
+          "language": "Japanese",
+          "multiverseid": 438542
+        }
+      ]
+    },
+    {
+      "name": "Ghostfire",
+      "layout": "normal",
+      "mana_cost": "{2}{R}",
+      "cmc": 3,
+      "colors": null,
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Common",
+      "text": "Ghostfire is colorless.\nGhostfire deals 3 damage to any target.",
+      "flavor": "Only those gifted with the eye of Ugin, the spirit dragon, can see his fiery breath.",
+      "artist": "Cyril Van Der Haegen",
+      "number": "40",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 438480,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "FUT",
+        "DDG",
+        "DDT"
+      ],
+      "original_text": "Ghostfire is colorless.\nGhostfire deals 3 damage to target creature or player.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438480&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "524f3f2e17e78b8084fbdd52a6d87593d69c5fca",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2007-05-01",
+          "text": "Ghostfire is colorless in all zones. Its damage comes from a colorless source."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u5e7d\u970a\u706b",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438543&type=card",
+          "language": "Japanese",
+          "multiverseid": 438543
+        }
+      ]
+    },
+    {
+      "name": "Goblin Chieftain",
+      "layout": "normal",
+      "mana_cost": "{1}{R}{R}",
+      "cmc": 3,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Goblin",
+      "supertypes": null,
+      "subtypes": [
+        "Goblin"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": "Haste (This creature can attack and {T} as soon as it comes under your control.)\nOther Goblin creatures you control get +1/+1 and have haste.",
+      "flavor": "\"It's time for the 'Smash, Smash' song!\"",
+      "artist": "Sam Wood",
+      "number": "41",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 438481,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "M10",
+        "M11",
+        "M12",
+        "DDT"
+      ],
+      "original_text": "Haste\nOther Goblin creatures you control get +1/+1 and have haste.",
+      "original_type": "Creature \u2014 Goblin",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438481&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "115dfa31e80efaa25aa7a88f84e24bb22845aa07",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u30b4\u30d6\u30ea\u30f3\u306e\u914b\u9577",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438544&type=card",
+          "language": "Japanese",
+          "multiverseid": 438544
+        }
+      ]
+    },
+    {
+      "name": "Goblin Diplomats",
+      "layout": "normal",
+      "mana_cost": "{1}{R}",
+      "cmc": 2,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Goblin",
+      "supertypes": null,
+      "subtypes": [
+        "Goblin"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": "{T}: Each creature attacks this turn if able.",
+      "flavor": "When you need to convey that special kind of message.",
+      "artist": "Izzy",
+      "number": "42",
+      "power": "2",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 438482,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pMGD",
+        "M14",
+        "DDT"
+      ],
+      "original_text": "{T}: Each creature attacks this turn if able.",
+      "original_type": "Creature \u2014 Goblin",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438482&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "62bcd50596df44c7b85965feb914e35617e45ecb",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-07-01",
+          "text": "The controller of each creature still decides which player or planeswalker that creature attacks."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "Creatures that enter the battlefield (or noncreature permanents that become creatures) after the ability resolves are affected by the ability and must attack if able."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "If, during a player's declare attackers step, a creature is tapped, is affected by a spell or ability that says it can't attack, or hasn't been under that player's control continuously since the turn began (and doesn't have haste), then it doesn't attack. If there's a cost associated with having a creature attack, the player isn't forced to pay that cost, so it doesn't have to attack in that case either."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u30b4\u30d6\u30ea\u30f3\u306e\u5916\u4ea4\u5b98",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438545&type=card",
+          "language": "Japanese",
+          "multiverseid": 438545
+        }
+      ]
+    },
+    {
+      "name": "Goblin Glory Chaser",
+      "layout": "normal",
+      "mana_cost": "{R}",
+      "cmc": 1,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Goblin Warrior",
+      "supertypes": null,
+      "subtypes": [
+        "Goblin",
+        "Warrior"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)\nAs long as Goblin Glory Chaser is renowned, it has menace. (It can't be blocked except by two or more creatures.)",
+      "flavor": null,
+      "artist": "Greg Staples",
+      "number": "43",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 438483,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ORI",
+        "DDT"
+      ],
+      "original_text": "Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)\nAs long as Goblin Glory Chaser is renowned, it has menace. (It can't be blocked except by two or more creatures.)",
+      "original_type": "Creature \u2014 Goblin Warrior",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438483&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "e8c77d61daaa1700e979f021c2802c985d1bff78",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2015-06-22",
+          "text": "Renown won't trigger when a creature deals combat damage to a planeswalker or another creature. It also won't trigger when a creature deals noncombat damage to a player."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "If a creature with renown deals combat damage to its controller because that damage was redirected, renown will trigger."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "If a renown ability triggers, but the creature leaves the battlefield before that ability resolves, the creature doesn't become renowned. Any ability that triggers \"whenever a creature becomes renowned\" won't trigger."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "Once an attacking creature with menace is legally blocked by two or more creatures, removing one or more of those blockers from combat won't change or undo that block."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u30b4\u30d6\u30ea\u30f3\u306e\u6804\u5149\u8ffd\u3044",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438546&type=card",
+          "language": "Japanese",
+          "multiverseid": 438546
+        }
+      ]
+    },
+    {
+      "name": "Goblin Goon",
+      "layout": "normal",
+      "mana_cost": "{3}{R}",
+      "cmc": 4,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Goblin Mutant",
+      "supertypes": null,
+      "subtypes": [
+        "Goblin",
+        "Mutant"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": "Goblin Goon can't attack unless you control more creatures than defending player.\nGoblin Goon can't block unless you control more creatures than attacking player.",
+      "flavor": null,
+      "artist": "Steve Prescott",
+      "number": "44",
+      "power": "6",
+      "toughness": "6",
+      "loyalty": null,
+      "multiverse_id": 438484,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LGN",
+        "VMA",
+        "DDT"
+      ],
+      "original_text": "Goblin Goon can't attack unless you control more creatures than defending player.\nGoblin Goon can't block unless you control more creatures than attacking player.",
+      "original_type": "Creature \u2014 Goblin Mutant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438484&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "2b126ca4db8b77a2c8d2e6d09cf6ce5bf5f5cf76",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u30b4\u30d6\u30ea\u30f3\u306e\u3046\u3059\u306e\u308d",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438547&type=card",
+          "language": "Japanese",
+          "multiverseid": 438547
+        }
+      ]
+    },
+    {
+      "name": "Goblin Grenade",
+      "layout": "normal",
+      "mana_cost": "{R}",
+      "cmc": 1,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Uncommon",
+      "text": "As an additional cost to cast this spell, sacrifice a Goblin.\nGoblin Grenade deals 5 damage to any target.",
+      "flavor": "Don't underestimate the aerodynamic qualities of the common goblin.",
+      "artist": "Kev Walker",
+      "number": "45",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 438485,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "FEM",
+        "ATH",
+        "MED",
+        "M12",
+        "DDT"
+      ],
+      "original_text": "As an additional cost to cast Goblin Grenade, sacrifice a Goblin.\nGoblin Grenade deals 5 damage to target creature or player.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438485&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "7c31cbd733382677a9d04f1b4f89385cb5b2f895",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "You can't sacrifice more than one Goblin to get a greater effect."
+        },
+        {
+          "date": "2011-09-22",
+          "text": "Players can only respond once Goblin Grenade has been cast and all its costs have been paid. No one can try and destroy the Goblin to prevent you from casting Goblin Grenade."
+        },
+        {
+          "date": "2011-09-22",
+          "text": "The Goblin you sacrifice to cast Goblin Grenade doesn't have to be a creature. For example, you could sacrifice Boggart Shenanigans (a tribal enchantment with the subtype Goblin)."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u30b4\u30d6\u30ea\u30f3\u306e\u624b\u6295\u3052\u5f3e",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438548&type=card",
+          "language": "Japanese",
+          "multiverseid": 438548
+        }
+      ]
+    },
+    {
+      "name": "Goblin Rabblemaster",
+      "layout": "normal",
+      "mana_cost": "{2}{R}",
+      "cmc": 3,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Goblin Warrior",
+      "supertypes": null,
+      "subtypes": [
+        "Goblin",
+        "Warrior"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": "Other Goblin creatures you control attack each combat if able.\nAt the beginning of combat on your turn, create a 1/1 red Goblin creature token with haste.\nWhenever Goblin Rabblemaster attacks, it gets +1/+0 until end of turn for each other attacking Goblin.",
+      "flavor": null,
+      "artist": "Svetlin Velinov",
+      "number": "46",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 438486,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pMEI",
+        "M15",
+        "DDT"
+      ],
+      "original_text": "Other Goblin creatures you control attack each turn if able.\nAt the beginning of combat on your turn, create a 1/1 red Goblin creature token with haste.\nWhenever Goblin Rabblemaster attacks, it gets +1/+0 until end of turn for each other attacking Goblin.",
+      "original_type": "Creature \u2014 Goblin Warrior",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438486&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "e2191a2e9cb21d7b41a4377fd9ecbe2f5f45e257",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2014-07-18",
+          "text": "Although Goblin Rabblemaster doesn't force itself to attack, if you control two of them, they'll force each other to attack if able."
+        },
+        {
+          "date": "2014-07-18",
+          "text": "If, during your declare attackers step, a creature that must attack if able is tapped, is affected by a spell or ability that says it can't attack, or hasn't been under your control continuously since the turn began (and doesn't have haste), then it doesn't attack. If there's a cost associated with having a creature attack, you're not forced to pay that cost, so it doesn't have to attack in that case either."
+        },
+        {
+          "date": "2014-07-18",
+          "text": "The number of attacking Goblins is counted as the last ability resolves, and the bonus is locked in at that time."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u30b4\u30d6\u30ea\u30f3\u306e\u719f\u7df4\u6247\u52d5\u8005",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438549&type=card",
+          "language": "Japanese",
+          "multiverseid": 438549
+        }
+      ]
+    },
+    {
+      "name": "Goblin Razerunners",
+      "layout": "normal",
+      "mana_cost": "{2}{R}{R}",
+      "cmc": 4,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Goblin Warrior",
+      "supertypes": null,
+      "subtypes": [
+        "Goblin",
+        "Warrior"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": "{1}{R}, Sacrifice a land: Put a +1/+1 counter on Goblin Razerunners.\nAt the beginning of your end step, you may have Goblin Razerunners deal damage equal to the number of +1/+1 counters on it to target player or planeswalker.",
+      "flavor": "Finding themselves in a new and unexplored world, they immediately set it on fire.",
+      "artist": "Raymond Swanland",
+      "number": "47",
+      "power": "3",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": 438487,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "CON",
+        "DDT"
+      ],
+      "original_text": "{1}{R}, Sacrifice a land: Put a +1/+1 counter on Goblin Razerunners.\nAt the beginning of your end step, you may have Goblin Razerunners deal damage equal to the number of +1/+1 counters on it to target player.",
+      "original_type": "Creature \u2014 Goblin Warrior",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438487&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "3c911bc649035e39d3d0f206bf12e86d5c775985",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2009-02-01",
+          "text": "You don't count how many +1/+1 counters are on Goblin Razerunners until its triggered ability resolves."
+        },
+        {
+          "date": "2009-02-01",
+          "text": "If Goblin Razerunners leaves the battlefield after its ability triggers but before it resolves, the amount of damage it deals is equal to the number of +1/+1 counters that were on it as it last existed on the battlefield."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u30b4\u30d6\u30ea\u30f3\u306e\u58ca\u3057\u8d70\u308a",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438550&type=card",
+          "language": "Japanese",
+          "multiverseid": 438550
+        }
+      ]
+    },
+    {
+      "name": "Goblin Ringleader",
+      "layout": "normal",
+      "mana_cost": "{3}{R}",
+      "cmc": 4,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Goblin",
+      "supertypes": null,
+      "subtypes": [
+        "Goblin"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "Haste\nWhen Goblin Ringleader enters the battlefield, reveal the top four cards of your library. Put all Goblin cards revealed this way into your hand and the rest on the bottom of your library in any order.",
+      "flavor": null,
+      "artist": "Gabor Szikszai",
+      "number": "48",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 438488,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pFNM",
+        "APC",
+        "EVG",
+        "VMA",
+        "DD3_EVG",
+        "DDT"
+      ],
+      "original_text": "Haste\nWhen Goblin Ringleader enters the battlefield, reveal the top four cards of your library. Put all Goblin cards revealed this way into your hand and the rest on the bottom of your library in any order.",
+      "original_type": "Creature \u2014 Goblin",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438488&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "7408a9ed19bc039ac6e6bf3bd7f3a17efac7f54e",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u30b4\u30d6\u30ea\u30f3\u306e\u9996\u8b00\u8005",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438551&type=card",
+          "language": "Japanese",
+          "multiverseid": 438551
+        }
+      ]
+    },
+    {
+      "name": "Goblin Tunneler",
+      "layout": "normal",
+      "mana_cost": "{1}{R}",
+      "cmc": 2,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Goblin Rogue",
+      "supertypes": null,
+      "subtypes": [
+        "Goblin",
+        "Rogue"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "{T}: Target creature with power 2 or less can't be blocked this turn.",
+      "flavor": "\"The best way over the mountain is through.\"",
+      "artist": "Jesper Ejsing",
+      "number": "49",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 438489,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ROE",
+        "M11",
+        "M12",
+        "CN2",
+        "DDT"
+      ],
+      "original_text": "{T}: Target creature with power 2 or less can't be blocked this turn.",
+      "original_type": "Creature \u2014 Goblin Rogue",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438489&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "68f7e2ff0a22830b52e853ba10412fec91b5c387",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2010-06-15",
+          "text": "The power of the targeted creature is checked both as you target it and as the ability resolves. After the ability resolves, the creature can't be blocked that turn even if its power becomes greater than 2."
+        },
+        {
+          "date": "2010-06-15",
+          "text": "The ability doesn't grant an ability to the targeted creature. Rather, it affects the game rules and states something that's now true about that creature. After the ability resolves, the creature can't be blocked that turn even if it loses all abilities."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u30b4\u30d6\u30ea\u30f3\u306e\u30c8\u30f3\u30cd\u30eb\u6398\u308a",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438552&type=card",
+          "language": "Japanese",
+          "multiverseid": 438552
+        }
+      ]
+    },
+    {
+      "name": "Goblin Wardriver",
+      "layout": "normal",
+      "mana_cost": "{R}{R}",
+      "cmc": 2,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Goblin Warrior",
+      "supertypes": null,
+      "subtypes": [
+        "Goblin",
+        "Warrior"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)",
+      "flavor": "\"A true warrior fights with whatever's handy.\"\n\u2014Qerk of the Secret Warren",
+      "artist": "Chippy",
+      "number": "50",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 438490,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MBS",
+        "DDT"
+      ],
+      "original_text": "Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)",
+      "original_type": "Creature \u2014 Goblin Warrior",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438490&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "cb925b1f4298cc25af3c7756fbe1a8c70d073115",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u30b4\u30d6\u30ea\u30f3\u306e\u6226\u717d\u308a",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438553&type=card",
+          "language": "Japanese",
+          "multiverseid": 438553
+        }
+      ]
+    },
+    {
+      "name": "Hordeling Outburst",
+      "layout": "normal",
+      "mana_cost": "{1}{R}{R}",
+      "cmc": 3,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Uncommon",
+      "text": "Create three 1/1 red Goblin creature tokens.",
+      "flavor": "\"Leave no scraps, lest you attract pests.\"\n\u2014Mardu threat",
+      "artist": "Zoltan Boros",
+      "number": "51",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 438491,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pFNM",
+        "KTK",
+        "DDT",
+        "A25"
+      ],
+      "original_text": "Create three 1/1 red Goblin creature tokens.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438491&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "9ceaa37d452a89585fbdd9dc35376c6d5f38268e",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u8ecd\u65cf\u7ae5\u306e\u7a81\u767a",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438554&type=card",
+          "language": "Japanese",
+          "multiverseid": 438554
+        }
+      ]
+    },
+    {
+      "name": "Krenko, Mob Boss",
+      "layout": "normal",
+      "mana_cost": "{2}{R}{R}",
+      "cmc": 4,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Legendary Creature \u2014 Goblin Warrior",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Goblin",
+        "Warrior"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": "{T}: Create X 1/1 red Goblin creature tokens, where X is the number of Goblins you control.",
+      "flavor": "\"He displays a perverse charisma fueled by avarice. Highly dangerous. Recommend civil sanctions.\"\n\u2014Agmand Sarv, Azorius hussar",
+      "artist": "Karl Kopinski",
+      "number": "52",
+      "power": "3",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": 438492,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "M13",
+        "DDN",
+        "DDT"
+      ],
+      "original_text": "{T}: Create X 1/1 red Goblin creature tokens, where X is the number of Goblins you control.",
+      "original_type": "Legendary Creature \u2014 Goblin Warrior",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438492&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "cccb33df236b6ccb22e769bdb431c2fdd7f84857",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2012-07-01",
+          "text": "The ability counts each Goblin you control, including Krenko itself, not just the tokens it creates."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u7fa4\u8846\u306e\u89aa\u5206\u3001\u30af\u30ec\u30f3\u30b3",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438555&type=card",
+          "language": "Japanese",
+          "multiverseid": 438555
+        }
+      ]
+    },
+    {
+      "name": "Krenko's Command",
+      "layout": "normal",
+      "mana_cost": "{1}{R}",
+      "cmc": 2,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Common",
+      "text": "Create two 1/1 red Goblin creature tokens.",
+      "flavor": "Goblins are eager to follow orders, especially when those orders involve stealing, hurting, annoying, eating, destroying, or swearing.",
+      "artist": "Karl Kopinski",
+      "number": "53",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 438493,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "M13",
+        "DDN",
+        "DDT"
+      ],
+      "original_text": "Create two 1/1 red Goblin creature tokens.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438493&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "94bda0e17bd57b9dcbdd6e3f5710873c5b6c82b4",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u30af\u30ec\u30f3\u30b3\u306e\u547d\u4ee4",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438556&type=card",
+          "language": "Japanese",
+          "multiverseid": 438556
+        }
+      ]
+    },
+    {
+      "name": "Relentless Assault",
+      "layout": "normal",
+      "mana_cost": "{2}{R}{R}",
+      "cmc": 4,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Rare",
+      "text": "Untap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.",
+      "flavor": null,
+      "artist": "Christopher Moeller",
+      "number": "54",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 438494,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "VIS",
+        "PO2",
+        "6ED",
+        "PTK",
+        "S99",
+        "7ED",
+        "8ED",
+        "9ED",
+        "10E",
+        "HOP",
+        "DDT"
+      ],
+      "original_text": "Untap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438494&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "d15b2d03f6cb3c517a1679debd877e098ff33b41",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "If you manage to cast this during a main phase of your opponent's turn, that opponent's creatures will untap and that opponent will be able to attack again. It will not allow you to attack during their turn."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "Abilities that trigger when a creature attacks, blocks, or is blocked will trigger during each combat that turn. Thus, a creature with Rampage will get the bonus added during each attack."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "A creature that must attack each turn, must only attack once that turn. It is not forced into each attack that turn."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "It only creates an additional combat and main phase if it resolves during a main phase."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u9023\u7d9a\u7a81\u6483",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438557&type=card",
+          "language": "Japanese",
+          "multiverseid": 438557
+        }
+      ]
+    },
+    {
+      "name": "Tarfire",
+      "layout": "normal",
+      "mana_cost": "{R}",
+      "cmc": 1,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Tribal Instant \u2014 Goblin",
+      "supertypes": null,
+      "subtypes": [
+        "Goblin"
+      ],
+      "types": [
+        "Tribal",
+        "Instant"
+      ],
+      "rarity": "Common",
+      "text": "Tarfire deals 2 damage to any target.",
+      "flavor": "\"After Auntie brushed the soot from her eyes, she discovered something wonderful: the fire had turned the goat into something that smelled delicious.\"\n\u2014A tale of Auntie Grub",
+      "artist": "Omar Rayyan",
+      "number": "55",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 438495,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LRW",
+        "EVG",
+        "DD3_EVG",
+        "DDT"
+      ],
+      "original_text": "Tarfire deals 2 damage to target creature or player.",
+      "original_type": "Tribal Instant \u2014 Goblin",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438495&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "e713dcd56ef9cf60c152e6874ddc0a19a2a661c0",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u30bf\u30fc\u30eb\u706b",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438558&type=card",
+          "language": "Japanese",
+          "multiverseid": 438558
+        }
+      ]
+    },
+    {
+      "name": "Brittle Effigy",
+      "layout": "normal",
+      "mana_cost": "{1}",
+      "cmc": 1,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Rare",
+      "text": "{4}, {T}, Exile Brittle Effigy: Exile target creature.",
+      "flavor": "\"In my early experiments in phylactery, I found that fragile forms have their uses.\"\n\u2014Rocati, Duke of Martyne",
+      "artist": "John Avon",
+      "number": "56",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 438496,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "M11",
+        "DDT"
+      ],
+      "original_text": "{4}, {T}, Exile Brittle Effigy: Exile target creature.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438496&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "10dc7dca22ffbe590ccd29c2b54eb55ffac8fd86",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2010-08-15",
+          "text": "Brittle Effigy is exiled as a cost to activate its ability, not as part of its effect. If the targeted creature is an illegal target by the time the ability would resolve, the ability doesn't resolve, but Brittle Effigy remains exiled."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u8106\u3044\u5f6b\u50cf",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438559&type=card",
+          "language": "Japanese",
+          "multiverseid": 438559
+        }
+      ]
+    },
+    {
+      "name": "Goblin Charbelcher",
+      "layout": "normal",
+      "mana_cost": "{4}",
+      "cmc": 4,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Rare",
+      "text": "{3}, {T}: Reveal cards from the top of your library until you reveal a land card. Goblin Charbelcher deals damage equal to the number of nonland cards revealed this way to any target. If the revealed land card was a Mountain, Goblin Charbelcher deals double that damage instead. Put the revealed cards on the bottom of your library in any order.",
+      "flavor": null,
+      "artist": "Jesper Ejsing",
+      "number": "57",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 438497,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MRD",
+        "EMA",
+        "DDT"
+      ],
+      "original_text": "{3}, {T}: Reveal cards from the top of your library until you reveal a land card. Goblin Charbelcher deals damage equal to the number of nonland cards revealed this way to target creature or player. If the revealed land card was a Mountain, Goblin Charbelcher deals double that damage instead. Put the revealed cards on the bottom of your library in any order.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438497&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "029fbba566b17d5fe18a6f208b3a38848822a4df",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2016-06-08",
+          "text": "You must choose a target for Goblin Charbelcher's ability as you activate it, before you reveal any cards."
+        },
+        {
+          "date": "2016-06-08",
+          "text": "If you reveal no land cards, Goblin Charbelcher deals damage equal to the number of cards revealed, and then you may order your library as you like."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u30b4\u30d6\u30ea\u30f3\u306e\u653e\u706b\u7832",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438560&type=card",
+          "language": "Japanese",
+          "multiverseid": 438560
+        }
+      ]
+    },
+    {
+      "name": "Blighted Gorge",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Land",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Uncommon",
+      "text": "{T}: Add {C}.\n{4}{R}, {T}, Sacrifice Blighted Gorge: It deals 2 damage to any target.",
+      "flavor": "The land is dying, but it will not go peacefully.",
+      "artist": "Jung Park",
+      "number": "58",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 438498,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "BFZ",
+        "DDT"
+      ],
+      "original_text": "{T}: Add {C} to your mana pool.\n{4}{R}, {T}, Sacrifice Blighted Gorge: Blighted Gorge deals 2 damage to target creature or player.",
+      "original_type": "Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438498&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "3107f7950bdd7408f1e1a8ab6a2fe90745399d39",
+      "legalities": [
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u8352\u5ec3\u3057\u305f\u5c71\u5ce1",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438561&type=card",
+          "language": "Japanese",
+          "multiverseid": 438561
+        }
+      ]
+    },
+    {
+      "name": "Forgotten Cave",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Land",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Common",
+      "text": "Forgotten Cave enters the battlefield tapped.\n{T}: Add {R}.\nCycling {R} ({R}, Discard this card: Draw a card.)",
+      "flavor": null,
+      "artist": "Noah Bradley",
+      "number": "59",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 438499,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ONS",
+        "EVG",
+        "CMD",
+        "DDJ",
+        "C13",
+        "VMA",
+        "C14",
+        "DD3_EVG",
+        "C15",
+        "CMA",
+        "DDT"
+      ],
+      "original_text": "Forgotten Cave enters the battlefield tapped.\n{T}: Add {R} to your mana pool.\nCycling {R} ({R}, Discard this card: Draw a card.)",
+      "original_type": "Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438499&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "6667ec1a2dfe4acb77ccc9b2d8caf56f2c9745d5",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-10-01",
+          "text": "Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u5fd8\u308c\u3089\u308c\u305f\u6d1e\u7a9f",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438562&type=card",
+          "language": "Japanese",
+          "multiverseid": 438562
+        }
+      ]
+    },
+    {
+      "name": "Mountain",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Mountain",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Mountain"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "John Avon",
+      "number": "60",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 438500,
+      "variations": [
+        438501,
+        438502,
+        438503
+      ],
+      "watermark": "Red",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "ARN",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "EVG",
+        "SHM",
+        "ALA",
+        "DD2",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "PD2",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "DDK",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_EVG",
+        "DD3_JVC",
+        "FRF",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "DDT",
+        "UST",
+        "RIX",
+        "DDU",
+        "DOM"
+      ],
+      "original_text": "R",
+      "original_type": "Basic Land \u2014 Mountain",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438500&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "c002bd4e0cc87a2e0b3623003a91ba2559b5fd43",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u5c71",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438563&type=card",
+          "language": "Japanese",
+          "multiverseid": 438563
+        },
+        {
+          "name": "\u5c71",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438564&type=card",
+          "language": "Japanese",
+          "multiverseid": 438564
+        },
+        {
+          "name": "\u5c71",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438565&type=card",
+          "language": "Japanese",
+          "multiverseid": 438565
+        },
+        {
+          "name": "\u5c71",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438566&type=card",
+          "language": "Japanese",
+          "multiverseid": 438566
+        }
+      ]
+    },
+    {
+      "name": "Mountain",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Mountain",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Mountain"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Steven Belledin",
+      "number": "61",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 438501,
+      "variations": [
+        438500,
+        438502,
+        438503
+      ],
+      "watermark": "Red",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "ARN",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "EVG",
+        "SHM",
+        "ALA",
+        "DD2",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "PD2",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "DDK",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_EVG",
+        "DD3_JVC",
+        "FRF",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "DDT",
+        "UST",
+        "RIX",
+        "DDU",
+        "DOM"
+      ],
+      "original_text": "R",
+      "original_type": "Basic Land \u2014 Mountain",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438501&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "cb5a0236e5efe6ad803a2feecf6380767102c0f4",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u5c71",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438563&type=card",
+          "language": "Japanese",
+          "multiverseid": 438563
+        },
+        {
+          "name": "\u5c71",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438564&type=card",
+          "language": "Japanese",
+          "multiverseid": 438564
+        },
+        {
+          "name": "\u5c71",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438565&type=card",
+          "language": "Japanese",
+          "multiverseid": 438565
+        },
+        {
+          "name": "\u5c71",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438566&type=card",
+          "language": "Japanese",
+          "multiverseid": 438566
+        }
+      ]
+    },
+    {
+      "name": "Mountain",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Mountain",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Mountain"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Martina Pilcerova",
+      "number": "62",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 438502,
+      "variations": [
+        438500,
+        438501,
+        438503
+      ],
+      "watermark": "Red",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "ARN",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "EVG",
+        "SHM",
+        "ALA",
+        "DD2",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "PD2",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "DDK",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_EVG",
+        "DD3_JVC",
+        "FRF",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "DDT",
+        "UST",
+        "RIX",
+        "DDU",
+        "DOM"
+      ],
+      "original_text": "R",
+      "original_type": "Basic Land \u2014 Mountain",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438502&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "a6207d6655f473705cbfe6c5c9838e2762642796",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u5c71",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438563&type=card",
+          "language": "Japanese",
+          "multiverseid": 438563
+        },
+        {
+          "name": "\u5c71",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438564&type=card",
+          "language": "Japanese",
+          "multiverseid": 438564
+        },
+        {
+          "name": "\u5c71",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438565&type=card",
+          "language": "Japanese",
+          "multiverseid": 438565
+        },
+        {
+          "name": "\u5c71",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438566&type=card",
+          "language": "Japanese",
+          "multiverseid": 438566
+        }
+      ]
+    },
+    {
+      "name": "Mountain",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Mountain",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Mountain"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Raoul Vitale",
+      "number": "63",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 438503,
+      "variations": [
+        438500,
+        438501,
+        438502
+      ],
+      "watermark": "Red",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "ARN",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "EVG",
+        "SHM",
+        "ALA",
+        "DD2",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "PD2",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "DDK",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_EVG",
+        "DD3_JVC",
+        "FRF",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "DDT",
+        "UST",
+        "RIX",
+        "DDU",
+        "DOM"
+      ],
+      "original_text": "R",
+      "original_type": "Basic Land \u2014 Mountain",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438503&type=card",
+      "set": "DDT",
+      "set_name": "Duel Decks: Merfolk vs. Goblins",
+      "id": "bf1164c2b874f512d4b5adb11567d37ae249be33",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u5c71",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438563&type=card",
+          "language": "Japanese",
+          "multiverseid": 438563
+        },
+        {
+          "name": "\u5c71",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438564&type=card",
+          "language": "Japanese",
+          "multiverseid": 438564
+        },
+        {
+          "name": "\u5c71",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438565&type=card",
+          "language": "Japanese",
+          "multiverseid": 438565
+        },
+        {
+          "name": "\u5c71",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=438566&type=card",
+          "language": "Japanese",
+          "multiverseid": 438566
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2842 @@
+{
+  "code": "V17",
+  "name": "From the Vault: Transform",
+  "type": "from the vault",
+  "border": "black",
+  "mkm_id": null,
+  "mkm_name": "From the Vault: Transform",
+  "release_date": "2015-11-24",
+  "gatherer_code": null,
+  "magic_cards_info_code": "v17",
+  "booster": null,
+  "old_code": null,
+  "block": null,
+  "online_only": null,
+  "cards": [
+    {
+      "name": "Archangel Avacyn",
+      "layout": "double-faced",
+      "mana_cost": "{3}{W}{W}",
+      "cmc": 5,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "R",
+        "W"
+      ],
+      "names": [
+        "Archangel Avacyn",
+        "Avacyn, the Purifier"
+      ],
+      "type": "Legendary Creature \u2014 Angel",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Angel"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Flash\nFlying, vigilance\nWhen Archangel Avacyn enters the battlefield, creatures you control gain indestructible until end of turn.\nWhen a non-Angel creature you control dies, transform Archangel Avacyn at the beginning of the next upkeep.",
+      "flavor": null,
+      "artist": "James Ryman",
+      "number": "1a",
+      "power": "4",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": 439314,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "V17",
+        "SOI"
+      ],
+      "original_text": "Flash\nFlying, vigilance\nWhen Archangel Avacyn enters the battlefield, creatures you control gain indestructible until end of turn.\nWhen a non-Angel creature you control dies, transform Archangel Avacyn at the beginning of the next upkeep.",
+      "original_type": "Legendary Creature \u2014 Angel",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439314&type=card",
+      "set": "V17",
+      "set_name": "From the Vault: Transform",
+      "id": "587dd577950e5ddf3d5770a52028ec7b162595f0",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2016-04-08",
+          "text": "Archangel Avacyn's delayed triggered ability triggers at the beginning of the next upkeep regardless of whose turn it is."
+        },
+        {
+          "date": "2016-04-08",
+          "text": "Archangel Avacyn's delayed triggered ability won't cause it to transform back into Archangel Avacyn if it has already transformed into Avacyn, the Purifier, perhaps because several creatures died in one turn."
+        },
+        {
+          "date": "2016-07-13",
+          "text": "For more information on double-faced cards, see the Shadows over Innistrad mechanics article (http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-mechanics)."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Avacyn, the Purifier",
+      "layout": "double-faced",
+      "mana_cost": null,
+      "cmc": 5,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R",
+        "W"
+      ],
+      "names": [
+        "Archangel Avacyn",
+        "Avacyn, the Purifier"
+      ],
+      "type": "Legendary Creature \u2014 Angel",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Angel"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Flying\nWhen this creature transforms into Avacyn, the Purifier, it deals 3 damage to each other creature and each opponent.",
+      "flavor": "\"Wings that once bore hope are now stained with blood. She is our guardian no longer.\"\n\u2014Grete, cathar apostate",
+      "artist": "James Ryman",
+      "number": "1b",
+      "power": "6",
+      "toughness": "5",
+      "loyalty": null,
+      "multiverse_id": 439315,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "V17",
+        "SOI"
+      ],
+      "original_text": "Flying\nWhen this creature transforms into Avacyn, the Purifier, it deals 3 damage to each other creature and each opponent.",
+      "original_type": "Legendary Creature \u2014 Angel",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439315&type=card",
+      "set": "V17",
+      "set_name": "From the Vault: Transform",
+      "id": "f35ee8e69677b8c2c3a5967d2663c055f7a2b25c",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Arguel's Blood Fast",
+      "layout": "double-faced",
+      "mana_cost": "{1}{B}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": [
+        "Arguel's Blood Fast",
+        "Temple of Aclazotz"
+      ],
+      "type": "Legendary Enchantment",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": null,
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "{1}{B}, Pay 2 life: Draw a card.\nAt the beginning of your upkeep, if you have 5 or less life, you may transform Arguel's Blood Fast.",
+      "flavor": "Arguel's vision led him into the jungles of Ixalan . . .",
+      "artist": "Daarken",
+      "number": "2a",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 439316,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "V17",
+        "XLN"
+      ],
+      "original_text": "{1}{B}, Pay 2 life: Draw a card.\nAt the beginning of your upkeep, if you have 5 or less life, you may transform Arguel's Blood Fast.",
+      "original_type": "Legendary Enchantment",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439316&type=card",
+      "set": "V17",
+      "set_name": "From the Vault: Transform",
+      "id": "57bc0cf432c656b3a9681c75ec3777bfe990b1b6",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2017-09-29",
+          "text": "If your life total is 6 or greater as your upkeep begins, the second ability of Arguel's Blood Fast won't trigger. You can't take any actions during your turn before your upkeep begins."
+        },
+        {
+          "date": "2017-09-29",
+          "text": "If your life total is 6 or greater as the second ability of Arguel's Blood Fast tries to resolve, it won't do anything."
+        },
+        {
+          "date": "2018-01-19",
+          "text": "For more information on double-faced cards, see the Ixalan mechanics article (http://magic.wizards.com/en/articles/archive/feature/ixalan-mechanics)."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Temple of Aclazotz",
+      "layout": "double-faced",
+      "mana_cost": null,
+      "cmc": 2,
+      "colors": null,
+      "color_identity": [
+        "B"
+      ],
+      "names": [
+        "Arguel's Blood Fast",
+        "Temple of Aclazotz"
+      ],
+      "type": "Legendary Land",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "(Transforms from Arguel's Blood Fast.)\n{T}: Add {B}.\n{T}, Sacrifice a creature: You gain life equal to the sacrificed creature's toughness.",
+      "flavor": ". . . to the lost temple of a bat-god of night, eternal enemy to the Threefold Sun.",
+      "artist": "Daarken",
+      "number": "2b",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 439317,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "V17",
+        "XLN"
+      ],
+      "original_text": "(Transforms from Arguel's Blood Fast.)\n{T}: Add {B} to your mana pool.\n{T}, Sacrifice a creature: You gain life equal to the sacrificed creature's toughness.",
+      "original_type": "Legendary Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439317&type=card",
+      "set": "V17",
+      "set_name": "From the Vault: Transform",
+      "id": "a66067bc04b2c6ce5fa27c52988915b59aaed374",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2017-09-29",
+          "text": "Once you've announced the last ability of Temple of Aclazotz, it's too late for anyone to interrupt you by trying to remove the creature you sacrifice."
+        },
+        {
+          "date": "2017-09-29",
+          "text": "For the last ability of Temple of Aclazotz, use the creature's toughness as it last existed on the battlefield to determine how much life you gain."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Arlinn Kord",
+      "layout": "double-faced",
+      "mana_cost": "{2}{R}{G}",
+      "cmc": 4,
+      "colors": [
+        "Red",
+        "Green"
+      ],
+      "color_identity": [
+        "R",
+        "G"
+      ],
+      "names": [
+        "Arlinn Kord",
+        "Arlinn, Embraced by the Moon"
+      ],
+      "type": "Legendary Planeswalker \u2014 Arlinn",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Arlinn"
+      ],
+      "types": [
+        "Planeswalker"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "+1: Until end of turn, up to one target creature gets +2/+2 and gains vigilance and haste.\n0: Create a 2/2 green Wolf creature token. Transform Arlinn Kord.",
+      "flavor": null,
+      "artist": "Winona Nelson",
+      "number": "3a",
+      "power": null,
+      "toughness": null,
+      "loyalty": 3,
+      "multiverse_id": 439318,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "V17",
+        "SOI"
+      ],
+      "original_text": "+1: Until end of turn, up to one target creature gets +2/+2 and gains vigilance and haste.\n0: Create a 2/2 green Wolf creature token. Transform Arlinn Kord.",
+      "original_type": "Legendary Planeswalker \u2014 Arlinn",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439318&type=card",
+      "set": "V17",
+      "set_name": "From the Vault: Transform",
+      "id": "2e1599bd40457f279873faac85d06901cf0040f4",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2016-04-08",
+          "text": "Arlinn Kord is not a Werewolf card; that is, she doesn't have the creature type Werewolf. Spells and abilities that refer to Werewolf cards or Werewolves don't apply to Arlinn."
+        },
+        {
+          "date": "2016-04-08",
+          "text": "You can activate the first ability of Arlinn Kord without any targets just to add a loyalty counter to her."
+        },
+        {
+          "date": "2016-04-08",
+          "text": "When the ability that transforms Arlinn Kord into Arlinn, Embraced by the Moon (or vice versa) resolves, the number of loyalty counters on her doesn't change."
+        },
+        {
+          "date": "2016-04-08",
+          "text": "You can't activate Arlinn Kord's second ability and, after she transforms, activate a loyalty ability of Arlinn, Embraced by the Moon during that turn (or vice versa)."
+        },
+        {
+          "date": "2016-07-13",
+          "text": "For more information on double-faced cards, see the Shadows over Innistrad mechanics article (http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-mechanics)."
+        },
+        {
+          "date": "2017-09-29",
+          "text": "You can control two of this permanent, one front-face up and the other back-face up, at the same time."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Arlinn, Embraced by the Moon",
+      "layout": "double-faced",
+      "mana_cost": null,
+      "cmc": 4,
+      "colors": [
+        "Red",
+        "Green"
+      ],
+      "color_identity": [
+        "R",
+        "G"
+      ],
+      "names": [
+        "Arlinn Kord",
+        "Arlinn, Embraced by the Moon"
+      ],
+      "type": "Legendary Planeswalker \u2014 Arlinn",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Arlinn"
+      ],
+      "types": [
+        "Planeswalker"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "+1: Creatures you control get +1/+1 and gain trample until end of turn.\n\u22121: Arlinn, Embraced by the Moon deals 3 damage to any target. Transform Arlinn, Embraced by the Moon.\n\u22126: You get an emblem with \"Creatures you control have haste and '{T}: This creature deals damage equal to its power to any target.'\"",
+      "flavor": null,
+      "artist": "Winona Nelson",
+      "number": "3b",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 439319,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "V17",
+        "SOI"
+      ],
+      "original_text": "+1: Creatures you control get +1/+1 and gain trample until end of turn.\n\u22121: Arlinn, Embraced by the Moon deals 3 damage to target creature or player. Transform Arlinn, Embraced by the Moon.\n\u22126: You get an emblem with \"Creatures you control have haste and \u2018{T}: This creature deals damage equal to its power to target creature or player.'\"",
+      "original_type": "Legendary Planeswalker \u2014 Arlinn",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439319&type=card",
+      "set": "V17",
+      "set_name": "From the Vault: Transform",
+      "id": "14eb2fe8d774a6963425c2bf17228fc376d8c568",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2016-04-08",
+          "text": "Arlinn, Embraced by the Moon is not a Werewolf card; that is, she doesn't have the creature type Werewolf. Spells and abilities that refer to Werewolf cards or Werewolves don't apply to Arlinn."
+        },
+        {
+          "date": "2016-04-08",
+          "text": "When the ability that transforms Arlinn Kord into Arlinn, Embraced by the Moon (or vice versa) resolves, the number of loyalty counters on her doesn't change."
+        },
+        {
+          "date": "2016-04-08",
+          "text": "You can't activate Arlinn Kord's second ability and, after she transforms, activate a loyalty ability of Arlinn, Embraced by the Moon during that turn (or vice versa)."
+        },
+        {
+          "date": "2016-04-08",
+          "text": "The set of creatures affected by the first ability of Arlinn, Embraced by the Moon is determined as the ability resolves. Creatures you begin to control later in the turn won't get +1/+1 or gain trample."
+        },
+        {
+          "date": "2016-04-08",
+          "text": "The emblem grants the activated ability to your creatures. Use the power of the creature as the activated ability resolves to determine how much damage is dealt. If the creature isn't on the battlefield at that time, use its power as it last existed on the battlefield. Note that this works differently than the fight keyword action, which requires both creatures to be on the battlefield for any damage to be dealt."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Bloodline Keeper",
+      "layout": "double-faced",
+      "mana_cost": "{2}{B}{B}",
+      "cmc": 4,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": [
+        "Bloodline Keeper",
+        "Lord of Lineage"
+      ],
+      "type": "Creature \u2014 Vampire",
+      "supertypes": null,
+      "subtypes": [
+        "Vampire"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Flying\n{T}: Create a 2/2 black Vampire creature token with flying.\n{B}: Transform Bloodline Keeper. Activate this ability only if you control five or more Vampires.",
+      "flavor": null,
+      "artist": "Jason Chan",
+      "number": "4a",
+      "power": "3",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": 439320,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ISD",
+        "V17"
+      ],
+      "original_text": "Flying\n{T}: Create a 2/2 black Vampire creature token with flying.\n{B}: Transform Bloodline Keeper. Activate this ability only if you control five or more Vampires.",
+      "original_type": "Creature \u2014 Vampire",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439320&type=card",
+      "set": "V17",
+      "set_name": "From the Vault: Transform",
+      "id": "dfe65ada17e1be77d8a93e2fa251cde946e69a0a",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2016-07-13",
+          "text": "For more information on double-faced cards, see the Shadows over Innistrad mechanics article (http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-mechanics)."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Lord of Lineage",
+      "layout": "double-faced",
+      "mana_cost": null,
+      "cmc": 4,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": [
+        "Bloodline Keeper",
+        "Lord of Lineage"
+      ],
+      "type": "Creature \u2014 Vampire",
+      "supertypes": null,
+      "subtypes": [
+        "Vampire"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Flying\nOther Vampire creatures you control get +2/+2.\n{T}: Create a 2/2 black Vampire creature token with flying.",
+      "flavor": null,
+      "artist": "Jason Chan",
+      "number": "4b",
+      "power": "5",
+      "toughness": "5",
+      "loyalty": null,
+      "multiverse_id": 439321,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ISD",
+        "V17"
+      ],
+      "original_text": "Flying\nOther Vampire creatures you control get +2/+2.\n{T}: Create a 2/2 black Vampire creature token with flying.",
+      "original_type": "Creature \u2014 Vampire",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439321&type=card",
+      "set": "V17",
+      "set_name": "From the Vault: Transform",
+      "id": "e69df120e4ca429f4fd16dce14cac205182dc5e4",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Bruna, the Fading Light",
+      "layout": "meld",
+      "mana_cost": "{5}{W}{W}",
+      "cmc": 7,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": [
+        "Bruna, the Fading Light",
+        "Brisela, Voice of Nightmares"
+      ],
+      "type": "Legendary Creature \u2014 Angel Horror",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Angel",
+        "Horror"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "When you cast this spell, you may return target Angel or Human creature card from your graveyard to the battlefield.\nFlying, vigilance\n(Melds with Gisela, the Broken Blade.)",
+      "flavor": "She now sees only Emrakul's visions.",
+      "artist": "Clint Cearley",
+      "number": "5a",
+      "power": "5",
+      "toughness": "7",
+      "loyalty": null,
+      "multiverse_id": 439322,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "V17",
+        "EMN"
+      ],
+      "original_text": "When you cast Bruna, the Fading Light, you may return target Angel or Human creature card from your graveyard to the battlefield.\nFlying, vigilance\n(Melds with Gisela, the Broken Blade.)",
+      "original_type": "Legendary Creature \u2014 Angel Horror",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439322&type=card",
+      "set": "V17",
+      "set_name": "From the Vault: Transform",
+      "id": "041d1e56f21d873719b992741342946579c50275",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2016-07-13",
+          "text": "In a Commander game, your commander may be Bruna, the Fading Light or Gisela, the Broken Blade, and the other may be in your deck. If they meld into Brisela, Voice of Nightmares, Brisela will also be your commander; but if Brisela leaves the battlefield, only the card chosen as your commander at the start of the game may be put into the command zone."
+        },
+        {
+          "date": "2016-07-13",
+          "text": "A \"when you cast\" triggered ability resolves before the original spell resolves. It resolves even if the original spell is countered, and the original spell resolves even if the triggered ability is countered."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Brisela, Voice of Nightmares",
+      "layout": "meld",
+      "mana_cost": null,
+      "cmc": 11,
+      "colors": null,
+      "color_identity": null,
+      "names": [
+        "Gisela, the Broken Blade",
+        "Brisela, Voice of Nightmares"
+      ],
+      "type": "Legendary Creature \u2014 Eldrazi Angel",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Eldrazi",
+        "Angel"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Flying, first strike, vigilance, lifelink\nYour opponents can't cast spells with converted mana cost 3 or less.",
+      "flavor": "Upon discovering what had become of her sisters, Sigarda could only weep.",
+      "artist": "Clint Cearley",
+      "number": "5b",
+      "power": "9",
+      "toughness": "10",
+      "loyalty": null,
+      "multiverse_id": 439323,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "V17",
+        "EMN"
+      ],
+      "original_text": "Flying, first strike, vigilance, lifelink\nYour opponents can't cast spells with converted mana cost 3 or less.",
+      "original_type": "Legendary Creature \u2014 Eldrazi Angel",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439323&type=card",
+      "set": "V17",
+      "set_name": "From the Vault: Transform",
+      "id": "f11e3f8f08d49234c4d1a59ba82b87ad9196cefb",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2016-07-13",
+          "text": "Effects that increase or reduce the cost to cast a spell (such as those of escalate and emerge) don't affect the spell's converted mana cost, so they won't change whether Brisela's last ability restricts that spell from being cast."
+        },
+        {
+          "date": "2016-07-13",
+          "text": "For spells with {X} in their mana costs, use the value chosen for X to determine if the spell's converted mana cost is 3 or less. For example, your opponent could cast Burn from Within (a spell with mana cost {X}{R}) with X equal to 3, but not with X equal to 2."
+        },
+        {
+          "date": "2016-07-13",
+          "text": "For more information on meld cards, see the Eldritch Moon mechanics article (http://magic.wizards.com/en/articles/archive/feature/eldritch-moon-mechanics)."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Brisela, Voice of Nightmares",
+      "layout": "meld",
+      "mana_cost": null,
+      "cmc": 11,
+      "colors": null,
+      "color_identity": [
+        "W"
+      ],
+      "names": [
+        "Bruna, the Fading Light",
+        "Brisela, Voice of Nightmares"
+      ],
+      "type": "Legendary Creature \u2014 Eldrazi Angel",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Eldrazi",
+        "Angel"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Flying, first strike, vigilance, lifelink\nYour opponents can't cast spells with converted mana cost 3 or less.",
+      "flavor": "Upon discovering what had become of her sisters, Sigarda could only weep.",
+      "artist": "Clint Cearley",
+      "number": "5b",
+      "power": "9",
+      "toughness": "10",
+      "loyalty": null,
+      "multiverse_id": 439323,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "V17",
+        "EMN"
+      ],
+      "original_text": "Flying, first strike, vigilance, lifelink\nYour opponents can't cast spells with converted mana cost 3 or less.",
+      "original_type": "Legendary Creature \u2014 Eldrazi Angel",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439323&type=card",
+      "set": "V17",
+      "set_name": "From the Vault: Transform",
+      "id": "0e1bfd1df714ad29eac23ddd5eceeb5473108b17",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2016-07-13",
+          "text": "Effects that increase or reduce the cost to cast a spell (such as those of escalate and emerge) don't affect the spell's converted mana cost, so they won't change whether Brisela's last ability restricts that spell from being cast."
+        },
+        {
+          "date": "2016-07-13",
+          "text": "For spells with {X} in their mana costs, use the value chosen for X to determine if the spell's converted mana cost is 3 or less. For example, your opponent could cast Burn from Within (a spell with mana cost {X}{R}) with X equal to 3, but not with X equal to 2."
+        },
+        {
+          "date": "2016-07-13",
+          "text": "For more information on meld cards, see the Eldritch Moon mechanics article (http://magic.wizards.com/en/articles/archive/feature/eldritch-moon-mechanics)."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Chandra, Fire of Kaladesh",
+      "layout": "double-faced",
+      "mana_cost": "{1}{R}{R}",
+      "cmc": 3,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": [
+        "Chandra, Fire of Kaladesh",
+        "Chandra, Roaring Flame"
+      ],
+      "type": "Legendary Creature \u2014 Human Shaman",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Human",
+        "Shaman"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Whenever you cast a red spell, untap Chandra, Fire of Kaladesh.\n{T}: Chandra, Fire of Kaladesh deals 1 damage to target player or planeswalker. If Chandra has dealt 3 or more damage this turn, exile her, then return her to the battlefield transformed under her owner's control.",
+      "flavor": null,
+      "artist": "Eric Deschamps",
+      "number": "6a",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 439324,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pPRE",
+        "ORI",
+        "V17"
+      ],
+      "original_text": "Whenever you cast a red spell, untap Chandra, Fire of Kaladesh.\n{T}: Chandra, Fire of Kaladesh deals 1 damage to target player. If Chandra has dealt 3 or more damage this turn, exile her, then return her to the battlefield transformed under her owner's control.",
+      "original_type": "Legendary Creature \u2014 Human Shaman",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439324&type=card",
+      "set": "V17",
+      "set_name": "From the Vault: Transform",
+      "id": "16a74a635ae953bdee204b9081e786a546105c45",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2015-06-22",
+          "text": "Chandra, Fire of Kaladesh's activated ability will count any damage Chandra has dealt during the turn to any permanent or player, including combat damage."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "The last sentence of Chandra, Fire of Kaladesh's activated ability isn't a separate ability. The check happens only as that activated ability resolves. You must activate the ability in order to exile Chandra and return her to the battlefield transformed, even if Chandra has already dealt 3 or more damage during the turn."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "Each face of a double-faced card has its own set of characteristics: name, types, subtypes, power and toughness, loyalty, abilities, and so on. While a double-faced card is on the battlefield, consider only the characteristics of the face that's currently up. The other set of characteristics is ignored. While a double-faced card isn't on the battlefield, consider only the characteristics of its front face."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "The converted mana cost of a double-faced card not on the battlefield is the converted mana cost of its front face."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "The back face of a double-faced card (in the case of Magic Origins, the planeswalker face) can't be cast."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "A double-faced card enters the battlefield with its front face up by default, unless a spell or ability instructs you to put it onto the battlefield transformed, in which case it enters with its back face up."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "A Magic Origins planeswalker that enters the battlefield because of the ability of its front face will enter with loyalty counters as normal."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "In some rare cases, a spell or ability may cause one of these five cards to transform while it's a creature (front face up) on the battlefield. If this happens, the resulting planeswalker won't have any loyalty counters on it and will subsequently be put into its owner's graveyard."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "You can activate one of the planeswalker's loyalty abilities the turn it enters the battlefield. However, you may do so only during one of your main phases when the stack is empty. For example, if the planeswalker enters the battlefield during combat, there will be an opportunity for your opponent to remove it before you can activate one of its abilities."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "If a double-faced card is manifested, it will be put onto the battlefield face down (this is also true if it's put onto the battlefield face down some other way). Note that \"face down\" is not synonymous with \"with its back face up.\" A manifested double-faced card is a 2/2 creature with no name, mana cost, creature types, or abilities. While face down, it can't transform. If the front face of a manifested double-faced card is a creature card, you can turn it face up by paying its mana cost. If you do, its front face will be up. A double-faced card on the battlefield can't be turned face down."
+        },
+        {
+          "date": "2016-04-08",
+          "text": "The back face of a double-faced card doesn't have a mana cost. A double-faced permanent with its back face up has a converted mana cost equal to the converted mana cost of its front face. Each back face has a color indicator that defines its color."
+        },
+        {
+          "date": "2016-07-13",
+          "text": "For more information on double-faced cards, see the Shadows over Innistrad mechanics article (http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-mechanics)."
+        },
+        {
+          "date": "2017-09-29",
+          "text": "You can control two of this permanent, one front-face up and the other back-face up, at the same time."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Chandra, Roaring Flame",
+      "layout": "double-faced",
+      "mana_cost": null,
+      "cmc": 3,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": [
+        "Chandra, Fire of Kaladesh",
+        "Chandra, Roaring Flame"
+      ],
+      "type": "Legendary Planeswalker \u2014 Chandra",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Chandra"
+      ],
+      "types": [
+        "Planeswalker"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "+1: Chandra, Roaring Flame deals 2 damage to target player or planeswalker.\n\u22122: Chandra, Roaring Flame deals 2 damage to target creature.\n\u22127: Chandra, Roaring Flame deals 6 damage to each opponent. Each player dealt damage this way gets an emblem with \"At the beginning of your upkeep, this emblem deals 3 damage to you.\"",
+      "flavor": null,
+      "artist": "Eric Deschamps",
+      "number": "6b",
+      "power": null,
+      "toughness": null,
+      "loyalty": 4,
+      "multiverse_id": 439325,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ORI",
+        "V17"
+      ],
+      "original_text": "+1: Chandra, Roaring Flame deals 2 damage to target player.\n\u22122: Chandra, Roaring Flame deals 2 damage to target creature.\n\u22127: Chandra, Roaring Flame deals 6 damage to each opponent. Each player dealt damage this way gets an emblem with \"At the beginning of your upkeep, this emblem deals 3 damage to you.\"",
+      "original_type": "Legendary Planeswalker \u2014 Chandra",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439325&type=card",
+      "set": "V17",
+      "set_name": "From the Vault: Transform",
+      "id": "7838326e926bea3152d8ffd0f1f92d388b6cdcbc",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2015-06-22",
+          "text": "The emblem created by Chandra, Roaring Flame is colorless. The damage it deals is from a colorless source."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "Only players actually dealt damage by the third ability of Chandra, Roaring Flame will get an emblem. If all of that damage to a player is prevented, that player won't get an emblem. If any of that damage is redirected to Chandra's controller, that player will get an emblem."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "Each player who gets Chandra's emblem is the owner of that emblem. In multiplayer games, that emblem will remain in the game as long as its owner does, even if Chandra's owner leaves the game."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Delver of Secrets",
+      "layout": "double-faced",
+      "mana_cost": "{U}",
+      "cmc": 1,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": [
+        "Delver of Secrets",
+        "Insectile Aberration"
+      ],
+      "type": "Creature \u2014 Human Wizard",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Wizard"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "At the beginning of your upkeep, look at the top card of your library. You may reveal that card. If an instant or sorcery card is revealed this way, transform Delver of Secrets.",
+      "flavor": null,
+      "artist": "Lius Lasahido",
+      "number": "7a",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 439326,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ISD",
+        "V17"
+      ],
+      "original_text": "At the beginning of your upkeep, look at the top card of your library. You may reveal that card. If an instant or sorcery card is revealed this way, transform Delver of Secrets.",
+      "original_type": "Creature \u2014 Human Wizard",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439326&type=card",
+      "set": "V17",
+      "set_name": "From the Vault: Transform",
+      "id": "6cea8866975ffd153a568ebed6e182d92b77ffea",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2011-09-22",
+          "text": "You may reveal the card even if it's not an instant or sorcery. Whether or not you reveal it, the card stays on top of your library."
+        },
+        {
+          "date": "2016-07-13",
+          "text": "For more information on double-faced cards, see the Shadows over Innistrad mechanics article (http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-mechanics)."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Insectile Aberration",
+      "layout": "double-faced",
+      "mana_cost": null,
+      "cmc": 1,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": [
+        "Delver of Secrets",
+        "Insectile Aberration"
+      ],
+      "type": "Creature \u2014 Human Insect",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Insect"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Flying",
+      "flavor": "\"Unfortunately, all my test animals have died or escaped, so I shall be the final subject. I feel no fear. This is a momentous night.\"\n\u2014Laboratory notes, final entry",
+      "artist": "Lius Lasahido",
+      "number": "7b",
+      "power": "3",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 439327,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ISD",
+        "V17"
+      ],
+      "original_text": "Flying",
+      "original_type": "Creature \u2014 Human Insect",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439327&type=card",
+      "set": "V17",
+      "set_name": "From the Vault: Transform",
+      "id": "bca7f074934d2e77607ee1a18b15ed12da13599a",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Elbrus, the Binding Blade",
+      "layout": "double-faced",
+      "mana_cost": "{7}",
+      "cmc": 7,
+      "colors": null,
+      "color_identity": [
+        "B"
+      ],
+      "names": [
+        "Elbrus, the Binding Blade",
+        "Withengar Unbound"
+      ],
+      "type": "Legendary Artifact \u2014 Equipment",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Equipment"
+      ],
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Equipped creature gets +1/+0.\nWhen equipped creature deals combat damage to a player, unattach Elbrus, the Binding Blade, then transform it.\nEquip {1}",
+      "flavor": "Those who grasp its hilt soon hear the demon's call.",
+      "artist": "Eric Deschamps",
+      "number": "8a",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 439328,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "DKA",
+        "V17"
+      ],
+      "original_text": "Equipped creature gets +1/+0.\nWhen equipped creature deals combat damage to a player, unattach Elbrus, the Binding Blade, then transform it.\nEquip {1}",
+      "original_type": "Legendary Artifact \u2014 Equipment",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439328&type=card",
+      "set": "V17",
+      "set_name": "From the Vault: Transform",
+      "id": "7cd1e09aafe6179016b3883fdb1be7841f873bfa",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2011-01-22",
+          "text": "The \"legend rule\" checks only for permanents with exactly the same name. Elbrus, the Binding Blade and Withengar Unbound can be on the battlefield at the same time without either going to its owner's graveyard."
+        },
+        {
+          "date": "2011-01-22",
+          "text": "Elbrus will transform even if you are unable to unattach it (most likely because the equipped creature died)."
+        },
+        {
+          "date": "2011-01-22",
+          "text": "Withengar's triggered ability will trigger no matter how a player loses the game: due to a state-based action (as a result of having a life total of 0 or less, trying to draw a card from an empty library, or having ten poison counters), a spell or ability that says that player loses the game, a concession, or a game loss awarded by a judge."
+        },
+        {
+          "date": "2011-01-22",
+          "text": "In a multiplayer game using the limited range of influence option (such as a Grand Melee game), if a spell or ability says that you win the game, it instead causes all of your opponents within your range of influence to lose the game. This is another way by which Withengar's ability can trigger."
+        },
+        {
+          "date": "2016-07-13",
+          "text": "For more information on double-faced cards, see the Shadows over Innistrad mechanics article (http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-mechanics)."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Withengar Unbound",
+      "layout": "double-faced",
+      "mana_cost": null,
+      "cmc": 7,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": [
+        "Elbrus, the Binding Blade",
+        "Withengar Unbound"
+      ],
+      "type": "Legendary Creature \u2014 Demon",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Demon"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Flying, intimidate, trample (A creature with intimidate can't be blocked except by artifact creatures and/or creatures that share a color with it.)\nWhenever a player loses the game, put thirteen +1/+1 counters on Withengar Unbound.",
+      "flavor": "There are not enough lives on Innistrad to satisfy his thirst for retribution.",
+      "artist": "Eric Deschamps",
+      "number": "8b",
+      "power": "13",
+      "toughness": "13",
+      "loyalty": null,
+      "multiverse_id": 439329,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "DKA",
+        "V17"
+      ],
+      "original_text": "Flying, intimidate, trample\nWhenever a player loses the game, put thirteen +1/+1 counters on Withengar Unbound.",
+      "original_type": "Legendary Creature \u2014 Demon",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439329&type=card",
+      "set": "V17",
+      "set_name": "From the Vault: Transform",
+      "id": "41c84842f39566ec6aecb209dbb32cfb132d52a6",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Garruk Relentless",
+      "layout": "double-faced",
+      "mana_cost": "{3}{G}",
+      "cmc": 4,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "B",
+        "G"
+      ],
+      "names": [
+        "Garruk Relentless",
+        "Garruk, the Veil-Cursed"
+      ],
+      "type": "Legendary Planeswalker \u2014 Garruk",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Garruk"
+      ],
+      "types": [
+        "Planeswalker"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "When Garruk Relentless has two or fewer loyalty counters on him, transform him.\n0: Garruk Relentless deals 3 damage to target creature. That creature deals damage equal to its power to him.\n0: Create a 2/2 green Wolf creature token.",
+      "flavor": null,
+      "artist": "Grzegorz Rutkowski",
+      "number": "9a",
+      "power": null,
+      "toughness": null,
+      "loyalty": 3,
+      "multiverse_id": 439330,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ISD",
+        "V17"
+      ],
+      "original_text": "When Garruk Relentless has two or fewer loyalty counters on him, transform him.\n0: Garruk Relentless deals 3 damage to target creature. That creature deals damage equal to its power to him.\n0: Create a 2/2 green Wolf creature token.",
+      "original_type": "Legendary Planeswalker \u2014 Garruk",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439330&type=card",
+      "set": "V17",
+      "set_name": "From the Vault: Transform",
+      "id": "6da7da5c91153c86ec676de228068eca8ccdcd84",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2011-09-22",
+          "text": "Garruk Relentless's first ability is a state-triggered ability. It triggers once Garruk has two or fewer loyalty counters on him and it can't retrigger while that ability is on the stack."
+        },
+        {
+          "date": "2011-09-22",
+          "text": "You don't add or remove loyalty counters from Garruk Relentless when he transforms into Garruk, the Veil-Cursed. In most cases, he'll have one or two loyalty counters on him."
+        },
+        {
+          "date": "2011-09-22",
+          "text": "You can't activate a loyalty ability of Garruk Relentless and later that turn after he transforms activate a loyalty ability of Garruk, the Veil-Cursed."
+        },
+        {
+          "date": "2016-07-13",
+          "text": "For more information on double-faced cards, see the Shadows over Innistrad mechanics article (http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-mechanics)."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Garruk, the Veil-Cursed",
+      "layout": "double-faced",
+      "mana_cost": null,
+      "cmc": 4,
+      "colors": [
+        "Black",
+        "Green"
+      ],
+      "color_identity": [
+        "B",
+        "G"
+      ],
+      "names": [
+        "Garruk Relentless",
+        "Garruk, the Veil-Cursed"
+      ],
+      "type": "Legendary Planeswalker \u2014 Garruk",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Garruk"
+      ],
+      "types": [
+        "Planeswalker"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "+1: Create a 1/1 black Wolf creature token with deathtouch.\n\u22121: Sacrifice a creature. If you do, search your library for a creature card, reveal it, put it into your hand, then shuffle your library.\n\u22123: Creatures you control gain trample and get +X/+X until end of turn, where X is the number of creature cards in your graveyard.",
+      "flavor": null,
+      "artist": "Grzegorz Rutkowski",
+      "number": "9b",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 439331,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ISD",
+        "V17"
+      ],
+      "original_text": "+1: Create a 1/1 black Wolf creature token with deathtouch.\n\u22121: Sacrifice a creature. If you do, search your library for a creature card, reveal it, put it into your hand, then shuffle your library.\n\u22123: Creatures you control gain trample and get +X/+X until end of turn, where X is the number of creature cards in your graveyard.",
+      "original_type": "Legendary Planeswalker \u2014 Garruk",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439331&type=card",
+      "set": "V17",
+      "set_name": "From the Vault: Transform",
+      "id": "1e73b34c98e01c9366a4a0adb063839b85269236",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2011-09-22",
+          "text": "The second ability of Garruk, the Veil-Cursed doesn't target a creature. However, when that ability resolves, you must sacrifice a creature if you control one."
+        },
+        {
+          "date": "2011-09-22",
+          "text": "The number of creature cards in your graveyard is counted when the third ability of Garruk, the Veil-Cursed resolves. Once the ability resolves, the bonus doesn't change if that number changes later in the turn."
+        },
+        {
+          "date": "2011-09-22",
+          "text": "Only creatures you control when the third ability of Garruk, the Veil-Cursed resolves will receive the bonus. Creatures that enter the battlefield or that you gain control of later in the turn won't be affected."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Gisela, the Broken Blade",
+      "layout": "meld",
+      "mana_cost": "{2}{W}{W}",
+      "cmc": 4,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": [
+        "Gisela, the Broken Blade",
+        "Brisela, Voice of Nightmares"
+      ],
+      "type": "Legendary Creature \u2014 Angel Horror",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Angel",
+        "Horror"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Flying, first strike, lifelink\nAt the beginning of your end step, if you both own and control Gisela, the Broken Blade and a creature named Bruna, the Fading Light, exile them, then meld them into Brisela, Voice of Nightmares.",
+      "flavor": "She now hears only Emrakul's murmurs.",
+      "artist": "Clint Cearley",
+      "number": "10a",
+      "power": "4",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": 439332,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "V17",
+        "EMN"
+      ],
+      "original_text": "Flying, first strike, lifelink\nAt the beginning of your end step, if you both own and control Gisela, the Broken Blade and a creature named Bruna, the Fading Light, exile them, then meld them into Brisela, Voice of Nightmares.",
+      "original_type": "Legendary Creature \u2014 Angel Horror",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439332&type=card",
+      "set": "V17",
+      "set_name": "From the Vault: Transform",
+      "id": "e3c7af4decf47eee3ea9e9cd8038dcf417eb2227",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2016-07-13",
+          "text": "In a Commander game, your commander may be Bruna, the Fading Light or Gisela, the Broken Blade, and the other may be in your deck. If they meld into Brisela, Voice of Nightmares, Brisela will also be your commander; but if Brisela leaves the battlefield, only the card chosen as your commander at the start of the game may be put into the command zone."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Huntmaster of the Fells",
+      "layout": "double-faced",
+      "mana_cost": "{2}{R}{G}",
+      "cmc": 4,
+      "colors": [
+        "Red",
+        "Green"
+      ],
+      "color_identity": [
+        "R",
+        "G"
+      ],
+      "names": [
+        "Huntmaster of the Fells",
+        "Ravager of the Fells"
+      ],
+      "type": "Creature \u2014 Human Werewolf",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Werewolf"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Whenever this creature enters the battlefield or transforms into Huntmaster of the Fells, create a 2/2 green Wolf creature token and you gain 2 life.\nAt the beginning of each upkeep, if no spells were cast last turn, transform Huntmaster of the Fells.",
+      "flavor": null,
+      "artist": "Magali Villeneuve",
+      "number": "11a",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 439333,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "DKA",
+        "V17"
+      ],
+      "original_text": "Whenever this creature enters the battlefield or transforms into Huntmaster of the Fells, create a 2/2 green Wolf creature token and you gain 2 life.\nAt the beginning of each upkeep, if no spells were cast last turn, transform Huntmaster of the Fells.",
+      "original_type": "Creature \u2014 Human Werewolf",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439333&type=card",
+      "set": "V17",
+      "set_name": "From the Vault: Transform",
+      "id": "c5890a1f29e22aa10e066375d3ada5ba1220e17d",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2016-07-13",
+          "text": "For more information on double-faced cards, see the Shadows over Innistrad mechanics article (http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-mechanics)."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Ravager of the Fells",
+      "layout": "double-faced",
+      "mana_cost": null,
+      "cmc": 4,
+      "colors": [
+        "Red",
+        "Green"
+      ],
+      "color_identity": [
+        "R",
+        "G"
+      ],
+      "names": [
+        "Huntmaster of the Fells",
+        "Ravager of the Fells"
+      ],
+      "type": "Creature \u2014 Werewolf",
+      "supertypes": null,
+      "subtypes": [
+        "Werewolf"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Trample\nWhenever this creature transforms into Ravager of the Fells, it deals 2 damage to target opponent or planeswalker and 2 damage to up to one target creature that player or that planeswalker's controller controls.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Ravager of the Fells.",
+      "flavor": null,
+      "artist": "Magali Villeneuve",
+      "number": "11b",
+      "power": "4",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": 439334,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "DKA",
+        "V17"
+      ],
+      "original_text": "Trample\nWhenever this creature transforms into Ravager of the Fells, it deals 2 damage to target opponent and 2 damage to up to one target creature that player controls.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Ravager of the Fells.",
+      "original_type": "Creature \u2014 Werewolf",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439334&type=card",
+      "set": "V17",
+      "set_name": "From the Vault: Transform",
+      "id": "f6d927d273da10e6602e81b7a806d9fa82962af1",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Jace, Vryn's Prodigy",
+      "layout": "double-faced",
+      "mana_cost": "{1}{U}",
+      "cmc": 2,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": [
+        "Jace, Vryn's Prodigy",
+        "Jace, Telepath Unbound"
+      ],
+      "type": "Legendary Creature \u2014 Human Wizard",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Human",
+        "Wizard"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "{T}: Draw a card, then discard a card. If there are five or more cards in your graveyard, exile Jace, Vryn's Prodigy, then return him to the battlefield transformed under his owner's control.",
+      "flavor": "\"People's thoughts just come to me. Sometimes I don't know if it's them or me thinking.\"",
+      "artist": "Jaime Jones",
+      "number": "12a",
+      "power": "0",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 439335,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pPRE",
+        "ORI",
+        "V17"
+      ],
+      "original_text": "{T}: Draw a card, then discard a card. If there are five or more cards in your graveyard, exile Jace, Vryn's Prodigy, then return him to the battlefield transformed under his owner's control.",
+      "original_type": "Legendary Creature \u2014 Human Wizard",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439335&type=card",
+      "set": "V17",
+      "set_name": "From the Vault: Transform",
+      "id": "6d78c85ef5113c3d5c18a13d6d51fa2be7ca03b4",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2015-06-22",
+          "text": "The activated ability of Jace, Vryn's Prodigy checks to see if there are five or more cards in your graveyard after you discard a card. Putting a fifth card into your graveyard at other times won't cause Jace to be exiled, nor will Jace entering the battlefield while there are five or more cards in your graveyard."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "Each face of a double-faced card has its own set of characteristics: name, types, subtypes, power and toughness, loyalty, abilities, and so on. While a double-faced card is on the battlefield, consider only the characteristics of the face that's currently up. The other set of characteristics is ignored. While a double-faced card isn't on the battlefield, consider only the characteristics of its front face."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "The converted mana cost of a double-faced card not on the battlefield is the converted mana cost of its front face."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "The back face of a double-faced card (in the case of Magic Origins, the planeswalker face) can't be cast."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "A double-faced card enters the battlefield with its front face up by default, unless a spell or ability instructs you to put it onto the battlefield transformed, in which case it enters with its back face up."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "A Magic Origins planeswalker that enters the battlefield because of the ability of its front face will enter with loyalty counters as normal."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "In some rare cases, a spell or ability may cause one of these five cards to transform while it's a creature (front face up) on the battlefield. If this happens, the resulting planeswalker won't have any loyalty counters on it and will subsequently be put into its owner's graveyard."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "You can activate one of the planeswalker's loyalty abilities the turn it enters the battlefield. However, you may do so only during one of your main phases when the stack is empty. For example, if the planeswalker enters the battlefield during combat, there will be an opportunity for your opponent to remove it before you can activate one of its abilities."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "If a double-faced card is manifested, it will be put onto the battlefield face down (this is also true if it's put onto the battlefield face down some other way). Note that \"face down\" is not synonymous with \"with its back face up.\" A manifested double-faced card is a 2/2 creature with no name, mana cost, creature types, or abilities. While face down, it can't transform. If the front face of a manifested double-faced card is a creature card, you can turn it face up by paying its mana cost. If you do, its front face will be up. A double-faced card on the battlefield can't be turned face down."
+        },
+        {
+          "date": "2016-04-08",
+          "text": "If you discard a card with madness while resolving the ability of Jace, Vryn's Prodigy, you'll need to already have five other cards in your graveyard to satisfy that ability's condition. You can't choose to put the card directly into your graveyard to satisfy it."
+        },
+        {
+          "date": "2016-04-08",
+          "text": "The back face of a double-faced card doesn't have a mana cost. A double-faced permanent with its back face up has a converted mana cost equal to the converted mana cost of its front face. Each back face has a color indicator that defines its color."
+        },
+        {
+          "date": "2016-07-13",
+          "text": "For more information on double-faced cards, see the Shadows over Innistrad mechanics article (http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-mechanics)."
+        },
+        {
+          "date": "2017-09-29",
+          "text": "You can control two of this permanent, one front-face up and the other back-face up, at the same time."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Jace, Telepath Unbound",
+      "layout": "double-faced",
+      "mana_cost": null,
+      "cmc": 2,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": [
+        "Jace, Vryn's Prodigy",
+        "Jace, Telepath Unbound"
+      ],
+      "type": "Legendary Planeswalker \u2014 Jace",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Jace"
+      ],
+      "types": [
+        "Planeswalker"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "+1: Up to one target creature gets -2/-0 until your next turn.\n\u22123: You may cast target instant or sorcery card from your graveyard this turn. If that card would be put into your graveyard this turn, exile it instead.\n\u22129: You get an emblem with \"Whenever you cast a spell, target opponent puts the top five cards of their library into their graveyard.\"",
+      "flavor": null,
+      "artist": "Jaime Jones",
+      "number": "12b",
+      "power": null,
+      "toughness": null,
+      "loyalty": 5,
+      "multiverse_id": 439336,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ORI",
+        "V17"
+      ],
+      "original_text": "+1: Up to one target creature gets -2/-0 until your next turn.\n\u22123: You may cast target instant or sorcery card from your graveyard this turn. If that card would be put into your graveyard this turn, exile it instead.\n\u22129: You get an emblem with \"Whenever you cast a spell, target opponent puts the top five cards of his or her library into his or her graveyard.\"",
+      "original_type": "Legendary Planeswalker \u2014 Jace",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439336&type=card",
+      "set": "V17",
+      "set_name": "From the Vault: Transform",
+      "id": "42ae5e744763b26ba7775dfb8d97918b43bd4cd9",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2015-06-22",
+          "text": "If you activate the second ability of Jace, Telepath Unbound, you must follow the timing rules for the card's types. For example, if you target a sorcery card, you may cast it during your main phase when the stack is empty. You pay all the spell's costs."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "If you don't cast the card that turn, nothing happens. It remains in your graveyard."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "The card is exiled only if it's cast from the graveyard and put back into the graveyard (either by resolving or being countered). If, at any time, the card goes to a hidden zone (such as your hand or your library), the effect loses track of the card. It won't be exiled, even if that card is put into your graveyard later that turn."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Kytheon, Hero of Akros",
+      "layout": "double-faced",
+      "mana_cost": "{W}",
+      "cmc": 1,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": [
+        "Kytheon, Hero of Akros",
+        "Gideon, Battle-Forged"
+      ],
+      "type": "Legendary Creature \u2014 Human Soldier",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Human",
+        "Soldier"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "At end of combat, if Kytheon, Hero of Akros and at least two other creatures attacked this combat, exile Kytheon, then return him to the battlefield transformed under his owner's control.\n{2}{W}: Kytheon gains indestructible until end of turn.",
+      "flavor": null,
+      "artist": "Willian Murai",
+      "number": "13a",
+      "power": "2",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 439337,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pPRE",
+        "ORI",
+        "V17"
+      ],
+      "original_text": "At end of combat, if Kytheon, Hero of Akros and at least two other creatures attacked this combat, exile Kytheon, then return him to the battlefield transformed under his owner's control.\n{2}{W}: Kytheon gains indestructible until end of turn.",
+      "original_type": "Legendary Creature \u2014 Human Soldier",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439337&type=card",
+      "set": "V17",
+      "set_name": "From the Vault: Transform",
+      "id": "dadb6c264ae9cf570f75f3e812f011a84dc4a957",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2015-06-22",
+          "text": "Kytheon's first ability will count creatures that attacked but are no longer on the battlefield (perhaps because they didn't survive combat damage being dealt). It will not count any creatures that were put onto the battlefield attacking, as those creatures were never declared as attackers."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "Each face of a double-faced card has its own set of characteristics: name, types, subtypes, power and toughness, loyalty, abilities, and so on. While a double-faced card is on the battlefield, consider only the characteristics of the face that's currently up. The other set of characteristics is ignored. While a double-faced card isn't on the battlefield, consider only the characteristics of its front face."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "The converted mana cost of a double-faced card not on the battlefield is the converted mana cost of its front face."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "The back face of a double-faced card (in the case of Magic Origins, the planeswalker face) can't be cast."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "A double-faced card enters the battlefield with its front face up by default, unless a spell or ability instructs you to put it onto the battlefield transformed, in which case it enters with its back face up."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "A Magic Origins planeswalker that enters the battlefield because of the ability of its front face will enter with loyalty counters as normal."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "In some rare cases, a spell or ability may cause one of these five cards to transform while it's a creature (front face up) on the battlefield. If this happens, the resulting planeswalker won't have any loyalty counters on it and will subsequently be put into its owner's graveyard."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "You can activate one of the planeswalker's loyalty abilities the turn it enters the battlefield. However, you may do so only during one of your main phases when the stack is empty. For example, if the planeswalker enters the battlefield during combat, there will be an opportunity for your opponent to remove it before you can activate one of its abilities."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "If a double-faced card is manifested, it will be put onto the battlefield face down (this is also true if it's put onto the battlefield face down some other way). Note that \"face down\" is not synonymous with \"with its back face up.\" A manifested double-faced card is a 2/2 creature with no name, mana cost, creature types, or abilities. While face down, it can't transform. If the front face of a manifested double-faced card is a creature card, you can turn it face up by paying its mana cost. If you do, its front face will be up. A double-faced card on the battlefield can't be turned face down."
+        },
+        {
+          "date": "2016-04-08",
+          "text": "The back face of a double-faced card doesn't have a mana cost. A double-faced permanent with its back face up has a converted mana cost equal to the converted mana cost of its front face. Each back face has a color indicator that defines its color."
+        },
+        {
+          "date": "2016-07-13",
+          "text": "For more information on double-faced cards, see the Shadows over Innistrad mechanics article (http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-mechanics)."
+        },
+        {
+          "date": "2017-09-29",
+          "text": "You can control two of this permanent, one front-face up and the other back-face up, at the same time."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Gideon, Battle-Forged",
+      "layout": "double-faced",
+      "mana_cost": null,
+      "cmc": 1,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": [
+        "Kytheon, Hero of Akros",
+        "Gideon, Battle-Forged"
+      ],
+      "type": "Legendary Planeswalker \u2014 Gideon",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Gideon"
+      ],
+      "types": [
+        "Planeswalker"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "+2: Up to one target creature an opponent controls attacks Gideon, Battle-Forged during its controller's next turn if able.\n+1: Until your next turn, target creature gains indestructible. Untap that creature.\n0: Until end of turn, Gideon, Battle-Forged becomes a 4/4 Human Soldier creature with indestructible that's still a planeswalker. Prevent all damage that would be dealt to him this turn.",
+      "flavor": null,
+      "artist": "Willian Murai",
+      "number": "13b",
+      "power": null,
+      "toughness": null,
+      "loyalty": 3,
+      "multiverse_id": 439338,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ORI",
+        "V17"
+      ],
+      "original_text": "+2: Up to one target creature an opponent controls attacks Gideon, Battle-Forged during its controller's next turn if able.\n+1: Until your next turn, target creature gains indestructible. Untap that creature.\n0: Until end of turn, Gideon, Battle-Forged becomes a 4/4 Human Soldier creature with indestructible that's still a planeswalker. Prevent all damage that would be dealt to him this turn.",
+      "original_type": "Legendary Planeswalker \u2014 Gideon",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439338&type=card",
+      "set": "V17",
+      "set_name": "From the Vault: Transform",
+      "id": "d48040f4e65a44b04934b0497cc1b440cc88ced9",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2015-06-22",
+          "text": "Gideon's first ability causes a creature to attack him if able. If, during its controller's declare attackers step, that creature is tapped, is affected by a spell or ability that says it can't attack, or hasn't been under its controller's control continuously since that player's turn began, then that creature doesn't attack. If there's a cost associated with having that creature attack, its controller isn't forced to pay that cost. If they don't, the creature doesn't have to attack."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "If Gideon can't be attacked, perhaps because he has left the battlefield before the creature's controller's next combat, the creature targeted by Gideon's first ability can attack you or another planeswalker you control, or its controller can choose to have it not attack at all."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "If the creature targeted by Gideon's first ability changes controllers before it has the chance to attack Gideon, the ability will apply to it during its new controller's next turn."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "If Gideon becomes a creature due to his third ability, that doesn't count as having a creature enter the battlefield. Gideon was already on the battlefield; he only changed his types. Abilities that trigger whenever a creature enters the battlefield won't trigger."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "Gideon's third ability causes him to become a creature with the creature types Human Soldier. He remains a planeswalker with the planeswalker type Gideon. (He also retains any other card types or subtypes he may have had.) Each subtype is correlated to the proper card type: Gideon is just a planeswalker type (not a creature type), and Human and Soldier are just creature types (not planeswalker types)."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "If you activate Gideon's third ability and then damage is dealt to him that can't be prevented, that damage has all applicable results: specifically, the damage is marked on Gideon (since he's a creature) and that damage causes that many loyalty counters to be removed from him (since he's a planeswalker). If Gideon has no loyalty counters on him, he's put into his owner's graveyard as a state-based action. (As long as he still has indestructible, the marked damage won't cause him to be destroyed.)"
+        },
+        {
+          "date": "2015-06-22",
+          "text": "Say you activate Gideon's third ability, then an opponent gains control of him before combat. You may have any of your creatures attack Gideon (since he's still a planeswalker). Then Gideon may block (since he's a creature). He may block any eligible attacking creature, including one that's attacking him. During combat, he behaves as an attacked planeswalker and/or a blocking creature, as appropriate. For example, he deals combat damage to any creatures he's blocking, but he doesn't deal combat damage to any unblocked creatures that are attacking him."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Liliana, Heretical Healer",
+      "layout": "double-faced",
+      "mana_cost": "{1}{B}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": [
+        "Liliana, Heretical Healer",
+        "Liliana, Defiant Necromancer"
+      ],
+      "type": "Legendary Creature \u2014 Human Cleric",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Human",
+        "Cleric"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Lifelink\nWhenever another nontoken creature you control dies, exile Liliana, Heretical Healer, then return her to the battlefield transformed under her owner's control. If you do, create a 2/2 black Zombie creature token.",
+      "flavor": null,
+      "artist": "Karla Ortiz",
+      "number": "14a",
+      "power": "2",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": 439339,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pPRE",
+        "ORI",
+        "V17"
+      ],
+      "original_text": "Lifelink\nWhenever another nontoken creature you control dies, exile Liliana, Heretical Healer, then return her to the battlefield transformed under her owner's control. If you do, create a 2/2 black Zombie creature token.",
+      "original_type": "Legendary Creature \u2014 Human Cleric",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439339&type=card",
+      "set": "V17",
+      "set_name": "From the Vault: Transform",
+      "id": "ed508942e600b36b045116a062378f5cd6c38ea1",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2015-06-22",
+          "text": "If multiple nontoken creatures you control die, then Liliana, Heretical Healer's ability will trigger that many times. However, since Liliana can be exiled and returned to the battlefield only once, only the first ability to resolve will create a Zombie token. The other abilities will resolve but won't do anything."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "Each face of a double-faced card has its own set of characteristics: name, types, subtypes, power and toughness, loyalty, abilities, and so on. While a double-faced card is on the battlefield, consider only the characteristics of the face that's currently up. The other set of characteristics is ignored. While a double-faced card isn't on the battlefield, consider only the characteristics of its front face."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "The converted mana cost of a double-faced card not on the battlefield is the converted mana cost of its front face."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "The back face of a double-faced card (in the case of Magic Origins, the planeswalker face) can't be cast."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "A double-faced card enters the battlefield with its front face up by default, unless a spell or ability instructs you to put it onto the battlefield transformed, in which case it enters with its back face up."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "A Magic Origins planeswalker that enters the battlefield because of the ability of its front face will enter with loyalty counters as normal."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "In some rare cases, a spell or ability may cause one of these five cards to transform while it's a creature (front face up) on the battlefield. If this happens, the resulting planeswalker won't have any loyalty counters on it and will subsequently be put into its owner's graveyard."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "You can activate one of the planeswalker's loyalty abilities the turn it enters the battlefield. However, you may do so only during one of your main phases when the stack is empty. For example, if the planeswalker enters the battlefield during combat, there will be an opportunity for your opponent to remove it before you can activate one of its abilities."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "If a double-faced card is manifested, it will be put onto the battlefield face down (this is also true if it's put onto the battlefield face down some other way). Note that \"face down\" is not synonymous with \"with its back face up.\" A manifested double-faced card is a 2/2 creature with no name, mana cost, creature types, or abilities. While face down, it can't transform. If the front face of a manifested double-faced card is a creature card, you can turn it face up by paying its mana cost. If you do, its front face will be up. A double-faced card on the battlefield can't be turned face down."
+        },
+        {
+          "date": "2016-04-08",
+          "text": "The back face of a double-faced card doesn't have a mana cost. A double-faced permanent with its back face up has a converted mana cost equal to the converted mana cost of its front face. Each back face has a color indicator that defines its color."
+        },
+        {
+          "date": "2016-07-13",
+          "text": "For more information on double-faced cards, see the Shadows over Innistrad mechanics article (http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-mechanics)."
+        },
+        {
+          "date": "2017-09-29",
+          "text": "You can control two of this permanent, one front-face up and the other back-face up, at the same time."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Liliana, Defiant Necromancer",
+      "layout": "double-faced",
+      "mana_cost": null,
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": [
+        "Liliana, Heretical Healer",
+        "Liliana, Defiant Necromancer"
+      ],
+      "type": "Legendary Planeswalker \u2014 Liliana",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Liliana"
+      ],
+      "types": [
+        "Planeswalker"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "+2: Each player discards a card.\n\u2212X: Return target nonlegendary creature card with converted mana cost X from your graveyard to the battlefield.\n\u22128: You get an emblem with \"Whenever a creature dies, return it to the battlefield under your control at the beginning of the next end step.\"",
+      "flavor": null,
+      "artist": "Karla Ortiz",
+      "number": "14b",
+      "power": null,
+      "toughness": null,
+      "loyalty": 3,
+      "multiverse_id": 439340,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ORI",
+        "V17"
+      ],
+      "original_text": "+2: Each player discards a card.\n\u2212X: Return target nonlegendary creature card with converted mana cost X from your graveyard to the battlefield.\n\u22128: You get an emblem with \"Whenever a creature dies, return it to the battlefield under your control at the beginning of the next end step.\"",
+      "original_type": "Legendary Planeswalker \u2014 Liliana",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439340&type=card",
+      "set": "V17",
+      "set_name": "From the Vault: Transform",
+      "id": "2de25e412b5b8812142b1d8557f5d803875e70b7",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2015-06-22",
+          "text": "When Liliana, Defiant Necromancer's first ability resolves, first you choose a card to discard, then each other player in turn order chooses a card to discard, then all those cards are discarded simultaneously. No one sees what the other players are discarding before deciding which card to discard."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Nissa, Vastwood Seer",
+      "layout": "double-faced",
+      "mana_cost": "{2}{G}",
+      "cmc": 3,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": [
+        "Nissa, Vastwood Seer",
+        "Nissa, Sage Animist"
+      ],
+      "type": "Legendary Creature \u2014 Elf Scout",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Elf",
+        "Scout"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "When Nissa, Vastwood Seer enters the battlefield, you may search your library for a basic Forest card, reveal it, put it into your hand, then shuffle your library.\nWhenever a land enters the battlefield under your control, if you control seven or more lands, exile Nissa, then return her to the battlefield transformed under her owner's control.",
+      "flavor": null,
+      "artist": "Wesley Burt",
+      "number": "15a",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 439341,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pPRE",
+        "ORI",
+        "V17"
+      ],
+      "original_text": "When Nissa, Vastwood Seer enters the battlefield, you may search your library for a basic Forest card, reveal it, put it into your hand, then shuffle your library.\nWhenever a land enters the battlefield under your control, if you control seven or more lands, exile Nissa, then return her to the battlefield transformed under her owner's control.",
+      "original_type": "Legendary Creature \u2014 Elf Scout",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439341&type=card",
+      "set": "V17",
+      "set_name": "From the Vault: Transform",
+      "id": "987458f90ab0c15c7dc07fd7fa4c92bc4b54746c",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2015-06-22",
+          "text": "Nissa, Vastwood Seer is exiled as a result of her second triggered ability. If she enters the battlefield while you control seven or more lands, she won't automatically be exiled and transform."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "Each face of a double-faced card has its own set of characteristics: name, types, subtypes, power and toughness, loyalty, abilities, and so on. While a double-faced card is on the battlefield, consider only the characteristics of the face that's currently up. The other set of characteristics is ignored. While a double-faced card isn't on the battlefield, consider only the characteristics of its front face."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "The converted mana cost of a double-faced card not on the battlefield is the converted mana cost of its front face."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "The back face of a double-faced card (in the case of Magic Origins, the planeswalker face) can't be cast."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "A double-faced card enters the battlefield with its front face up by default, unless a spell or ability instructs you to put it onto the battlefield transformed, in which case it enters with its back face up."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "A Magic Origins planeswalker that enters the battlefield because of the ability of its front face will enter with loyalty counters as normal."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "In some rare cases, a spell or ability may cause one of these five cards to transform while it's a creature (front face up) on the battlefield. If this happens, the resulting planeswalker won't have any loyalty counters on it and will subsequently be put into its owner's graveyard."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "You can activate one of the planeswalker's loyalty abilities the turn it enters the battlefield. However, you may do so only during one of your main phases when the stack is empty. For example, if the planeswalker enters the battlefield during combat, there will be an opportunity for your opponent to remove it before you can activate one of its abilities."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "If a double-faced card is manifested, it will be put onto the battlefield face down (this is also true if it's put onto the battlefield face down some other way). Note that \"face down\" is not synonymous with \"with its back face up.\" A manifested double-faced card is a 2/2 creature with no name, mana cost, creature types, or abilities. While face down, it can't transform. If the front face of a manifested double-faced card is a creature card, you can turn it face up by paying its mana cost. If you do, its front face will be up. A double-faced card on the battlefield can't be turned face down."
+        },
+        {
+          "date": "2016-04-08",
+          "text": "The back face of a double-faced card doesn't have a mana cost. A double-faced permanent with its back face up has a converted mana cost equal to the converted mana cost of its front face. Each back face has a color indicator that defines its color."
+        },
+        {
+          "date": "2016-07-13",
+          "text": "For more information on double-faced cards, see the Shadows over Innistrad mechanics article (http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-mechanics)."
+        },
+        {
+          "date": "2017-09-29",
+          "text": "You can control two of this permanent, one front-face up and the other back-face up, at the same time."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Nissa, Sage Animist",
+      "layout": "double-faced",
+      "mana_cost": null,
+      "cmc": 3,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": [
+        "Nissa, Vastwood Seer",
+        "Nissa, Sage Animist"
+      ],
+      "type": "Legendary Planeswalker \u2014 Nissa",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Nissa"
+      ],
+      "types": [
+        "Planeswalker"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "+1: Reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put it into your hand.\n\u22122: Create a legendary 4/4 green Elemental creature token named Ashaya, the Awoken World.\n\u22127: Untap up to six target lands. They become 6/6 Elemental creatures. They're still lands.",
+      "flavor": null,
+      "artist": "Wesley Burt",
+      "number": "15b",
+      "power": null,
+      "toughness": null,
+      "loyalty": 3,
+      "multiverse_id": 439342,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ORI",
+        "V17"
+      ],
+      "original_text": "+1: Reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put it into your hand.\n\u22122: Create a legendary 4/4 green Elemental creature token named Ashaya, the Awoken World.\n\u22127: Untap up to six target lands. They become 6/6 Elemental creatures. They're still lands.",
+      "original_type": "Legendary Planeswalker \u2014 Nissa",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439342&type=card",
+      "set": "V17",
+      "set_name": "From the Vault: Transform",
+      "id": "e9d4317cb52088f58abbca8a3a63869e51e4f8d9",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2015-06-22",
+          "text": "You can activate Nissa, Sage Animist's second ability even if you already control an Ashaya, the Awoken World. Just after the second token is created, you'll choose one to remain on the battlefield. The other will be put into your graveyard and subsequently cease to exist."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "If a land becomes a creature but hasn't continuously been under its controller's control since that player's most recent turn began, it won't be able to attack and its abilities with {T} in the cost (including mana abilities) won't be able to be activated. In other words, look at how long the permanent itself has been under your control, not how long it's been a creature."
+        }
+      ],
+      "foreign_names": null
+    }
+  ]
+}

@@ -1,0 +1,6733 @@
+{
+  "code": "S00",
+  "name": "Starter 2000",
+  "type": "starter",
+  "border": "white",
+  "mkm_id": 65,
+  "mkm_name": "Starter 2000",
+  "release_date": "2000-04-24",
+  "gatherer_code": "P4",
+  "magic_cards_info_code": "st2k",
+  "booster": null,
+  "old_code": null,
+  "block": null,
+  "online_only": null,
+  "cards": [
+    {
+      "name": "Breath of Life",
+      "layout": "normal",
+      "mana_cost": "{3}{W}",
+      "cmc": 4,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Uncommon",
+      "text": "Return target creature card from your graveyard to the battlefield.",
+      "flavor": null,
+      "artist": "DiTerlizzi",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 25447,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "POR",
+        "PO2",
+        "S99",
+        "S00",
+        "7ED",
+        "VMA"
+      ],
+      "original_text": "Return target creature card from your graveyard to play.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25447&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "8eaa3d2d2856c0fe41502563d9da1242e501789c",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Wind Drake",
+      "layout": "normal",
+      "mana_cost": "{2}{U}",
+      "cmc": 3,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Drake",
+      "supertypes": null,
+      "subtypes": [
+        "Drake"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Flying",
+      "flavor": "\"No bird soars too high, if he soars with his own wings.\"\n\u2014William Blake,\nThe Marriage of Heaven and Hell",
+      "artist": "Zina Saunders",
+      "number": null,
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 25448,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "POR",
+        "TMP",
+        "6ED",
+        "S99",
+        "BRB",
+        "S00",
+        "7ED",
+        "8ED",
+        "9ED",
+        "M10",
+        "M13",
+        "DGM",
+        "TPR",
+        "KLD"
+      ],
+      "original_text": "Flying",
+      "original_type": "Creature \u2014 Drake",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25448&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "52908325c41f7ae465b7d984a10ea061103533ff",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Wild Griffin",
+      "layout": "normal",
+      "mana_cost": "{2}{W}",
+      "cmc": 3,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Griffin",
+      "supertypes": null,
+      "subtypes": [
+        "Griffin"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Flying",
+      "flavor": "Two little goblins, out in the sun. Down came a griffin, and then there was one.",
+      "artist": "Jeff Miracola",
+      "number": null,
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 25449,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "PO2",
+        "S99",
+        "S00",
+        "10E",
+        "M11",
+        "ME4",
+        "CN2"
+      ],
+      "original_text": "Flying",
+      "original_type": "Creature \u2014 Griffin",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25449&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "a70eca72fe78a69e6ba79184f2fb623ae6b99f84",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Knight Errant",
+      "layout": "normal",
+      "mana_cost": "{1}{W}",
+      "cmc": 2,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Knight",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Knight"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": null,
+      "flavor": "\". . . Before honor is humility.\"\n\u2014The Bible, Proverbs 15:33",
+      "artist": "Dan Frazier",
+      "number": null,
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 25450,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "POR",
+        "S99",
+        "S00",
+        "7ED"
+      ],
+      "original_text": null,
+      "original_type": "Creature \u2014 Knight",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25450&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "661aa24f7980505acece6afa800dae15f62533c8",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Island",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Island",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Island"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Douglas Shuler",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 25451,
+      "variations": [
+        25452
+      ],
+      "watermark": "Blue",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DD2",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "DDF",
+        "SOM",
+        "MBS",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "M14",
+        "THS",
+        "C13",
+        "DDM",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_JVC",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "DDT",
+        "UST",
+        "RIX",
+        "DDU",
+        "DOM"
+      ],
+      "original_text": "U",
+      "original_type": "Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25451&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "30de0453401401c0bbe568d93811916422d8ffc9",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Island",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Island",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Island"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Eric Peterson",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 25452,
+      "variations": [
+        25451
+      ],
+      "watermark": "Blue",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DD2",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "DDF",
+        "SOM",
+        "MBS",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "M14",
+        "THS",
+        "C13",
+        "DDM",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_JVC",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "DDT",
+        "UST",
+        "RIX",
+        "DDU",
+        "DOM"
+      ],
+      "original_text": "U",
+      "original_type": "Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25452&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "47138cafc45ce7729ee30e3fa2945d3ebf19202a",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Plains",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Plains",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Plains"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Douglas Shuler",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 25453,
+      "variations": [
+        25454
+      ],
+      "watermark": "White",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "pPRE",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "INV",
+        "7ED",
+        "ODY",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DDC",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "ARC",
+        "M11",
+        "DDF",
+        "SOM",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "RTR",
+        "DDK",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "MD1",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_DVD",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "UST",
+        "RIX",
+        "DOM"
+      ],
+      "original_text": "W",
+      "original_type": "Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25453&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "1d60de7339a7e2bc1ee76f6b475a4e5852a812de",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Plains",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Plains",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Plains"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Fred Fields",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 25454,
+      "variations": [
+        25453
+      ],
+      "watermark": "White",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "pPRE",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "INV",
+        "7ED",
+        "ODY",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DDC",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "ARC",
+        "M11",
+        "DDF",
+        "SOM",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "RTR",
+        "DDK",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "MD1",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_DVD",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "UST",
+        "RIX",
+        "DOM"
+      ],
+      "original_text": "W",
+      "original_type": "Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25454&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "237f51551c42ec1cec0d4417147d8d86c0027e00",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Eager Cadet",
+      "layout": "normal",
+      "mana_cost": "{W}",
+      "cmc": 1,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Soldier",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Soldier"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": null,
+      "flavor": "The enthusiasm of the young, sharpened by the discipline of a soldier.",
+      "artist": "Scott M. Fischer",
+      "number": null,
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 25455,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "S99",
+        "S00",
+        "7ED",
+        "8ED",
+        "9ED"
+      ],
+      "original_text": null,
+      "original_type": "Creature \u2014 Soldier",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25455&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "629fb5530bad2113060dfd13c35bb225d2c2dedd",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Angelic Blessing",
+      "layout": "normal",
+      "mana_cost": "{2}{W}",
+      "cmc": 3,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Common",
+      "text": "Target creature gets +3/+3 and gains flying until end of turn. (It can't be blocked except by creatures with flying or reach.)",
+      "flavor": "Only the warrior who can admit mortal weakness will be bolstered by immortal strength.",
+      "artist": "Mark Zug",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 25456,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "POR",
+        "EXO",
+        "PO2",
+        "S99",
+        "S00",
+        "9ED",
+        "10E",
+        "TPR"
+      ],
+      "original_text": "Target creature gets +3/+3 and gains flying until end of turn.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25456&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "90e4a6831ccaf100b702dde5ca5d7aa3e5e76831",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Giant Octopus",
+      "layout": "normal",
+      "mana_cost": "{3}{U}",
+      "cmc": 4,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Octopus",
+      "supertypes": null,
+      "subtypes": [
+        "Octopus"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": null,
+      "flavor": "At the sight of the thing the calamari vendor's eyes went wide, but from fear or avarice none could tell.",
+      "artist": "John Matson",
+      "number": null,
+      "power": "3",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": 25457,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "POR",
+        "S99",
+        "S00",
+        "7ED",
+        "8ED",
+        "9ED"
+      ],
+      "original_text": null,
+      "original_type": "Creature \u2014 Octopus",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25457&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "cfcf2d65ae8847be1688f87ce534f2a4a4a62627",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Merfolk of the Pearl Trident",
+      "layout": "normal",
+      "mana_cost": "{U}",
+      "cmc": 1,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Merfolk",
+      "supertypes": null,
+      "subtypes": [
+        "Merfolk"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": null,
+      "flavor": "Are merfolk humans with fins, or are humans merfolk with feet?",
+      "artist": "DiTerlizzi",
+      "number": null,
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 25458,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED",
+        "POR",
+        "6ED",
+        "S99",
+        "S00",
+        "7ED",
+        "M13"
+      ],
+      "original_text": null,
+      "original_type": "Creature \u2014 Merfolk",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25458&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "f70b4867fdec1289930da5818fab412444654dda",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Royal Falcon",
+      "layout": "normal",
+      "mana_cost": "{1}{W}",
+      "cmc": 2,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Bird",
+      "supertypes": null,
+      "subtypes": [
+        "Bird"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Flying",
+      "flavor": "Hunter by instinct, weapon by training.",
+      "artist": "Carl Critchlow",
+      "number": null,
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 25459,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "S99",
+        "S00"
+      ],
+      "original_text": "Flying",
+      "original_type": "Creature \u2014 Bird",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25459&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "b345d4550d5ce33ce5de8bef382ccd6926b34d4f",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Sea Eagle",
+      "layout": "normal",
+      "mana_cost": "{1}{U}",
+      "cmc": 2,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Bird",
+      "supertypes": null,
+      "subtypes": [
+        "Bird"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Flying",
+      "flavor": "Where air meets water, fish meets talon.",
+      "artist": "Anthony S. Waters",
+      "number": null,
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 25460,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "S99",
+        "S00",
+        "8ED"
+      ],
+      "original_text": "Flying",
+      "original_type": "Creature \u2014 Bird",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25460&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "59131608d7353e5f0fe990d97f6bc200ab59f068",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Time Ebb",
+      "layout": "normal",
+      "mana_cost": "{2}{U}",
+      "cmc": 3,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Common",
+      "text": "Put target creature on top of its owner's library.",
+      "flavor": "Like the tide, time both ebbs and flows.",
+      "artist": "Alan Rabinowitz",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 25462,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "POR",
+        "TMP",
+        "PO2",
+        "S99",
+        "S00",
+        "9ED",
+        "M14",
+        "TPR"
+      ],
+      "original_text": "Put target creature on top of its owner's library.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25462&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "ae817cad2d352b5895ec9a7e658b93a61cbf9cc3",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Vizzerdrix",
+      "layout": "normal",
+      "mana_cost": "{6}{U}",
+      "cmc": 7,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Rabbit Beast",
+      "supertypes": null,
+      "subtypes": [
+        "Rabbit",
+        "Beast"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": null,
+      "flavor": "Its swamp cousin may be meaner, but the vizzerdrix is much bigger.",
+      "artist": "Eric Peterson",
+      "number": null,
+      "power": "6",
+      "toughness": "6",
+      "loyalty": null,
+      "multiverse_id": 25463,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "S99",
+        "S00",
+        "7ED",
+        "8ED",
+        "9ED"
+      ],
+      "original_text": null,
+      "original_type": "Creature \u2014 Beast",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25463&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "5b2b45699a37a1eae572a90ec1b958725401c207",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Monstrous Growth",
+      "layout": "normal",
+      "mana_cost": "{1}{G}",
+      "cmc": 2,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Common",
+      "text": "Target creature gets +4/+4 until end of turn.",
+      "flavor": "The nightstalkers' little game of tease-the-squirrel suddenly took an unexpected turn.",
+      "artist": "Una Fricker",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 25475,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "POR",
+        "PO2",
+        "S99",
+        "S00",
+        "7ED",
+        "8ED"
+      ],
+      "original_text": "Target creature gets +4/+4 until end of turn.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25475&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "d3c414bd3ed6e8b57b5b3cc8538b9fa5589de017",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Ogre Warrior",
+      "layout": "normal",
+      "mana_cost": "{3}{R}",
+      "cmc": 4,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Ogre Warrior",
+      "supertypes": null,
+      "subtypes": [
+        "Ogre",
+        "Warrior"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": null,
+      "flavor": "Assault and battery included.",
+      "artist": "Jeff Miracola",
+      "number": null,
+      "power": "3",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": 25476,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "PO2",
+        "S99",
+        "S00"
+      ],
+      "original_text": null,
+      "original_type": "Creature \u2014 Ogre",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25476&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "5aecb1758958c8068d1992a05272fad591e4194c",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Coercion",
+      "layout": "normal",
+      "mana_cost": "{2}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Common",
+      "text": "Target opponent reveals their hand. You choose a card from it. That player discards that card.",
+      "flavor": "A rhino's bargain\n\u2014Femeref expression meaning\n\"a situation with no choices\"",
+      "artist": "DiTerlizzi",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 25477,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "VIS",
+        "TMP",
+        "PO2",
+        "6ED",
+        "PTK",
+        "S99",
+        "S00",
+        "BTD",
+        "8ED",
+        "9ED",
+        "TPR"
+      ],
+      "original_text": "Look at target player's hand and choose a card from it. That player discards that card.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25477&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "e044212a971ed4b709664e5982ce32c90676863a",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Swamp",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Swamp",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Swamp"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Dan Frazier",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 25478,
+      "variations": [
+        25479
+      ],
+      "watermark": "Black",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DDC",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "DDD",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "MBS",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "PD3",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "DDK",
+        "M14",
+        "THS",
+        "C13",
+        "DDM",
+        "MD1",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_DVD",
+        "DD3_GVL",
+        "FRF",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "DDR",
+        "KLD",
+        "C16",
+        "PCA",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "UST",
+        "RIX",
+        "DOM"
+      ],
+      "original_text": "B",
+      "original_type": "Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25478&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "be2a492e6edc5097a910d8e5a0032e0373ef4c33",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Swamp",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Swamp",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Swamp"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Douglas Shuler",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 25479,
+      "variations": [
+        25478
+      ],
+      "watermark": "Black",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DDC",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "DDD",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "MBS",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "PD3",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "DDK",
+        "M14",
+        "THS",
+        "C13",
+        "DDM",
+        "MD1",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_DVD",
+        "DD3_GVL",
+        "FRF",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "DDR",
+        "KLD",
+        "C16",
+        "PCA",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "UST",
+        "RIX",
+        "DOM"
+      ],
+      "original_text": "B",
+      "original_type": "Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25479&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "3d53beb34a89392061fa9da5bc9e1a6a733d8139",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Mountain",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Mountain",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Mountain"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "John Avon",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 25480,
+      "variations": [
+        25481
+      ],
+      "watermark": "Red",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "ARN",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "EVG",
+        "SHM",
+        "ALA",
+        "DD2",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "PD2",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "DDK",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_EVG",
+        "DD3_JVC",
+        "FRF",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "DDT",
+        "UST",
+        "RIX",
+        "DDU",
+        "DOM"
+      ],
+      "original_text": "R",
+      "original_type": "Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25480&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "787bf0f05f6f7db8b84b154c10a4f9fd42af3091",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Mountain",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Mountain",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Mountain"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Brian Durfee",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 25481,
+      "variations": [
+        25480
+      ],
+      "watermark": "Red",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "ARN",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "EVG",
+        "SHM",
+        "ALA",
+        "DD2",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "PD2",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "DDK",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_EVG",
+        "DD3_JVC",
+        "FRF",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "DDT",
+        "UST",
+        "RIX",
+        "DDU",
+        "DOM"
+      ],
+      "original_text": "R",
+      "original_type": "Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25481&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "ea9bbccd0468d11fb926a6a6f7319a8ce99fde4b",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Forest",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Forest",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Forest"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "John Avon",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 25482,
+      "variations": [
+        25483
+      ],
+      "watermark": "Green",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "EVG",
+        "SHM",
+        "ALA",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "DDD",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "DDM",
+        "M15",
+        "KTK",
+        "C14",
+        "DD3_EVG",
+        "DD3_GVL",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "SOI",
+        "DDR",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "UST",
+        "RIX",
+        "DDU",
+        "DOM"
+      ],
+      "original_text": "G",
+      "original_type": "Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25482&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "d0aa3287992723da3c3cb8fe78826f88da5c61f8",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Forest",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Forest",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Forest"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "John Avon",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 25483,
+      "variations": [
+        25482
+      ],
+      "watermark": "Green",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "EVG",
+        "SHM",
+        "ALA",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "DDD",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "DDM",
+        "M15",
+        "KTK",
+        "C14",
+        "DD3_EVG",
+        "DD3_GVL",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "SOI",
+        "DDR",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "UST",
+        "RIX",
+        "DDU",
+        "DOM"
+      ],
+      "original_text": "G",
+      "original_type": "Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25483&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "cebc32c2ea5ea5143e26e6d276525bc16cb2b942",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Willow Elf",
+      "layout": "normal",
+      "mana_cost": "{G}",
+      "cmc": 1,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Elf",
+      "supertypes": null,
+      "subtypes": [
+        "Elf"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": null,
+      "flavor": "The forest lives in the elf as the elf lives in the forest.",
+      "artist": "DiTerlizzi",
+      "number": null,
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 25484,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "S99",
+        "S00"
+      ],
+      "original_text": null,
+      "original_type": "Creature \u2014 Elf",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25484&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "80e1f9ab147353871822a466554f40b49b4bca3a",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Moon Sprite",
+      "layout": "normal",
+      "mana_cost": "{1}{G}",
+      "cmc": 2,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Faerie",
+      "supertypes": null,
+      "subtypes": [
+        "Faerie"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "Flying",
+      "flavor": "\"I am that merry wanderer of the night.\"\n\u2014William Shakespeare,\nA Midsummer Night's Dream",
+      "artist": "Terese Nielsen",
+      "number": null,
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 25485,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "POR",
+        "S99",
+        "S00"
+      ],
+      "original_text": "Flying",
+      "original_type": "Creature \u2014 Faerie",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25485&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "6c9dbdfc9cb2aa9a9d3a538dc6da169190907da4",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Goblin Hero",
+      "layout": "normal",
+      "mana_cost": "{2}{R}",
+      "cmc": 3,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Goblin",
+      "supertypes": null,
+      "subtypes": [
+        "Goblin"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": null,
+      "flavor": "\"When you're a goblin, you don't have to step forward to be a hero\u2014everyone else just has to step back\"\n\u2014Biggum Flodrot, goblin veteran",
+      "artist": "Pete Venters",
+      "number": null,
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 25486,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "DRK",
+        "5ED",
+        "ATH",
+        "6ED",
+        "S99",
+        "S00"
+      ],
+      "original_text": null,
+      "original_type": "Creature \u2014 Goblin",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25486&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "cf460b25abf87cbfe6b9ba8754f81bd55a083529",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Scathe Zombies",
+      "layout": "normal",
+      "mana_cost": "{2}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Zombie",
+      "supertypes": null,
+      "subtypes": [
+        "Zombie"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": null,
+      "flavor": "\"They groaned, they stirred, they all uprose,\nNor spake, nor moved their eyes;\nIt had been strange, even in a dream,\nTo have seen those dead men rise.\"\n\u2014Samuel Coleridge,\n\"The Rime of the Ancient Mariner\"",
+      "artist": "Jesper Myrfors",
+      "number": null,
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 25487,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ITP",
+        "5ED",
+        "6ED",
+        "S99",
+        "S00",
+        "7ED",
+        "8ED",
+        "9ED",
+        "10E"
+      ],
+      "original_text": null,
+      "original_type": "Creature \u2014 Zombie",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25487&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "2c0cc59de74d7fe7aaa65396d25b49d3055d50c1",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Lava Axe",
+      "layout": "normal",
+      "mana_cost": "{4}{R}",
+      "cmc": 5,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Common",
+      "text": "Lava Axe deals 5 damage to target player or planeswalker.",
+      "flavor": "Meant to cut through the body and burn straight to the soul.",
+      "artist": "Brian Sn\u00f5ddy",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 25488,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "POR",
+        "PO2",
+        "ULG",
+        "S99",
+        "S00",
+        "BTD",
+        "7ED",
+        "8ED",
+        "9ED",
+        "pGTW",
+        "10E",
+        "M10",
+        "M11",
+        "M12",
+        "M14",
+        "M15"
+      ],
+      "original_text": "Lava Axe deals 5 damage to target opponent.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25488&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "571804e71406b18518a397b00cc45fc2edd2f715",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Hand of Death",
+      "layout": "normal",
+      "mana_cost": "{2}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Common",
+      "text": "Destroy target nonblack creature.",
+      "flavor": "The touch of death is never gentle.",
+      "artist": "Heather Hudson",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 25490,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "POR",
+        "PO2",
+        "S99",
+        "S00"
+      ],
+      "original_text": "Destroy target nonblack creature.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25490&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "0cf8dd0277070b91af11b1322c2e39d11738f9e0",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Mons's Goblin Raiders",
+      "layout": "normal",
+      "mana_cost": "{R}",
+      "cmc": 1,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Goblin",
+      "supertypes": null,
+      "subtypes": [
+        "Goblin"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": null,
+      "flavor": "Just because they have a club doesn't mean they're organized.",
+      "artist": "Pete Venters",
+      "number": null,
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 25491,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED",
+        "S99",
+        "S00"
+      ],
+      "original_text": null,
+      "original_type": "Creature \u2014 Goblin",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25491&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "41c3c34e612e2974589c4a334d17527ff571e91b",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Bog Imp",
+      "layout": "normal",
+      "mana_cost": "{1}{B}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Imp",
+      "supertypes": null,
+      "subtypes": [
+        "Imp"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)",
+      "flavor": "Don't be fooled by their looks. Think of them as little knives with wings.",
+      "artist": "Christopher Rush",
+      "number": null,
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 25492,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "DRK",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED",
+        "POR",
+        "6ED",
+        "S99",
+        "S00",
+        "7ED",
+        "8ED",
+        "9ED"
+      ],
+      "original_text": "Flying",
+      "original_type": "Creature \u2014 Imp",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25492&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "f6070cd0b9240030093fa36bcfd823614ba467de",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Durkwood Boars",
+      "layout": "normal",
+      "mana_cost": "{4}{G}",
+      "cmc": 5,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Boar",
+      "supertypes": null,
+      "subtypes": [
+        "Boar"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": null,
+      "flavor": "\"And the unclean spirits went out, and entered the swine: and the herd ran violently . . . .\"\n\u2014The Bible, Mark 5:13",
+      "artist": "Mike Kimble",
+      "number": null,
+      "power": "4",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": 25493,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEG",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED",
+        "S99",
+        "S00"
+      ],
+      "original_text": null,
+      "original_type": "Creature \u2014 Boar",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25493&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "13b4e1df85897804f610f1c3f03ca2863a2823d0",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Trained Orgg",
+      "layout": "normal",
+      "mana_cost": "{6}{R}",
+      "cmc": 7,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Orgg",
+      "supertypes": null,
+      "subtypes": [
+        "Orgg"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": null,
+      "flavor": "All orggs know how to kill; training teaches them what to kill.",
+      "artist": "Eric Peterson",
+      "number": null,
+      "power": "6",
+      "toughness": "6",
+      "loyalty": null,
+      "multiverse_id": 25494,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "S99",
+        "S00",
+        "7ED"
+      ],
+      "original_text": null,
+      "original_type": "Creature \u2014 Beast",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25494&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "89c6ac87e9f21b04b24fb4aefc18a30925201006",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Spined Wurm",
+      "layout": "normal",
+      "mana_cost": "{4}{G}",
+      "cmc": 5,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Wurm",
+      "supertypes": null,
+      "subtypes": [
+        "Wurm"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": null,
+      "flavor": "\"As it moved, the wurm's spines gathered up bits of flowstone, which took the shapes of dead villagers' heads. Each head spoke a single sound, but if taken together, they said, 'Alas for the living.'\"\n\u2014Dal myth of the wurm",
+      "artist": "Keith Parkinson",
+      "number": null,
+      "power": "5",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": 25496,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pMEI",
+        "POR",
+        "STH",
+        "S00",
+        "7ED",
+        "8ED",
+        "9ED",
+        "10E",
+        "DPA",
+        "M11",
+        "TPR"
+      ],
+      "original_text": null,
+      "original_type": "Creature \u2014 Wurm",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25496&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "37a6349eeefb60ac12edf2f229e12fe8c935694b",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Stone Rain",
+      "layout": "normal",
+      "mana_cost": "{2}{R}",
+      "cmc": 3,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Common",
+      "text": "Destroy target land.",
+      "flavor": null,
+      "artist": "John Matson",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 25497,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "MIR",
+        "5ED",
+        "POR",
+        "TMP",
+        "PO2",
+        "6ED",
+        "PTK",
+        "S99",
+        "MMQ",
+        "pFNM",
+        "S00",
+        "7ED",
+        "8ED",
+        "CHK",
+        "9ED"
+      ],
+      "original_text": "Destroy target land.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25497&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "cf8ceaa86ef5745e83ef335289c9a313ac125607",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Armored Pegasus",
+      "layout": "normal",
+      "mana_cost": "{1}{W}",
+      "cmc": 2,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Pegasus",
+      "supertypes": null,
+      "subtypes": [
+        "Pegasus"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Flying",
+      "flavor": "Asked how it survived a run-in with a bog imp, the pegasus just shook its mane and burped.",
+      "artist": "Andrew Robinson",
+      "number": null,
+      "power": "1",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 25498,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "POR",
+        "pPOD",
+        "TMP",
+        "ATH",
+        "6ED",
+        "BRB",
+        "S00",
+        "TPR"
+      ],
+      "original_text": "Flying",
+      "original_type": "Creature \u2014 Pegasus",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25498&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "abb63e91f9f283bb65216a51128625d96288ae2d",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Python",
+      "layout": "normal",
+      "mana_cost": "{1}{B}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Snake",
+      "supertypes": null,
+      "subtypes": [
+        "Snake"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": null,
+      "flavor": "\"How can you claim the gods are merciless when they robbed the snake of its limbs to give the other creatures a sporting chance?\"\n\u2014Hakim, Loreweaver",
+      "artist": "Steve White",
+      "number": null,
+      "power": "3",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 25499,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "VIS",
+        "POR",
+        "6ED",
+        "S00"
+      ],
+      "original_text": null,
+      "original_type": "Creature \u2014 Snake",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25499&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "f005a0873a92e7bb7067fe569ae27cba40ba7ff0",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Disenchant",
+      "layout": "normal",
+      "mana_cost": "{1}{W}",
+      "cmc": 2,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Common",
+      "text": "Destroy target artifact or enchantment.",
+      "flavor": null,
+      "artist": "Brian Sn\u00f5ddy",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 25500,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "pARL",
+        "MIR",
+        "5ED",
+        "TMP",
+        "USG",
+        "ATH",
+        "6ED",
+        "MMQ",
+        "BRB",
+        "pFNM",
+        "S00",
+        "7ED",
+        "pMPR",
+        "CST",
+        "TSB",
+        "ME2",
+        "ME3",
+        "TPR",
+        "CN2",
+        "IMA",
+        "A25"
+      ],
+      "original_text": "Destroy target artifact or enchantment.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25500&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "ed53a26efcc6776560b03d43d2ec02d047f5776c",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "This is not modal. If the target changes from an artifact to an enchantment or vice versa, this still destroys it."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Shock",
+      "layout": "normal",
+      "mana_cost": "{R}",
+      "cmc": 1,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Common",
+      "text": "Shock deals 2 damage to any target.",
+      "flavor": "Lightning tethers souls to the world.\n\u2014Kor saying",
+      "artist": "Randy Gallegos",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 25501,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "STH",
+        "6ED",
+        "pFNM",
+        "S00",
+        "BTD",
+        "7ED",
+        "ONS",
+        "8ED",
+        "9ED",
+        "10E",
+        "DPA",
+        "M12",
+        "M14",
+        "DDN",
+        "AER"
+      ],
+      "original_text": "Shock deals 2 damage to target creature or player.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25501&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "beba33e228b962e9aae10cb25d03d8f7cf87c1cb",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Giant Growth",
+      "layout": "normal",
+      "mana_cost": "{G}",
+      "cmc": 1,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Common",
+      "text": "Target creature gets +3/+3 until end of turn.",
+      "flavor": null,
+      "artist": "DiTerlizzi",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 25502,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "5ED",
+        "ATH",
+        "6ED",
+        "BRB",
+        "pSUS",
+        "pFNM",
+        "S00",
+        "BTD",
+        "7ED",
+        "pMPR",
+        "DKM",
+        "8ED",
+        "9ED",
+        "10E",
+        "EVG",
+        "ME2",
+        "M10",
+        "ME3",
+        "DDD",
+        "DPA",
+        "M11",
+        "ME4",
+        "RTR",
+        "M14",
+        "DD3_EVG",
+        "DD3_GVL",
+        "E02",
+        "A25"
+      ],
+      "original_text": "Target creature gets +3/+3 until end of turn.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25502&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "d1799e92e209991e664aaf8924d02fbd65370182",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Counterspell",
+      "layout": "normal",
+      "mana_cost": "{U}{U}",
+      "cmc": 2,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Common",
+      "text": "Counter target spell.",
+      "flavor": null,
+      "artist": "Hannibal King",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 25503,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "pLGM",
+        "4ED",
+        "ICE",
+        "5ED",
+        "TMP",
+        "pJGP",
+        "6ED",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pFNM",
+        "S00",
+        "BTD",
+        "7ED",
+        "ME2",
+        "DD2",
+        "ME4",
+        "VMA",
+        "DD3_JVC",
+        "TPR",
+        "EMA",
+        "MPS_AKH",
+        "A25"
+      ],
+      "original_text": "Counter target spell.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25503&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "06d65277165c2dc762a0b20f0978303c88ba7654",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Terror",
+      "layout": "normal",
+      "mana_cost": "{1}{B}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Common",
+      "text": "Destroy target nonartifact, nonblack creature. It can't be regenerated.",
+      "flavor": null,
+      "artist": "Ron Spencer",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 25504,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED",
+        "ATH",
+        "6ED",
+        "BRB",
+        "pFNM",
+        "S00",
+        "BTD",
+        "pMPR",
+        "MRD",
+        "10E",
+        "DPA",
+        "ME4"
+      ],
+      "original_text": "Destroy target nonartifact, nonblack creature. It can't be regenerated.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25504&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "62efc372d0e309053ca2c02294e68fcd0be333a8",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Prodigal Sorcerer",
+      "layout": "normal",
+      "mana_cost": "{2}{U}",
+      "cmc": 3,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Wizard",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Wizard"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "{T}: Prodigal Sorcerer deals 1 damage to any target.",
+      "flavor": "Occasionally members of the Institute of Arcane Study acquire a taste for worldly pleasures. Seldom do they have trouble finding employment.",
+      "artist": "Douglas Shuler",
+      "number": null,
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 25506,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "5ED",
+        "6ED",
+        "BRB",
+        "pFNM",
+        "S00",
+        "7ED",
+        "TSB",
+        "ME4",
+        "EMA"
+      ],
+      "original_text": "{T}: Prodigal Sorcerer deals 1 damage to target creature or player.",
+      "original_type": "Creature \u2014 Wizard",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25506&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "4581aba1b0f73317bf90f4d6b950ba0685f475a9",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Drudge Skeletons",
+      "layout": "normal",
+      "mana_cost": "{1}{B}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Skeleton",
+      "supertypes": null,
+      "subtypes": [
+        "Skeleton"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "{B}: Regenerate Drudge Skeletons. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)",
+      "flavor": "\"The dead make good soldiers. They can't disobey orders, they never surrender, and they don't stop fighting when a random body part falls off.\"\n\u2014Nevinyrral, Necromancer's Handbook",
+      "artist": "Ian Miller",
+      "number": null,
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 25507,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "5ED",
+        "6ED",
+        "S00",
+        "7ED",
+        "8ED",
+        "9ED",
+        "10E",
+        "M10",
+        "DDD",
+        "DPA",
+        "DD3_GVL"
+      ],
+      "original_text": "{B}: Regenerate Drudge Skeletons.",
+      "original_type": "Creature \u2014 Skeleton",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25507&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "f42ee6f6e712df926a9d67e42e80aa9dbcfa4c2f",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Llanowar Elves",
+      "layout": "normal",
+      "mana_cost": "{G}",
+      "cmc": 1,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Elf Druid",
+      "supertypes": null,
+      "subtypes": [
+        "Elf",
+        "Druid"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "{T}: Add {G}.",
+      "flavor": "One bone broken for every twig snapped underfoot.\n\u2014Llanowar penalty for trespassing",
+      "artist": "Anson Maddocks",
+      "number": null,
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 25508,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "5ED",
+        "ATH",
+        "6ED",
+        "BRB",
+        "pFNM",
+        "S00",
+        "BTD",
+        "7ED",
+        "9ED",
+        "pGTW",
+        "10E",
+        "EVG",
+        "M10",
+        "M11",
+        "M12",
+        "C14",
+        "DD3_EVG",
+        "EMA",
+        "CMA",
+        "DOM"
+      ],
+      "original_text": "{T}: Add {G} to your mana pool.",
+      "original_type": "Creature \u2014 Elf",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25508&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "8cd671d5f08bf5264e4cf6e14e26c0de2b5fe169",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Flight",
+      "layout": "normal",
+      "mana_cost": "{U}",
+      "cmc": 1,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Enchantment \u2014 Aura",
+      "supertypes": null,
+      "subtypes": [
+        "Aura"
+      ],
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Common",
+      "text": "Enchant creature\nEnchanted creature has flying.",
+      "flavor": null,
+      "artist": "Jerry Tiritilli",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 25510,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "5ED",
+        "6ED",
+        "S00",
+        "7ED",
+        "8ED",
+        "9ED",
+        "M12"
+      ],
+      "original_text": "Enchanted creature gains flying.",
+      "original_type": "Enchant Creature",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25510&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "a02fe6087a4bd79d89a7db308f6e56344adc9c51",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Flame Spirit",
+      "layout": "normal",
+      "mana_cost": "{4}{R}",
+      "cmc": 5,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Elemental Spirit",
+      "supertypes": null,
+      "subtypes": [
+        "Elemental",
+        "Spirit"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "{R}: Flame Spirit gets +1/+0 until end of turn.",
+      "flavor": "\"The spirit of the flame is the spirit of change.\"\n\u2014Lovisa Coldeyes,\nBalduvian chieftain",
+      "artist": "Justin Hampton",
+      "number": null,
+      "power": "2",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": 25514,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ICE",
+        "5ED",
+        "6ED",
+        "S00",
+        "ME2"
+      ],
+      "original_text": "{R}: Flame Spirit gets +1/+0 until end of turn.",
+      "original_type": "Creature \u2014 Spirit",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25514&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "435e704423336661bb5e4b37e55c54ce52778a87",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Obsianus Golem",
+      "layout": "normal",
+      "mana_cost": "{6}",
+      "cmc": 6,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact Creature \u2014 Golem",
+      "supertypes": null,
+      "subtypes": [
+        "Golem"
+      ],
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": null,
+      "flavor": "\"The foot stone is connected to the ankle stone, the ankle stone is connected to the leg stone . . . .\"\n\u2014\"Song of the Artificer\"",
+      "artist": "Jesper Myrfors",
+      "number": null,
+      "power": "4",
+      "toughness": "6",
+      "loyalty": null,
+      "multiverse_id": 25528,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "6ED",
+        "S00",
+        "ME4"
+      ],
+      "original_text": null,
+      "original_type": "Artifact Creature \u2014 Golem",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25528&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "395fb8416a1b247caa728cb643e7bee1b8398803",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Rod of Ruin",
+      "layout": "normal",
+      "mana_cost": "{4}",
+      "cmc": 4,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Uncommon",
+      "text": "{3}, {T}: Rod of Ruin deals 1 damage to any target.",
+      "flavor": null,
+      "artist": "Christopher Rush",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 25529,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED",
+        "6ED",
+        "S00",
+        "7ED",
+        "8ED",
+        "9ED",
+        "10E",
+        "M10",
+        "M14"
+      ],
+      "original_text": "{3}, {T}: Rod of Ruin deals 1 damage to target creature or player.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25529&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "a00f19685c749e622e4862606743fca07415d671",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Orcish Oriflamme",
+      "layout": "normal",
+      "mana_cost": "{3}{R}",
+      "cmc": 4,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Enchantment",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Uncommon",
+      "text": "Attacking creatures you control get +1/+0.",
+      "flavor": null,
+      "artist": "Dan Frazier",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 25540,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED",
+        "6ED",
+        "S00",
+        "7ED",
+        "EMA"
+      ],
+      "original_text": "Attacking creatures you control get +1/+0.",
+      "original_type": "Enchantment",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25540&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "83fa833e814302fab6ac41e2db0e76c276d14b2a",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Rhox",
+      "layout": "normal",
+      "mana_cost": "{4}{G}{G}",
+      "cmc": 6,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Rhino Beast",
+      "supertypes": null,
+      "subtypes": [
+        "Rhino",
+        "Beast"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": "You may have Rhox assign its combat damage as though it weren't blocked.\n{2}{G}: Regenerate Rhox. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)",
+      "flavor": null,
+      "artist": "Mark Zug",
+      "number": null,
+      "power": "5",
+      "toughness": "5",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "NMS",
+        "S00",
+        "8ED",
+        "10E"
+      ],
+      "original_text": "You may have Rhox deal combat damage to defending player as though it weren't blocked.\n{2}{G}: Regenerate Rhox.",
+      "original_type": "Creature \u2014 Beast",
+      "source": null,
+      "image_url": null,
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "536d407161fa03eddee7da0e823c2042a8fa0262",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2018-04-27",
+          "text": "You can decide to assign damage to the defending player or planeswalker even if the blocking creature has protection from green or damage preventing effects on it."
+        },
+        {
+          "date": "2018-04-27",
+          "text": "When assigning combat damage, you choose whether you want to assign all damage to blocking creatures, or if you want to assign all of it to the player or planeswalker this creature is attacking. You can't split the damage assignment between them."
+        },
+        {
+          "date": "2018-04-27",
+          "text": "If blocked by a creature with banding, the defending player decides whether or not the damage is assigned \"as though it weren't blocked\"."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u7f57\u514b\u7280\u9f99",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=147894&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 147894
+        },
+        {
+          "name": "\u30ed\u30a6\u30af\u30b9",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148277&type=card",
+          "language": "Japanese",
+          "multiverseid": 148277
+        },
+        {
+          "name": "Rhox",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148660&type=card",
+          "language": "German",
+          "multiverseid": 148660
+        },
+        {
+          "name": "Rhox",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149043&type=card",
+          "language": "Italian",
+          "multiverseid": 149043
+        },
+        {
+          "name": "\u0420\u043e\u043a\u0441",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149458&type=card",
+          "language": "Russian",
+          "multiverseid": 149458
+        },
+        {
+          "name": "Rhox",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149841&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 149841
+        },
+        {
+          "name": "Rhox",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150224&type=card",
+          "language": "French",
+          "multiverseid": 150224
+        },
+        {
+          "name": "Rhox",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150607&type=card",
+          "language": "Spanish",
+          "multiverseid": 150607
+        },
+        {
+          "name": "\u7f85\u514b\u7280\u9f8d",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=151519&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 151519
+        }
+      ]
+    },
+    {
+      "name": "Venerable Monk",
+      "layout": "normal",
+      "mana_cost": "{2}{W}",
+      "cmc": 3,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Monk Cleric",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Monk",
+        "Cleric"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "When Venerable Monk enters the battlefield, you gain 2 life.",
+      "flavor": "His presence brings not only a strong arm but also renewed hope.",
+      "artist": "D. Alexander Gregory",
+      "number": null,
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 25515,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "POR",
+        "STH",
+        "6ED",
+        "S99",
+        "S00",
+        "7ED",
+        "8ED",
+        "9ED",
+        "10E",
+        "DDC",
+        "DD3_DVD"
+      ],
+      "original_text": "When Venerable Monk comes into play, you gain 2 life.",
+      "original_type": "Creature \u2014 Cleric",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25515&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "51ffe2e3a1e333f3663e59c968f4301d78cb2f2d",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Inspiration",
+      "layout": "normal",
+      "mana_cost": "{3}{U}",
+      "cmc": 4,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Common",
+      "text": "Target player draws two cards.",
+      "flavor": "\"Madness and genius are separated only by degrees of success.\"\n\u2014Sidar Jabari",
+      "artist": "Zina Saunders",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 25526,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "VIS",
+        "6ED",
+        "S00",
+        "7ED",
+        "8ED",
+        "RTR",
+        "W17"
+      ],
+      "original_text": "Target player draws two cards.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25526&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "dace4dea1ef511d8033bcb42df49a45ce28392de",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Samite Healer",
+      "layout": "normal",
+      "mana_cost": "{1}{W}",
+      "cmc": 2,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Cleric",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Cleric"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "{T}: Prevent the next 1 damage that would be dealt to any target this turn.",
+      "flavor": "Healers ultimately acquire the divine gifts of spiritual and physical wholeness. The most devout are also granted the ability to pass physical wholeness on to others.",
+      "artist": "Tom W\u00e4nerstrand",
+      "number": null,
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 25533,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "5ED",
+        "ATH",
+        "6ED",
+        "S00",
+        "7ED",
+        "8ED",
+        "9ED",
+        "10E"
+      ],
+      "original_text": "{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.",
+      "original_type": "Creature \u2014 Cleric",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25533&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "4c72fa8dd754c1ccd01c45fba824b9495b24ac56",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Hero's Resolve",
+      "layout": "normal",
+      "mana_cost": "{1}{W}",
+      "cmc": 2,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Enchantment \u2014 Aura",
+      "supertypes": null,
+      "subtypes": [
+        "Aura"
+      ],
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Common",
+      "text": "Enchant creature\nEnchanted creature gets +1/+5.",
+      "flavor": "\"Destiny, chance, fate, fortune\u2014they're all just ways of claiming your successes without claiming your failures.\"\n\u2014Gerrard of the Weatherlight",
+      "artist": "Pete Venters",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 25536,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "TMP",
+        "6ED",
+        "S00"
+      ],
+      "original_text": "Enchanted creature gets +1/+5.",
+      "original_type": "Enchant Creature",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25536&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "9de7da3faa38688b8392711016243c9144baecd4",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Soul Net",
+      "layout": "normal",
+      "mana_cost": "{1}",
+      "cmc": 1,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Uncommon",
+      "text": "Whenever a creature dies, you may pay {1}. If you do, you gain 1 life.",
+      "flavor": null,
+      "artist": "Andrew Robinson",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 25543,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "5ED",
+        "6ED",
+        "S00",
+        "7ED"
+      ],
+      "original_text": "Whenever a creature is put into a graveyard from play, you may pay {1}. If you do, you gain 1 life.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25543&type=card",
+      "set": "S00",
+      "set_name": "Starter 2000",
+      "id": "4dd87ccc2570f4e5a7ad6a1917f284c1561a2544",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "If animated so it is a creature, it can be triggered off its own destruction."
+        }
+      ],
+      "foreign_names": null
+    }
+  ]
+}

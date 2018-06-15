@@ -1,0 +1,4799 @@
+{
+  "code": "pALP",
+  "name": "Asia Pacific Land Program",
+  "type": "promo",
+  "border": "black",
+  "mkm_id": 97,
+  "mkm_name": "APAC Lands",
+  "release_date": "1998-09-01",
+  "gatherer_code": null,
+  "magic_cards_info_code": "apac",
+  "booster": null,
+  "old_code": null,
+  "block": null,
+  "online_only": null,
+  "cards": [
+    {
+      "name": "Forest",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Forest",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Forest"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Pete Venters",
+      "number": "1",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "1998",
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "EVG",
+        "SHM",
+        "ALA",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "DDD",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "DDM",
+        "M15",
+        "KTK",
+        "C14",
+        "DD3_EVG",
+        "DD3_GVL",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "SOI",
+        "DDR",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Tempest booster box purchase bonus.",
+      "image_url": null,
+      "set": "pALP",
+      "set_name": "Asia Pacific Land Program",
+      "id": "c02cf8602756d59b251201f64f8ab4fe24b011b3",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u6811\u6797",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u6a39\u6797",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "For\u00eat",
+          "language": "French"
+        },
+        {
+          "name": "Wald",
+          "language": "German"
+        },
+        {
+          "name": "Foresta",
+          "language": "Italian"
+        },
+        {
+          "name": "\u68ee",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uc232",
+          "language": "Korean"
+        },
+        {
+          "name": "Floresta",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041b\u0435\u0441",
+          "language": "Russian"
+        },
+        {
+          "name": "Bosque",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Island",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Island",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Island"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Edward P. Beard, Jr.",
+      "number": "2",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "1998",
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DD2",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "DDF",
+        "SOM",
+        "MBS",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "M14",
+        "THS",
+        "C13",
+        "DDM",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_JVC",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "DDT"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Tempest booster box purchase bonus",
+      "image_url": null,
+      "set": "pALP",
+      "set_name": "Asia Pacific Land Program",
+      "id": "dc93c9537e8cba087e897ecb5e7d6a254ab9aaec",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u6d77\u5c9b",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u6d77\u5cf6",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "\u00cele",
+          "language": "French"
+        },
+        {
+          "name": "Insel",
+          "language": "German"
+        },
+        {
+          "name": "Isola",
+          "language": "Italian"
+        },
+        {
+          "name": "\u5cf6",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uc12c",
+          "language": "Korean"
+        },
+        {
+          "name": "Ilha",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041e\u0441\u0442\u0440\u043e\u0432",
+          "language": "Russian"
+        },
+        {
+          "name": "Isla",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Mountain",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Mountain",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Mountain"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Heather Hudson",
+      "number": "3",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "1998",
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "ARN",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "EVG",
+        "SHM",
+        "ALA",
+        "DD2",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "PD2",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "DDK",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_EVG",
+        "DD3_JVC",
+        "FRF",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "DDT"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Tempest booster box purchase bonus.",
+      "image_url": null,
+      "set": "pALP",
+      "set_name": "Asia Pacific Land Program",
+      "id": "c663c9ad63d79e8625734fd8effbccc9495bd7bf",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u5c71\u8109",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u5c71\u8108",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Montagne",
+          "language": "French"
+        },
+        {
+          "name": "Gebirge",
+          "language": "German"
+        },
+        {
+          "name": "Montagna",
+          "language": "Italian"
+        },
+        {
+          "name": "\u5c71",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uc0b0",
+          "language": "Korean"
+        },
+        {
+          "name": "Montanha",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0413\u043e\u0440\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Monta\u00f1a",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Plains",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Plains",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Plains"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Ron Spears",
+      "number": "4",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "1998",
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "pPRE",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "INV",
+        "7ED",
+        "ODY",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DDC",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "ARC",
+        "M11",
+        "DDF",
+        "SOM",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "RTR",
+        "DDK",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "MD1",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_DVD",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Tempest booster box purchase bonus.",
+      "image_url": null,
+      "set": "pALP",
+      "set_name": "Asia Pacific Land Program",
+      "id": "c54698d6e55e39248cfd98d379e44daa2bfd2bb3",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u5e73\u539f",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u5e73\u539f",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Plaine",
+          "language": "French"
+        },
+        {
+          "name": "Ebene",
+          "language": "German"
+        },
+        {
+          "name": "Pianura",
+          "language": "Italian"
+        },
+        {
+          "name": "\u5e73\u5730",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ub4e4",
+          "language": "Korean"
+        },
+        {
+          "name": "Plan\u00edcie",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0420\u0430\u0432\u043d\u0438\u043d\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Llanura",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Swamp",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Swamp",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Swamp"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Edward P. Beard, Jr.",
+      "number": "5",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "1998",
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DDC",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "DDD",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "MBS",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "PD3",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "DDK",
+        "M14",
+        "THS",
+        "C13",
+        "DDM",
+        "MD1",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_DVD",
+        "DD3_GVL",
+        "FRF",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "DDR",
+        "KLD",
+        "C16",
+        "PCA",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Tempest booster box purchase bonus.",
+      "image_url": null,
+      "set": "pALP",
+      "set_name": "Asia Pacific Land Program",
+      "id": "2b0409f5342ad49a4403d8259c4b9414c4991dcb",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u6cbc\u6cfd",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u6cbc\u6fa4",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Marais",
+          "language": "French"
+        },
+        {
+          "name": "Sumpf",
+          "language": "German"
+        },
+        {
+          "name": "Palude",
+          "language": "Italian"
+        },
+        {
+          "name": "\u6cbc",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ub2aa",
+          "language": "Korean"
+        },
+        {
+          "name": "P\u00e2ntano",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0411\u043e\u043b\u043e\u0442\u043e",
+          "language": "Russian"
+        },
+        {
+          "name": "Pantano",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Forest",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Forest",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Forest"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Christopher Rush",
+      "number": "6",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "1998",
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "EVG",
+        "SHM",
+        "ALA",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "DDD",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "DDM",
+        "M15",
+        "KTK",
+        "C14",
+        "DD3_EVG",
+        "DD3_GVL",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "SOI",
+        "DDR",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Tempest booster box purchase bonus.",
+      "image_url": null,
+      "set": "pALP",
+      "set_name": "Asia Pacific Land Program",
+      "id": "0bd55f1f4b3614cc584bd691174821f0f83430ec",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u6811\u6797",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u6a39\u6797",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "For\u00eat",
+          "language": "French"
+        },
+        {
+          "name": "Wald",
+          "language": "German"
+        },
+        {
+          "name": "Foresta",
+          "language": "Italian"
+        },
+        {
+          "name": "\u68ee",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uc232",
+          "language": "Korean"
+        },
+        {
+          "name": "Floresta",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041b\u0435\u0441",
+          "language": "Russian"
+        },
+        {
+          "name": "Bosque",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Island",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Island",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Island"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Bob Eggleton",
+      "number": "7",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "1998",
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DD2",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "DDF",
+        "SOM",
+        "MBS",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "M14",
+        "THS",
+        "C13",
+        "DDM",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_JVC",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "DDT"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Tempest booster box purchase bonus",
+      "image_url": null,
+      "set": "pALP",
+      "set_name": "Asia Pacific Land Program",
+      "id": "f551a7de5a9883c68362f50910b6dd59a5bcd24c",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u6d77\u5c9b",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u6d77\u5cf6",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "\u00cele",
+          "language": "French"
+        },
+        {
+          "name": "Insel",
+          "language": "German"
+        },
+        {
+          "name": "Isola",
+          "language": "Italian"
+        },
+        {
+          "name": "\u5cf6",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uc12c",
+          "language": "Korean"
+        },
+        {
+          "name": "Ilha",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041e\u0441\u0442\u0440\u043e\u0432",
+          "language": "Russian"
+        },
+        {
+          "name": "Isla",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Mountain",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Mountain",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Mountain"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Rebecca Guay",
+      "number": "8",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "1998",
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "ARN",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "EVG",
+        "SHM",
+        "ALA",
+        "DD2",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "PD2",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "DDK",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_EVG",
+        "DD3_JVC",
+        "FRF",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "DDT"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Tempest booster box purchase bonus.",
+      "image_url": null,
+      "set": "pALP",
+      "set_name": "Asia Pacific Land Program",
+      "id": "c98c2ff8a1895d1d1d6e2cd48d1a58f54f3f5950",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u5c71\u8109",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u5c71\u8108",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Montagne",
+          "language": "French"
+        },
+        {
+          "name": "Gebirge",
+          "language": "German"
+        },
+        {
+          "name": "Montagna",
+          "language": "Italian"
+        },
+        {
+          "name": "\u5c71",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uc0b0",
+          "language": "Korean"
+        },
+        {
+          "name": "Montanha",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0413\u043e\u0440\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Monta\u00f1a",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Plains",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Plains",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Plains"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Colin MacNeil",
+      "number": "9",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "1998",
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "pPRE",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "INV",
+        "7ED",
+        "ODY",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DDC",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "ARC",
+        "M11",
+        "DDF",
+        "SOM",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "RTR",
+        "DDK",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "MD1",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_DVD",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Tempest booster box purchase bonus.",
+      "image_url": null,
+      "set": "pALP",
+      "set_name": "Asia Pacific Land Program",
+      "id": "14ae8527d76030ae2d950d9cf75dbf0c831e0299",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u5e73\u539f",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u5e73\u539f",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Plaine",
+          "language": "French"
+        },
+        {
+          "name": "Ebene",
+          "language": "German"
+        },
+        {
+          "name": "Pianura",
+          "language": "Italian"
+        },
+        {
+          "name": "\u5e73\u5730",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ub4e4",
+          "language": "Korean"
+        },
+        {
+          "name": "Plan\u00edcie",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0420\u0430\u0432\u043d\u0438\u043d\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Llanura",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Swamp",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Swamp",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Swamp"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Ron Spears",
+      "number": "10",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "1998",
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DDC",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "DDD",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "MBS",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "PD3",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "DDK",
+        "M14",
+        "THS",
+        "C13",
+        "DDM",
+        "MD1",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_DVD",
+        "DD3_GVL",
+        "FRF",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "DDR",
+        "KLD",
+        "C16",
+        "PCA",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Tempest booster box purchase bonus.",
+      "image_url": null,
+      "set": "pALP",
+      "set_name": "Asia Pacific Land Program",
+      "id": "0a7b2923ea2aa9d5f97b41eab1d2848f40f81cba",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u6cbc\u6cfd",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u6cbc\u6fa4",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Marais",
+          "language": "French"
+        },
+        {
+          "name": "Sumpf",
+          "language": "German"
+        },
+        {
+          "name": "Palude",
+          "language": "Italian"
+        },
+        {
+          "name": "\u6cbc",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ub2aa",
+          "language": "Korean"
+        },
+        {
+          "name": "P\u00e2ntano",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0411\u043e\u043b\u043e\u0442\u043e",
+          "language": "Russian"
+        },
+        {
+          "name": "Pantano",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Forest",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Forest",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Forest"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Edward P. Beard, Jr.",
+      "number": "11",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "1998",
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "EVG",
+        "SHM",
+        "ALA",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "DDD",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "DDM",
+        "M15",
+        "KTK",
+        "C14",
+        "DD3_EVG",
+        "DD3_GVL",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "SOI",
+        "DDR",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Tempest booster box purchase bonus.",
+      "image_url": null,
+      "set": "pALP",
+      "set_name": "Asia Pacific Land Program",
+      "id": "a1e465db898daf197306de8821c8c912c2a39d71",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u6811\u6797",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u6a39\u6797",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "For\u00eat",
+          "language": "French"
+        },
+        {
+          "name": "Wald",
+          "language": "German"
+        },
+        {
+          "name": "Foresta",
+          "language": "Italian"
+        },
+        {
+          "name": "\u68ee",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uc232",
+          "language": "Korean"
+        },
+        {
+          "name": "Floresta",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041b\u0435\u0441",
+          "language": "Russian"
+        },
+        {
+          "name": "Bosque",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Island",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Island",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Island"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Rob Alexander",
+      "number": "12",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "1998",
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DD2",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "DDF",
+        "SOM",
+        "MBS",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "M14",
+        "THS",
+        "C13",
+        "DDM",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_JVC",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "DDT"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Tempest booster box purchase bonus",
+      "image_url": null,
+      "set": "pALP",
+      "set_name": "Asia Pacific Land Program",
+      "id": "df72ac20cbd8268ab014981d8f895b176a2ba234",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u6d77\u5c9b",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u6d77\u5cf6",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "\u00cele",
+          "language": "French"
+        },
+        {
+          "name": "Insel",
+          "language": "German"
+        },
+        {
+          "name": "Isola",
+          "language": "Italian"
+        },
+        {
+          "name": "\u5cf6",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uc12c",
+          "language": "Korean"
+        },
+        {
+          "name": "Ilha",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041e\u0441\u0442\u0440\u043e\u0432",
+          "language": "Russian"
+        },
+        {
+          "name": "Isla",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Mountain",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Mountain",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Mountain"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Edward P. Beard, Jr.",
+      "number": "13",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "1998",
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "ARN",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "EVG",
+        "SHM",
+        "ALA",
+        "DD2",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "PD2",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "DDK",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_EVG",
+        "DD3_JVC",
+        "FRF",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "DDT"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Tempest booster box purchase bonus.",
+      "image_url": null,
+      "set": "pALP",
+      "set_name": "Asia Pacific Land Program",
+      "id": "f6ddf636b265e2a9069d7405e809da9383687e51",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u5c71\u8109",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u5c71\u8108",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Montagne",
+          "language": "French"
+        },
+        {
+          "name": "Gebirge",
+          "language": "German"
+        },
+        {
+          "name": "Montagna",
+          "language": "Italian"
+        },
+        {
+          "name": "\u5c71",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uc0b0",
+          "language": "Korean"
+        },
+        {
+          "name": "Montanha",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0413\u043e\u0440\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Monta\u00f1a",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Plains",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Plains",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Plains"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Rebecca Guay",
+      "number": "14",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "1998",
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "pPRE",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "INV",
+        "7ED",
+        "ODY",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DDC",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "ARC",
+        "M11",
+        "DDF",
+        "SOM",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "RTR",
+        "DDK",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "MD1",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_DVD",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Tempest booster box purchase bonus.",
+      "image_url": null,
+      "set": "pALP",
+      "set_name": "Asia Pacific Land Program",
+      "id": "d8b0fd9675ccfbabc11f1b247c582b5158584b6c",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u5e73\u539f",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u5e73\u539f",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Plaine",
+          "language": "French"
+        },
+        {
+          "name": "Ebene",
+          "language": "German"
+        },
+        {
+          "name": "Pianura",
+          "language": "Italian"
+        },
+        {
+          "name": "\u5e73\u5730",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ub4e4",
+          "language": "Korean"
+        },
+        {
+          "name": "Plan\u00edcie",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0420\u0430\u0432\u043d\u0438\u043d\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Llanura",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Swamp",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Swamp",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Swamp"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Ron Spears",
+      "number": "15",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "1998",
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DDC",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "DDD",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "MBS",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "PD3",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "DDK",
+        "M14",
+        "THS",
+        "C13",
+        "DDM",
+        "MD1",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_DVD",
+        "DD3_GVL",
+        "FRF",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "DDR",
+        "KLD",
+        "C16",
+        "PCA",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Tempest booster box purchase bonus.",
+      "image_url": null,
+      "set": "pALP",
+      "set_name": "Asia Pacific Land Program",
+      "id": "65b6ea3bf2915792a4fbe92e3e262935ce301102",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u6cbc\u6cfd",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u6cbc\u6fa4",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Marais",
+          "language": "French"
+        },
+        {
+          "name": "Sumpf",
+          "language": "German"
+        },
+        {
+          "name": "Palude",
+          "language": "Italian"
+        },
+        {
+          "name": "\u6cbc",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ub2aa",
+          "language": "Korean"
+        },
+        {
+          "name": "P\u00e2ntano",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0411\u043e\u043b\u043e\u0442\u043e",
+          "language": "Russian"
+        },
+        {
+          "name": "Pantano",
+          "language": "Spanish"
+        }
+      ]
+    }
+  ]
+}

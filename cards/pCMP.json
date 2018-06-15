@@ -1,0 +1,1443 @@
+{
+  "code": "pCMP",
+  "name": "Champs and States",
+  "type": "promo",
+  "border": "black",
+  "mkm_id": null,
+  "mkm_name": null,
+  "release_date": "2006-03-18",
+  "gatherer_code": null,
+  "magic_cards_info_code": "cp",
+  "booster": null,
+  "old_code": null,
+  "block": null,
+  "online_only": null,
+  "cards": [
+    {
+      "name": "Electrolyze",
+      "layout": "normal",
+      "mana_cost": "{1}{U}{R}",
+      "cmc": 3,
+      "colors": [
+        "Blue",
+        "Red"
+      ],
+      "color_identity": [
+        "U",
+        "R"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Electrolyze deals 2 damage divided as you choose among one or two target creatures and/or players.\nDraw a card.",
+      "flavor": null,
+      "artist": "Zoltan Boros & Gabor Szikszai",
+      "number": "1",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2006-03-18",
+      "starter": null,
+      "printings": [
+        "pMEI",
+        "GPT",
+        "pCMP",
+        "CMD",
+        "MMA",
+        "MM2",
+        "IMA"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "CHAMPS Tournament participation bonus.",
+      "image_url": null,
+      "set": "pCMP",
+      "set_name": "Champs and States",
+      "id": "7ce9deec43db54994a1385e1187b527d3fb88a5f",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2017-11-17",
+          "text": "You divide the damage as you cast Electrolyze, not as it resolves. Each target must be assigned at least 1 damage. In other words, as you cast Electrolyze, you choose whether to have it deal 2 damage to a single target, or deal 1 damage to each of two targets."
+        },
+        {
+          "date": "2017-11-17",
+          "text": "If Electrolyze targets two creatures and one becomes an illegal target, the remaining target is dealt 1 damage, not 2. You'll still draw a card."
+        },
+        {
+          "date": "2017-11-17",
+          "text": "If all chosen targets are illegal as Electrolyze tries to resolve, it will be countered and none of its effects will happen. No damage will be dealt and you won't draw a card."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u7535\u89e3",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u00c9lectrolyse",
+          "language": "French"
+        },
+        {
+          "name": "Elektrolysieren",
+          "language": "German"
+        },
+        {
+          "name": "Elettrolisi",
+          "language": "Italian"
+        },
+        {
+          "name": "\u96fb\u89e3",
+          "language": "Japanese"
+        },
+        {
+          "name": "Eletrolisar",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043b\u0438\u0437",
+          "language": "Russian"
+        },
+        {
+          "name": "Electrolizar",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Niv-Mizzet, the Firemind",
+      "layout": "normal",
+      "mana_cost": "{2}{U}{U}{R}{R}",
+      "cmc": 6,
+      "colors": [
+        "Blue",
+        "Red"
+      ],
+      "color_identity": [
+        "U",
+        "R"
+      ],
+      "names": null,
+      "type": "Legendary Creature \u2014 Dragon Wizard",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Dragon",
+        "Wizard"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Flying\nWhenever you draw a card, Niv-Mizzet, the Firemind deals 1 damage to target creature or player.\n{T}: Draw a card.",
+      "flavor": null,
+      "artist": "Todd Lockwood",
+      "number": "2",
+      "power": "4",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2006-03-18",
+      "starter": null,
+      "printings": [
+        "GPT",
+        "pCMP",
+        "DRB",
+        "DDJ",
+        "MM2",
+        "C17"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "CHAMPS Prize for 4th place or better (team).",
+      "image_url": null,
+      "set": "pCMP",
+      "set_name": "Champs and States",
+      "id": "c48040c2db2d5389e8e184d484e781220a14c476",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u708e\u7075\u5c3c\u7c73\u6377",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Niv-Mizzet, le C\u00e9r\u00e9bropyre",
+          "language": "French"
+        },
+        {
+          "name": "Niv-Mizzet, das Feuerhirn",
+          "language": "German"
+        },
+        {
+          "name": "Niv-Mizzet, il Mentefiamma",
+          "language": "Italian"
+        },
+        {
+          "name": "\u706b\u60f3\u8005\u30cb\u30f4\uff1d\u30df\u30bc\u30c3\u30c8",
+          "language": "Japanese"
+        },
+        {
+          "name": "Niv-Mizzet, o Mente de Fogo",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041d\u0438\u0432-\u041c\u0438\u0437\u0437\u0435\u0442, \u041e\u0433\u043d\u0435\u043d\u043d\u044b\u0439 \u0440\u0430\u0437\u0443\u043c",
+          "language": "Russian"
+        },
+        {
+          "name": "Niv-M\u00edzzet, la Mente ardiente",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Rakdos Guildmage",
+      "layout": "normal",
+      "mana_cost": "{B/R}{B/R}",
+      "cmc": 2,
+      "colors": [
+        "Black",
+        "Red"
+      ],
+      "color_identity": [
+        "B",
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Zombie Shaman",
+      "supertypes": null,
+      "subtypes": [
+        "Zombie",
+        "Shaman"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "({B/R} can be paid with either {B} or {R}.)\n{3}{B}, Discard a card: Target creature gets -2/-2 until end of turn.\n{3}{R}: Create a 2/1 red Goblin creature token with haste. Exile it at the beginning of the next end step.",
+      "flavor": null,
+      "artist": "Jeremy Jarvis",
+      "number": "3",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2006-06-24",
+      "starter": null,
+      "printings": [
+        "pCMP",
+        "DIS",
+        "ARC"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "CHAMPS Tournament participation bonus.",
+      "image_url": null,
+      "set": "pCMP",
+      "set_name": "Champs and States",
+      "id": "392ebff2cc938e20a76616b67bfee93cd884d78f",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2006-05-01",
+          "text": "If the second ability is activated during the End step, the token won't be exiled until the following turn's End step."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u62c9\u94ce\u53f8\u516c\u4f1a\u6cd5\u5e08",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Ghildmage de Rakdos",
+          "language": "French"
+        },
+        {
+          "name": "Rakdos-Gildenmagier",
+          "language": "German"
+        },
+        {
+          "name": "Mago della Gilda Rakdos",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30e9\u30af\u30c9\u30b9\u306e\u30ae\u30eb\u30c9\u9b54\u9053\u58eb",
+          "language": "Japanese"
+        },
+        {
+          "name": "Mago da Guilda Rakdos",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041c\u0430\u0433 \u0433\u0438\u043b\u044c\u0434\u0438\u0438 \u0420\u0430\u043a\u0434\u043e\u0441\u043e\u0432",
+          "language": "Russian"
+        },
+        {
+          "name": "Mago del Gremio Rakdos",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Voidslime",
+      "layout": "normal",
+      "mana_cost": "{G}{U}{U}",
+      "cmc": 3,
+      "colors": [
+        "Blue",
+        "Green"
+      ],
+      "color_identity": [
+        "U",
+        "G"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Counter target spell, activated ability, or triggered ability. (Mana abilities can't be targeted.)",
+      "flavor": null,
+      "artist": "Jim Murray",
+      "number": "4",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2006-06-24",
+      "starter": null,
+      "printings": [
+        "pCMP",
+        "DIS"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "CHAMPS Prize for 8th place or better.",
+      "image_url": null,
+      "set": "pCMP",
+      "set_name": "Champs and States",
+      "id": "ce9fd8f8358e11341a5f731e43b7fee070a4690b",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2016-06-08",
+          "text": "Activated abilities contain a colon. They're generally written \"[Cost]: [Effect].\" Some keywords are activated abilities and will have colons in their reminder text."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u865a\u7a7a\u9ecf\u6cde",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Vide gluant",
+          "language": "French"
+        },
+        {
+          "name": "Aufl\u00f6sender Schleim",
+          "language": "German"
+        },
+        {
+          "name": "Sviscisvuota",
+          "language": "Italian"
+        },
+        {
+          "name": "\u865a\u7a7a\u7c98",
+          "language": "Japanese"
+        },
+        {
+          "name": "Gosmanuladora",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041e\u0442\u0440\u0438\u0446\u0430\u044e\u0449\u0430\u044f \u0441\u043b\u0438\u0437\u044c",
+          "language": "Russian"
+        },
+        {
+          "name": "Babanuladora",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Urza's Factory",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Land \u2014 Urza\u2019s",
+      "supertypes": null,
+      "subtypes": [
+        "Urza\u2019s"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Special",
+      "text": "{T}: Add {C} to your mana pool.\n{7}, {T}: Create a 2/2 colorless Assembly-Worker artifact creature token.",
+      "flavor": null,
+      "artist": "Mark Tedin",
+      "number": "5",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2006-10-21",
+      "starter": null,
+      "printings": [
+        "pCMP",
+        "TSP",
+        "C13"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "CHAMPS Tournament participation bonus.",
+      "image_url": null,
+      "set": "pCMP",
+      "set_name": "Champs and States",
+      "id": "9242fd7305f4f3846659ac9bfc15d892578e6a1c",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2006-09-25",
+          "text": "Although Urza's Factory has the Urza's land type, it doesn't interact with Urza's Tower, Urza's Mine, or Urza's Power Plant."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u514b\u6492\u7684\u5de5\u5382",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Usine d'Urza",
+          "language": "French"
+        },
+        {
+          "name": "Urzas Fabrik",
+          "language": "German"
+        },
+        {
+          "name": "Fabbrica di Urza",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30a6\u30eb\u30b6\u306e\u5de5\u5ee0",
+          "language": "Japanese"
+        },
+        {
+          "name": "F\u00e1brica de Urza",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0424\u0430\u0431\u0440\u0438\u043a\u0430 \u0423\u0440\u0437\u044b",
+          "language": "Russian"
+        },
+        {
+          "name": "Factor\u00eda de Urza",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Serra Avenger",
+      "layout": "normal",
+      "mana_cost": "{W}{W}",
+      "cmc": 2,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Angel",
+      "supertypes": null,
+      "subtypes": [
+        "Angel"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "You can't cast Serra Avenger during your first, second, or third turns of the game.\nFlying\nVigilance (Attacking doesn't cause this creature to tap.)",
+      "flavor": null,
+      "artist": "Scott M. Fischer",
+      "number": "6",
+      "power": "3",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2006-10-21",
+      "starter": null,
+      "printings": [
+        "pCMP",
+        "TSP",
+        "M13"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "CHAMPS Prize for 8th place or better.",
+      "image_url": null,
+      "set": "pCMP",
+      "set_name": "Champs and States",
+      "id": "3d20219fb93c4369498e205445daa70d605268ea",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2006-09-25",
+          "text": "You can cast Serra Avenger during another player's first, second, or third turns of the game if some other effect (such as Vedalken Orrery) enables that."
+        },
+        {
+          "date": "2012-07-01",
+          "text": "Serra Avenger cares about how many turns you have taken, not necessarily how many turns the game has had, in case you take an extra turn."
+        },
+        {
+          "date": "2012-07-01",
+          "text": "If the game is restarted (by Karn Liberated), you can't cast Serra Avenger in your first, second, or third turn in the new game."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u6492\u62c9\u590d\u4ec7\u8005",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u6492\u62c9\u5fa9\u4ec7\u8005",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Vengeresse de Serra",
+          "language": "French"
+        },
+        {
+          "name": "Serras R\u00e4cher",
+          "language": "German"
+        },
+        {
+          "name": "Vendicatrice di Serra",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30bb\u30e9\u306e\u5831\u5fa9\u8005",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uc138\ub77c \uc751\uc9d5\uc790",
+          "language": "Korean"
+        },
+        {
+          "name": "Vingador de Serra",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041c\u0441\u0442\u0438\u0442\u0435\u043b\u044c \u0438\u0437 \u0421\u0435\u0440\u0440\u044b",
+          "language": "Russian"
+        },
+        {
+          "name": "Vengadora de Serra",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Blood Knight",
+      "layout": "normal",
+      "mana_cost": "{R}{R}",
+      "cmc": 2,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Knight",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Knight"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "First strike, protection from white",
+      "flavor": null,
+      "artist": "Matt Cavotta",
+      "number": "7",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2007",
+      "starter": null,
+      "printings": [
+        "pCMP",
+        "PLC"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "CHAMPS/STATES Tournament participation bonus",
+      "image_url": null,
+      "set": "pCMP",
+      "set_name": "Champs and States",
+      "id": "a89622671383a8701db63994c7d2525121c91120",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2007-02-01",
+          "text": "This is the timeshifted version of Black Knight."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u8840\u7ea2\u9a91\u58eb",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Chevalier sanglant",
+          "language": "French"
+        },
+        {
+          "name": "Blutritter",
+          "language": "German"
+        },
+        {
+          "name": "Cavaliere Sanguinario",
+          "language": "Italian"
+        },
+        {
+          "name": "\u8840\u9a0e\u58eb",
+          "language": "Japanese"
+        },
+        {
+          "name": "Cavaleiro Sang\u00fcin\u00e1rio",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041a\u0440\u043e\u0432\u0430\u0432\u044b\u0439 \u0420\u044b\u0446\u0430\u0440\u044c",
+          "language": "Russian"
+        },
+        {
+          "name": "Caballero de sangre",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Groundbreaker",
+      "layout": "normal",
+      "mana_cost": "{G}{G}{G}",
+      "cmc": 3,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Elemental",
+      "supertypes": null,
+      "subtypes": [
+        "Elemental"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Trample, haste\nAt the beginning of the end step, sacrifice Groundbreaker.",
+      "flavor": null,
+      "artist": "Matt Cavotta",
+      "number": "8",
+      "power": "6",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2007",
+      "starter": null,
+      "printings": [
+        "pCMP",
+        "PLC"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "CHAMPS/STATES  Prize for Top 4",
+      "image_url": null,
+      "set": "pCMP",
+      "set_name": "Champs and States",
+      "id": "6b4706a8cc6994c7185f527bfb2972cbcbc2793f",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2007-02-01",
+          "text": "This is the timeshifted version of Ball Lightning."
+        },
+        {
+          "date": "2007-02-01",
+          "text": "The creature is sacrificed at the end of every turn in which it is on the battlefield. There is no choice about what turn to sacrifice it."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u64bc\u5730\u7075",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Concasseur",
+          "language": "French"
+        },
+        {
+          "name": "Umpfl\u00fcger",
+          "language": "German"
+        },
+        {
+          "name": "Solcaterra",
+          "language": "Italian"
+        },
+        {
+          "name": "\u5730\u58ca\u3057",
+          "language": "Japanese"
+        },
+        {
+          "name": "Perfuratriz",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0417\u0435\u043c\u043b\u0435\u043b\u043e\u043c",
+          "language": "Russian"
+        },
+        {
+          "name": "Alzatierras",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Imperious Perfect",
+      "layout": "normal",
+      "mana_cost": "{2}{G}",
+      "cmc": 3,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Elf Warrior",
+      "supertypes": null,
+      "subtypes": [
+        "Elf",
+        "Warrior"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Other Elf creatures you control get +1/+1.\n{G}, {T}: Create a 1/1 green Elf Warrior creature token.",
+      "flavor": null,
+      "artist": "Scott M. Fischer",
+      "number": "9",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2007-10-27",
+      "starter": null,
+      "printings": [
+        "pCMP",
+        "LRW",
+        "EVG",
+        "DPA",
+        "C14",
+        "DD3_EVG",
+        "EMA",
+        "CMA"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "CHAMPS/STATES Tournament participation bonus",
+      "image_url": null,
+      "set": "pCMP",
+      "set_name": "Champs and States",
+      "id": "d6a5efc0eae4576120edc4c252ba5c42ab3fe63e",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u9a84\u50b2\u81f3\u7f8e",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u9a55\u50b2\u81f3\u7f8e",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Parfaite imp\u00e9rieuse",
+          "language": "French"
+        },
+        {
+          "name": "Gebieterischer Perfekter",
+          "language": "German"
+        },
+        {
+          "name": "Perfetta Autoritaria",
+          "language": "Italian"
+        },
+        {
+          "name": "\u50b2\u6162\u306a\u5b8c\u5168\u8005",
+          "language": "Japanese"
+        },
+        {
+          "name": "Perfeita Imperiosa",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0421\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u0430\u044f \u041f\u043e\u0432\u0435\u043b\u0438\u0442\u0435\u043b\u044c\u043d\u0438\u0446\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Perfecta arrogante",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Doran, the Siege Tower",
+      "layout": "normal",
+      "mana_cost": "{B}{G}{W}",
+      "cmc": 3,
+      "colors": [
+        "White",
+        "Black",
+        "Green"
+      ],
+      "color_identity": [
+        "W",
+        "B",
+        "G"
+      ],
+      "names": null,
+      "type": "Legendary Creature \u2014 Treefolk Shaman",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Treefolk",
+        "Shaman"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Each creature assigns combat damage equal to its toughness rather than its power.",
+      "flavor": null,
+      "artist": "Mark Zug",
+      "number": "10",
+      "power": "0",
+      "toughness": "5",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2007-10-27",
+      "starter": null,
+      "printings": [
+        "pCMP",
+        "LRW",
+        "V11"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "CHAMPS/STATES Prize for Top 8.Plus Four players chosen randomly",
+      "image_url": null,
+      "set": "pCMP",
+      "set_name": "Champs and States",
+      "id": "3f07d376bee1f7a0834662d3b21fbb08b0c7bb20",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2007-10-01",
+          "text": "Doran's ability means, for example, that a 2/3 creature will assign 3 damage in combat instead of 2."
+        },
+        {
+          "date": "2007-10-01",
+          "text": "Doran's ability doesn't actually change creatures' power; it changes only the value of the combat damage they assign. All other rules and effects that check power or toughness use the real values."
+        },
+        {
+          "date": "2007-10-01",
+          "text": "This effect is mandatory and affects all creatures."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u653b\u57ce\u5854\u675c\u84dd",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u653b\u57ce\u5854\u675c\u85cd",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Doran, la Tour de si\u00e8ge",
+          "language": "French"
+        },
+        {
+          "name": "Doran, der Belagerungsturm",
+          "language": "German"
+        },
+        {
+          "name": "Doran, la Torre d'Assedio",
+          "language": "Italian"
+        },
+        {
+          "name": "\u5305\u56f2\u306e\u642d\u3001\u30c9\u30e9\u30f3",
+          "language": "Japanese"
+        },
+        {
+          "name": "Doran, a Torre de Cerco",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0414\u043e\u0440\u0430\u043d, \u041e\u0441\u0430\u0434\u043d\u0430\u044f \u0411\u0430\u0448\u043d\u044f",
+          "language": "Russian"
+        },
+        {
+          "name": "D\u00f3ran, la torre de asedio",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Bramblewood Paragon",
+      "layout": "normal",
+      "mana_cost": "{1}{G}",
+      "cmc": 2,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Elf Warrior",
+      "supertypes": null,
+      "subtypes": [
+        "Elf",
+        "Warrior"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Each other Warrior creature you control enters the battlefield with an additional +1/+1 counter on it.\nEach creature you control with a +1/+1 counter on it has trample.",
+      "flavor": null,
+      "artist": "Jim Murray",
+      "number": "11",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2008-03-29",
+      "starter": null,
+      "printings": [
+        "pCMP",
+        "MOR"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "CHAMPS Tournament participation bonus",
+      "image_url": null,
+      "set": "pCMP",
+      "set_name": "Champs and States",
+      "id": "54771d916967e4adbac88d9792e6fd9d9bd995ab",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-04-01",
+          "text": "If a Warrior would normally enter the battlefield with a certain number of +1/+1 counters on it, it enters the battlefield with that many +1/+1 counters plus one on it instead. If a Warrior would normally enter the battlefield with no +1/+1 counters on it, it enters the battlefield with one +1/+1 counter on it instead."
+        },
+        {
+          "date": "2008-04-01",
+          "text": "The creature gets the counter if it would enter the battlefield under your control. It doesn't matter who owns the creature or what zone it enters the battlefield from (such as your opponent's graveyard, for example)."
+        },
+        {
+          "date": "2008-04-01",
+          "text": "The effects from more than one Bramblewood Paragon are cumulative. That is, if you have more than one Bramblewood Paragon on the battlefield, Warrior creatures you control enter the battlefield with that many additional +1/+1 counters on them."
+        },
+        {
+          "date": "2008-04-01",
+          "text": "If Bramblewood Paragon enters the battlefield at the same time as another Warrior (due to Living End, for example), that creature doesn't get a +1/+1 counter."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u7af9\u6797\u7f8e\u8303",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u7af9\u6797\u7f8e\u7bc4",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Parangon de boisronce",
+          "language": "French"
+        },
+        {
+          "name": "Brombeerholz-Vorbild",
+          "language": "German"
+        },
+        {
+          "name": "Esemplare di Boscodirovo",
+          "language": "Italian"
+        },
+        {
+          "name": "\u8328\u68ee\u306e\u6a21\u7bc4",
+          "language": "Japanese"
+        },
+        {
+          "name": "Paradigma da Floresta de Arbustos",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u042d\u0442\u0430\u043b\u043e\u043d \u0411\u0440\u0430\u043c\u0431\u043b\u0432\u0443\u0434\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Ejemplar de Maderazarza",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Mutavault",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Land",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Special",
+      "text": "{T}: Add {C} to your mana pool.\n{1}: Mutavault becomes a 2/2 creature with all creature types until end of turn. It's still a land.",
+      "flavor": null,
+      "artist": "Fred Fields",
+      "number": "12",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2008-03-29",
+      "starter": null,
+      "printings": [
+        "pCMP",
+        "MOR",
+        "M14"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "CHAMPS Prize for Top 4.",
+      "image_url": null,
+      "set": "pCMP",
+      "set_name": "Champs and States",
+      "id": "166acabab88d9be21228ef2f2712919dc35e2850",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-04-01",
+          "text": "Although Mutavault has all creature types while it's animated, it does not have the changeling keyword ability."
+        },
+        {
+          "date": "2008-08-01",
+          "text": "A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of his or her most recent turn. It doesn't matter how long the permanent has been a creature."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "Examples of creature types include Sliver, Goblin, and Soldier. Creature types appear after the dash on the type line of creatures."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u6613\u5f62\u5730\u7a96",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u6613\u5f62\u5730\u7a96",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Mutecaveau",
+          "language": "French"
+        },
+        {
+          "name": "\u00c4ndergew\u00f6lbe",
+          "language": "German"
+        },
+        {
+          "name": "Grotta Mutevole",
+          "language": "Italian"
+        },
+        {
+          "name": "\u5909\u308f\u308a\u8c37",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ubcc0\uc774\uc758 \ubc29",
+          "language": "Korean"
+        },
+        {
+          "name": "Caverna Mut\u00e1vel",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041f\u0440\u0435\u043e\u0431\u0440\u0430\u0436\u0430\u044e\u0449\u0430\u044f\u0441\u044f \u041f\u0435\u0449\u0435\u0440\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Mutab\u00f3veda",
+          "language": "Spanish"
+        }
+      ]
+    }
+  ]
+}

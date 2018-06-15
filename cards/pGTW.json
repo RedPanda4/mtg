@@ -1,0 +1,2482 @@
+{
+  "code": "pGTW",
+  "name": "Gateway",
+  "type": "promo",
+  "border": "black",
+  "mkm_id": null,
+  "mkm_name": null,
+  "release_date": "2006-01-01",
+  "gatherer_code": null,
+  "magic_cards_info_code": "grc",
+  "booster": null,
+  "old_code": null,
+  "block": null,
+  "online_only": null,
+  "cards": [
+    {
+      "name": "Wood Elves",
+      "layout": "normal",
+      "mana_cost": "{2}{G}",
+      "cmc": 3,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Elf Scout",
+      "supertypes": null,
+      "subtypes": [
+        "Elf",
+        "Scout"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "When Wood Elves enters the battlefield, search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.",
+      "flavor": "Every branch a crossroads, every vine a swift steed.",
+      "artist": "Rebecca Guay",
+      "number": "1",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2006",
+      "starter": null,
+      "printings": [
+        "POR",
+        "EXO",
+        "S99",
+        "7ED",
+        "8ED",
+        "9ED",
+        "pGTW",
+        "EVG",
+        "C14",
+        "DD3_EVG",
+        "C15",
+        "DDR",
+        "CMA"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Gateway Prize",
+      "image_url": null,
+      "set": "pGTW",
+      "set_name": "Gateway",
+      "id": "c8e1f8ca78da4f7d1042bb9b4939b723b44085d8",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "Because the \"search\" requires you to find a card with certain characteristics, you don't have to find the card if you don't want to."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u6797\u6728\u5996\u7cbe",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Elfe des bois",
+          "language": "French"
+        },
+        {
+          "name": "Waldelfen",
+          "language": "German"
+        },
+        {
+          "name": "Elfi dei Boschi",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30a6\u30c3\u30c9\u30fb\u30a8\u30eb\u30d5",
+          "language": "Japanese"
+        },
+        {
+          "name": "Elfos da Floresta",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041b\u0435\u0441\u043d\u044b\u0435 \u044d\u043b\u044c\u0444\u044b",
+          "language": "Russian"
+        },
+        {
+          "name": "Elfos del bosque",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Icatian Javelineers",
+      "layout": "normal",
+      "mana_cost": "{W}",
+      "cmc": 1,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Soldier",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Soldier"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Icatian Javelineers enters the battlefield with a javelin counter on it.\n{T}, Remove a javelin counter from Icatian Javelineers: Icatian Javelineers deals 1 damage to target creature or player.",
+      "flavor": null,
+      "artist": "Michael Phillippi",
+      "number": "2",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2006",
+      "starter": null,
+      "printings": [
+        "FEM",
+        "ATH",
+        "pGTW",
+        "TSB",
+        "ME2",
+        "DDO"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Gateway Prize",
+      "image_url": null,
+      "set": "pGTW",
+      "set_name": "Gateway",
+      "id": "63e9b2e51f65c82878463ca3b53df5539000830a",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u827e\u51ef\u900a\u63b7\u67aa\u624b",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Javeliniers icatians",
+          "language": "French"
+        },
+        {
+          "name": "Icatianische Speerschleuderer",
+          "language": "German"
+        },
+        {
+          "name": "Giavellottieri di Icatia",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30a2\u30a4\u30b1\u30a4\u30b7\u30a2\u306e\u6295\u69cd\u5175",
+          "language": "Japanese"
+        },
+        {
+          "name": "Zagaieiros Icatianos",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0410\u0439\u043a\u0435\u0439\u0448\u0443\u043d\u0441\u043a\u0438\u0435 \u041c\u0435\u0442\u0430\u0442\u0435\u043b\u0438 \u0414\u0440\u043e\u0442\u0438\u043a\u043e\u0432",
+          "language": "Russian"
+        },
+        {
+          "name": "Jabalineros icatianos",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Fiery Temper",
+      "layout": "normal",
+      "mana_cost": "{1}{R}{R}",
+      "cmc": 3,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Fiery Temper deals 3 damage to target creature or player.\nMadness {R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",
+      "flavor": null,
+      "artist": "Ben Wootten",
+      "number": "3",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2006",
+      "starter": null,
+      "printings": [
+        "TOR",
+        "pGTW",
+        "TSB",
+        "SOI"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Gateway Prize",
+      "image_url": null,
+      "set": "pGTW",
+      "set_name": "Gateway",
+      "id": "e79004a4871166f9c1e30403e1bf73a40a2e8e25",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2016-04-08",
+          "text": "Cards are discarded in a Magic game only from a player's hand. Effects that put cards from a player's library into that player's graveyard do not cause those cards to be discarded."
+        },
+        {
+          "date": "2016-04-08",
+          "text": "A spell cast for its madness cost is put onto the stack like any other spell. It can be countered, copied, and so on. As it resolves, it's put onto the battlefield if it's a permanent card or into its owner's graveyard if it's an instant or sorcery card."
+        },
+        {
+          "date": "2016-04-08",
+          "text": "Casting a spell for its madness cost doesn't change its mana cost or its converted mana cost. You just pay the madness cost instead."
+        },
+        {
+          "date": "2016-04-08",
+          "text": "Effects that cause you to pay more or less for a spell will cause you to pay that much more or less for its madness cost, too."
+        },
+        {
+          "date": "2016-04-08",
+          "text": "Madness works independently of why you're discarding the card. You could discard it to pay a cost, because a spell or ability tells you to, or even because you have too many cards in your hand at the end of your turn. You can't discard a card with madness just because you want to, though."
+        },
+        {
+          "date": "2016-04-08",
+          "text": "When you cast a card with madness, it was still discarded. If it was discarded to pay a cost, that cost is still paid. Abilities that trigger when a card is discarded will still trigger."
+        },
+        {
+          "date": "2016-04-08",
+          "text": "If you choose not to cast a card with madness when the madness triggered ability resolves, it's put into your graveyard. You don't get another chance to cast it later."
+        },
+        {
+          "date": "2016-04-08",
+          "text": "If you discard a card with madness to pay the cost of a spell or activated ability, that card's madness trigger (and the spell that card becomes, if you choose to cast it) will resolve before the spell or ability the discard paid for."
+        },
+        {
+          "date": "2016-04-08",
+          "text": "If you discard a card with madness while resolving a spell or ability, it moves immediately to exile. Continue resolving that spell or ability\u2014the card is not in your graveyard at this time. Its madness trigger will be placed onto the stack once that spell or ability has completely resolved."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u706b\u7206",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u706b\u7206",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Temp\u00e9rament fougueux",
+          "language": "French"
+        },
+        {
+          "name": "Hitziges Temperament",
+          "language": "German"
+        },
+        {
+          "name": "Temperamento Focoso",
+          "language": "Italian"
+        },
+        {
+          "name": "\u7647\u3057\u3083\u304f",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ubd88\uac19\uc740 \uc131\ubbf8",
+          "language": "Korean"
+        },
+        {
+          "name": "Temperamento Explosivo",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041e\u0433\u043d\u0435\u043d\u043d\u044b\u0439 \u041d\u043e\u0440\u043e\u0432",
+          "language": "Russian"
+        },
+        {
+          "name": "Car\u00e1cter ardiente",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Boomerang",
+      "layout": "normal",
+      "mana_cost": "{U}{U}",
+      "cmc": 2,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Return target permanent to its owner's hand.",
+      "flavor": "\"Returne from whence ye came...\"\n\u2014Edmund Spenser, The Faerie Queene",
+      "artist": "Rebecca Guay",
+      "number": "4",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2007",
+      "starter": null,
+      "printings": [
+        "LEG",
+        "CHR",
+        "MIR",
+        "5ED",
+        "6ED",
+        "7ED",
+        "8ED",
+        "9ED",
+        "pGTW",
+        "10E",
+        "ME3",
+        "DPA"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Gateway Prize",
+      "image_url": null,
+      "set": "pGTW",
+      "set_name": "Gateway",
+      "id": "6c0283ef038b4246965e60c1d2dc8235b72c8171",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u56de\u529b\u9556",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u56de\u529b\u93e2",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Boomerang",
+          "language": "French"
+        },
+        {
+          "name": "Bumerang",
+          "language": "German"
+        },
+        {
+          "name": "Boomerang",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30d6\u30fc\u30e1\u30e9\u30f3",
+          "language": "Japanese"
+        },
+        {
+          "name": "Bumerangue",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0411\u0443\u043c\u0435\u0440\u0430\u043d\u0433",
+          "language": "Russian"
+        },
+        {
+          "name": "B\u00famerang",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Calciderm",
+      "layout": "normal",
+      "mana_cost": "{2}{W}{W}",
+      "cmc": 4,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Beast",
+      "supertypes": null,
+      "subtypes": [
+        "Beast"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Shroud (This creature can't be the target of spells or abilities.)\nVanishing 4 (This creature enters the battlefield with four time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)",
+      "flavor": null,
+      "artist": "Dave Kendall",
+      "number": "5",
+      "power": "5",
+      "toughness": "5",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2007",
+      "starter": null,
+      "printings": [
+        "pGTW",
+        "PLC",
+        "EMA"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Gateway Prize",
+      "image_url": null,
+      "set": "pGTW",
+      "set_name": "Gateway",
+      "id": "5ae459eacbcb0179310cc27b06f72670486f8091",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2007-02-01",
+          "text": "This is the timeshifted version of Blastoderm."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u9499\u8eab\u9a6e\u767b",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Calciderme",
+          "language": "French"
+        },
+        {
+          "name": "Calciderm",
+          "language": "German"
+        },
+        {
+          "name": "Calciderma",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30ab\u30eb\u30b7\u30c0\u30fc\u30e0",
+          "language": "Japanese"
+        },
+        {
+          "name": "Calciderme",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041a\u0430\u043b\u044c\u0446\u0438\u0434\u0435\u0440\u043c",
+          "language": "Russian"
+        },
+        {
+          "name": "Calcidermo",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Reckless Wurm",
+      "layout": "normal",
+      "mana_cost": "{3}{R}{R}",
+      "cmc": 5,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Wurm",
+      "supertypes": null,
+      "subtypes": [
+        "Wurm"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Trample\nMadness {2}{R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",
+      "flavor": "Bred for battle in the Grand Coliseum, these wurms annihilated whole ecosystems when released into the wild.",
+      "artist": "Greg Staples",
+      "number": "6",
+      "power": "4",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2007",
+      "starter": null,
+      "printings": [
+        "pGTW",
+        "PLC"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Gateway Prize",
+      "image_url": null,
+      "set": "pGTW",
+      "set_name": "Gateway",
+      "id": "63c9d07f92dac4bda6fdf7771cc81d804792b483",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2007-02-01",
+          "text": "This is the timeshifted version of Arrogant Wurm."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u9c81\u83bd\u4e9a\u9f99",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Guivre t\u00e9m\u00e9raire",
+          "language": "French"
+        },
+        {
+          "name": "R\u00fccksichtsloser Wurm",
+          "language": "German"
+        },
+        {
+          "name": "Wurm Temerario",
+          "language": "Italian"
+        },
+        {
+          "name": "\u7121\u8b00\u306a\u308b\u30ef\u30fc\u30e0",
+          "language": "Japanese"
+        },
+        {
+          "name": "Vorme Imprudente",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0411\u0435\u0437\u0440\u0430\u0441\u0441\u0443\u0434\u043d\u044b\u0439 \u0412\u0443\u0440\u043c",
+          "language": "Russian"
+        },
+        {
+          "name": "Sierpe temeraria",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Yixlid Jailer",
+      "layout": "normal",
+      "mana_cost": "{1}{B}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Zombie Wizard",
+      "supertypes": null,
+      "subtypes": [
+        "Zombie",
+        "Wizard"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Cards in graveyards lose all abilities.",
+      "flavor": "He holds the keys to a tombful of incarcerated secrets.",
+      "artist": "Alex Horley-Orlandelli",
+      "number": "7",
+      "power": "2",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2007",
+      "starter": null,
+      "printings": [
+        "pGTW",
+        "FUT"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Gateway Prize",
+      "image_url": null,
+      "set": "pGTW",
+      "set_name": "Gateway",
+      "id": "96ddaeb46e3066ad66daee1a1fbd5da7c04c5c7b",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2007-05-01",
+          "text": "This removes all abilities on all cards in all graveyards \u2014 both the ones that matter in a graveyard (dredge, Chronosavant's ability, etc.) and those that don't."
+        },
+        {
+          "date": "2007-05-01",
+          "text": "If an ability triggers when the object that has it is put into a graveyard from the battlefield, that ability triggers from the battlefield (such as Deadwood Treefolk or Epochrasite, for example), they won't be affected by Yixlid Jailer."
+        },
+        {
+          "date": "2007-05-01",
+          "text": "If an ability triggers when the object that has it is put into a graveyard from anywhere other than the battlefield, that ability triggers from the graveyard, (such as Krosan Tusker, Narcomoeba, or Quagnoth, for example). Yixlid Jailer will prevent those abilities from triggering at all."
+        },
+        {
+          "date": "2007-05-01",
+          "text": "If an ability triggers when the object that has it is put into a hidden zone from a graveyard, that ability triggers from the graveyard, (such as Golgari Brownscale), Yixlid Jailer will prevent that ability from triggering."
+        },
+        {
+          "date": "2007-05-01",
+          "text": "Some replacement effects cause a card to be put somewhere else instead of being put into a graveyard (such as Legacy Weapon). These effects mean the card is never actually put into the graveyard, so Yixlid Jailer can't affect it."
+        },
+        {
+          "date": "2007-05-01",
+          "text": "Some cards have abilities that modify how they're put onto the battlefield. For example, Scarwood Treefolk says \"Scarwood Treefolk is put onto the battlefield tapped\" and Triskelion says \"Triskelion enters the battlefield with three +1/+1 counters on it.\" Although these cards won't have these abilities in the graveyard, they will be applied if the cards are put onto the battlefield from the graveyard (due to Zombify, perhaps). What matters is that these cards will have these abilities on the battlefield."
+        },
+        {
+          "date": "2007-05-01",
+          "text": "If Mistform Ultimus is in the graveyard, the Ultimus will lose its ability that says \"Mistform Ultimus is every creature type,\" but it will still *be* all creature types. The way continuous effects work, Mistform Ultimus's type-changing ability is applied before Yixlid Jailer's ability removes it."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u5f02\u897f\u91cc\u72f1\u5352",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Gardien de prison yixlide",
+          "language": "French"
+        },
+        {
+          "name": "Yixlid-Kerkermeister",
+          "language": "German"
+        },
+        {
+          "name": "Carceriere Yixlid",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30a4\u30af\u30b9\u30ea\u30c3\u30c9\u306e\u770b\u5b88",
+          "language": "Japanese"
+        },
+        {
+          "name": "Carcereiro Yixlid",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0418\u043a\u0441\u043b\u0438\u0434\u0441\u043a\u0438\u0439 \u0422\u044e\u0440\u0435\u043c\u0449\u0438\u043a",
+          "language": "Russian"
+        },
+        {
+          "name": "Carcelero yixlid",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Zoetic Cavern",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Land",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Special",
+      "text": "{T}: Add {C} to your mana pool.\nMorph {2} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+      "flavor": "Nothing lives within it, yet there is life.",
+      "artist": "Martina Pilcerova",
+      "number": "8",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2007",
+      "starter": null,
+      "printings": [
+        "pGTW",
+        "FUT",
+        "CMD",
+        "C14",
+        "C15",
+        "CMA"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Gateway Prize",
+      "image_url": null,
+      "set": "pGTW",
+      "set_name": "Gateway",
+      "id": "df80d2f46361b94d25c6a86309ed2df0e13c93b0",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u8574\u751f\u6d1e\u7a74",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Caverne zo\u00e9cite",
+          "language": "French"
+        },
+        {
+          "name": "Vitale Kaverne",
+          "language": "German"
+        },
+        {
+          "name": "Caverna Zootica",
+          "language": "Italian"
+        },
+        {
+          "name": "\u751f\u3051\u308b\u3082\u306e\u306e\u6d1e\u7a9f",
+          "language": "Japanese"
+        },
+        {
+          "name": "Caverna Zo\u00e9tica",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0416\u0438\u0432\u0430\u044f \u041f\u0435\u0449\u0435\u0440\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Caverna zo\u00e9tica",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Llanowar Elves",
+      "layout": "normal",
+      "mana_cost": "{G}",
+      "cmc": 1,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Elf Druid",
+      "supertypes": null,
+      "subtypes": [
+        "Elf",
+        "Druid"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "{T}: Add {G} to your mana pool.",
+      "flavor": "Whenever the Llanowar elves gather the fruits of their forest, they leave one plant of each type untouched, considering that nature's portion.",
+      "artist": "Anson Maddocks",
+      "number": "9",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2007-10",
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "5ED",
+        "ATH",
+        "6ED",
+        "BRB",
+        "pFNM",
+        "S00",
+        "BTD",
+        "7ED",
+        "9ED",
+        "pGTW",
+        "10E",
+        "EVG",
+        "M10",
+        "M11",
+        "M12",
+        "C14",
+        "DD3_EVG",
+        "EMA",
+        "CMA"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Gateway Prize",
+      "image_url": null,
+      "set": "pGTW",
+      "set_name": "Gateway",
+      "id": "5a36bcf9a7ebd6a5c914a8a801e34cd7e987a96b",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u7f57\u5830\u5996\u7cbe",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u7f85\u5830\u5996\u7cbe",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Elfes de Llanowar",
+          "language": "French"
+        },
+        {
+          "name": "Llanowarelfen",
+          "language": "German"
+        },
+        {
+          "name": "Elfi di Llanowar",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30e9\u30ce\u30ef\u30fc\u30eb\u306e\u30a8\u30eb\u30d5",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ub77c\ub178\uc640\uc758 \uc5d8\ud504",
+          "language": "Korean"
+        },
+        {
+          "name": "Elfos de Llanowar",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041b\u0430\u043d\u043e\u0432\u0430\u0440\u0441\u043a\u0438\u0435 \u042d\u043b\u044c\u0444\u044b",
+          "language": "Russian"
+        },
+        {
+          "name": "Elfos de Llanowar",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Mogg Fanatic",
+      "layout": "normal",
+      "mana_cost": "{R}",
+      "cmc": 1,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Goblin",
+      "supertypes": null,
+      "subtypes": [
+        "Goblin"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Sacrifice Mogg Fanatic: Mogg Fanatic deals 1 damage to target creature or player.",
+      "flavor": "\"As if his chest had been a mortar, he burst his hot heart's shell upon it.\"\n\u2014Herman Melville, Moby Dick",
+      "artist": "Nils Hamm",
+      "number": "10",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2007-10",
+      "starter": null,
+      "printings": [
+        "TMP",
+        "ATH",
+        "pFNM",
+        "pGTW",
+        "10E",
+        "EVG",
+        "PD2",
+        "DD3_EVG",
+        "TPR",
+        "EMA"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Gateway Prize",
+      "image_url": null,
+      "set": "pGTW",
+      "set_name": "Gateway",
+      "id": "ba5952f9380d15b7d00228651d0663932f8d9cf8",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2016-06-08",
+          "text": "Once Mogg Fanatic has dealt and been dealt combat damage, it's too late to activate its ability before it's destroyed."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u8ff7\u4e71\u83ab\u845b",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u8ff7\u4e82\u83ab\u845b",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Mogg fanatique",
+          "language": "French"
+        },
+        {
+          "name": "Fanatischer Mogg",
+          "language": "German"
+        },
+        {
+          "name": "Mogg Fanatico",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30e2\u30b0\u306e\u72c2\u4fe1\u8005",
+          "language": "Japanese"
+        },
+        {
+          "name": "Mogg Fan\u00e1tico",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041c\u043e\u0433\u0433-\u0424\u0430\u043d\u0430\u0442\u0438\u043a",
+          "language": "Russian"
+        },
+        {
+          "name": "Fan\u00e1tico mogg",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Mind Stone",
+      "layout": "normal",
+      "mana_cost": "{2}",
+      "cmc": 2,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "{T}: Add {C} to your mana pool.\n{1}, {T}, Sacrifice Mind Stone: Draw a card.",
+      "flavor": "\"Except our own thoughts, there is nothing absolutely in our power.\"\n\u2014Rene Descartes, Discourse on Method",
+      "artist": "Martina Pilcerova",
+      "number": "11",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2007-10",
+      "starter": null,
+      "printings": [
+        "WTH",
+        "pGTW",
+        "10E",
+        "DD2",
+        "C14",
+        "DD3_JVC",
+        "DDP",
+        "C15",
+        "IMA"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Gateway Prize",
+      "image_url": null,
+      "set": "pGTW",
+      "set_name": "Gateway",
+      "id": "187f1969620ff9bc0addbbcee1024cda9a9a7a6a",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u5fc3\u7075\u77f3",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u5fc3\u9748\u77f3",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Pierre de l'esprit",
+          "language": "French"
+        },
+        {
+          "name": "Gedankenstein",
+          "language": "German"
+        },
+        {
+          "name": "Pietra della Mente",
+          "language": "Italian"
+        },
+        {
+          "name": "\u7cbe\u795e\u77f3",
+          "language": "Japanese"
+        },
+        {
+          "name": "Pedra da Mente",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041a\u0430\u043c\u0435\u043d\u044c \u0420\u0430\u0437\u0443\u043c\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Piedra mental",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Dauntless Dourbark",
+      "layout": "normal",
+      "mana_cost": "{3}{G}",
+      "cmc": 4,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Treefolk Warrior",
+      "supertypes": null,
+      "subtypes": [
+        "Treefolk",
+        "Warrior"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Dauntless Dourbark's power and toughness are each equal to the number of Forests you control plus the number of Treefolk you control.\nDauntless Dourbark has trample as long as you control another Treefolk.",
+      "flavor": null,
+      "artist": "Jeremy Jarvis",
+      "number": "12",
+      "power": "*",
+      "toughness": "*",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2008-11",
+      "starter": null,
+      "printings": [
+        "pGTW",
+        "LRW"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Gateway Prize",
+      "image_url": null,
+      "set": "pGTW",
+      "set_name": "Gateway",
+      "id": "71ab845bc1b4f333a32fbce7f01422507e2b49a1",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2007-10-01",
+          "text": "Dauntless Dourbark counts itself when determining its power and toughness."
+        },
+        {
+          "date": "2007-10-01",
+          "text": "A permanent that's both a Forest and a Treefolk will be counted twice when determining Dauntless Dourbark's power and toughness."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u4e0d\u5c48\u97e7\u76ae\u6811",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u4e0d\u5c48\u97cc\u76ae\u6a39",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Dur\u00e9corce intr\u00e9pide",
+          "language": "French"
+        },
+        {
+          "name": "Furchtloser Hartborker",
+          "language": "German"
+        },
+        {
+          "name": "Cortecciadura Intrepido",
+          "language": "Italian"
+        },
+        {
+          "name": "\u4e0d\u5c48\u306e\u9811\u56fa\u76ae",
+          "language": "Japanese"
+        },
+        {
+          "name": "Troncoscuro Destemido",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041d\u0435\u0443\u0441\u0442\u0440\u0430\u0448\u0438\u043c\u044b\u0439 \u041c\u0440\u0430\u0447\u043d\u043e\u0434\u0440\u0435\u0432",
+          "language": "Russian"
+        },
+        {
+          "name": "Cortezadura intr\u00e9pido",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Lava Axe",
+      "layout": "normal",
+      "mana_cost": "{4}{R}",
+      "cmc": 5,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Special",
+      "text": "Lava Axe deals 5 damage to target player.",
+      "flavor": "\"Catch!\"",
+      "artist": "Ray Lago",
+      "number": "13",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2008",
+      "starter": null,
+      "printings": [
+        "POR",
+        "PO2",
+        "ULG",
+        "S99",
+        "S00",
+        "BTD",
+        "7ED",
+        "8ED",
+        "9ED",
+        "pGTW",
+        "10E",
+        "M10",
+        "M11",
+        "M12",
+        "M14",
+        "M15"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Gateway Prize",
+      "image_url": null,
+      "set": "pGTW",
+      "set_name": "Gateway",
+      "id": "1046f07147d6619c26476c26a4d7a7119f53d343",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u7194\u5ca9\u65a7",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u7194\u5ca9\u65a7",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Hache de lave",
+          "language": "French"
+        },
+        {
+          "name": "Lavaaxt",
+          "language": "German"
+        },
+        {
+          "name": "Ascia di Lava",
+          "language": "Italian"
+        },
+        {
+          "name": "\u6eb6\u5ca9\u306e\u65a7",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uc6a9\uc554\ub3c4\ub07c",
+          "language": "Korean"
+        },
+        {
+          "name": "Machado de Lava",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0422\u043e\u043f\u043e\u0440 \u0438\u0437 \u041b\u0430\u0432\u044b",
+          "language": "Russian"
+        },
+        {
+          "name": "Hacha de lava",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Cenn's Tactician",
+      "layout": "normal",
+      "mana_cost": "{W}",
+      "cmc": 1,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Kithkin Soldier",
+      "supertypes": null,
+      "subtypes": [
+        "Kithkin",
+        "Soldier"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "{W}, {T}: Put a +1/+1 counter on target Soldier creature.\nEach creature you control with a +1/+1 counter on it can block an additional creature each combat.",
+      "flavor": "\"A well-trained force brings peace... which brings more time for training!\"",
+      "artist": "Steven Belledin",
+      "number": "14",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2008",
+      "starter": null,
+      "printings": [
+        "pGTW",
+        "MOR"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Gateway Prize",
+      "image_url": null,
+      "set": "pGTW",
+      "set_name": "Gateway",
+      "id": "9d10839d10b533e48ee7c4d7fae1d1b7366f1bc4",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-04-01",
+          "text": "The second ability is cumulative. That is, each creature you control with any +1/+1 counters on it can block an additional creature for each Cenn's Tactician you control. Cenn's Tactician doesn't care whether the creature has any +1/+1 counters on it beyond the first."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u4ed5\u7ec5\u7b56\u58eb",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u4ed5\u7d33\u7b56\u58eb",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Tacticienne du cenn",
+          "language": "French"
+        },
+        {
+          "name": "Taktikerin des Schulzen",
+          "language": "German"
+        },
+        {
+          "name": "Tattica del Cenn",
+          "language": "Italian"
+        },
+        {
+          "name": "\u4e3b\u306e\u6226\u8853\u5bb6",
+          "language": "Japanese"
+        },
+        {
+          "name": "Estrategista do Cenn",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0421\u043e\u0432\u0435\u0442\u043d\u0438\u0446\u0430 \u0421\u0442\u0430\u0440\u043e\u0441\u0442\u044b",
+          "language": "Russian"
+        },
+        {
+          "name": "Estratega del Cenn",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Oona's Blackguard",
+      "layout": "normal",
+      "mana_cost": "{1}{B}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Faerie Rogue",
+      "supertypes": null,
+      "subtypes": [
+        "Faerie",
+        "Rogue"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Flying\nEach other Rogue creature you control enters the battlefield with an additional +1/+1 counter on it.\nWhenever a creature you control with a +1/+1 counter on it deals combat damage to a player, that player discards a card.",
+      "flavor": null,
+      "artist": "Darrell Riche",
+      "number": "15",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2008",
+      "starter": null,
+      "printings": [
+        "pGTW",
+        "MOR"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Gateway Prize",
+      "image_url": null,
+      "set": "pGTW",
+      "set_name": "Gateway",
+      "id": "e13faaaaaf0864b3199f6a35cee07467ee0930c4",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-04-01",
+          "text": "If a Rogue would normally enter the battlefield with a certain number of +1/+1 counters on it, it enters the battlefield with that many +1/+1 counters plus one on it instead. If a Rogue would normally enter the battlefield with no +1/+1 counters on it, it enters the battlefield with one +1/+1 counter on it instead."
+        },
+        {
+          "date": "2008-04-01",
+          "text": "The creature gets the counter if it would enter the battlefield under your control. It doesn't matter who owns the creature or what zone it enters the battlefield from (such as your opponent's graveyard, for example)."
+        },
+        {
+          "date": "2008-04-01",
+          "text": "The effects from more than one of these cards are cumulative. That is, if you have two Oona's Blackguard on the battlefield, Rogue creatures you control enter the battlefield with two additional +1/+1 counters on them."
+        },
+        {
+          "date": "2008-04-01",
+          "text": "If Oona's Blackguard enters the battlefield at the same time as another Rogue (due to Living End, for example), that creature doesn't get a +1/+1 counter."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u6b27\u5a1c\u7684\u9ed1\u536b\u58eb",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u6b50\u5a1c\u7684\u9ed1\u885b\u58eb",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Garde noire d'Oona",
+          "language": "French"
+        },
+        {
+          "name": "Oonas Lumpenpack",
+          "language": "German"
+        },
+        {
+          "name": "Guardia Nera di Oona",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30a6\u30fc\u30ca\u306e\u9ed2\u8fd1\u885b",
+          "language": "Japanese"
+        },
+        {
+          "name": "Guardi\u00e3o Sombrio de Oona",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0417\u043b\u043e\u0434\u0435\u0439\u043a\u0430 \u0423\u043d\u044b",
+          "language": "Russian"
+        },
+        {
+          "name": "Guardia negro de Oona",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Gravedigger",
+      "layout": "normal",
+      "mana_cost": "{3}{B}",
+      "cmc": 4,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Zombie",
+      "supertypes": null,
+      "subtypes": [
+        "Zombie"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.",
+      "flavor": "A full coffin is like a full coffer-both are attractive to thieves.",
+      "artist": "Tony Szczudlo",
+      "number": "16",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2008",
+      "starter": null,
+      "printings": [
+        "POR",
+        "TMP",
+        "6ED",
+        "S99",
+        "BTD",
+        "7ED",
+        "ODY",
+        "8ED",
+        "9ED",
+        "pGTW",
+        "10E",
+        "M10",
+        "HOP",
+        "M11",
+        "CMD",
+        "M12",
+        "M15",
+        "TPR",
+        "EMA",
+        "AKH"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Gateway Prize",
+      "image_url": null,
+      "set": "pGTW",
+      "set_name": "Gateway",
+      "id": "fa6fc1f912c50abd297856d0eb568f1abfdfa858",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2009-10-01",
+          "text": "A \"creature card\" is any card with the type creature, even if it has other types such as artifact, enchantment, or land. Older cards of type summon are also creature cards."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u6398\u5893\u602a",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u6398\u5893\u602a",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Fossoyeur",
+          "language": "French"
+        },
+        {
+          "name": "Totengr\u00e4ber",
+          "language": "German"
+        },
+        {
+          "name": "Scavatombe",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30b0\u30ec\u30a4\u30d6\u30c7\u30a3\u30ac\u30fc",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uc2dc\uccb4 \ub3c4\ub451",
+          "language": "Korean"
+        },
+        {
+          "name": "Coveiro",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041c\u043e\u0433\u0438\u043b\u044c\u0449\u0438\u043a",
+          "language": "Russian"
+        },
+        {
+          "name": "Sepulturero",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Boggart Ram-Gang",
+      "layout": "normal",
+      "mana_cost": "{R/G}{R/G}{R/G}",
+      "cmc": 3,
+      "colors": [
+        "Red",
+        "Green"
+      ],
+      "color_identity": [
+        "R",
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Goblin Warrior",
+      "supertypes": null,
+      "subtypes": [
+        "Goblin",
+        "Warrior"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Haste\nWither (This deals damage to creatures in the form of -1/-1 counters.)",
+      "flavor": "\"We're going to need a bigger gate.\" \u2014Bowen, Barrenton guardcaptain",
+      "artist": "Lucio Parrillo",
+      "number": "17",
+      "power": "3",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2008",
+      "starter": null,
+      "printings": [
+        "pGTW",
+        "SHM",
+        "PD2"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "French Gateway Prize",
+      "image_url": null,
+      "set": "pGTW",
+      "set_name": "Gateway",
+      "id": "a5fdac678823a465a8caab8204f12fc1c57d280e",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u6ce2\u5c2c\u653b\u57ce\u7ec4",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Boggart Ram-Gang",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Gang du b\u00e9lier boggart",
+          "language": "French"
+        },
+        {
+          "name": "Boggart-Rammbande",
+          "language": "German"
+        },
+        {
+          "name": "Squadra d'Assalto Boggart",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30dc\u30ac\u30fc\u30c8\u306e\u7a81\u6483\u968a",
+          "language": "Japanese"
+        },
+        {
+          "name": "Gangue do Ar\u00edete Pap\u00e3o",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0411\u043e\u0433\u0433\u0430\u0440\u0442\u044b-\u0422\u0430\u0440\u0430\u043d\u0449\u0438\u043a\u0438",
+          "language": "Russian"
+        },
+        {
+          "name": "Arieteros boggart",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Wilt-Leaf Cavaliers",
+      "layout": "normal",
+      "mana_cost": "{G/W}{G/W}{G/W}",
+      "cmc": 3,
+      "colors": [
+        "White",
+        "Green"
+      ],
+      "color_identity": [
+        "W",
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Elf Knight",
+      "supertypes": null,
+      "subtypes": [
+        "Elf",
+        "Knight"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Vigilance",
+      "flavor": "Every elf in Shadowmoor is charged from birth with a terrible duty: to strike back against the ugliness and darkness, even though they are all around and seemingly without end.",
+      "artist": "Steven Belledin",
+      "number": "18",
+      "power": "3",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2008",
+      "starter": null,
+      "printings": [
+        "pGTW",
+        "SHM",
+        "DDG"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "French Gateway Prize",
+      "image_url": null,
+      "set": "pGTW",
+      "set_name": "Gateway",
+      "id": "145e51188277e5b22303b81e8575ae6968e359b2",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u67af\u53f6\u9a91\u5175",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Wilt-Leaf Cavaliers",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Cavaliers de Feuilleterne",
+          "language": "French"
+        },
+        {
+          "name": "Gilblaub-Reiter",
+          "language": "German"
+        },
+        {
+          "name": "Cavalieri di Foglia Secca",
+          "language": "Italian"
+        },
+        {
+          "name": "\u840e\u308c\u8449\u306e\u9a0e\u5175",
+          "language": "Japanese"
+        },
+        {
+          "name": "Cavaleiros de Folha Seca",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0412\u0441\u0430\u0434\u043d\u0438\u043a\u0438 \u0422\u0435\u043c\u043d\u043e\u043b\u0435\u0441\u044c\u044f",
+          "language": "Russian"
+        },
+        {
+          "name": "Caballeros de Hojas Marchitas",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Duergar Hedge-Mage",
+      "layout": "normal",
+      "mana_cost": "{2}{R/W}",
+      "cmc": 3,
+      "colors": [
+        "White",
+        "Red"
+      ],
+      "color_identity": [
+        "W",
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Dwarf Shaman",
+      "supertypes": null,
+      "subtypes": [
+        "Dwarf",
+        "Shaman"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "When Duergar Hedge-Mage enters the battlefield, if you control two or more Mountains, you may destroy target artifact.\nWhen Duergar Hedge-Mage enters the battlefield, if you control two or more Plains, you may destroy target enchantment.",
+      "flavor": null,
+      "artist": "Thomas M. Baxa",
+      "number": "19",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2008",
+      "starter": null,
+      "printings": [
+        "pGTW",
+        "EVE",
+        "HOP",
+        "CMD",
+        "CMA"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Gateway Prize",
+      "image_url": null,
+      "set": "pGTW",
+      "set_name": "Gateway",
+      "id": "ab4c73997fa1eeeca39d9e21a465eb9ae5a29f53",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-08-01",
+          "text": "Each of the triggered abilities has an \"intervening 'if' clause.\" That means (1) the ability won't trigger at all unless you control two or more lands of the appropriate land type when the Hedge-Mage enters the battlefield, and (2) the ability will do nothing if you don't control two or more lands of the appropriate land type by the time it resolves."
+        },
+        {
+          "date": "2008-08-01",
+          "text": "Both abilities trigger at the same time. You can put them on the stack in any order."
+        },
+        {
+          "date": "2008-08-01",
+          "text": "Each of the triggered abilities look at your lands individually. This means that if you only control two dual-lands of the appropriate types, both of the abilities will trigger."
+        },
+        {
+          "date": "2008-08-01",
+          "text": "Both abilities are optional; you choose whether to use them when they resolve. If an ability has a target, you must choose a target even if you don't plan to use the ability."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u8bbe\u969c\u579b\u683c",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Mage des haies duergar",
+          "language": "French"
+        },
+        {
+          "name": "Grauzwerg-Heckenhexer",
+          "language": "German"
+        },
+        {
+          "name": "Duergar Mago Ambulante",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30c7\u30e5\u30eb\u30ac\u30fc\u306e\u57a3\u9b54\u9053\u58eb",
+          "language": "Japanese"
+        },
+        {
+          "name": "Mago Rural Duergar",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0414\u0443\u044d\u0440\u0433\u0430\u0440-\u0421\u0430\u043c\u043e\u0443\u0447\u043a\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Mago errante du\u00e9rgar",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Selkie Hedge-Mage",
+      "layout": "normal",
+      "mana_cost": "{2}{G/U}",
+      "cmc": 3,
+      "colors": [
+        "Blue",
+        "Green"
+      ],
+      "color_identity": [
+        "U",
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Merfolk Wizard",
+      "supertypes": null,
+      "subtypes": [
+        "Merfolk",
+        "Wizard"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "When Selkie Hedge-Mage enters the battlefield, if you control two or more Forests, you may gain 3 life.\nWhen Selkie Hedge-Mage enters the battlefield, if you control two or more Islands, you may return target tapped creature to its owner's hand.",
+      "flavor": null,
+      "artist": "Brandon Kitkouski",
+      "number": "20",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2008",
+      "starter": null,
+      "printings": [
+        "pGTW",
+        "EVE"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Gateway Prize",
+      "image_url": null,
+      "set": "pGTW",
+      "set_name": "Gateway",
+      "id": "a066546378e6ceb6b49b1aea26735509b379fda1",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-08-01",
+          "text": "Each of the triggered abilities has an \"intervening 'if' clause.\" That means (1) the ability won't trigger at all unless you control two or more lands of the appropriate land type when the Hedge-Mage enters the battlefield, and (2) the ability will do nothing if you don't control two or more lands of the appropriate land type by the time it resolves."
+        },
+        {
+          "date": "2008-08-01",
+          "text": "Both abilities trigger at the same time. You can put them on the stack in any order."
+        },
+        {
+          "date": "2008-08-01",
+          "text": "Each of the triggered abilities look at your lands individually. This means that if you only control two dual-lands of the appropriate types, both of the abilities will trigger."
+        },
+        {
+          "date": "2008-08-01",
+          "text": "Both abilities are optional; you choose whether to use them when they resolve. If an ability has a target, you must choose a target even if you don't plan to use the ability."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u8bbe\u969c\u6d77\u8c79\u5996",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Mage des haies selkie",
+          "language": "French"
+        },
+        {
+          "name": "Selkie-Heckenhexe",
+          "language": "German"
+        },
+        {
+          "name": "Selkie Maga Ambulante",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30bb\u30eb\u30ad\u30fc\u306e\u57a3\u9b54\u9053\u58eb",
+          "language": "Japanese"
+        },
+        {
+          "name": "Maga Rural Selkie",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0421\u0435\u043b\u043a\u0438-\u0421\u0430\u043c\u043e\u0443\u0447\u043a\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Maga errante selkie",
+          "language": "Spanish"
+        }
+      ]
+    }
+  ]
+}

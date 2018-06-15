@@ -1,0 +1,117 @@
+{
+  "code": "pWOR",
+  "name": "Worlds",
+  "type": "promo",
+  "border": "black",
+  "mkm_id": null,
+  "mkm_name": null,
+  "release_date": "1999-08-04",
+  "gatherer_code": null,
+  "magic_cards_info_code": "wrl",
+  "booster": null,
+  "old_code": null,
+  "block": null,
+  "online_only": null,
+  "cards": [
+    {
+      "name": "Balduvian Horde",
+      "layout": "normal",
+      "mana_cost": "{2}{R}{R}",
+      "cmc": 4,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Barbarian",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Barbarian"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "When Balduvian Horde enters the battlefield, sacrifice it unless you discard a card at random.",
+      "flavor": null,
+      "artist": "Brian Sn\u00f5ddy",
+      "number": "1",
+      "power": "5",
+      "toughness": "5",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "1999-08-04",
+      "starter": null,
+      "printings": [
+        "ALL",
+        "6ED",
+        "pWOR",
+        "BTD",
+        "DKM",
+        "MED"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Side events participation bonus at World Championships in Yokohama",
+      "image_url": null,
+      "set": "pWOR",
+      "set_name": "Worlds",
+      "id": "d007afa63b91e0a9b2e6a8586cc43fd1bb25e3f1",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "You choose whether to discard or not on resolution. If not, then you sacrifice this card. You can choose to not discard even if you no longer control this card on resolution."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "Horde Balduviane",
+          "language": "French"
+        },
+        {
+          "name": "Balduvianische Horde",
+          "language": "German"
+        },
+        {
+          "name": "Orda di Balduvia",
+          "language": "Italian"
+        },
+        {
+          "name": "Horda Balduviana",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "Horda balduviana",
+          "language": "Spanish"
+        }
+      ]
+    }
+  ]
+}

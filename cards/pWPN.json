@@ -1,0 +1,5284 @@
+{
+  "code": "pWPN",
+  "name": "Wizards Play Network",
+  "type": "promo",
+  "border": "black",
+  "mkm_id": null,
+  "mkm_name": null,
+  "release_date": "2008-10-01",
+  "gatherer_code": null,
+  "magic_cards_info_code": "grc",
+  "booster": null,
+  "old_code": null,
+  "block": null,
+  "online_only": null,
+  "cards": [
+    {
+      "name": "Sprouting Thrinax",
+      "layout": "normal",
+      "mana_cost": "{B}{R}{G}",
+      "cmc": 3,
+      "colors": [
+        "Black",
+        "Red",
+        "Green"
+      ],
+      "color_identity": [
+        "B",
+        "R",
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Lizard",
+      "supertypes": null,
+      "subtypes": [
+        "Lizard"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "When Sprouting Thrinax dies, create three 1/1 green Saproling creature tokens.",
+      "flavor": "The vast network of predation on Jund has actually caused some strange creatures to adapt to being eaten.",
+      "artist": "Jaime Jones",
+      "number": "21",
+      "power": "3",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2008",
+      "starter": null,
+      "printings": [
+        "pWPN",
+        "ALA",
+        "C13",
+        "MM3"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "WPN Prize",
+      "image_url": null,
+      "set": "pWPN",
+      "set_name": "Wizards Play Network",
+      "id": "8561ec1866762941fc90d39d2d82dc53e539d3eb",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u82bd\u751f\u53c9\u9f7f\u8725",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Thrinax bourgeonnant",
+          "language": "French"
+        },
+        {
+          "name": "Sprie\u00dfendes Thrinax",
+          "language": "German"
+        },
+        {
+          "name": "Thrinax dei Germogli",
+          "language": "Italian"
+        },
+        {
+          "name": "\u82bd\u5439\u304f\u30c8\u30ea\u30ca\u30af\u30b9",
+          "language": "Japanese"
+        },
+        {
+          "name": "Trinax Germinante",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0420\u0430\u0437\u0440\u0430\u0441\u0442\u0430\u044e\u0449\u0438\u0439\u0441\u044f \u0422\u0440\u0438\u043d\u0430\u043a\u0441",
+          "language": "Russian"
+        },
+        {
+          "name": "Thrinax germinante",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Woolly Thoctar",
+      "layout": "normal",
+      "mana_cost": "{R}{G}{W}",
+      "cmc": 3,
+      "colors": [
+        "White",
+        "Red",
+        "Green"
+      ],
+      "color_identity": [
+        "W",
+        "R",
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Beast",
+      "supertypes": null,
+      "subtypes": [
+        "Beast"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": null,
+      "flavor": "One of the most ferocious and deadly gargantuans, the thoctar never sees its worshippers, but it often awakens surrounded by gifts and sacrifices.",
+      "artist": "Steve Argyle",
+      "number": "22",
+      "power": "5",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2008",
+      "starter": null,
+      "printings": [
+        "pWPN",
+        "ALA",
+        "DDH",
+        "MM3"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "WPN Prize",
+      "image_url": null,
+      "set": "pWPN",
+      "set_name": "Wizards Play Network",
+      "id": "5e2b418f4acc99eb83578225a2bb344a86f05a8a",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u7c97\u8338\u7d22\u5854\u517d",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Thoctar laineux",
+          "language": "French"
+        },
+        {
+          "name": "Wolliges Thoktar",
+          "language": "German"
+        },
+        {
+          "name": "Thoctar Lanuto",
+          "language": "Italian"
+        },
+        {
+          "name": "\u9577\u6bdb\u306e\u30bd\u30af\u30bf\u30fc",
+          "language": "Japanese"
+        },
+        {
+          "name": "T\u00f3ctar Lanoso",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0428\u0435\u0440\u0441\u0442\u0438\u0441\u0442\u044b\u0439 \u0422\u043e\u043a\u0442\u0430\u0440",
+          "language": "Russian"
+        },
+        {
+          "name": "Thoctar lanudo",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Path to Exile",
+      "layout": "normal",
+      "mana_cost": "{W}",
+      "cmc": 1,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Exile target creature. Its controller may search his or her library for a basic land card, put that card onto the battlefield tapped, then shuffle his or her library.",
+      "flavor": null,
+      "artist": "Rebecca Guay",
+      "number": "24",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2009",
+      "starter": null,
+      "printings": [
+        "pFNM",
+        "pWPN",
+        "CON",
+        "ARC",
+        "CMD",
+        "DDI",
+        "MMA",
+        "MD1",
+        "MM3",
+        "CMA"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "WPN Prize",
+      "image_url": null,
+      "set": "pWPN",
+      "set_name": "Wizards Play Network",
+      "id": "35304434ef66e1ff970950f6054bea016965d40e",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2017-03-14",
+          "text": "If the targeted creature becomes an illegal target by the time Path to Exile would resolve, the entire spell is countered. The creature's controller won't search for a basic land card."
+        },
+        {
+          "date": "2017-03-14",
+          "text": "The controller of the exiled creature isn't required to search his or her library for a basic land. If that player doesn't, the player won't shuffle his or her library."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u6d41\u653e\u4e4b\u5f84",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Chemin vers l'exil",
+          "language": "French"
+        },
+        {
+          "name": "Weg ins Exil",
+          "language": "German"
+        },
+        {
+          "name": "Sentiero dell'Esilio",
+          "language": "Italian"
+        },
+        {
+          "name": "\u6d41\u5211\u3078\u306e\u9053",
+          "language": "Japanese"
+        },
+        {
+          "name": "Caminho para o Ex\u00edlio",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0414\u043e\u0440\u043e\u0433\u0430 \u0418\u0437\u0433\u043d\u0430\u043d\u0438\u044f",
+          "language": "Russian"
+        },
+        {
+          "name": "Camino al exilio",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Hellspark Elemental",
+      "layout": "normal",
+      "mana_cost": "{1}{R}",
+      "cmc": 2,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Elemental",
+      "supertypes": null,
+      "subtypes": [
+        "Elemental"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Trample, haste\nAt the beginning of the end step, sacrifice Hellspark Elemental.\nUnearth {1}{R} ({1}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)",
+      "flavor": null,
+      "artist": "Nils Hamm",
+      "number": "25",
+      "power": "3",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2009",
+      "starter": null,
+      "printings": [
+        "pWPN",
+        "CON",
+        "PD2",
+        "DDK"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "WPN Prize",
+      "image_url": null,
+      "set": "pWPN",
+      "set_name": "Wizards Play Network",
+      "id": "b08ef60b85d9485ca729b680d55f1013528e07cc",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u72f1\u71ce\u5143\u7d20",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u00c9l\u00e9mental d'\u00e9tincelles de l'enfer",
+          "language": "French"
+        },
+        {
+          "name": "H\u00f6llenfunkenelementar",
+          "language": "German"
+        },
+        {
+          "name": "Elementale Scintillante Infernale",
+          "language": "Italian"
+        },
+        {
+          "name": "\u5730\u7344\u706b\u82b1\u306e\u7cbe\u970a",
+          "language": "Japanese"
+        },
+        {
+          "name": "Elemental da Centelha Infernal",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u042d\u043b\u0435\u043c\u0435\u043d\u0442\u0430\u043b\u044c-\u0418\u0441\u043a\u0440\u043e\u0432\u0435\u0440\u0436\u0435\u0446",
+          "language": "Russian"
+        },
+        {
+          "name": "Elemental de chispa infernal",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Marisi's Twinclaws",
+      "layout": "normal",
+      "mana_cost": "{2}{R/W}{G}",
+      "cmc": 4,
+      "colors": [
+        "White",
+        "Red",
+        "Green"
+      ],
+      "color_identity": [
+        "W",
+        "R",
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Cat Warrior",
+      "supertypes": null,
+      "subtypes": [
+        "Cat",
+        "Warrior"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Double strike",
+      "flavor": "\"Looks like we're completely outnumbered.\"\n\"Lucky for us. I thought we'd be bored.\"",
+      "artist": "Dominick Domingo",
+      "number": "26",
+      "power": "2",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2009",
+      "starter": null,
+      "printings": [
+        "pWPN",
+        "ARB",
+        "DDH"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "WPN Prize",
+      "image_url": null,
+      "set": "pWPN",
+      "set_name": "Wizards Play Network",
+      "id": "6126177a82f476702ff4d3f786e23728c8e865a6",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u9a6c\u529b\u5e0c\u53cc\u722a\u7ec4",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Jumegriffes de Marisi",
+          "language": "French"
+        },
+        {
+          "name": "Marisis Zwillingsk\u00e4mpfer",
+          "language": "German"
+        },
+        {
+          "name": "Artigli Gemelli di Marisi",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30de\u30ea\u30fc\u30b7\u306e\u53cc\u5b50\u722a",
+          "language": "Japanese"
+        },
+        {
+          "name": "Garras-Duplas de Marisi",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0414\u0432\u043e\u0439\u043d\u044b\u0435 \u041a\u043e\u0433\u0442\u0438 \u041c\u0430\u0440\u0438\u0437\u0438",
+          "language": "Russian"
+        },
+        {
+          "name": "Garras gemelas marisi",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Slave of Bolas",
+      "layout": "normal",
+      "mana_cost": "{3}{U/R}{B}",
+      "cmc": 5,
+      "colors": [
+        "Blue",
+        "Black",
+        "Red"
+      ],
+      "color_identity": [
+        "U",
+        "B",
+        "R"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Special",
+      "text": "Gain control of target creature. Untap that creature. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.",
+      "flavor": "Nicol Bolas doesn't distinguish between servants and victims.",
+      "artist": "Karl Kopinski",
+      "number": "27",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2009",
+      "starter": null,
+      "printings": [
+        "pWPN",
+        "ARB",
+        "DDH",
+        "E01"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "WPN Prize",
+      "image_url": null,
+      "set": "pWPN",
+      "set_name": "Wizards Play Network",
+      "id": "34e45f6f737222534771d55b09337a0aa2e4b89b",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2009-05-01",
+          "text": "You may target a creature you already control."
+        },
+        {
+          "date": "2009-05-01",
+          "text": "If you don't control the targeted creature when the \"at end of turn\" ability resolves, it won't be sacrificed. If it's still on the battlefield but under another player's control, the ability won't try to have you sacrifice it again at the end of the turn after that."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u5c48\u4ece\u6ce2\u62c9\u65af",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Esclave de Bolas",
+          "language": "French"
+        },
+        {
+          "name": "Bolas' Sklave",
+          "language": "German"
+        },
+        {
+          "name": "Schiavo di Bolas",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30dc\u30fc\u30e9\u30b9\u306e\u5974\u96b7",
+          "language": "Japanese"
+        },
+        {
+          "name": "Escravo de Nicol Bolas",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0420\u0430\u0431\u044b\u043d\u044f \u0411\u043e\u043b\u0430\u0441\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Esclavo de Nicol Bolas",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Mycoid Shepherd",
+      "layout": "normal",
+      "mana_cost": "{1}{G}{G}{W}",
+      "cmc": 4,
+      "colors": [
+        "White",
+        "Green"
+      ],
+      "color_identity": [
+        "W",
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Fungus",
+      "supertypes": null,
+      "subtypes": [
+        "Fungus"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Whenever Mycoid Shepherd or another creature you control with power 5 or greater dies, you may gain 5 life.",
+      "flavor": null,
+      "artist": "Jarreau Wimberly",
+      "number": "28",
+      "power": "5",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2009",
+      "starter": null,
+      "printings": [
+        "pWPN",
+        "ARB"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Gateway Prize (2009)",
+      "image_url": null,
+      "set": "pWPN",
+      "set_name": "Wizards Play Network",
+      "id": "92b3269183466a042c24efcb15cd48a9b871779e",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2009-05-01",
+          "text": "Mycoid Shepherd's ability will trigger when it's put into a graveyard from the battlefield no matter what its power is at that time."
+        },
+        {
+          "date": "2009-05-01",
+          "text": "If another creature you control is put into a graveyard from the battlefield, Mycoid Shepherd's ability checks that creature's power as it last existed on the battlefield. If it was 5 or greater, the ability will trigger."
+        },
+        {
+          "date": "2009-05-01",
+          "text": "If Mycoid Shepherd and another creature you control with power 5 or greater are put into a graveyard from the battlefield at the same time, Mycoid Shepherd's ability will trigger twice."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u8548\u7c7b\u7267\u4eba",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Berger fongique",
+          "language": "French"
+        },
+        {
+          "name": "Schleimiger Schafhirte",
+          "language": "German"
+        },
+        {
+          "name": "Pastore di Funghi",
+          "language": "Italian"
+        },
+        {
+          "name": "\u8338\u306e\u756a\u4eba",
+          "language": "Japanese"
+        },
+        {
+          "name": "Pastor Mic\u00f3tico",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0424\u0443\u043d\u0433\u0438\u0446\u0438\u0434\u043d\u044b\u0439 \u041f\u0430\u0441\u0442\u044b\u0440\u044c",
+          "language": "Russian"
+        },
+        {
+          "name": "Pastor de micoides",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Naya Sojourners",
+      "layout": "normal",
+      "mana_cost": "{2}{R}{G}{W}",
+      "cmc": 5,
+      "colors": [
+        "White",
+        "Red",
+        "Green"
+      ],
+      "color_identity": [
+        "W",
+        "R",
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Elf Shaman",
+      "supertypes": null,
+      "subtypes": [
+        "Elf",
+        "Shaman"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "When you cycle Naya Sojourners or it dies, you may put a +1/+1 counter on target creature.\nCycling {2}{G} ({2}{G}, Discard this card: Draw a card.)",
+      "flavor": "The elves had entered a land like an open grave-an act of fortitude or folly?",
+      "artist": "Michael Bruinsma",
+      "number": "29",
+      "power": "5",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2010",
+      "starter": null,
+      "printings": [
+        "pWPN",
+        "ARB"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic 2010 Game Day",
+      "image_url": null,
+      "set": "pWPN",
+      "set_name": "Wizards Play Network",
+      "id": "29da27e1c81237b6b290b784b96cfac45c3a83df",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-10-01",
+          "text": "Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not."
+        },
+        {
+          "date": "2009-05-01",
+          "text": "The triggered ability acts as a cycle-triggered ability or as a leaves-the-battlefield ability, as appropriate. The player who controls the triggered ability is the player who cycled the Sojourner, or the player who last controlled the Sojourner on the battlefield."
+        },
+        {
+          "date": "2009-05-01",
+          "text": "If you cycle this card, the cycling ability goes on the stack, then the triggered ability goes on the stack on top of it. The triggered ability will resolve before you draw a card from the cycling ability."
+        },
+        {
+          "date": "2009-05-01",
+          "text": "The cycling ability and the triggered ability are separate. If the triggered ability is countered (with Stifle, for example, or if all its targets have become illegal), the cycling ability will still resolve and you'll draw a card."
+        },
+        {
+          "date": "2009-05-01",
+          "text": "You can cycle this card even if there are no targets for the triggered ability. That's because the cycling ability itself has no targets."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u7eb3\u96c5\u65c5\u5c45\u8005",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "S\u00e9journeurs de Naya",
+          "language": "French"
+        },
+        {
+          "name": "Besucher aus Naya",
+          "language": "German"
+        },
+        {
+          "name": "Visitatori di Naya",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30ca\u30e4\u306e\u6ede\u7559\u8005",
+          "language": "Japanese"
+        },
+        {
+          "name": "Visitantes de Naya",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0413\u043e\u0441\u0442\u0438 \u0438\u0437 \u041d\u0430\u0439\u0438",
+          "language": "Russian"
+        },
+        {
+          "name": "Transe\u00fantes de Naya",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Mind Control",
+      "layout": "normal",
+      "mana_cost": "{3}{U}{U}",
+      "cmc": 5,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Enchantment \u2014 Aura",
+      "supertypes": null,
+      "subtypes": [
+        "Aura"
+      ],
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Special",
+      "text": "Enchant creature\nYou control enchanted creature.",
+      "flavor": "\"Why fight the body when you can dominate the mind that rules it?\"\n\u2014Jace Beleren",
+      "artist": "Keith Garletts",
+      "number": "30",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2009",
+      "starter": null,
+      "printings": [
+        "pWPN",
+        "M10",
+        "DPA",
+        "M11",
+        "M12"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "WPN Prize",
+      "image_url": null,
+      "set": "pWPN",
+      "set_name": "Wizards Play Network",
+      "id": "1ed20717695aa33f606e163c97391759f64a760b",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2010-08-15",
+          "text": "Gaining control of a creature doesn't cause you gain control of any Auras or Equipment attached to it."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u5fc3\u7075\u64cd\u63a7",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u5fc3\u9748\u64cd\u63a7",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Contr\u00f4le mental",
+          "language": "French"
+        },
+        {
+          "name": "Verstandeskontrolle",
+          "language": "German"
+        },
+        {
+          "name": "Controllo Mentale",
+          "language": "Italian"
+        },
+        {
+          "name": "\u7cbe\u795e\u306e\u5236\u5fa1",
+          "language": "Japanese"
+        },
+        {
+          "name": "Controle da Mente",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041a\u043e\u043d\u0442\u0440\u043e\u043b\u044c \u0420\u0430\u0437\u0443\u043c\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Control mental",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Rise from the Grave",
+      "layout": "normal",
+      "mana_cost": "{4}{B}",
+      "cmc": 5,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Special",
+      "text": "Put target creature card from a graveyard onto the battlefield under your control. That creature is a black Zombie in addition to its other colors and types.",
+      "flavor": "\"Death is no excuse for disobedience.\"\n\u2014Liliana Vess",
+      "artist": "Thomas M. Baxa",
+      "number": "31",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2009",
+      "starter": null,
+      "printings": [
+        "pWPN",
+        "M10",
+        "DDD",
+        "M11",
+        "CMD",
+        "M13",
+        "DD3_GVL",
+        "C15",
+        "EMN",
+        "CMA"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "WPN Prize",
+      "image_url": null,
+      "set": "pWPN",
+      "set_name": "Wizards Play Network",
+      "id": "3770081fdc03275bf4e7bb4087a4f9cffbb5444a",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2009-10-01",
+          "text": "Rise from the Grave doesn't overwrite any previous colors or types. Rather, it adds another color and another subtype."
+        },
+        {
+          "date": "2009-10-01",
+          "text": "If the targeted creature is normally colorless, it will simply become black. It won't be both black and colorless."
+        },
+        {
+          "date": "2009-10-01",
+          "text": "A later effect that changes the affected creature's colors will overwrite that part of Rise from the Grave effect; the creature will be just the new color. The same is true about an effect that changes the affected creature's types or subtypes."
+        },
+        {
+          "date": "2009-10-01",
+          "text": "A \"creature card\" is any card with the type creature, even if it has other types such as artifact, enchantment, or land. Older cards of type summon are also creature cards."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u575f\u573a\u590d\u751f",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u58b3\u5834\u5fa9\u751f",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Reviviscence",
+          "language": "French"
+        },
+        {
+          "name": "Von den Toten auferstehen",
+          "language": "German"
+        },
+        {
+          "name": "Risuscitare",
+          "language": "Italian"
+        },
+        {
+          "name": "\u5893\u5834\u304b\u3089\u306e\u5fa9\u6d3b",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ubb34\ub364\uc5d0\uc11c\uc758 \uadc0\ud658",
+          "language": "Korean"
+        },
+        {
+          "name": "Ressurgir da Cova",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0412\u043e\u0441\u0441\u0442\u0430\u0442\u044c \u0438\u0437 \u041c\u043e\u0433\u0438\u043b\u044b",
+          "language": "Russian"
+        },
+        {
+          "name": "Levantarse de la tumba",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Kor Duelist",
+      "layout": "normal",
+      "mana_cost": "{W}",
+      "cmc": 1,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Kor Soldier",
+      "supertypes": null,
+      "subtypes": [
+        "Kor",
+        "Soldier"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "As long as Kor Duelist is equipped, it has double strike. (It deals both first-strike and regular combat damage.)",
+      "flavor": "\"Swords cannot reach far enough. Chains cannot strike hard enough. An eternal dilemma, but a simple one.\"",
+      "artist": "Kekai Kotaki",
+      "number": "32",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2009",
+      "starter": null,
+      "printings": [
+        "pWPN",
+        "ZEN",
+        "MM2"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "WPN Prize",
+      "image_url": null,
+      "set": "pWPN",
+      "set_name": "Wizards Play Network",
+      "id": "c1783c6a36e857c3de08b5c819aadb8c8a889cc2",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u5bc7\u65cf\u6597\u5ba2",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Duelliste kor",
+          "language": "French"
+        },
+        {
+          "name": "Kor-Duellant",
+          "language": "German"
+        },
+        {
+          "name": "Duellante Kor",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30b3\u30fc\u306e\u6c7a\u95d8\u8005",
+          "language": "Japanese"
+        },
+        {
+          "name": "Duelista Kor",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041a\u043e\u0440-\u0414\u0443\u044d\u043b\u044f\u043d\u0442",
+          "language": "Russian"
+        },
+        {
+          "name": "Duelista kor",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Vampire Nighthawk",
+      "layout": "normal",
+      "mana_cost": "{1}{B}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Vampire Shaman",
+      "supertypes": null,
+      "subtypes": [
+        "Vampire",
+        "Shaman"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Flying, deathtouch, lifelink",
+      "flavor": null,
+      "artist": "Karl Kopinski",
+      "number": "33",
+      "power": "2",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2009",
+      "starter": null,
+      "printings": [
+        "pWPN",
+        "ZEN",
+        "CMD",
+        "M13",
+        "DDK",
+        "C13",
+        "DDP",
+        "MM3",
+        "E01",
+        "C17"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "WPN Prize",
+      "image_url": null,
+      "set": "pWPN",
+      "set_name": "Wizards Play Network",
+      "id": "efb290d62e44ee17b418fd07aeeb0fba2164963e",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u591c\u76d7\u5438\u8840\u9b3c",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u591c\u76dc\u5438\u8840\u9b3c",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Faucon de nuit vampire",
+          "language": "French"
+        },
+        {
+          "name": "Vampir-Nachtschw\u00e4rmer",
+          "language": "German"
+        },
+        {
+          "name": "Vampiro Falco Notturno",
+          "language": "Italian"
+        },
+        {
+          "name": "\u5438\u8840\u9b3c\u306e\u591c\u9df2",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ud761\ud608\uadc0 \ubc24\ub3c4\ub451",
+          "language": "Korean"
+        },
+        {
+          "name": "Vampiro Falc\u00e3o-da-noite",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0412\u0430\u043c\u043f\u0438\u0440-\u041f\u043e\u043b\u0443\u043d\u043e\u0447\u043d\u0438\u043a",
+          "language": "Russian"
+        },
+        {
+          "name": "Halc\u00f3n nocturno vampiro",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Nissa's Chosen",
+      "layout": "normal",
+      "mana_cost": "{G}{G}",
+      "cmc": 2,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Elf Warrior",
+      "supertypes": null,
+      "subtypes": [
+        "Elf",
+        "Warrior"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "If Nissa's Chosen would die, put it on the bottom of its owner's library instead.",
+      "flavor": null,
+      "artist": "Sam Wood",
+      "number": "34",
+      "power": "2",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2009",
+      "starter": null,
+      "printings": [
+        "pWPN",
+        "ZEN",
+        "DDR"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Zendikar Game Day",
+      "image_url": null,
+      "set": "pWPN",
+      "set_name": "Wizards Play Network",
+      "id": "a28db10d4aae84704288c9352059eeae96fcc9cb",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u59ae\u838e\u7cbe\u536b",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u00c9lu de Nissa",
+          "language": "French"
+        },
+        {
+          "name": "Nissas Ausgew\u00e4hlter",
+          "language": "German"
+        },
+        {
+          "name": "Prescelto di Nissa",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30cb\u30c3\u30b5\u306b\u9078\u3070\u308c\u3057\u8005",
+          "language": "Japanese"
+        },
+        {
+          "name": "Escolhido de Nissa",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0418\u0437\u0431\u0440\u0430\u043d\u043d\u0438\u043a \u041d\u0438\u0441\u0441\u044b",
+          "language": "Russian"
+        },
+        {
+          "name": "Elegido de Nissa",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Emeria Angel",
+      "layout": "normal",
+      "mana_cost": "{2}{W}{W}",
+      "cmc": 4,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Angel",
+      "supertypes": null,
+      "subtypes": [
+        "Angel"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Flying\nLandfall \u2014 Whenever a land enters the battlefield under your control, you may create a 1/1 white Bird creature token with flying.",
+      "flavor": null,
+      "artist": "Steve Argyle",
+      "number": "35",
+      "power": "3",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2009",
+      "starter": null,
+      "printings": [
+        "pWPN",
+        "ZEN",
+        "IMA"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Zendikar Game Day Top 8",
+      "image_url": null,
+      "set": "pWPN",
+      "set_name": "Wizards Play Network",
+      "id": "b31a5ab52af2250fbf2a59e397dfe17393280008",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2009-10-01",
+          "text": "The landfall ability triggers whenever a land enters the battlefield under your control for any reason. It triggers whenever you play a land, as well as whenever a spell or ability (such as Rampant Growth) causes you to put a land onto the battlefield under your control. It will even trigger when a spell or ability causes another player to put a land onto the battlefield under your control (as can happen with Yavimaya Dryad's ability, for example)."
+        },
+        {
+          "date": "2009-10-01",
+          "text": "When a land enters the battlefield under your control, each landfall ability of the permanents you control will trigger. You can put them on the stack in any order. The last ability you put on the stack will be the first one that resolves."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u4f0a\u7f8e\u9ece\u5929\u4f7f",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Ange d'\u00c9m\u00e9ria",
+          "language": "French"
+        },
+        {
+          "name": "Emerias Engel",
+          "language": "German"
+        },
+        {
+          "name": "Angelo di Emeria",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30a8\u30e1\u30ea\u30a2\u306e\u5929\u4f7f",
+          "language": "Japanese"
+        },
+        {
+          "name": "Anjo de Emeria",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0410\u043d\u0433\u0435\u043b \u042d\u043c\u0435\u0440\u0438\u0438",
+          "language": "Russian"
+        },
+        {
+          "name": "\u00c1ngel de Emeria",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Kor Firewalker",
+      "layout": "normal",
+      "mana_cost": "{W}{W}",
+      "cmc": 2,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Kor Soldier",
+      "supertypes": null,
+      "subtypes": [
+        "Kor",
+        "Soldier"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Protection from red\nWhenever a player casts a red spell, you may gain 1 life.",
+      "flavor": "\"A river of lava is just another river to cross.\"",
+      "artist": "Alex Horley-Orlandelli",
+      "number": "36",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2010",
+      "starter": null,
+      "printings": [
+        "pWPN",
+        "WWK"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "WPN Prize",
+      "image_url": null,
+      "set": "pWPN",
+      "set_name": "Wizards Play Network",
+      "id": "9f1e3e2398dd1c7d4e6ce38af70bf545f378a1d6",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u706b\u884c\u5bc7\u65cf",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Marcheur de feu kor",
+          "language": "French"
+        },
+        {
+          "name": "Kor-Feuerl\u00e4ufer",
+          "language": "German"
+        },
+        {
+          "name": "Calcafuoco Kor",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30b3\u30fc\u306e\u706b\u6b69\u304d",
+          "language": "Japanese"
+        },
+        {
+          "name": "Kor Firewalker",
+          "language": "Korean"
+        },
+        {
+          "name": "Andarilho do Fogo Kor",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041a\u043e\u0440-\u041e\u0433\u043d\u0435\u0445\u043e\u0434",
+          "language": "Russian"
+        },
+        {
+          "name": "Caminafuego kor",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Leatherback Baloth",
+      "layout": "normal",
+      "mana_cost": "{G}{G}{G}",
+      "cmc": 3,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Beast",
+      "supertypes": null,
+      "subtypes": [
+        "Beast"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": null,
+      "flavor": "Heavy enough to withstand the Roil, leatherback skeletons are havens for travelers in storms and landshifts.",
+      "artist": "Chris Rahn",
+      "number": "37",
+      "power": "4",
+      "toughness": "5",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2010",
+      "starter": null,
+      "printings": [
+        "pWPN",
+        "WWK"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "WPN Prize",
+      "image_url": null,
+      "set": "pWPN",
+      "set_name": "Wizards Play Network",
+      "id": "810bd8ffac3669eb13dfa3eee2d9d6d2a9099017",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u9769\u9f9f\u5df4\u6d1b\u897f",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Baloth luth",
+          "language": "French"
+        },
+        {
+          "name": "Lederr\u00fcckenbaloth",
+          "language": "German"
+        },
+        {
+          "name": "Baloth Dorso di Cuoio",
+          "language": "Italian"
+        },
+        {
+          "name": "\u76ae\u80cc\u306e\u30d9\u30a4\u30ed\u30b9",
+          "language": "Japanese"
+        },
+        {
+          "name": "Leatherback Baloth",
+          "language": "Korean"
+        },
+        {
+          "name": "Baloth Dorso-de-Couro",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041a\u043e\u0436\u0438\u0441\u0442\u044b\u0439 \u0411\u0430\u043b\u043e\u0442",
+          "language": "Russian"
+        },
+        {
+          "name": "B\u00e1loth lomo de cuero",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Hada Freeblade",
+      "layout": "normal",
+      "mana_cost": "{W}",
+      "cmc": 1,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Soldier Ally",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Soldier",
+        "Ally"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Whenever Hada Freeblade or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Hada Freeblade.",
+      "flavor": null,
+      "artist": "Cyril Van Der Haegen",
+      "number": "38",
+      "power": "0",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2010",
+      "starter": null,
+      "printings": [
+        "pWPN",
+        "WWK"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Worldwake Game Day",
+      "image_url": null,
+      "set": "pWPN",
+      "set_name": "Wizards Play Network",
+      "id": "82f7af3ec010f1d5d56856db4847fae4de531820",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u54c8\u8fbe\u52a9\u5251\u4eba",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Librelame de Hada",
+          "language": "French"
+        },
+        {
+          "name": "Freik\u00e4mpfer aus Hada",
+          "language": "German"
+        },
+        {
+          "name": "Lama Franca di Hada",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30cf\u30fc\u30c0\u306e\u81ea\u7531\u5203",
+          "language": "Japanese"
+        },
+        {
+          "name": "Hada Freeblade",
+          "language": "Korean"
+        },
+        {
+          "name": "Franco-Espadachim de Hada",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041d\u0430\u0435\u043c\u043d\u044b\u0439 \u0421\u043e\u043b\u0434\u0430\u0442 \u0438\u0437 \u0425\u0430\u0434\u044b",
+          "language": "Russian"
+        },
+        {
+          "name": "Mercenario de Hada",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Kalastria Highborn",
+      "layout": "normal",
+      "mana_cost": "{B}{B}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Vampire Shaman",
+      "supertypes": null,
+      "subtypes": [
+        "Vampire",
+        "Shaman"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Whenever Kalastria Highborn or another Vampire you control dies, you may pay {B}. If you do, target player loses 2 life and you gain 2 life.",
+      "flavor": null,
+      "artist": "D. Alexander Gregory",
+      "number": "39",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2010",
+      "starter": null,
+      "printings": [
+        "pWPN",
+        "WWK"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Worldwake Game Day",
+      "image_url": null,
+      "set": "pWPN",
+      "set_name": "Wizards Play Network",
+      "id": "dc282fdf05f8b0aad899d0a20312f15ebc024726",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2010-03-01",
+          "text": "If multiple Vampires you control (possibly including Kalastria Highborn itself) are put into their owners' graveyards at the same time, Kalastria Highborn's ability triggers that many times."
+        },
+        {
+          "date": "2010-03-01",
+          "text": "You target a player when the ability triggers. You choose whether to pay {B} as the ability resolves. You may pay {B} only once per resolution."
+        },
+        {
+          "date": "2010-03-01",
+          "text": "If the targeted player is an illegal target by the time the ability resolves (for example, if that player has left a multiplayer game), the entire ability is countered. You can't pay {B} and you don't gain life."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u5361\u5217\u5947\u671b\u65cf",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Patricienne des Kalastria",
+          "language": "French"
+        },
+        {
+          "name": "Hochgeborene Kalastria",
+          "language": "German"
+        },
+        {
+          "name": "Nobile Kalastria",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30ab\u30e9\u30b9\u30c8\u30ea\u30a2\u306e\u8cb4\u4eba",
+          "language": "Japanese"
+        },
+        {
+          "name": "Kalastria Highborn",
+          "language": "Korean"
+        },
+        {
+          "name": "Fidalga Kalastria",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0410\u0440\u0438\u0441\u0442\u043e\u043a\u0440\u0430\u0442\u043a\u0430 \u0438\u0437 \u0420\u043e\u0434\u0430 \u041a\u0430\u043b\u0430\u0441\u0442\u0440\u0438\u044f",
+          "language": "Russian"
+        },
+        {
+          "name": "Arist\u00f3crata Kalastria",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Syphon Mind",
+      "layout": "normal",
+      "mana_cost": "{3}{B}",
+      "cmc": 4,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Special",
+      "text": "Each other player discards a card. You draw a card for each card discarded this way.",
+      "flavor": "When tempers run high, it's easy to lose your head.",
+      "artist": "Jeff Easley",
+      "number": "40",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2010",
+      "starter": null,
+      "printings": [
+        "ONS",
+        "pWPN",
+        "HOP",
+        "CMD",
+        "C14",
+        "CMA",
+        "C17"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "WPN Prize",
+      "image_url": null,
+      "set": "pWPN",
+      "set_name": "Wizards Play Network",
+      "id": "e760f7e9cfeea0f34980a5607b59cfdce1514ff0",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u5438\u6536\u5fc3\u7075",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Siphonner l'esprit",
+          "language": "French"
+        },
+        {
+          "name": "Gedankenfang",
+          "language": "German"
+        },
+        {
+          "name": "Riflusso della Mente",
+          "language": "Italian"
+        },
+        {
+          "name": "\u5438\u5fc3",
+          "language": "Japanese"
+        },
+        {
+          "name": "Drenar Mente",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "Extraer la mente",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Pathrazer of Ulamog",
+      "layout": "normal",
+      "mana_cost": "{11}",
+      "cmc": 11,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Creature \u2014 Eldrazi",
+      "supertypes": null,
+      "subtypes": [
+        "Eldrazi"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Annihilator 3 (Whenever this creature attacks, defending player sacrifices three permanents.)\nPathrazer of Ulamog can't be blocked except by three or more creatures.",
+      "flavor": "No thought but hunger. No strategy but destruction.",
+      "artist": "Goran Josic",
+      "number": "46",
+      "power": "9",
+      "toughness": "9",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2010",
+      "starter": null,
+      "printings": [
+        "pWPN",
+        "ROE"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "WPN Prize",
+      "image_url": null,
+      "set": "pWPN",
+      "set_name": "Wizards Play Network",
+      "id": "56ee9bc2b0c8e8b8773990fb6f930859c3d64f29",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2010-06-15",
+          "text": "Annihilator abilities trigger and resolve during the declare attackers step. The defending player chooses and sacrifices the required number of permanents before he or she declares blockers. Any creatures sacrificed this way won't be able to block."
+        },
+        {
+          "date": "2010-06-15",
+          "text": "If a creature with annihilator is attacking a planeswalker, and the defending player chooses to sacrifice that planeswalker, the attacking creature continues to attack. It may be blocked. If it isn't blocked, it simply won't deal combat damage to anything."
+        },
+        {
+          "date": "2010-06-15",
+          "text": "In a Two-Headed Giant game, the controller of an attacking creature with annihilator chooses which of the defending players is affected by the ability. Only that player sacrifices permanents. The choice is made as the ability resolves; once a player is chosen, it's too late for anyone to respond."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u94a8\u62c9\u83ab\u5937\u5f84\u8005",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Terrasseur d'Ulamog",
+          "language": "French"
+        },
+        {
+          "name": "Ulamogs Wegbereiter",
+          "language": "German"
+        },
+        {
+          "name": "Spianasentieri di Ulamog",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30a6\u30e9\u30e2\u30b0\u306e\u9053\u6ec5\u307c\u3057",
+          "language": "Japanese"
+        },
+        {
+          "name": "Raspa-Trilha de Ulamog",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041f\u0440\u043e\u043a\u043b\u0430\u0434\u044b\u0432\u0430\u0442\u0435\u043b\u044c \u041f\u0443\u0442\u0438 \u0423\u043b\u0430\u043c\u043e\u0433\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Arrasacaminos de Ulamog",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Curse of Wizardry",
+      "layout": "normal",
+      "mana_cost": "{2}{B}{B}",
+      "cmc": 4,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Enchantment",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Special",
+      "text": "As Curse of Wizardry enters the battlefield, choose a color.\nWhenever a player casts a spell of the chosen color, that player loses 1 life.",
+      "flavor": "\"We must all push through the pain to heal our world.\"\n\u2014Ayli, Kamsa cleric",
+      "artist": "Karl Kopinski",
+      "number": "47",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2010",
+      "starter": null,
+      "printings": [
+        "pWPN",
+        "ROE"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "WPN Prize",
+      "image_url": null,
+      "set": "pWPN",
+      "set_name": "Wizards Play Network",
+      "id": "0ac2102fe841718cc972badf7628b3e866d4b469",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2010-06-15",
+          "text": "Curse of Wizardry affects all players, including you."
+        },
+        {
+          "date": "2010-06-15",
+          "text": "If a player casts a spell of the chosen color, Curse of Wizardry's second ability triggers and goes on the stack on top of it. The ability will resolve before the spell does."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u672f\u6cd5\u8bc5\u5492",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Mal\u00e9diction de sorcellerie",
+          "language": "French"
+        },
+        {
+          "name": "Fluch der Zauberei",
+          "language": "German"
+        },
+        {
+          "name": "Maledizione della Stregoneria",
+          "language": "Italian"
+        },
+        {
+          "name": "\u9b54\u8853\u306e\u546a\u3044",
+          "language": "Japanese"
+        },
+        {
+          "name": "Maldi\u00e7\u00e3o da Feiti\u00e7aria",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041f\u0440\u043e\u043a\u043b\u044f\u0442\u0438\u0435 \u0427\u0430\u0440\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Maldici\u00f3n de hechicer\u00eda",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Staggershock",
+      "layout": "normal",
+      "mana_cost": "{2}{R}",
+      "cmc": 3,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Staggershock deals 2 damage to target creature or player.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",
+      "flavor": null,
+      "artist": "Raymond Swanland",
+      "number": "48",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2010",
+      "starter": null,
+      "printings": [
+        "pWPN",
+        "ROE",
+        "IMA"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Rise of the Eldrazi",
+      "image_url": null,
+      "set": "pWPN",
+      "set_name": "Wizards Play Network",
+      "id": "16774e0b5dfb7ac087c183b1d7b03d50934fb6d4",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2010-06-15",
+          "text": "If a spell with rebound that you cast from your hand is countered for any reason (due to a spell like Cancel, or because all of its targets are illegal), the spell doesn't resolve and rebound has no effect. The spell is simply put into your graveyard. You won't get to cast it again next turn."
+        },
+        {
+          "date": "2010-06-15",
+          "text": "If you cast a spell with rebound from anywhere other than your hand (such as from your graveyard due to Sins of the Past, from your library due to cascade, or from your opponent's hand due to Sen Triplets), rebound won't have any effect. If you do cast it from your hand, rebound will work regardless of whether you paid its mana cost (for example, if you cast it from your hand due to Maelstrom Archangel)."
+        },
+        {
+          "date": "2010-06-15",
+          "text": "If a replacement effect would cause a spell with rebound that you cast from your hand to be put somewhere else instead of your graveyard (such as Leyline of the Void might), you choose whether to apply the rebound effect or the other effect as the spell resolves."
+        },
+        {
+          "date": "2010-06-15",
+          "text": "Rebound will have no effect on copies of spells because you don't cast them from your hand."
+        },
+        {
+          "date": "2010-06-15",
+          "text": "If you cast a spell with rebound from your hand and it resolves, it isn't put into your graveyard. Rather, it's exiled directly from the stack. Effects that care about cards being put into your graveyard won't do anything."
+        },
+        {
+          "date": "2010-06-15",
+          "text": "At the beginning of your upkeep, all delayed triggered abilities created by rebound effects trigger. You may handle them in any order. If you want to cast a card this way, you do so as part of the resolution of its delayed triggered ability. Timing restrictions based on the card's type (if it's a sorcery) are ignored. Other restrictions are not (such as the one from Rule of Law)."
+        },
+        {
+          "date": "2010-06-15",
+          "text": "If you are unable to cast a card from exile this way, or you choose not to, nothing happens when the delayed triggered ability resolves. The card remains exiled for the rest of the game, and you won't get another chance to cast the card. The same is true if the ability is countered (due to Stifle, perhaps)."
+        },
+        {
+          "date": "2010-06-15",
+          "text": "If you cast a card from exile this way, it will go to your graveyard when it resolves or is countered. It won't go back to exile."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u64bc\u52a8\u51fb",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u00c9branlechoc",
+          "language": "French"
+        },
+        {
+          "name": "Taumelschock",
+          "language": "German"
+        },
+        {
+          "name": "Colpo Barcollante",
+          "language": "Italian"
+        },
+        {
+          "name": "\u3088\u308d\u3081\u304d\u30b7\u30e7\u30c3\u30af",
+          "language": "Japanese"
+        },
+        {
+          "name": "Tonto-choque",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0421\u043e\u0442\u0440\u044f\u0441\u0430\u044e\u0449\u0438\u0439 \u0428\u043e\u043a",
+          "language": "Russian"
+        },
+        {
+          "name": "Choque tambaleador",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Deathless Angel",
+      "layout": "normal",
+      "mana_cost": "{4}{W}{W}",
+      "cmc": 6,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Angel",
+      "supertypes": null,
+      "subtypes": [
+        "Angel"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Flying\n{W}{W}: Target creature gains indestructible until end of turn.",
+      "flavor": null,
+      "artist": "Johann Bodin",
+      "number": "49",
+      "power": "5",
+      "toughness": "7",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2010",
+      "starter": null,
+      "printings": [
+        "pWPN",
+        "ROE"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Rise of the Eldrazi",
+      "image_url": null,
+      "set": "pWPN",
+      "set_name": "Wizards Play Network",
+      "id": "d55247a1215c7944a2f3fb8a9151b4a10330cc58",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-07-01",
+          "text": "Lethal damage and effects that say \"destroy\" won't cause a creature with indestructible to be put into the graveyard. However, a creature with indestructible can be put into the graveyard for a number of reasons. The most likely reasons are if it's sacrificed, if it's legendary and another legendary creature with the same name is controlled by the same player, or if its toughness is 0 or less."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u4e0d\u4ea1\u5929\u4f7f",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Ange faucheur de mort",
+          "language": "French"
+        },
+        {
+          "name": "Unsterblicher Engel",
+          "language": "German"
+        },
+        {
+          "name": "Angelo Immortale",
+          "language": "Italian"
+        },
+        {
+          "name": "\u4e0d\u6b7b\u306e\u5929\u4f7f",
+          "language": "Japanese"
+        },
+        {
+          "name": "Anjo Imortal",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0411\u0435\u0441\u0441\u043c\u0435\u0440\u0442\u043d\u044b\u0439 \u0410\u043d\u0433\u0435\u043b",
+          "language": "Russian"
+        },
+        {
+          "name": "\u00c1ngel inmortal",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Fling",
+      "layout": "normal",
+      "mana_cost": "{1}{R}",
+      "cmc": 2,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "As an additional cost to cast Fling, sacrifice a creature.\nFling deals damage equal to the sacrificed creature's power to target creature or player.",
+      "flavor": "Sometimes the cannoneer must become the cannonball.",
+      "artist": "Daren Bader",
+      "number": "50",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2014",
+      "starter": null,
+      "printings": [
+        "pARL",
+        "STH",
+        "pWPN",
+        "M11",
+        "M12",
+        "DKA",
+        "PC2",
+        "PCA",
+        "AKH"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "WPN Prize",
+      "image_url": null,
+      "set": "pWPN",
+      "set_name": "Wizards Play Network",
+      "id": "1d20d141e66de9476d88f03defe152101df3dfec",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2010-08-15",
+          "text": "The sacrificed creature's last known existence on the battlefield is checked to determine its power."
+        },
+        {
+          "date": "2010-08-15",
+          "text": "If you sacrifice an attacking or blocking creature during the declare blockers step, it won't deal combat damage. If you wait until the combat damage step, but that creature is dealt lethal damage, it'll be destroyed before you get a chance to sacrifice it."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "You must sacrifice exactly one creature to cast this spell; you cannot cast it without sacrificing a creature, and you cannot sacrifice additional creatures."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "Players can only respond once this spell has been cast and all its costs have been paid. No one can try to destroy the creature you sacrificed to prevent you from casting this spell."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u6295\u63b7",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u6295\u64f2",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Jet",
+          "language": "French"
+        },
+        {
+          "name": "Flugstunde",
+          "language": "German"
+        },
+        {
+          "name": "Scagliare",
+          "language": "Italian"
+        },
+        {
+          "name": "\u6295\u3052\u98db\u3070\u3057",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ud2b9\uacf5",
+          "language": "Korean"
+        },
+        {
+          "name": "Arremessar",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0428\u0432\u044b\u0440\u043e\u043a",
+          "language": "Russian"
+        },
+        {
+          "name": "Arrojar",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Sylvan Ranger",
+      "layout": "normal",
+      "mana_cost": "{1}{G}",
+      "cmc": 2,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Elf Scout",
+      "supertypes": null,
+      "subtypes": [
+        "Elf",
+        "Scout"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "When Sylvan Ranger enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.",
+      "flavor": "\"Not all paths are found on the forest floor.\"",
+      "artist": "Ciruelo",
+      "number": "51",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2014",
+      "starter": null,
+      "printings": [
+        "pWPN",
+        "M11",
+        "DDH",
+        "C14",
+        "MM3",
+        "CMA"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "WPN Prize",
+      "image_url": null,
+      "set": "pWPN",
+      "set_name": "Wizards Play Network",
+      "id": "c3c459eb361c1b195cddac1e9c30a53e114b32c3",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u68ee\u6797\u5de1\u5b88",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u68ee\u6797\u5de1\u5b88",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Ranger sylvestre",
+          "language": "French"
+        },
+        {
+          "name": "Waldh\u00fcter",
+          "language": "German"
+        },
+        {
+          "name": "Ranger Silvana",
+          "language": "Italian"
+        },
+        {
+          "name": "\u68ee\u306e\u30ec\u30a4\u30f3\u30b8\u30e3\u30fc",
+          "language": "Japanese"
+        },
+        {
+          "name": "Patrulheiro Silvestre",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041b\u0435\u0441\u043d\u0430\u044f \u041e\u0431\u0445\u043e\u0434\u0447\u0438\u0446\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Guardabosque silvano",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Plague Stinger",
+      "layout": "normal",
+      "mana_cost": "{1}{B}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Insect Horror",
+      "supertypes": null,
+      "subtypes": [
+        "Insect",
+        "Horror"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Flying\nInfect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)",
+      "flavor": "It leaves its victims one sting closer to phyresis.",
+      "artist": "Tomasz Jedruszek",
+      "number": "59",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2010",
+      "starter": null,
+      "printings": [
+        "pWPN",
+        "SOM"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "WPN Prize",
+      "image_url": null,
+      "set": "pWPN",
+      "set_name": "Wizards Play Network",
+      "id": "863080fe1772ef7570979dbfe3f4f326b222e2b9",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2011-01-01",
+          "text": "A player who has ten or more poison counters loses the game. This is a state-based action."
+        },
+        {
+          "date": "2011-01-01",
+          "text": "Infect's effect applies to any damage, not just combat damage."
+        },
+        {
+          "date": "2011-01-01",
+          "text": "The -1/-1 counters remain on the creature indefinitely. They're not removed if the creature regenerates or the turn ends."
+        },
+        {
+          "date": "2011-01-01",
+          "text": "Damage from a source with infect is damage in all respects. If the source with infect also has lifelink, damage dealt by that source also causes its controller to gain that much life. Damage from a source with infect can be prevented or redirected. Abilities that trigger on damage being dealt will trigger if a source with infect deals damage, if appropriate."
+        },
+        {
+          "date": "2011-01-01",
+          "text": "If damage from a source with infect that would be dealt to a player is prevented, that player doesn't get poison counters. If damage from a source with infect that would be dealt to a creature is prevented, that creature doesn't get -1/-1 counters."
+        },
+        {
+          "date": "2011-01-01",
+          "text": "Damage from a source with infect affects planeswalkers normally."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u75ab\u75c5\u98de\u523a\u517d",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u75ab\u75c5\u98db\u523a\u7378",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Piqueur de peste",
+          "language": "French"
+        },
+        {
+          "name": "Seuchenstachler",
+          "language": "German"
+        },
+        {
+          "name": "Pungiglione Epidemico",
+          "language": "Italian"
+        },
+        {
+          "name": "\u75ab\u75c5\u306e\u3068\u3052\u523a\u3057",
+          "language": "Japanese"
+        },
+        {
+          "name": "Aguilhoador de Praga",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0427\u0443\u043c\u043d\u043e\u0439 \u0423\u044f\u0437\u0432\u0438\u0442\u0435\u043b\u044c",
+          "language": "Russian"
+        },
+        {
+          "name": "Aguijoneador de la plaga",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Golem's Heart",
+      "layout": "normal",
+      "mana_cost": "{2}",
+      "cmc": 2,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "Whenever a player casts an artifact spell, you may gain 1 life.",
+      "flavor": "The heart of a golem gives life to more than just the iron husk around it.",
+      "artist": "Alan Pollack",
+      "number": "60",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2010",
+      "starter": null,
+      "printings": [
+        "pWPN",
+        "SOM"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "WPN Prize",
+      "image_url": null,
+      "set": "pWPN",
+      "set_name": "Wizards Play Network",
+      "id": "a1b5d33c99f1b85325a7f2220ca28b7bca90bb27",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2011-01-01",
+          "text": "Unlike Golem Foundry and the Smith cycle, Golem's Heart's ability triggers whenever any player casts an artifact spell, not just when you do."
+        },
+        {
+          "date": "2011-01-01",
+          "text": "Whenever a player casts an artifact spell, Golem's Heart's ability triggers and goes on the stack on top of it. It will resolve before the artifact spell does."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u9b54\u50cf\u4e4b\u5fc3",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u9b54\u50cf\u4e4b\u5fc3",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "C\u0153ur de golem",
+          "language": "French"
+        },
+        {
+          "name": "Herz des Golems",
+          "language": "German"
+        },
+        {
+          "name": "Cuore di Golem",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30b4\u30fc\u30ec\u30e0\u306e\u5fc3\u81d3",
+          "language": "Japanese"
+        },
+        {
+          "name": "Cora\u00e7\u00e3o de Golem",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0421\u0435\u0440\u0434\u0446\u0435 \u0413\u043e\u043b\u0435\u043c\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Coraz\u00f3n de g\u00f3lem",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Skinrender",
+      "layout": "normal",
+      "mana_cost": "{2}{B}{B}",
+      "cmc": 4,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Zombie",
+      "supertypes": null,
+      "subtypes": [
+        "Zombie"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "When Skinrender enters the battlefield, put three -1/-1 counters on target creature.",
+      "flavor": "\"Your creations are effective, Sheoldred, but we must unite the flesh, not merely flay it.\"\n\u2014Elesh Norn, Grand Cenobite",
+      "artist": "Adrian Smith",
+      "number": "63",
+      "power": "3",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2010",
+      "starter": null,
+      "printings": [
+        "pWPN",
+        "SOM"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "WPN Prize",
+      "image_url": null,
+      "set": "pWPN",
+      "set_name": "Wizards Play Network",
+      "id": "fbb0099893cc493d01f35a6c355e2fdf748e195b",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2011-01-01",
+          "text": "This ability is mandatory. If there are no other creatures on the battlefield, you must target Skinrender itself."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u88c2\u80a4\u7075\u4fd1",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u88c2\u819a\u6bad\u5c4d",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "\u00c9corcheur de peau",
+          "language": "French"
+        },
+        {
+          "name": "Hautschmelzer",
+          "language": "German"
+        },
+        {
+          "name": "Spellatore",
+          "language": "Italian"
+        },
+        {
+          "name": "\u76ae\u88c2\u304d",
+          "language": "Japanese"
+        },
+        {
+          "name": "Despelador",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041a\u043e\u0436\u0435\u0434\u0435\u0440",
+          "language": "Russian"
+        },
+        {
+          "name": "Arrancapiel",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Master's Call",
+      "layout": "normal",
+      "mana_cost": "{2}{W}",
+      "cmc": 3,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Create two 1/1 colorless Myr artifact creature tokens.",
+      "flavor": "The need to obey was inscribed on every plate in their bodies.",
+      "artist": "Erica Yang",
+      "number": "64",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2011",
+      "starter": null,
+      "printings": [
+        "pWPN",
+        "MBS"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "WPN Prize",
+      "image_url": null,
+      "set": "pWPN",
+      "set_name": "Wizards Play Network",
+      "id": "8d925b533ac72dc045ec2566363439ccf2f443bf",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u4e3b\u5b50\u547c\u5524",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u4e3b\u5b50\u547c\u559a",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Appel du ma\u00eetre",
+          "language": "French"
+        },
+        {
+          "name": "Ruf des Meisters",
+          "language": "German"
+        },
+        {
+          "name": "La Voce del Padrone",
+          "language": "Italian"
+        },
+        {
+          "name": "\u4e3b\u306e\u547c\u3073\u58f0",
+          "language": "Japanese"
+        },
+        {
+          "name": "Chamado do Mestre",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0417\u043e\u0432 \u0413\u043e\u0441\u043f\u043e\u0434\u0438\u043d\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Llamada del amo",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Plague Myr",
+      "layout": "normal",
+      "mana_cost": "{2}",
+      "cmc": 2,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact Creature \u2014 Myr",
+      "supertypes": null,
+      "subtypes": [
+        "Myr"
+      ],
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)\n{T}: Add {C} to your mana pool.",
+      "flavor": "They watch for a new master, one more sinister than the last.",
+      "artist": "Ryan Pancoast",
+      "number": "65",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2011",
+      "starter": null,
+      "printings": [
+        "pWPN",
+        "MBS"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "WPN Prize",
+      "image_url": null,
+      "set": "pWPN",
+      "set_name": "Wizards Play Network",
+      "id": "277f586778c1a9de820b3594ebea67ab81ac5143",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u75ab\u75c5\u79d8\u8033",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u75ab\u75c5\u79d8\u8033",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Myr de peste",
+          "language": "French"
+        },
+        {
+          "name": "Seuchenmyr",
+          "language": "German"
+        },
+        {
+          "name": "Myr della Peste",
+          "language": "Italian"
+        },
+        {
+          "name": "\u75ab\u75c5\u306e\u30de\u30a4\u30a2",
+          "language": "Japanese"
+        },
+        {
+          "name": "Myr da Praga",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0427\u0443\u043c\u043d\u043e\u0439 \u041c\u0438\u044d\u0440",
+          "language": "Russian"
+        },
+        {
+          "name": "Myr de la plaga",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Signal Pest",
+      "layout": "normal",
+      "mana_cost": "{1}",
+      "cmc": 1,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact Creature \u2014 Pest",
+      "supertypes": null,
+      "subtypes": [
+        "Pest"
+      ],
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)\nSignal Pest can't be blocked except by creatures with flying or reach.",
+      "flavor": "It leaps from tree to tree, revealing the enemy's positions.",
+      "artist": "Chippy",
+      "number": "66",
+      "power": "0",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2011",
+      "starter": null,
+      "printings": [
+        "pWPN",
+        "MBS"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "WPN Prize",
+      "image_url": null,
+      "set": "pWPN",
+      "set_name": "Wizards Play Network",
+      "id": "700ba748d0f5a9206d2bccbf85672b37d09d48e1",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u4fe1\u53f7\u5bb3\u866b",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u4fe1\u865f\u5bb3\u87f2",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Parasite signaleur",
+          "language": "French"
+        },
+        {
+          "name": "Meldender Sch\u00e4dling",
+          "language": "German"
+        },
+        {
+          "name": "Peste dei Segnali",
+          "language": "Italian"
+        },
+        {
+          "name": "\u4fe1\u53f7\u306e\u90aa\u9b54\u8005",
+          "language": "Japanese"
+        },
+        {
+          "name": "Peste Sinalizadora",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0421\u0438\u0433\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0412\u0440\u0435\u0434\u0438\u0442\u0435\u043b\u044c",
+          "language": "Russian"
+        },
+        {
+          "name": "Plaga se\u00f1alizadora",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Fling",
+      "layout": "normal",
+      "mana_cost": "{1}{R}",
+      "cmc": 2,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "As an additional cost to cast Fling, sacrifice a creature.\nFling deals damage equal to the sacrificed creature's power to target creature or player.",
+      "flavor": "Sometimes the cannoneer must become the cannonball.",
+      "artist": "Daren Bader",
+      "number": "69",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2010",
+      "starter": null,
+      "printings": [
+        "pARL",
+        "STH",
+        "pWPN",
+        "M11",
+        "M12",
+        "DKA",
+        "PC2",
+        "PCA",
+        "AKH"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "WPN Prize",
+      "image_url": null,
+      "set": "pWPN",
+      "set_name": "Wizards Play Network",
+      "id": "88ebd9cb6361ec3d1fd17e2d0bb77f53a012ca39",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2010-08-15",
+          "text": "The sacrificed creature's last known existence on the battlefield is checked to determine its power."
+        },
+        {
+          "date": "2010-08-15",
+          "text": "If you sacrifice an attacking or blocking creature during the declare blockers step, it won't deal combat damage. If you wait until the combat damage step, but that creature is dealt lethal damage, it'll be destroyed before you get a chance to sacrifice it."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "You must sacrifice exactly one creature to cast this spell; you cannot cast it without sacrificing a creature, and you cannot sacrifice additional creatures."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "Players can only respond once this spell has been cast and all its costs have been paid. No one can try to destroy the creature you sacrificed to prevent you from casting this spell."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u6295\u63b7",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u6295\u64f2",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Jet",
+          "language": "French"
+        },
+        {
+          "name": "Flugstunde",
+          "language": "German"
+        },
+        {
+          "name": "Scagliare",
+          "language": "Italian"
+        },
+        {
+          "name": "\u6295\u3052\u98db\u3070\u3057",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ud2b9\uacf5",
+          "language": "Korean"
+        },
+        {
+          "name": "Arremessar",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0428\u0432\u044b\u0440\u043e\u043a",
+          "language": "Russian"
+        },
+        {
+          "name": "Arrojar",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Sylvan Ranger",
+      "layout": "normal",
+      "mana_cost": "{1}{G}",
+      "cmc": 2,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Elf Scout",
+      "supertypes": null,
+      "subtypes": [
+        "Elf",
+        "Scout"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "When Sylvan Ranger enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.",
+      "flavor": "\"Not all paths are found on the forest floor.\"",
+      "artist": "Ciruelo",
+      "number": "70",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2010",
+      "starter": null,
+      "printings": [
+        "pWPN",
+        "M11",
+        "DDH",
+        "C14",
+        "MM3",
+        "CMA"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "WPN Prize",
+      "image_url": null,
+      "set": "pWPN",
+      "set_name": "Wizards Play Network",
+      "id": "36b1559d5d77c472aa487fea2a02296743e59db4",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u68ee\u6797\u5de1\u5b88",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u68ee\u6797\u5de1\u5b88",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Ranger sylvestre",
+          "language": "French"
+        },
+        {
+          "name": "Waldh\u00fcter",
+          "language": "German"
+        },
+        {
+          "name": "Ranger Silvana",
+          "language": "Italian"
+        },
+        {
+          "name": "\u68ee\u306e\u30ec\u30a4\u30f3\u30b8\u30e3\u30fc",
+          "language": "Japanese"
+        },
+        {
+          "name": "Patrulheiro Silvestre",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041b\u0435\u0441\u043d\u0430\u044f \u041e\u0431\u0445\u043e\u0434\u0447\u0438\u0446\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Guardabosque silvano",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Vault Skirge",
+      "layout": "normal",
+      "mana_cost": "{1}{B/P}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Artifact Creature \u2014 Imp",
+      "supertypes": null,
+      "subtypes": [
+        "Imp"
+      ],
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "({B/P} can be paid with either {B} or 2 life.)\nFlying\nLifelink (Damage dealt by this creature also causes you to gain that much life.)",
+      "flavor": "From the remnants of the dead, Geth forged a swarm to safeguard his throne.",
+      "artist": "Lars Grant-West",
+      "number": "71",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2011",
+      "starter": null,
+      "printings": [
+        "pWPN",
+        "NPH"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "WPN Prize",
+      "image_url": null,
+      "set": "pWPN",
+      "set_name": "Wizards Play Network",
+      "id": "29a94e22ee7fbd1c206731e61c7069b8d9a3d3ff",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2011-06-01",
+          "text": "A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid."
+        },
+        {
+          "date": "2011-06-01",
+          "text": "To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1."
+        },
+        {
+          "date": "2011-06-01",
+          "text": "As you cast a spell or activate an activated ability with one or more Phyrexian mana symbols in its cost, you choose how to pay for each Phyrexian mana symbol at the same time you would choose modes or choose a value for X."
+        },
+        {
+          "date": "2011-06-01",
+          "text": "If you're at 1 life or less, you can't pay 2 life."
+        },
+        {
+          "date": "2011-06-01",
+          "text": "Phyrexian mana is not a new color. Players can't add Phyrexian mana to their mana pools."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u9eef\u7a96\u65af\u514b\u9b54",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u9eef\u7a96\u65af\u514b\u9b54",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Scrige du caveau",
+          "language": "French"
+        },
+        {
+          "name": "Gruft-Skirg",
+          "language": "German"
+        },
+        {
+          "name": "Skirge della Cripta",
+          "language": "Italian"
+        },
+        {
+          "name": "\u5927\u970a\u5802\u306e\u30b9\u30ab\u30fc\u30b8",
+          "language": "Japanese"
+        },
+        {
+          "name": "Eskirge da C\u00e2mara",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0421\u043a\u0438\u0440\u0436 \u041f\u043e\u0434\u0437\u0435\u043c\u0435\u043b\u044c\u044f",
+          "language": "Russian"
+        },
+        {
+          "name": "Esquirge de la b\u00f3veda",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Maul Splicer",
+      "layout": "normal",
+      "mana_cost": "{6}{G}",
+      "cmc": 7,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Artificer",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Artificer"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "When Maul Splicer enters the battlefield, create two 3/3 colorless Golem artifact creature tokens.\nGolem creatures you control have trample.",
+      "flavor": null,
+      "artist": "Erica Yang",
+      "number": "72",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2011",
+      "starter": null,
+      "printings": [
+        "pWPN",
+        "NPH"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "WPN Prize",
+      "image_url": null,
+      "set": "pWPN",
+      "set_name": "Wizards Play Network",
+      "id": "e63f4478d00dde255dd9b87ff6a7f0c30c1bcbf6",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u6bb4\u51fb\u63a5\u5408\u5e08",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u6bc6\u64ca\u63a5\u5408\u5e2b",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "\u00c9pisseuse aux lac\u00e9rateurs",
+          "language": "French"
+        },
+        {
+          "name": "Schl\u00e4gel-Splei\u00dferin",
+          "language": "German"
+        },
+        {
+          "name": "Giuntatrice di Spaccaossa",
+          "language": "Italian"
+        },
+        {
+          "name": "\u5927\u69cc\u306e\u63a5\u5408\u8005",
+          "language": "Japanese"
+        },
+        {
+          "name": "Implantador de Hostilidade",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041f\u0440\u0438\u0440\u0430\u0449\u0438\u0432\u0430\u0442\u0435\u043b\u044c \u0413\u0440\u0443\u0431\u043e\u0439 \u0421\u0438\u043b\u044b",
+          "language": "Russian"
+        },
+        {
+          "name": "Ensambladora de violencia",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Shrine of Burning Rage",
+      "layout": "normal",
+      "mana_cost": "{2}",
+      "cmc": 2,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "At the beginning of your upkeep or whenever you cast a red spell, put a charge counter on Shrine of Burning Rage.\n{3}, {T}, Sacrifice Shrine of Burning Rage: Shrine of Burning Rage deals damage equal to the number of charge counters on it to target creature or player.",
+      "flavor": null,
+      "artist": "Nils Hamm",
+      "number": "73",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2011",
+      "starter": null,
+      "printings": [
+        "pWPN",
+        "NPH"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "WPN Prize",
+      "image_url": null,
+      "set": "pWPN",
+      "set_name": "Wizards Play Network",
+      "id": "bf08f9785db452d912eaf2e891ade7bb887a75a5",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u706b\u70ed\u6124\u6012\u796d\u7960",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u706b\u71b1\u61a4\u6012\u796d\u7960",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Reliquaire de la Rage br\u00fblante",
+          "language": "French"
+        },
+        {
+          "name": "Schrein der lodernden Wut",
+          "language": "German"
+        },
+        {
+          "name": "Santuario della Rabbia Ardente",
+          "language": "Italian"
+        },
+        {
+          "name": "\u71c3\u3048\u4e0a\u304c\u308b\u61a4\u6012\u306e\u796d\u6bbf",
+          "language": "Japanese"
+        },
+        {
+          "name": "Santu\u00e1rio da Ira Ardente",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0421\u0432\u044f\u0442\u044b\u043d\u044f \u041a\u0438\u043f\u044f\u0449\u0435\u0439 \u042f\u0440\u043e\u0441\u0442\u0438",
+          "language": "Russian"
+        },
+        {
+          "name": "Altar de la ira ardiente",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Tormented Soul",
+      "layout": "normal",
+      "mana_cost": "{B}",
+      "cmc": 1,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Spirit",
+      "supertypes": null,
+      "subtypes": [
+        "Spirit"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Tormented Soul can't block and can't be blocked.",
+      "flavor": "Those who raged most bitterly at the world in life are cursed to roam the nether realms in death.",
+      "artist": "John Stanko",
+      "number": "76",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2011",
+      "starter": null,
+      "printings": [
+        "pWPN",
+        "M12",
+        "PC2",
+        "M13",
+        "PCA"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "WPN Prize",
+      "image_url": null,
+      "set": "pWPN",
+      "set_name": "Wizards Play Network",
+      "id": "3eca7041085645b6a12f3b35c2f2d284b419eb35",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u53d7\u8650\u7075\u9b42",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u53d7\u8650\u9748\u9b42",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "\u00c2me tourment\u00e9e",
+          "language": "French"
+        },
+        {
+          "name": "Gequ\u00e4lte Seele",
+          "language": "German"
+        },
+        {
+          "name": "Anima Tormentata",
+          "language": "Italian"
+        },
+        {
+          "name": "\u82db\u307e\u308c\u3057\u9b42",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uad34\ub85c\uc6b4 \uc601\ud63c",
+          "language": "Korean"
+        },
+        {
+          "name": "Alma Atormentada",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0421\u0442\u0440\u0430\u0434\u0430\u044e\u0449\u0430\u044f \u0414\u0443\u0448\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Alma atormentada",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Auramancer",
+      "layout": "normal",
+      "mana_cost": "{2}{W}",
+      "cmc": 3,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Wizard",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Wizard"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "When Auramancer enters the battlefield, you may return target enchantment card from your graveyard to your hand.",
+      "flavor": "\"In memories, we can find our deepest reserves of strength.\"",
+      "artist": "Wayne Reynolds",
+      "number": "77",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2011",
+      "starter": null,
+      "printings": [
+        "ODY",
+        "pWPN",
+        "M12",
+        "PC2",
+        "M14",
+        "DDL",
+        "ORI",
+        "PCA"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "WPN Prize",
+      "image_url": null,
+      "set": "pWPN",
+      "set_name": "Wizards Play Network",
+      "id": "3d469ad0da81b348c4d3f41394103e54919c6572",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u7075\u6c14\u6cd5\u5e08",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u9748\u6c23\u6cd5\u5e2b",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Auramancienne",
+          "language": "French"
+        },
+        {
+          "name": "Aurasch\u00f6pfer",
+          "language": "German"
+        },
+        {
+          "name": "Animago",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30aa\u30fc\u30e9\u8853\u5e2b",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ubd80\uc5ec\uc220\uc0ac",
+          "language": "Korean"
+        },
+        {
+          "name": "Auramante",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0410\u0443\u0440\u043e\u043c\u0430\u043d\u0442",
+          "language": "Russian"
+        },
+        {
+          "name": "Auramante",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Circle of Flame",
+      "layout": "normal",
+      "mana_cost": "{1}{R}",
+      "cmc": 2,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Enchantment",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Special",
+      "text": "Whenever a creature without flying attacks you or a planeswalker you control, Circle of Flame deals 1 damage to that creature.",
+      "flavor": "\"Which do you think is a better deterrent: a moat of water or one of fire?\"\n\u2014Chandra Nalaar",
+      "artist": "James Paick",
+      "number": "78",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2011",
+      "starter": null,
+      "printings": [
+        "pWPN",
+        "M12",
+        "M15"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "WPN Prize",
+      "image_url": null,
+      "set": "pWPN",
+      "set_name": "Wizards Play Network",
+      "id": "90e2a79cfc39067efed0fbe9e5e563fbbc1166eb",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2014-07-18",
+          "text": "Circle of Flame's ability triggers only if a creature without flying is declared as an attacker during the declare attackers step. If a creature with flying attacks you or a planeswalker you control and then loses flying, or if a creature without flying is put onto the battlefield attacking you or a planeswalker you control, the ability won't trigger."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u706b\u7130\u56f4\u5708",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u706b\u7130\u570d\u5708",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Cercle de flammes",
+          "language": "French"
+        },
+        {
+          "name": "Flammenkreis",
+          "language": "German"
+        },
+        {
+          "name": "Cerchio di Fiamme",
+          "language": "Italian"
+        },
+        {
+          "name": "\u708e\u306e\u5186",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ud654\uc5fc\uc9c4",
+          "language": "Korean"
+        },
+        {
+          "name": "C\u00edrculo de Fogo",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041a\u043e\u043b\u044c\u0446\u043e \u041f\u043b\u0430\u043c\u0435\u043d\u0438",
+          "language": "Russian"
+        },
+        {
+          "name": "C\u00edrculo de llamas",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Gather the Townsfolk",
+      "layout": "normal",
+      "mana_cost": "{1}{W}",
+      "cmc": 2,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Special",
+      "text": "Create two 1/1 white Human creature tokens.\nFateful hour \u2014 If you have 5 or less life, create five of those tokens instead.",
+      "flavor": "In the memories of those they lost lies the strength needed to defend their city.",
+      "artist": "Bud Cook",
+      "number": "79",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2012",
+      "starter": null,
+      "printings": [
+        "pWPN",
+        "DKA",
+        "DDQ"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "WPN Prize",
+      "image_url": null,
+      "set": "pWPN",
+      "set_name": "Wizards Play Network",
+      "id": "b86eb96ddc51b6a1ae8a73c5c923a0751ca0b2ce",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u96c6\u5408\u9547\u6c11",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u96c6\u5408\u93ae\u6c11",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Rassemblement des citadins",
+          "language": "French"
+        },
+        {
+          "name": "Die B\u00fcrger versammeln",
+          "language": "German"
+        },
+        {
+          "name": "Radunare i Cittadini",
+          "language": "Italian"
+        },
+        {
+          "name": "\u753a\u6c11\u306e\u7d50\u96c6",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uc8fc\ubbfc \uc18c\uc9d1",
+          "language": "Korean"
+        },
+        {
+          "name": "Reunir o Povo",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0421\u0431\u043e\u0440 \u0413\u043e\u0440\u043e\u0436\u0430\u043d",
+          "language": "Russian"
+        },
+        {
+          "name": "Reunir a los aldeanos",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Curse of the Bloody Tome",
+      "layout": "normal",
+      "mana_cost": "{2}{U}",
+      "cmc": 3,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Enchantment \u2014 Aura Curse",
+      "supertypes": null,
+      "subtypes": [
+        "Aura",
+        "Curse"
+      ],
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Special",
+      "text": "Enchant player\nAt the beginning of enchanted player's upkeep, that player puts the top two cards of his or her library into his or her graveyard.",
+      "flavor": "After seeing his life's work drip away, the mage decided it was a good time to go crazy.",
+      "artist": "John Stanko",
+      "number": "80",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2011",
+      "starter": null,
+      "printings": [
+        "pWPN",
+        "ISD"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Gateway Program Prize",
+      "image_url": null,
+      "set": "pWPN",
+      "set_name": "Wizards Play Network",
+      "id": "99a45b6a72d90eebe9bb5b6d6e73689f120ba7d5",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2011-09-22",
+          "text": "If the enchanted player has only one card in his or her library, he or she puts that card into his or her graveyard."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u8840\u4e66\u8bc5\u5492",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u8840\u66f8\u8a5b\u5492",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Mal\u00e9diction du Tome sanguinolent",
+          "language": "French"
+        },
+        {
+          "name": "Fluch des Blutzauberbuchs",
+          "language": "German"
+        },
+        {
+          "name": "Maledizione del Tomo Insanguinato",
+          "language": "Italian"
+        },
+        {
+          "name": "\u8840\u307e\u307f\u308c\u306e\u66f8\u306e\u546a\u3044",
+          "language": "Japanese"
+        },
+        {
+          "name": "Maldi\u00e7\u00e3o do Tomo Sangrento",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041f\u0440\u043e\u043a\u043b\u044f\u0442\u0438\u0435 \u041a\u0440\u043e\u0432\u0430\u0432\u043e\u0433\u043e \u0422\u043e\u043c\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Maldici\u00f3n del tomo sangriento",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Curse of Thirst",
+      "layout": "normal",
+      "mana_cost": "{4}{B}",
+      "cmc": 5,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Enchantment \u2014 Aura Curse",
+      "supertypes": null,
+      "subtypes": [
+        "Aura",
+        "Curse"
+      ],
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Special",
+      "text": "Enchant player\nAt the beginning of enchanted player's upkeep, Curse of Thirst deals damage to that player equal to the number of Curses attached to him or her.",
+      "flavor": "\"May you drink until you drown but never be sated.\"\n\u2014Odila, witch of Morkrut",
+      "artist": "Dave Kendall",
+      "number": "81",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2012",
+      "starter": null,
+      "printings": [
+        "pWPN",
+        "DKA"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "WPN Prize",
+      "image_url": null,
+      "set": "pWPN",
+      "set_name": "Wizards Play Network",
+      "id": "0a62603b1f0e626e89d67091ada66674fba88aa7",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2011-01-22",
+          "text": "The number of Curses attached to the player is counted when the ability resolves."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u5e72\u6e34\u8bc5\u5492",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u4e7e\u6e34\u8a5b\u5492",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Mal\u00e9diction de soif",
+          "language": "French"
+        },
+        {
+          "name": "Fluch des Dursts",
+          "language": "German"
+        },
+        {
+          "name": "Maledizione della Sete",
+          "language": "Italian"
+        },
+        {
+          "name": "\u6e07\u304d\u306e\u546a\u3044",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uac08\uc99d\uc758 \uc800\uc8fc",
+          "language": "Korean"
+        },
+        {
+          "name": "Maldi\u00e7\u00e3o da Sede",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041f\u0440\u043e\u043a\u043b\u044f\u0442\u0438\u0435 \u0416\u0430\u0436\u0434\u044b",
+          "language": "Russian"
+        },
+        {
+          "name": "Maldici\u00f3n de sed",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Nearheath Stalker",
+      "layout": "normal",
+      "mana_cost": "{4}{R}",
+      "cmc": 5,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Vampire Rogue",
+      "supertypes": null,
+      "subtypes": [
+        "Vampire",
+        "Rogue"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+      "flavor": "\"Do not speak of this to the elders. They look unfavorably upon my indulgences.\"",
+      "artist": "Steve Prescott",
+      "number": "82",
+      "power": "4",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2012",
+      "starter": null,
+      "printings": [
+        "pWPN",
+        "DKA"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "WPN Prize",
+      "image_url": null,
+      "set": "pWPN",
+      "set_name": "Wizards Play Network",
+      "id": "9fb770fc157d76c073338896dd9221b33cce581c",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u539f\u9672\u4f0f\u51fb\u5ba2",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u539f\u9672\u4f0f\u64ca\u5ba2",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Pisteur de Prochelande",
+          "language": "French"
+        },
+        {
+          "name": "Schleicher aus Heidenau",
+          "language": "German"
+        },
+        {
+          "name": "Pedinatore di Landavicina",
+          "language": "Italian"
+        },
+        {
+          "name": "\u8fd1\u91ce\u306e\u5fcd\u3073\u5bc4\u308a",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ub2c8\uc5b4\ud788\uc2a4 \ucd94\uc801\uc790",
+          "language": "Korean"
+        },
+        {
+          "name": "Ca\u00e7ador de Mata Vizinha",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041f\u0440\u0435\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u0441 \u0411\u043b\u0438\u0436\u043d\u0435\u0439 \u041f\u0443\u0441\u0442\u043e\u0448\u0438",
+          "language": "Russian"
+        },
+        {
+          "name": "Acechador de Brezalcercano",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Bloodcrazed Neonate",
+      "layout": "normal",
+      "mana_cost": "{1}{R}",
+      "cmc": 2,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Vampire",
+      "supertypes": null,
+      "subtypes": [
+        "Vampire"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Bloodcrazed Neonate attacks each combat if able.\nWhenever Bloodcrazed Neonate deals combat damage to a player, put a +1/+1 counter on it.",
+      "flavor": "While elder vampires select their meals with care, the newly sired frenzy at the first whiff.",
+      "artist": "Dave Kendall",
+      "number": "83",
+      "power": "2",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2011",
+      "starter": null,
+      "printings": [
+        "pWPN",
+        "ISD"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Gateway Program Prize",
+      "image_url": null,
+      "set": "pWPN",
+      "set_name": "Wizards Play Network",
+      "id": "f45974bac5836abe94ab28d82055526fc8711281",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u8840\u72c2\u7a1a\u513f",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u8840\u72c2\u7a1a\u5152",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Nouveau-n\u00e9 sanguinaire",
+          "language": "French"
+        },
+        {
+          "name": "Blutgieriger Neugeborener",
+          "language": "German"
+        },
+        {
+          "name": "Neonata Smaniosa di Sangue",
+          "language": "Italian"
+        },
+        {
+          "name": "\u8840\u306b\u72c2\u3063\u305f\u65b0\u751f\u5b50",
+          "language": "Japanese"
+        },
+        {
+          "name": "Neonato Sanguiman\u00edaco",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041e\u0434\u0435\u0440\u0436\u0438\u043c\u0430\u044f \u041a\u0440\u043e\u0432\u044c\u044e \u041c\u0430\u043b\u043e\u043b\u0435\u0442\u043a\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Neonata sanguinaria",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Boneyard Wurm",
+      "layout": "normal",
+      "mana_cost": "{1}{G}",
+      "cmc": 2,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Wurm",
+      "supertypes": null,
+      "subtypes": [
+        "Wurm"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Boneyard Wurm's power and toughness are each equal to the number of creature cards in your graveyard.",
+      "flavor": "The only thing it likes more than discovering a pit of bones is adding to it.",
+      "artist": "Austin Hsu",
+      "number": "84",
+      "power": "*",
+      "toughness": "*",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2011",
+      "starter": null,
+      "printings": [
+        "pWPN",
+        "ISD",
+        "DDJ"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Gateway Program Prize",
+      "image_url": null,
+      "set": "pWPN",
+      "set_name": "Wizards Play Network",
+      "id": "b495e43e2fba2c03a9373f07ea8f98a9ec2bd9b5",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2011-09-22",
+          "text": "The ability that defines Boneyard Wurm's power and toughness works in all zones, not just the battlefield. If Boneyard Wurm is in your graveyard, it will count itself."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u805a\u9aa8\u573a\u4e9a\u9f99",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u805a\u9aa8\u5834\u4e9e\u9f8d",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Guivre d'ossuaire",
+          "language": "French"
+        },
+        {
+          "name": "Knochenackerwurm",
+          "language": "German"
+        },
+        {
+          "name": "Wurm dell'Ossario",
+          "language": "Italian"
+        },
+        {
+          "name": "\u9aa8\u585a\u306e\u30ef\u30fc\u30e0",
+          "language": "Japanese"
+        },
+        {
+          "name": "Vorme do Oss\u00e1rio",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041a\u043b\u0430\u0434\u0431\u0438\u0449\u0435\u043d\u0441\u043a\u0438\u0439 \u0412\u0443\u0440\u043c",
+          "language": "Russian"
+        },
+        {
+          "name": "Sierpe del osario",
+          "language": "Spanish"
+        }
+      ]
+    }
+  ]
+}

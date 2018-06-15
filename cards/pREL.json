@@ -1,0 +1,1571 @@
+{
+  "code": "pREL",
+  "name": "Release Events",
+  "type": "promo",
+  "border": "black",
+  "mkm_id": null,
+  "mkm_name": null,
+  "release_date": "2003-07-26",
+  "gatherer_code": null,
+  "magic_cards_info_code": "rep",
+  "booster": null,
+  "old_code": null,
+  "block": null,
+  "online_only": null,
+  "cards": [
+    {
+      "name": "Rukh Egg",
+      "layout": "normal",
+      "mana_cost": "{3}{R}",
+      "cmc": 4,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Bird",
+      "supertypes": null,
+      "subtypes": [
+        "Bird"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "When Rukh Egg dies, create a 4/4 red Bird creature token with flying at the beginning of the next end step.",
+      "flavor": "Called \"stonefeathers\" by many lowlanders, rukhs are thought to descend from a phoenix that sacrificed its flame for a body of stone.",
+      "artist": "Mark Zug",
+      "number": "1",
+      "power": "0",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2003-07-26",
+      "starter": null,
+      "printings": [
+        "ARN",
+        "pREL",
+        "8ED",
+        "9ED"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Eighth Edition Global Celebration tournament participation bonus.",
+      "image_url": null,
+      "set": "pREL",
+      "set_name": "Release Events",
+      "id": "0b7696e2738d1ca11205fff6c15feefb9bebf371",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "If the Rukh Egg card is removed from the graveyard in the same turn it is put there, a Bird will still be put onto the battlefield."
+        },
+        {
+          "date": "2005-10-01",
+          "text": "If the Egg is exiled instead of being put into the graveyard, no Bird is put onto the battlefield."
+        },
+        {
+          "date": "2005-10-01",
+          "text": "Text-changing effects can be used to change the color of the Bird that will be put onto the battlefield."
+        },
+        {
+          "date": "2005-10-01",
+          "text": "If the Egg is destroyed while under the control of another player, the controller of the Egg gets the Bird."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u9c81\u514b\u9e1f\u86cb",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u0152uf de rukh",
+          "language": "French"
+        },
+        {
+          "name": "Rukh-Ei",
+          "language": "German"
+        },
+        {
+          "name": "Uovo di Rukh",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30eb\u30d5\u9ce5\u306e\u5375",
+          "language": "Japanese"
+        },
+        {
+          "name": "Ovo de Rukh",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u042f\u0439\u0446\u043e \u043f\u0442\u0438\u0446\u044b \u0440\u0443\u0445",
+          "language": "Russian"
+        },
+        {
+          "name": "Huevo de rukh",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Ass Whuppin'",
+      "layout": "normal",
+      "mana_cost": "{1}{W}{B}",
+      "cmc": 3,
+      "colors": [
+        "White",
+        "Black"
+      ],
+      "color_identity": [
+        "W",
+        "B"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Special",
+      "text": "Destroy target silver-bordered permanent in any game you can see from your seat.",
+      "flavor": "Asses to ashes,\nDonkeys to dust.",
+      "artist": "Don Hazeltine",
+      "number": "2",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": "silver",
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2004-11-20",
+      "starter": null,
+      "printings": [
+        "pREL",
+        "UNH"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Unhinged Release Event participation bonus. First Release Promo with a date",
+      "image_url": null,
+      "set": "pREL",
+      "set_name": "Release Events",
+      "id": "28e6c82e4d05d55efa6732080a894072f62b0b58",
+      "legalities": [
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "Bottage de fesses",
+          "language": "French"
+        }
+      ]
+    },
+    {
+      "name": "Budoka Pupil",
+      "layout": "flip",
+      "mana_cost": "{1}{G}{G}",
+      "cmc": 3,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": [
+        "Budoka Pupil",
+        "Ichiga, Who Topples Oaks"
+      ],
+      "type": "Creature \u2014 Human Monk",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Monk"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Budoka Pupil.\nAt the beginning of the end step, if there are two or more ki counters on Budoka Pupil, you may flip it.",
+      "flavor": null,
+      "artist": "Shishizaru",
+      "number": "3a",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2005-02-04",
+      "starter": null,
+      "printings": [
+        "pREL",
+        "BOK"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Betrayers of Kamigawa Release Event participation bonus.",
+      "image_url": null,
+      "set": "pREL",
+      "set_name": "Release Events",
+      "id": "fef7080c45c950f4284db4d458e350ed8b4813c5",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u6b66\u9053\u5bb6\u5f1f\u5b50",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u00c9l\u00e8ve budoka",
+          "language": "French"
+        },
+        {
+          "name": "Budokasch\u00fcler",
+          "language": "German"
+        },
+        {
+          "name": "Discepolo Budoka",
+          "language": "Italian"
+        },
+        {
+          "name": "\u6b66\u9053\u5bb6\u306e\u5b66\u5f92",
+          "language": "Japanese"
+        },
+        {
+          "name": "Disc\u00edpulo de Budoka",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "Pupilo budoka",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Ichiga, Who Topples Oaks",
+      "layout": "flip",
+      "mana_cost": "{1}{G}{G}",
+      "cmc": 3,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": [
+        "Budoka Pupil",
+        "Ichiga, Who Topples Oaks"
+      ],
+      "type": "Legendary Creature \u2014 Spirit",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Spirit"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Trample\nRemove a ki counter from Ichiga, Who Topples Oaks: Target creature gets +2/+2 until end of turn.",
+      "flavor": null,
+      "artist": "Shishizaru",
+      "number": "3b",
+      "power": "4",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2005-02-04",
+      "starter": null,
+      "printings": [
+        "pREL",
+        "BOK"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Betrayers of Kamigawa Release Event participation bonus.",
+      "image_url": null,
+      "set": "pREL",
+      "set_name": "Release Events",
+      "id": "0ea041e28b6c92bd936eb94b2599202bde51b5f1",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u65ad\u6728\u4f9d\u9a70\u6211",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Ichiga, celui qui abat les ch\u00eanes",
+          "language": "French"
+        },
+        {
+          "name": "Ichiga, der Eichen umwirft",
+          "language": "German"
+        },
+        {
+          "name": "Ichiga, Abbatti-Querce",
+          "language": "Italian"
+        },
+        {
+          "name": "\u6a2b\u5012\u3057\u306e\u4f0a\u99b3\u6211",
+          "language": "Japanese"
+        },
+        {
+          "name": "Ichiga, O Que Tomba Carvalhos",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "Ichiga, el que derriba robles",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Ghost-Lit Raider",
+      "layout": "normal",
+      "mana_cost": "{2}{R}",
+      "cmc": 3,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Spirit",
+      "supertypes": null,
+      "subtypes": [
+        "Spirit"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "{2}{R}, {T}: Ghost-Lit Raider deals 2 damage to target creature.\nChannel \u2014 {3}{R}, Discard Ghost-Lit Raider: Ghost-Lit Raider deals 4 damage to target creature.",
+      "flavor": null,
+      "artist": "Ittoku",
+      "number": "4",
+      "power": "2",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2005-06-03",
+      "starter": null,
+      "printings": [
+        "pREL",
+        "SOK"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Saviors of Kamigawa Release Event participation bonus.",
+      "image_url": null,
+      "set": "pREL",
+      "set_name": "Release Events",
+      "id": "8e00ff9af3941126c60bae9211a91470a0344601",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u7a81\u51fb\u706f\u9b42",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Pillard nimb\u00e9 de fant\u00f4mes",
+          "language": "French"
+        },
+        {
+          "name": "Geisterlicht-Pl\u00fcnderer",
+          "language": "German"
+        },
+        {
+          "name": "Predone Lumifero",
+          "language": "Italian"
+        },
+        {
+          "name": "\u970a\u5149\u306e\u7565\u596a\u8005",
+          "language": "Japanese"
+        },
+        {
+          "name": "Salteador da Luz Fantasmal",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "Incursor luz fantasmal",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Force of Nature",
+      "layout": "normal",
+      "mana_cost": "{2}{G}{G}{G}{G}",
+      "cmc": 6,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Elemental",
+      "supertypes": null,
+      "subtypes": [
+        "Elemental"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)\nAt the beginning of your upkeep, Force of Nature deals 8 damage to you unless you pay {G}{G}{G}{G}.",
+      "flavor": null,
+      "artist": "Greg Staples",
+      "number": "5",
+      "power": "8",
+      "toughness": "8",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2005-07-29",
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "5ED",
+        "BTD",
+        "pREL",
+        "9ED",
+        "ME4"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Ninth Edition Release Event participation bonus everywhere except Russia, Ukraine, and Belarus.",
+      "image_url": null,
+      "set": "pREL",
+      "set_name": "Release Events",
+      "id": "818ed0bc0cda0e6d4304ed75e3fd10dd2a376c61",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u4e07\u7269\u5143\u6c14\u517d",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Force de la Nature",
+          "language": "French"
+        },
+        {
+          "name": "Naturgewalten",
+          "language": "German"
+        },
+        {
+          "name": "Forza della Natura",
+          "language": "Italian"
+        },
+        {
+          "name": "\u5927\u5730\u306e\u6012\u308a",
+          "language": "Japanese"
+        },
+        {
+          "name": "For\u00e7a da Natureza",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0421\u0438\u043b\u0430 \u043f\u0440\u0438\u0440\u043e\u0434\u044b",
+          "language": "Russian"
+        },
+        {
+          "name": "Fuerza de la naturaleza",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Shivan Dragon",
+      "layout": "normal",
+      "mana_cost": "{4}{R}{R}",
+      "cmc": 6,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Dragon",
+      "supertypes": null,
+      "subtypes": [
+        "Dragon"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\n{R}: Shivan Dragon gets +1/+0 until end of turn.",
+      "flavor": "The undisputed master of the mountains of Shiv.",
+      "artist": "Donato Giancola",
+      "number": "6",
+      "power": "5",
+      "toughness": "5",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2005-09-24",
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "5ED",
+        "BTD",
+        "7ED",
+        "pREL",
+        "8ED",
+        "9ED",
+        "10E",
+        "DRB",
+        "M10",
+        "DPA",
+        "ME4",
+        "M14",
+        "M15",
+        "ORI",
+        "W16",
+        "W17"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Ninth Edition Release Event participation bonus in Russia, Ukraine, and Belarus.",
+      "image_url": null,
+      "set": "pREL",
+      "set_name": "Release Events",
+      "id": "a21815b1686e2708f6cd69930139631287770e42",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u897f\u74e6\u5de8\u9f99",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u897f\u74e6\u5de8\u9f8d",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Dragon shiv\u00e2n",
+          "language": "French"
+        },
+        {
+          "name": "Shivan-Drache",
+          "language": "German"
+        },
+        {
+          "name": "Drago di Shivan",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30b7\u30f4\u5c71\u306e\u30c9\u30e9\u30b4\u30f3",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uc2dc\ubc14\uc758 \uc6a9",
+          "language": "Korean"
+        },
+        {
+          "name": "Drag\u00e3o de Shiva",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0428\u0438\u0432\u0430\u043d\u0441\u043a\u0438\u0439 \u0414\u0440\u0430\u043a\u043e\u043d",
+          "language": "Russian"
+        },
+        {
+          "name": "Drag\u00f3n shivano",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Dimir Guildmage",
+      "layout": "normal",
+      "mana_cost": "{U/B}{U/B}",
+      "cmc": 2,
+      "colors": [
+        "Blue",
+        "Black"
+      ],
+      "color_identity": [
+        "U",
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Wizard",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Wizard"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "({U/B} can be paid with either {U} or {B}.)\n{3}{U}: Target player draws a card. Activate this ability only any time you could cast a sorcery.\n{3}{B}: Target player discards a card. Activate this ability only any time you could cast a sorcery.",
+      "flavor": null,
+      "artist": "Adam Rex",
+      "number": "7",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2005-10-07",
+      "starter": null,
+      "printings": [
+        "pREL",
+        "RAV",
+        "MM2"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Ravnica: City of Guild Release Event participation bonus.",
+      "image_url": null,
+      "set": "pREL",
+      "set_name": "Release Events",
+      "id": "709b86f66e222afc66fd5015675f75537ec3429f",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u5e95\u5bc6\u5c14\u516c\u4f1a\u6cd5\u5e08",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Ghildmage de Dimir",
+          "language": "French"
+        },
+        {
+          "name": "Dimir-Gildenmagier",
+          "language": "German"
+        },
+        {
+          "name": "Mago della Gilda Dimir",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30c7\u30a3\u30df\u30fc\u30a2\u306e\u30ae\u30eb\u30c9\u9b54\u9053\u58eb",
+          "language": "Japanese"
+        },
+        {
+          "name": "Mago da Guilda Dimir",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041c\u0430\u0433 \u0433\u0438\u043b\u044c\u0434\u0438\u0438 \u0414\u0438\u043c\u0438\u0440\u043e\u0432",
+          "language": "Russian"
+        },
+        {
+          "name": "Mago del Gremio Dimir",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Gruul Guildmage",
+      "layout": "normal",
+      "mana_cost": "{R/G}{R/G}",
+      "cmc": 2,
+      "colors": [
+        "Red",
+        "Green"
+      ],
+      "color_identity": [
+        "R",
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Shaman",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Shaman"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "({R/G} can be paid with either {R} or {G}.)\n{3}{R}, Sacrifice a land: Gruul Guildmage deals 2 damage to target player.\n{3}{G}: Target creature gets +2/+2 until end of turn.",
+      "flavor": null,
+      "artist": "Paolo Parente",
+      "number": "8",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2006-02-03",
+      "starter": null,
+      "printings": [
+        "pREL",
+        "GPT"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Guildpact Release Event participation bonus.",
+      "image_url": null,
+      "set": "pREL",
+      "set_name": "Release Events",
+      "id": "e22680a7690202b7d17b11fba8aacf760586403f",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u53e4\u9c81\u516c\u4f1a\u6cd5\u5e08",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Ghildmage de Gruul",
+          "language": "French"
+        },
+        {
+          "name": "Gruul-Gildenmagier",
+          "language": "German"
+        },
+        {
+          "name": "Mago della Gilda Gruul",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30b0\u30eb\u30fc\u30eb\u306e\u30ae\u30eb\u30c9\u9b54\u9053\u58eb",
+          "language": "Japanese"
+        },
+        {
+          "name": "Mago da Guilda Gruul",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041c\u0430\u0433 \u0433\u0438\u043b\u044c\u0434\u0438\u0438 \u0413\u0440\u0443\u0443\u043b\u043e\u0432",
+          "language": "Russian"
+        },
+        {
+          "name": "Mago del Gremio Gruul",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Azorius Guildmage",
+      "layout": "normal",
+      "mana_cost": "{W/U}{W/U}",
+      "cmc": 2,
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "color_identity": [
+        "W",
+        "U"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Vedalken Wizard",
+      "supertypes": null,
+      "subtypes": [
+        "Vedalken",
+        "Wizard"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "{2}{W}: Tap target creature.\n{2}{U}: Counter target activated ability. (Mana abilities can't be targeted.)",
+      "flavor": null,
+      "artist": "Christopher Moeller",
+      "number": "9",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2006-05-05",
+      "starter": null,
+      "printings": [
+        "pREL",
+        "DIS",
+        "CMD"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Dissension Release Event participation bonus.",
+      "image_url": null,
+      "set": "pREL",
+      "set_name": "Release Events",
+      "id": "69503212497b0c1858365a92517c82e3dc5231c7",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2016-06-08",
+          "text": "Activated abilities contain a colon. They're generally written \"[Cost]: [Effect].\" Some keywords are activated abilities and will have colons in their reminder text."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u4fc4\u4f50\u7acb\u516c\u4f1a\u6cd5\u5e08",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Ghildmage d'Azorius",
+          "language": "French"
+        },
+        {
+          "name": "Azorius-Gildenmagier",
+          "language": "German"
+        },
+        {
+          "name": "Maga della Gilda Azorius",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30a2\u30be\u30ea\u30a6\u30b9\u306e\u30ae\u30eb\u30c9\u9b54\u9053\u58eb",
+          "language": "Japanese"
+        },
+        {
+          "name": "Maga da Guilda Azorius",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041c\u0430\u0433 \u0433\u0438\u043b\u044c\u0434\u0438\u0438 \u0410\u0437\u043e\u0440\u0438\u0443\u0441\u043e\u0432",
+          "language": "Russian"
+        },
+        {
+          "name": "Maga del Gremio Azorio",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Sudden Shock",
+      "layout": "normal",
+      "mana_cost": "{1}{R}",
+      "cmc": 2,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Split second (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)\nSudden Shock deals 2 damage to target creature or player.",
+      "flavor": "Arc mages aren't known for their patience.",
+      "artist": "Vance Kovacs",
+      "number": "10",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2006-10-06",
+      "starter": null,
+      "printings": [
+        "pREL",
+        "TSP",
+        "MMA"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Time Spiral Release Event participation bonus.",
+      "image_url": null,
+      "set": "pREL",
+      "set_name": "Release Events",
+      "id": "7b086c5e1da264028536ed4665173be8737a6ee1",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-06-07",
+          "text": "Players still get priority while a card with split second is on the stack."
+        },
+        {
+          "date": "2013-06-07",
+          "text": "Split second doesn't prevent players from activating mana abilities."
+        },
+        {
+          "date": "2013-06-07",
+          "text": "Split second doesn't prevent triggered abilities from triggering. If one does, its controller puts it on the stack and chooses targets for it, if any. Those abilities will resolve as normal."
+        },
+        {
+          "date": "2013-06-07",
+          "text": "Split second doesn't prevent players from performing special actions. Notably, players may turn face-down creatures face up while a spell with split second is on the stack."
+        },
+        {
+          "date": "2013-06-07",
+          "text": "Casting a spell with split second won't affect spells and abilities that are already on the stack."
+        },
+        {
+          "date": "2013-06-07",
+          "text": "If the resolution of a triggered ability involves casting a spell, that spell can't be cast if a spell with split second is on the stack."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u77ac\u606f\u7535\u9707",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Choc soudain",
+          "language": "French"
+        },
+        {
+          "name": "Pl\u00f6tzlicher Schock",
+          "language": "German"
+        },
+        {
+          "name": "Shock Improvviso",
+          "language": "Italian"
+        },
+        {
+          "name": "\u7a81\u7136\u306e\u30b7\u30e7\u30c3\u30af",
+          "language": "Japanese"
+        },
+        {
+          "name": "Choque Repentino",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0412\u043d\u0435\u0437\u0430\u043f\u043d\u044b\u0439 \u0428\u043e\u043a",
+          "language": "Russian"
+        },
+        {
+          "name": "Choque s\u00fabito",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Hedge Troll",
+      "layout": "normal",
+      "mana_cost": "{2}{G}",
+      "cmc": 3,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G",
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Troll Cleric",
+      "supertypes": null,
+      "subtypes": [
+        "Troll",
+        "Cleric"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Hedge Troll gets +1/+1 as long as you control a Plains.\n{W}: Regenerate Hedge Troll.",
+      "flavor": "His abode was clean and bare, not a morsel in sight. I asked him what he ate, fearing the answer. He smiled and said his faith alone sustained him.",
+      "artist": "Paolo Parente",
+      "number": "11",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2007-02-02",
+      "starter": null,
+      "printings": [
+        "pREL",
+        "PLC"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Planar Chaos Release Event participation bonus",
+      "image_url": null,
+      "set": "pREL",
+      "set_name": "Release Events",
+      "id": "f857c933c1443d04a9cd586a8a8b4798afe4446b",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2007-02-01",
+          "text": "This is the timeshifted version of Sedge Troll."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u6811\u7bf1\u5de8\u9b54",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Troll des haies",
+          "language": "French"
+        },
+        {
+          "name": "Heckentroll",
+          "language": "German"
+        },
+        {
+          "name": "Troll delle Siepi",
+          "language": "Italian"
+        },
+        {
+          "name": "\u57a3\u306e\u30c8\u30ed\u30fc\u30eb",
+          "language": "Japanese"
+        },
+        {
+          "name": "Trol de Cerco",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041e\u0433\u0440\u0430\u0436\u0434\u0430\u044e\u0449\u0438\u0439 \u0422\u0440\u043e\u043b\u043b\u044c",
+          "language": "Russian"
+        },
+        {
+          "name": "Trol errante",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Storm Entity",
+      "layout": "normal",
+      "mana_cost": "{1}{R}",
+      "cmc": 2,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Elemental",
+      "supertypes": null,
+      "subtypes": [
+        "Elemental"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Haste\nStorm Entity enters the battlefield with a +1/+1 counter on it for each other spell cast this turn.",
+      "flavor": "Dweldian magi don't enter the Realm of Thrones when they die. Instead their souls are drawn to great works of magic.",
+      "artist": "Lucio Parrillo",
+      "number": "12",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2007-05-04",
+      "starter": null,
+      "printings": [
+        "pREL",
+        "FUT"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Future Sight Release Event participation bonus",
+      "image_url": null,
+      "set": "pREL",
+      "set_name": "Release Events",
+      "id": "f778f8838eb664fff8d70d59659ac8d2ebffb029",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2007-05-01",
+          "text": "The number of other spells cast this turn is determined as Storm Entity enters the battlefield. It will count spells that were cast while Storm Entity was on the stack."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u98ce\u66b4\u7075",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Entit\u00e9 d'orage",
+          "language": "French"
+        },
+        {
+          "name": "Sturmwesen",
+          "language": "German"
+        },
+        {
+          "name": "Entit\u00e0 Tempestosa",
+          "language": "Italian"
+        },
+        {
+          "name": "\u5d50\u306e\u7cbe\u4f53",
+          "language": "Japanese"
+        },
+        {
+          "name": "Entidade Tempestade",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0421\u0443\u0449\u043d\u043e\u0441\u0442\u044c \u0411\u0443\u0440\u0438",
+          "language": "Russian"
+        },
+        {
+          "name": "Entidad de la tormenta",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Shriekmaw",
+      "layout": "normal",
+      "mana_cost": "{4}{B}",
+      "cmc": 5,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Elemental",
+      "supertypes": null,
+      "subtypes": [
+        "Elemental"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nWhen Shriekmaw enters the battlefield, destroy target nonartifact, nonblack creature.\nEvoke {1}{B} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)",
+      "flavor": null,
+      "artist": "Steve Prescott",
+      "number": "13",
+      "power": "3",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2007-10-12",
+      "starter": null,
+      "printings": [
+        "pREL",
+        "LRW",
+        "ARC",
+        "CMD",
+        "DDH",
+        "C14",
+        "C15",
+        "CMA"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Lorwyn Release Event participation bonus",
+      "image_url": null,
+      "set": "pREL",
+      "set_name": "Release Events",
+      "id": "5d32959e84cd9976ee0ec7d78d06b06ff0f3247b",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "If you cast this card for its evoke cost, you may put the sacrifice trigger and the regular enters-the-battlefield trigger on the stack in either order. The one put on the stack last will resolve first."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u5c16\u543c\u602a",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u5c16\u543c\u602a",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Hurlegueule",
+          "language": "French"
+        },
+        {
+          "name": "Kreischmaul",
+          "language": "German"
+        },
+        {
+          "name": "Fauce Urlante",
+          "language": "Italian"
+        },
+        {
+          "name": "\u53eb\u3073\u5927\u53e3",
+          "language": "Japanese"
+        },
+        {
+          "name": "Bocarra Ululante",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0412\u0438\u0437\u0433\u043e\u0431\u0440\u044e\u0445",
+          "language": "Russian"
+        },
+        {
+          "name": "Garganta chillona",
+          "language": "Spanish"
+        }
+      ]
+    }
+  ]
+}

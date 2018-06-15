@@ -1,0 +1,4565 @@
+{
+  "code": "pLPA",
+  "name": "Launch Parties",
+  "type": "promo",
+  "border": "black",
+  "mkm_id": null,
+  "mkm_name": null,
+  "release_date": "2008-02-01",
+  "gatherer_code": null,
+  "magic_cards_info_code": "mlp",
+  "booster": null,
+  "old_code": null,
+  "block": null,
+  "online_only": null,
+  "cards": [
+    {
+      "name": "Earwig Squad",
+      "layout": "normal",
+      "mana_cost": "{3}{B}{B}",
+      "cmc": 5,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Goblin Rogue",
+      "supertypes": null,
+      "subtypes": [
+        "Goblin",
+        "Rogue"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Prowl {2}{B} (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Goblin or Rogue.)\nWhen Earwig Squad enters the battlefield, if its prowl cost was paid, search target opponent's library for three cards and exile them. Then that player shuffles his or her library.",
+      "flavor": null,
+      "artist": "Warren Mahy",
+      "number": "1",
+      "power": "5",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2008-02-01",
+      "starter": null,
+      "printings": [
+        "MOR",
+        "pLPA",
+        "MMA"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Morningtide Launch Party participation bonus",
+      "image_url": null,
+      "set": "pLPA",
+      "set_name": "Launch Parties",
+      "id": "bdc296a359df3522b075c5a3d078cd4515c0dbd5",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-06-07",
+          "text": "The cards are exiled face up. All players will know what they are."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u5077\u542c\u5c0f\u961f",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u5077\u807d\u5c0f\u968a",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Escouade de perce-oreilles",
+          "language": "French"
+        },
+        {
+          "name": "Ohrwurm-Trupp",
+          "language": "German"
+        },
+        {
+          "name": "Squadra di Forbicine",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30e4\u30b9\u30c7\u56e3",
+          "language": "Japanese"
+        },
+        {
+          "name": "Esquadr\u00e3o da Lacrainha",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041e\u0442\u0440\u044f\u0434 \u0423\u0445\u043e\u0432\u0435\u0440\u0442\u043e\u0447\u043d\u0438\u043a\u043e\u0432",
+          "language": "Russian"
+        },
+        {
+          "name": "Escuadr\u00f3n tijereta",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Vexing Shusher",
+      "layout": "normal",
+      "mana_cost": "{R/G}{R/G}",
+      "cmc": 2,
+      "colors": [
+        "Red",
+        "Green"
+      ],
+      "color_identity": [
+        "R",
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Goblin Shaman",
+      "supertypes": null,
+      "subtypes": [
+        "Goblin",
+        "Shaman"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Vexing Shusher can't be countered.\n{R/G}: Target spell can't be countered by spells or abilities.",
+      "flavor": "The stench of bloodcap mushrooms on the breath is enough to ward off even the most potent magics, especially when combined with a special chant: \"Hushhh.\"",
+      "artist": "Cyril Van Der Haegen",
+      "number": "2",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2008-05",
+      "starter": null,
+      "printings": [
+        "pLPA",
+        "SHM"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Shadowmoor Launch Party participation bonus",
+      "image_url": null,
+      "set": "pLPA",
+      "set_name": "Launch Parties",
+      "id": "379fb78a978ee7375983cbb6bbbf0d447dba216a",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-05-01",
+          "text": "After Vexing Shusher's ability resolves, any spells or abilities that would counter the targeted spell will still resolve. They just won't counter that spell."
+        },
+        {
+          "date": "2008-05-01",
+          "text": "Vexing Shusher's ability won't prevent the targeted spell from being countered by the game rules (for example, if all its targets are illegal)."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u5618\u58f0\u6363\u4e71\u4eba",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Vexing Shusher",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Museleur vexatoire",
+          "language": "French"
+        },
+        {
+          "name": "L\u00e4stiger Fl\u00fcsterer",
+          "language": "German"
+        },
+        {
+          "name": "Silenziatore Irritante",
+          "language": "Italian"
+        },
+        {
+          "name": "\u96e3\u554f\u306e\u93ae\u3081\u5c4b",
+          "language": "Japanese"
+        },
+        {
+          "name": "Silenciador Irritante",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0428\u0438\u043a\u0430\u044e\u0449\u0438\u0439 \u0417\u0430\u043d\u0443\u0434\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Silenciador irritante",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Figure of Destiny",
+      "layout": "normal",
+      "mana_cost": "{R/W}",
+      "cmc": 1,
+      "colors": [
+        "White",
+        "Red"
+      ],
+      "color_identity": [
+        "W",
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Kithkin",
+      "supertypes": null,
+      "subtypes": [
+        "Kithkin"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "{R/W}: Figure of Destiny becomes a Kithkin Spirit with base power and toughness 2/2.\n{R/W}{R/W}{R/W}: If Figure of Destiny is a Spirit, it becomes a Kithkin Spirit Warrior with base power and toughness 4/4.\n{R/W}{R/W}{R/W}{R/W}{R/W}{R/W}: If Figure of Destiny is a Warrior, it becomes a Kithkin Spirit Warrior Avatar with base power and toughness 8/8, flying, and first strike.",
+      "flavor": null,
+      "artist": "Scott M. Fischer",
+      "number": "3",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2008-07-25",
+      "starter": null,
+      "printings": [
+        "pLPA",
+        "EVE",
+        "PD2",
+        "MMA",
+        "DDL"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Eventide Launch Party participation bonus",
+      "image_url": null,
+      "set": "pLPA",
+      "set_name": "Launch Parties",
+      "id": "aa169c799aa73ae7ed109583a2a122e406ffa733",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-08-01",
+          "text": "None of these abilities has a duration. If one of them resolves, it will remain in effect until the game ends, Figure of Destiny leaves the battlefield, or some subsequent effect changes its characteristics, whichever comes first."
+        },
+        {
+          "date": "2008-08-01",
+          "text": "Figure of Destiny's abilities overwrite its power, toughness, and creature types. Typically, those abilities are activated in the order they appear on the card. However, if Figure of Destiny is an 8/8 Kithkin Spirit Warrior Avatar with flying and first strike, and you activate its first ability, it will become a 2/2 Kithkin Spirit that still has flying and first strike."
+        },
+        {
+          "date": "2008-08-01",
+          "text": "You can activate Figure of Destiny's second and third abilities regardless of what creature types it is. Each of those abilities checks Figure of Destiny's creature types when that ability resolves. If Figure of Destiny isn't the appropriate creature type at that time, the ability does nothing."
+        },
+        {
+          "date": "2008-08-01",
+          "text": "Figure of Destiny's second ability checks whether it's a Spirit, and its third ability checks whether it's a Warrior. It doesn't matter how it became the appropriate creature type."
+        },
+        {
+          "date": "2009-10-01",
+          "text": "The effect from the ability overwrites other effects that set power and/or toughness if and only if those effects existed before the ability resolved. It will not overwrite effects that modify power or toughness (whether from a static ability, counters, or a resolved spell or ability), nor will it overwrite effects that set power and toughness which come into existence after the ability resolves. Effects that switch the creature's power and toughness are always applied after any other power or toughness changing effects, including this one, regardless of the order in which they are created."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u5929\u4efb\u65af\u4eba",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Repr\u00e9sentation de la destin\u00e9e",
+          "language": "French"
+        },
+        {
+          "name": "Verk\u00f6rperung des Schicksals",
+          "language": "German"
+        },
+        {
+          "name": "Figura del Destino",
+          "language": "Italian"
+        },
+        {
+          "name": "\u904b\u547d\u306e\u5927\u7acb\u8005",
+          "language": "Japanese"
+        },
+        {
+          "name": "Imagem do Destino",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0420\u043e\u043a\u043e\u0432\u0430\u044f \u0424\u0438\u0433\u0443\u0440\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Figura del destino",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Ajani Vengeant",
+      "layout": "normal",
+      "mana_cost": "{2}{R}{W}",
+      "cmc": 4,
+      "colors": [
+        "White",
+        "Red"
+      ],
+      "color_identity": [
+        "W",
+        "R"
+      ],
+      "names": null,
+      "type": "Legendary Planeswalker \u2014 Ajani",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Ajani"
+      ],
+      "types": [
+        "Planeswalker"
+      ],
+      "rarity": "Special",
+      "text": "+1: Target permanent doesn't untap during its controller's next untap step.\n\u22122: Ajani Vengeant deals 3 damage to target creature or player and you gain 3 life.\n\u22127: Destroy all lands target player controls.",
+      "flavor": null,
+      "artist": "Jason Chan",
+      "number": "4",
+      "power": null,
+      "toughness": null,
+      "loyalty": 3,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2008-10-03",
+      "starter": null,
+      "printings": [
+        "pPRE",
+        "pLPA",
+        "ALA",
+        "DDH"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Shards of Alara Launch Party participation bonus",
+      "image_url": null,
+      "set": "pLPA",
+      "set_name": "Launch Parties",
+      "id": "a014c60f106e463d53d549d32151b3f4cb86d6a2",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-10-01",
+          "text": "You may target any permanent with Ajani Vengeant's first ability. It doesn't have to be tapped."
+        },
+        {
+          "date": "2008-10-01",
+          "text": "The first ability tracks the permanent, but not its controller. If the permanent changes controllers before its first controller's next untap step has come around, then it won't untap during its new controller's next untap step."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u590d\u4ec7\u963f\u8036\u5c3c",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Ajani le Vengeur",
+          "language": "French"
+        },
+        {
+          "name": "Ajani der R\u00e4cher",
+          "language": "German"
+        },
+        {
+          "name": "Ajani Vendicativo",
+          "language": "Italian"
+        },
+        {
+          "name": "\u5fa9\u8b90\u306e\u30a2\u30b8\u30e3\u30cb",
+          "language": "Japanese"
+        },
+        {
+          "name": "Vingador Ajani",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041c\u0441\u0442\u044f\u0449\u0438\u0439 \u0410\u0434\u0436\u0430\u043d\u0438",
+          "language": "Russian"
+        },
+        {
+          "name": "Ajani Vengativo",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Obelisk of Alara",
+      "layout": "normal",
+      "mana_cost": "{6}",
+      "cmc": 6,
+      "colors": null,
+      "color_identity": [
+        "W",
+        "U",
+        "B",
+        "R",
+        "G"
+      ],
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "{1}{W}, {T}: You gain 5 life.\n{1}{U}, {T}: Draw a card, then discard a card.\n{1}{B}, {T}: Target creature gets -2/-2 until end of turn.\n{1}{R}, {T}: Obelisk of Alara deals 3 damage to target player.\n{1}{G}, {T}: Target creature gets +4/+4 until end of turn.",
+      "flavor": null,
+      "artist": "John Avon",
+      "number": "5",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2009-02-06",
+      "starter": null,
+      "printings": [
+        "pLPA",
+        "CON"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Conflux Launch Party participation bonus",
+      "image_url": null,
+      "set": "pLPA",
+      "set_name": "Launch Parties",
+      "id": "2898492ad20aa1e7cd39777ee5b1f231040c9ccb",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u963f\u62c9\u82e5\u7891",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Ob\u00e9lisque d'Alara",
+          "language": "French"
+        },
+        {
+          "name": "Obelisk von Alara",
+          "language": "German"
+        },
+        {
+          "name": "Obelisco di Alara",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30a2\u30e9\u30fc\u30e9\u306e\u30aa\u30d9\u30ea\u30b9\u30af",
+          "language": "Japanese"
+        },
+        {
+          "name": "Obelisco de Alara",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041e\u0431\u0435\u043b\u0438\u0441\u043a \u0410\u043b\u0430\u0440\u044b",
+          "language": "Russian"
+        },
+        {
+          "name": "Obelisco de Alara",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Knight of New Alara",
+      "layout": "normal",
+      "mana_cost": "{2}{G}{W}",
+      "cmc": 4,
+      "colors": [
+        "White",
+        "Green"
+      ],
+      "color_identity": [
+        "W",
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Knight",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Knight"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Each other multicolored creature you control gets +1/+1 for each of its colors.",
+      "flavor": "\"I embrace all of Alara, Grixis as much as Bant. Let my former home call me traitor. I do this not for accolades, but because it is right.\"",
+      "artist": "David Palumbo",
+      "number": "6",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2009-04-30",
+      "starter": null,
+      "printings": [
+        "pLPA",
+        "ARB"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Alara Reborn Launch Party participation bonus",
+      "image_url": null,
+      "set": "pLPA",
+      "set_name": "Launch Parties",
+      "id": "c008dd3f7019fb090dc1b754726d384c8ab43b11",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2009-05-01",
+          "text": "For example, a white creature gets no bonus. A white and blue creature gets +2/+2. A white, blue, and black creature gets +3/+3, and so on."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u65b0\u963f\u62c9\u82e5\u9a91\u58eb",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Chevalier de la Nouvelle Alara",
+          "language": "French"
+        },
+        {
+          "name": "Ritter des neuen Alara",
+          "language": "German"
+        },
+        {
+          "name": "Cavaliere di Nuova Alara",
+          "language": "Italian"
+        },
+        {
+          "name": "\u65b0\u305f\u306a\u30a2\u30e9\u30fc\u30e9\u306e\u9a0e\u58eb",
+          "language": "Japanese"
+        },
+        {
+          "name": "Cavaleiro da Nova Alara",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0420\u044b\u0446\u0430\u0440\u044c \u041d\u043e\u0432\u043e\u0439 \u0410\u043b\u0430\u0440\u044b",
+          "language": "Russian"
+        },
+        {
+          "name": "Caballero de la Nueva Alara",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Ant Queen",
+      "layout": "normal",
+      "mana_cost": "{3}{G}{G}",
+      "cmc": 5,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Insect",
+      "supertypes": null,
+      "subtypes": [
+        "Insect"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "{1}{G}: Create a 1/1 green Insect creature token.",
+      "flavor": "\"Kill the queen first, or we'll be fighting her drones forever. It is not in a queen's nature to have enough servants.\"\n\u2014Borzard, exterminator captain",
+      "artist": "Ron Spencer",
+      "number": "7",
+      "power": "5",
+      "toughness": "5",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2009-07-17",
+      "starter": null,
+      "printings": [
+        "pLPA",
+        "M10",
+        "MM2"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "M10 Launch Party participation bonus",
+      "image_url": null,
+      "set": "pLPA",
+      "set_name": "Launch Parties",
+      "id": "87291e57159a44315c6071f86d5ac47ea94068e5",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u8681\u540e",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Reine des fourmis",
+          "language": "French"
+        },
+        {
+          "name": "Ameisenk\u00f6nigin",
+          "language": "German"
+        },
+        {
+          "name": "Formica Regina",
+          "language": "Italian"
+        },
+        {
+          "name": "\u87fb\u306e\u5973\u738b",
+          "language": "Japanese"
+        },
+        {
+          "name": "Formiga Rainha",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041c\u0443\u0440\u0430\u0432\u044c\u0438\u043d\u0430\u044f \u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Hormiga reina",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Valakut, the Molten Pinnacle",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Land",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Special",
+      "text": "Valakut, the Molten Pinnacle enters the battlefield tapped.\nWhenever a Mountain enters the battlefield under your control, if you control at least five other Mountains, you may have Valakut, the Molten Pinnacle deal 3 damage to target creature or player.\n{T}: Add {R} to your mana pool.",
+      "flavor": null,
+      "artist": "James Paick",
+      "number": "8",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2009-10-02",
+      "starter": null,
+      "printings": [
+        "pLPA",
+        "ZEN"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Zendikar Launch Launch Party participation bonus",
+      "image_url": null,
+      "set": "pLPA",
+      "set_name": "Launch Parties",
+      "id": "8e33891e166d7481269c838039cbe627c5be5a34",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2009-10-01",
+          "text": "Valakut, the Molten Pinnacle's triggered ability has an \"intervening 'if' clause.\" That means (1) the ability won't trigger at all unless, at the time a Mountain enters the battlefield under your control, you control five or more Mountains other than that new one, and (2) the ability will do nothing if you control fewer than five Mountains other than that new one by the time it resolves."
+        },
+        {
+          "date": "2009-10-01",
+          "text": "If a Mountain you control leaves the battlefield between the time Valakut's second ability triggers and the time it resolves, be aware if that was the Mountain that caused Valakut's ability to trigger or not. If it was, Valakut's count isn't affected; if it wasn't, Valakut's count goes down by one."
+        },
+        {
+          "date": "2009-10-01",
+          "text": "If multiple Mountains enter the battlefield under your control at the same time, Valakut's second ability could trigger that many times. Each ability takes into consideration the other Mountains that entered the battlefield at the same time as the one that caused it to trigger."
+        },
+        {
+          "date": "2009-10-01",
+          "text": "You target a creature or player when the ability triggers. You decide whether to have Valakut deal damage to that creature or player as the ability resolves."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u7194\u5929\u9876\u74e6\u62c9\u5e93",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Valakut, la Cime en fusion",
+          "language": "French"
+        },
+        {
+          "name": "Valakut, die geschmolzene Zinne",
+          "language": "German"
+        },
+        {
+          "name": "Valakut, il Pinnacolo Fuso",
+          "language": "Italian"
+        },
+        {
+          "name": "\u6eb6\u9244\u306e\u5c16\u5cf0\u3001\u30f4\u30a1\u30e9\u30af\u30fc\u30c8",
+          "language": "Japanese"
+        },
+        {
+          "name": "Valakut, o Pin\u00e1culo Derretido",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0412\u0430\u043b\u0430\u043a\u0443\u0442, \u0420\u0430\u0441\u043f\u043b\u0430\u0432\u043b\u0435\u043d\u043d\u0430\u044f \u0412\u0435\u0440\u0448\u0438\u043d\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Valakut, el Pin\u00e1culo Fundido",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Joraga Warcaller",
+      "layout": "normal",
+      "mana_cost": "{G}",
+      "cmc": 1,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Elf Warrior",
+      "supertypes": null,
+      "subtypes": [
+        "Elf",
+        "Warrior"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Multikicker {1}{G} (You may pay an additional {1}{G} any number of times as you cast this spell.)\nJoraga Warcaller enters the battlefield with a +1/+1 counter on it for each time it was kicked.\nOther Elf creatures you control get +1/+1 for each +1/+1 counter on Joraga Warcaller.",
+      "flavor": null,
+      "artist": "Kev Walker",
+      "number": "9",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2010-02-05",
+      "starter": null,
+      "printings": [
+        "pLPA",
+        "WWK",
+        "C14",
+        "CMA"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Worldwake Launch Party participation bonus",
+      "image_url": null,
+      "set": "pLPA",
+      "set_name": "Launch Parties",
+      "id": "2ab196aa0b8689686799c75458e90dd7701666f8",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2010-03-01",
+          "text": "The last ability counts the total number of +1/+1 counters on Joraga Warcaller, not just the ones placed on it as a result of its enters-the-battlefield ability."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u7396\u745e\u52a0\u6218\u547c\u4eba",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Meneur de guerre de Joraga",
+          "language": "French"
+        },
+        {
+          "name": "Kriegss\u00e4nger aus Joraga",
+          "language": "German"
+        },
+        {
+          "name": "Convocatore di Guerra di Joraga",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30b8\u30e7\u30e9\u30fc\u30ac\u306e\u6226\u547c\u3073",
+          "language": "Japanese"
+        },
+        {
+          "name": "Joraga Warcaller",
+          "language": "Korean"
+        },
+        {
+          "name": "Invocador de Guerra de Joraga",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0414\u0436\u043e\u0440\u0430\u0433\u0441\u043a\u0438\u0439 \u0412\u043e\u0435\u043d\u043d\u044b\u0439 \u0417\u0430\u0437\u044b\u0432\u0430\u043b\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Llamaguerra de Joraga",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Lord of Shatterskull Pass",
+      "layout": "leveler",
+      "mana_cost": "{3}{R}",
+      "cmc": 4,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Minotaur Shaman",
+      "supertypes": null,
+      "subtypes": [
+        "Minotaur",
+        "Shaman"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Level up {1}{R} ({1}{R}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 1-5\n6/6\nLEVEL 6+\n6/6\nWhenever Lord of Shatterskull Pass attacks, it deals 6 damage to each creature defending player controls.",
+      "flavor": null,
+      "artist": "Igor Kieryluk",
+      "number": "10",
+      "power": "3",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2010-04-23",
+      "starter": null,
+      "printings": [
+        "pLPA",
+        "ROE"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Rise of the Eldrazi Launch Party participation bonus",
+      "image_url": null,
+      "set": "pLPA",
+      "set_name": "Launch Parties",
+      "id": "3ee1674b6dac74f9f654c6b4aca7be061238c1ab",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2010-06-15",
+          "text": "The abilities a leveler grants to itself don't overwrite any other abilities it may have. In particular, they don't overwrite the creature's level up ability; it always has that."
+        },
+        {
+          "date": "2010-06-15",
+          "text": "Effects that set a leveler's power or toughness to a specific value, including the effects from a level symbol's ability, apply in timestamp order. The timestamp of each level symbol's ability is the same as the timestamp of the leveler itself, regardless of when the most recent level counter was put on it."
+        },
+        {
+          "date": "2010-06-15",
+          "text": "Effects that modify a leveler's power or toughness, such as the effects of Giant Growth or Glorious Anthem, will apply to it no matter when they started to take effect. The same is true for counters that change the creature's power or toughness (such as +1/+1 counters) and effects that switch its power and toughness."
+        },
+        {
+          "date": "2010-06-15",
+          "text": "If another creature becomes a copy of a leveler, all of the leveler's printed abilities \u2014 including those represented by level symbols \u2014 are copied. The current characteristics of the leveler, and the number of level counters on it, are not. The abilities, power, and toughness of the copy will be determined based on how many level counters are on the copy."
+        },
+        {
+          "date": "2010-06-15",
+          "text": "A creature's level is based on how many level counters it has on it, not how many times its level up ability has been activated or has resolved. If a leveler gets level counters due to some other effect (such as Clockspinning) or loses level counters for some reason (such as Vampire Hexmage), its level is changed accordingly."
+        },
+        {
+          "date": "2010-06-15",
+          "text": "The last ability triggers and resolves during the declare attackers step, before blockers are declared."
+        },
+        {
+          "date": "2010-06-15",
+          "text": "In a multiplayer game, the only player affected by the last ability is the one Lord of Shatterskull Pass is attacking (or the one who controls the planeswalker Lord of Shatterskull Pass is attacking)."
+        },
+        {
+          "date": "2010-06-15",
+          "text": "If a level 6 Lord of Shatterskull Pass attacks in a Two-Headed Giant game, its controller chooses which one of the defending players is affected by its ability. The choice is made as the ability resolves."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u788e\u9885\u9698\u53e3\u9886\u4e3b",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Seigneur du Col de Fracassecr\u00e2ne",
+          "language": "French"
+        },
+        {
+          "name": "F\u00fcrst vom Sch\u00e4deltr\u00fcmmerpass",
+          "language": "German"
+        },
+        {
+          "name": "Signore del Passo Frantumateschio",
+          "language": "Italian"
+        },
+        {
+          "name": "\u9ad1\u9acf\u7815\u304d\u5ce1\u306e\u738b",
+          "language": "Japanese"
+        },
+        {
+          "name": "Senhor do Passo de Quebra-Cr\u00e2nio",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0412\u043b\u0430\u0441\u0442\u0435\u043b\u0438\u043d \u0427\u0435\u0440\u0435\u043f\u043e\u043b\u043e\u043c\u043d\u043e\u0433\u043e \u041f\u0435\u0440\u0435\u0432\u0430\u043b\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Se\u00f1or del Paso Aplastacr\u00e1neos",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Ancient Hellkite",
+      "layout": "normal",
+      "mana_cost": "{4}{R}{R}{R}",
+      "cmc": 7,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Dragon",
+      "supertypes": null,
+      "subtypes": [
+        "Dragon"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Flying\n{R}: Ancient Hellkite deals 1 damage to target creature defending player controls. Activate this ability only if Ancient Hellkite is attacking.",
+      "flavor": "When a dragon attacks, there are no bystanders.",
+      "artist": "Wayne Reynolds",
+      "number": "11",
+      "power": "6",
+      "toughness": "6",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2010-07-16",
+      "starter": null,
+      "printings": [
+        "pLPA",
+        "M11"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic 2011 Launch Party participation bonus",
+      "image_url": null,
+      "set": "pLPA",
+      "set_name": "Launch Parties",
+      "id": "ae88b29b78f4052a29aa624e338f412e65de1943",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2010-08-15",
+          "text": "After Ancient Hellkite is declared as an attacker, or is put onto the battlefield attacking, its second ability may be activated. Unless Ancient Hellkite leaves combat, it continues to be attacking (so its ability may still be activated) through the end of combat step."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u8fdc\u53e4\u6b8b\u8650\u8005",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u9060\u53e4\u6b98\u8650\u8005",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Escouflenfer ancien",
+          "language": "French"
+        },
+        {
+          "name": "Uralter H\u00f6llendrache",
+          "language": "German"
+        },
+        {
+          "name": "Nibbio Infernale Anziano",
+          "language": "Italian"
+        },
+        {
+          "name": "\u53e4\u3048\u306e\u30d8\u30eb\u30ab\u30a4\u30c8",
+          "language": "Japanese"
+        },
+        {
+          "name": "Drag\u00e3o Av\u00e9rneo Anci\u00e3o",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0414\u0440\u0435\u0432\u043d\u0438\u0439 \u0417\u043c\u0435\u0439",
+          "language": "Russian"
+        },
+        {
+          "name": "Engendro anciano",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Steel Hellkite",
+      "layout": "normal",
+      "mana_cost": "{6}",
+      "cmc": 6,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact Creature \u2014 Dragon",
+      "supertypes": null,
+      "subtypes": [
+        "Dragon"
+      ],
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Flying\n{2}: Steel Hellkite gets +1/+0 until end of turn.\n{X}: Destroy each nonland permanent with converted mana cost X whose controller was dealt combat damage by Steel Hellkite this turn. Activate this ability only once each turn.",
+      "flavor": null,
+      "artist": "Jaime Jones",
+      "number": "12",
+      "power": "5",
+      "toughness": "5",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2010-10-01",
+      "starter": null,
+      "printings": [
+        "pLPA",
+        "SOM",
+        "C14",
+        "C17"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Scars of Mirrodin Launch Party participation bonus",
+      "image_url": null,
+      "set": "pLPA",
+      "set_name": "Launch Parties",
+      "id": "0ae0a7571e25b7b61c67ec644db8b02eee8c0388",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2011-01-01",
+          "text": "Steel Hellkite's last ability destroys only nonland permanents whose converted mana cost is exactly equal to X, and only those controlled by players who have been dealt combat damage by Steel Hellkite this turn."
+        },
+        {
+          "date": "2011-01-01",
+          "text": "It doesn't matter who controlled those permanents at the time Steel Hellkite dealt combat damage, or if those permanents were even on the battlefield at that time."
+        },
+        {
+          "date": "2011-01-01",
+          "text": "You may activate the last ability even if Steel Hellkite hasn't dealt combat damage to any players that turn. If you do, the ability won't do anything."
+        },
+        {
+          "date": "2011-01-01",
+          "text": "If Steel Hellkite's third ability is activated with X equal to 0, it will destroy each nonland permanent with converted mana cost 0 the appropriate players control."
+        },
+        {
+          "date": "2011-01-01",
+          "text": "The converted mana cost of a permanent is determined solely by the mana symbols printed in its upper right corner, unless it's copying something else (see below). The converted mana cost is the total amount of mana in that cost, regardless of color. For example, a card with mana cost {3}{U}{U} has converted mana cost 5."
+        },
+        {
+          "date": "2011-01-01",
+          "text": "If a permanent is copying something else, its converted mana cost is the converted mana cost of whatever it's copying."
+        },
+        {
+          "date": "2011-01-01",
+          "text": "In all cases, ignore any alternative costs or additional costs (such as kicker) paid when the permanent was cast."
+        },
+        {
+          "date": "2011-01-01",
+          "text": "If the mana cost of a permanent includes {X}, X is considered to be 0."
+        },
+        {
+          "date": "2011-01-01",
+          "text": "If a nonland permanent has no mana symbols in its upper right corner (because it's a token that's not copying of something else, for example), its converted mana cost is 0."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u94a2\u94c1\u6b8b\u8650\u8005",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u92fc\u9435\u6b98\u8650\u8005",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Escouflenfer d'acier",
+          "language": "French"
+        },
+        {
+          "name": "St\u00e4hlerner H\u00f6llendrache",
+          "language": "German"
+        },
+        {
+          "name": "Nibbio Infernale d'Acciaio",
+          "language": "Italian"
+        },
+        {
+          "name": "\u92fc\u306e\u30d8\u30eb\u30ab\u30a4\u30c8",
+          "language": "Japanese"
+        },
+        {
+          "name": "Drag\u00e3o Av\u00e9rneo de A\u00e7o",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0421\u0442\u0430\u043b\u044c\u043d\u043e\u0439 \u0417\u043c\u0435\u0439",
+          "language": "Russian"
+        },
+        {
+          "name": "Engendro de acero",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Thopter Assembly",
+      "layout": "normal",
+      "mana_cost": "{6}",
+      "cmc": 6,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact Creature \u2014 Thopter",
+      "supertypes": null,
+      "subtypes": [
+        "Thopter"
+      ],
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Flying\nAt the beginning of your upkeep, if you control no Thopters other than Thopter Assembly, return Thopter Assembly to its owner's hand and create five 1/1 colorless Thopter artifact creature tokens with flying.",
+      "flavor": null,
+      "artist": "Volkan Baga",
+      "number": "13",
+      "power": "5",
+      "toughness": "5",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2011-02-04",
+      "starter": null,
+      "printings": [
+        "pLPA",
+        "MBS"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Mirrodin Besieged Launch Party participation bonus",
+      "image_url": null,
+      "set": "pLPA",
+      "set_name": "Launch Parties",
+      "id": "e99fb8853034f2622368593afde25637057bdc88",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2011-06-01",
+          "text": "The triggered ability looks for any permanent you control with the creature type Thopter, not just the Thopter tokens previously created by a Thopter Assembly."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u7ec4\u88c5\u632f\u7ffc\u673a",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u7d44\u88dd\u632f\u7ffc\u6a5f",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Assembleur de m\u00e9canopt\u00e8res",
+          "language": "French"
+        },
+        {
+          "name": "Thopter-Baugruppe",
+          "language": "German"
+        },
+        {
+          "name": "Tottero Assemblato",
+          "language": "Italian"
+        },
+        {
+          "name": "\u98db\u884c\u6a5f\u68b0\u306e\u7d44\u7acb\u5de5",
+          "language": "Japanese"
+        },
+        {
+          "name": "Montagem de T\u00f3ptero",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0421\u0431\u043e\u0440\u043d\u044b\u0439 \u0422\u043e\u043f\u0442\u0435\u0440",
+          "language": "Russian"
+        },
+        {
+          "name": "Montaje de t\u00f3pteros",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Phyrexian Metamorph",
+      "layout": "normal",
+      "mana_cost": "{3}{U/P}",
+      "cmc": 4,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Artifact Creature \u2014 Shapeshifter",
+      "supertypes": null,
+      "subtypes": [
+        "Shapeshifter"
+      ],
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "({U/P} can be paid with either {U} or 2 life.)\nYou may have Phyrexian Metamorph enter the battlefield as a copy of any artifact or creature on the battlefield, except it's an artifact in addition to its other types.",
+      "flavor": null,
+      "artist": "Jung Park",
+      "number": "14",
+      "power": "0",
+      "toughness": "0",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2011-05-13",
+      "starter": null,
+      "printings": [
+        "pLPA",
+        "NPH"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "New Phyrexia Launch Party participation bonus",
+      "image_url": null,
+      "set": "pLPA",
+      "set_name": "Launch Parties",
+      "id": "7e2ca176e9c8b43903dc8de0109e995a5ff95a4f",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2011-06-01",
+          "text": "A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid."
+        },
+        {
+          "date": "2011-06-01",
+          "text": "To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1."
+        },
+        {
+          "date": "2011-06-01",
+          "text": "As you cast a spell or activate an activated ability with one or more Phyrexian mana symbols in its cost, you choose how to pay for each Phyrexian mana symbol at the same time you would choose modes or choose a value for X."
+        },
+        {
+          "date": "2011-06-01",
+          "text": "If you're at 1 life or less, you can't pay 2 life."
+        },
+        {
+          "date": "2011-06-01",
+          "text": "Phyrexian mana is not a new color. Players can't add Phyrexian mana to their mana pools."
+        },
+        {
+          "date": "2011-06-01",
+          "text": "Except for also being an artifact, Phyrexian Metamorph copies exactly what was printed on the original permanent and nothing more (unless that creature is itself copying something or is a token; see below). It doesn't copy whether that permanent is tapped or untapped, whether it has any counters on it or Auras attached to it, or any noncopy effects that have changed its power, toughness, types, color, and so on."
+        },
+        {
+          "date": "2011-06-01",
+          "text": "If Phyrexian Metamorph copies a noncreature artifact, it is no longer a creature."
+        },
+        {
+          "date": "2011-06-01",
+          "text": "If the chosen permanent has {X} in its mana cost (such as Protean Hydra), X is considered to be zero."
+        },
+        {
+          "date": "2011-06-01",
+          "text": "If the chosen creature is copying something else (for example, if the chosen creature is a Clone), then your Phyrexian Metamorph enters the battlefield as whatever the chosen creature copied, except it's also an artifact."
+        },
+        {
+          "date": "2011-06-01",
+          "text": "If the chosen permanent is a token, Phyrexian Metamorph copies the original characteristics of that token as stated by the effect that put the token onto the battlefield, except it's also an artifact. Phyrexian Metamorph is not a token."
+        },
+        {
+          "date": "2011-06-01",
+          "text": "Any enters-the-battlefield abilities of the copied permanent will trigger when Phyrexian Metamorph enters the battlefield. Any \"as [this] enters the battlefield\" or \"[this] enters the battlefield with\" abilities of the chosen permanent will also work."
+        },
+        {
+          "date": "2011-06-01",
+          "text": "If Phyrexian Metamorph somehow enters the battlefield at the same time as another permanent (due to Mass Polymorph or Liliana Vess's third ability, for example), Phyrexian Metamorph can't become a copy of that permanent. You may only choose a permanent that's already on the battlefield."
+        },
+        {
+          "date": "2011-06-01",
+          "text": "You can choose not to copy anything. In that case, Phyrexian Metamorph simply enters the battlefield as a 0/0 artifact creature and is put into its owner's graveyard as a state-based action (unless something else is raising its toughness)."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u975e\u745e\u514b\u897f\u4e9a\u8715\u53d8\u5996",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u975e\u745e\u514b\u897f\u4e9e\u86fb\u8b8a\u5996",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "M\u00e9tamorphe phyrexian",
+          "language": "French"
+        },
+        {
+          "name": "Phyrexianischer K\u00f6rperwandler",
+          "language": "German"
+        },
+        {
+          "name": "Metamorfosi Phyrexian",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30d5\u30a1\u30a4\u30ec\u30af\u30b7\u30a2\u306e\u5909\u5f62\u8005",
+          "language": "Japanese"
+        },
+        {
+          "name": "Metam\u00f3rfico Phyrexiano",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0424\u0438\u0440\u0435\u043a\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u041c\u0435\u0442\u0430\u043c\u043e\u0440\u0444",
+          "language": "Russian"
+        },
+        {
+          "name": "Metamorfo pirexiano",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Garruk's Horde",
+      "layout": "normal",
+      "mana_cost": "{5}{G}{G}",
+      "cmc": 7,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Beast",
+      "supertypes": null,
+      "subtypes": [
+        "Beast"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Trample\nPlay with the top card of your library revealed.\nYou may cast the top card of your library if it's a creature card. (Do this only any time you could cast that creature card. You still pay the spell's costs.)",
+      "flavor": null,
+      "artist": "Kev Walker",
+      "number": "15",
+      "power": "7",
+      "toughness": "7",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2011-07-15",
+      "starter": null,
+      "printings": [
+        "pLPA",
+        "M12",
+        "M14",
+        "W17"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "M12 Launch Party participation bonus",
+      "image_url": null,
+      "set": "pLPA",
+      "set_name": "Launch Parties",
+      "id": "23ae98b4259456c991e7779a8b524a093b83fa8e",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2011-09-22",
+          "text": "Normally, Garruk's Horde allows you to cast the top card of your library if it's a creature card, it's your main phase, and the stack is empty. If that creature card has flash, you'll be able to cast it at the time you could cast an instant, even on an opponent's turn."
+        },
+        {
+          "date": "2011-09-22",
+          "text": "You'll still pay all costs for that spell, including additional costs. You may also pay alternative costs."
+        },
+        {
+          "date": "2011-09-22",
+          "text": "If the top card of your library is Dryad Arbor (the only card that's both a creature and a land), you can't play it this way. Dryad Arbor can't be cast as a spell."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "The top card of your library isn't in your hand, so you can't suspend it, cycle it, discard it, or activate any of its activated abilities."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If the top card of your library changes while you're casting a spell or activating an ability, the new top card won't be revealed until you finish casting that spell or activating that ability."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "When playing with the top card of your library revealed, if an effect tells you to draw several cards, reveal each one before you draw it."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u8d3e\u8def\u7684\u517d\u7fa4",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u8cc8\u8def\u7684\u7378\u7fa4",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Horde de Garruk",
+          "language": "French"
+        },
+        {
+          "name": "Garruks Horde",
+          "language": "German"
+        },
+        {
+          "name": "Orda di Garruk",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30ac\u30e9\u30af\u306e\u5927\u8ecd",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uac1c\ub7ed\uc758 \uad70\ub2e8",
+          "language": "Korean"
+        },
+        {
+          "name": "Horda de Garruk",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041e\u0440\u0434\u0430 \u0413\u0430\u0440\u0440\u0443\u043a\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Horda de Garruk",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Ludevic's Test Subject",
+      "layout": "double-faced",
+      "mana_cost": "{1}{U}",
+      "cmc": 2,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": [
+        "Ludevic's Test Subject",
+        "Ludevic's Abomination"
+      ],
+      "type": "Creature \u2014 Lizard",
+      "supertypes": null,
+      "subtypes": [
+        "Lizard"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Defender\n{1}{U}: Put a hatchling counter on Ludevic's Test Subject. Then if there are five or more hatchling counters on it, remove all of them and transform it.",
+      "flavor": null,
+      "artist": "Karl Kopinski",
+      "number": "16a",
+      "power": "0",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2011-09-30",
+      "starter": null,
+      "printings": [
+        "pLPA",
+        "ISD"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Innistrad Launch Party participation bonus",
+      "image_url": null,
+      "set": "pLPA",
+      "set_name": "Launch Parties",
+      "id": "04793c9a00ca3cdda49168e95008b553ff3e3dff",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2016-07-13",
+          "text": "For more information on double-faced cards, see the Shadows over Innistrad mechanics article (http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-mechanics)."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u5362\u5fb7\u7ef4\u7684\u5b9e\u9a8c\u5bf9\u8c61",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u76e7\u5fb7\u7dad\u7684\u5be6\u9a57\u5c0d\u8c61",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Cobaye de Ludevic",
+          "language": "French"
+        },
+        {
+          "name": "Ludevics Testobjekt",
+          "language": "German"
+        },
+        {
+          "name": "Cavia di Ludevic",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30eb\u30fc\u30c7\u30f4\u30a3\u30c3\u30af\u306e\u5b9f\u9a13\u6750\u6599",
+          "language": "Japanese"
+        },
+        {
+          "name": "Cobaia de Ludevic",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041f\u043e\u0434\u043e\u043f\u044b\u0442\u043d\u044b\u0439 \u041b\u044e\u0434\u0435\u0432\u0438\u043a\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Sujeto de prueba de Ludevic",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Ludevic's Abomination",
+      "layout": "double-faced",
+      "mana_cost": null,
+      "cmc": 2,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": [
+        "Ludevic's Test Subject",
+        "Ludevic's Abomination"
+      ],
+      "type": "Creature \u2014 Lizard Horror",
+      "supertypes": null,
+      "subtypes": [
+        "Lizard",
+        "Horror"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Trample",
+      "flavor": "After several frustrating experiments, the visionary Ludevic realized he needed to create a monster that fed on torch-wielding mobs.",
+      "artist": "Karl Kopinski",
+      "number": "16b",
+      "power": "13",
+      "toughness": "13",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2011-09-30",
+      "starter": null,
+      "printings": [
+        "pLPA",
+        "ISD"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Innistrad Launch Party participation bonus",
+      "image_url": null,
+      "set": "pLPA",
+      "set_name": "Launch Parties",
+      "id": "fa3525ef2bfba57a1a49e10b1c6894c0aa775184",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u5362\u5fb7\u7ef4\u7684\u618e\u6068\u517d",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u76e7\u5fb7\u7dad\u7684\u618e\u6068\u7378",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Abomination de Ludevic",
+          "language": "French"
+        },
+        {
+          "name": "Ludevics Scheu\u00dflichkeit",
+          "language": "German"
+        },
+        {
+          "name": "Abominio di Ludevic",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30eb\u30fc\u30c7\u30f4\u30a3\u30c3\u30af\u306e\u5acc\u60aa\u8005",
+          "language": "Japanese"
+        },
+        {
+          "name": "Abomina\u00e7\u00e3o de Ludevic",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0421\u043e\u0437\u0434\u0430\u043d\u043d\u0430\u044f \u041b\u044e\u0434\u0435\u0432\u0438\u043a\u043e\u043c \u041c\u0435\u0440\u0437\u043e\u0441\u0442\u044c",
+          "language": "Russian"
+        },
+        {
+          "name": "Abominaci\u00f3n de Ludevic",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Mondronen Shaman",
+      "layout": "double-faced",
+      "mana_cost": "{3}{R}",
+      "cmc": 4,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": [
+        "Mondronen Shaman",
+        "Tovolar's Magehunter"
+      ],
+      "type": "Creature \u2014 Human Shaman Werewolf",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Shaman",
+        "Werewolf"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "At the beginning of each upkeep, if no spells were cast last turn, transform Mondronen Shaman.",
+      "flavor": "\"Tovolar, my master. Gather the howlpack, for the Hunter's Moon is nigh and Thraben's walls grow weak.\"",
+      "artist": "Anthony Palumbo",
+      "number": "17a",
+      "power": "3",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2012-02-03",
+      "starter": null,
+      "printings": [
+        "pLPA",
+        "DKA"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Dark Ascension Launch Party participation bonus",
+      "image_url": null,
+      "set": "pLPA",
+      "set_name": "Launch Parties",
+      "id": "9265b33e2b094d6ded425a7874d34a16f14243a0",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2011-01-22",
+          "text": "Tovolar's Magehunter's first triggered ability will resolve before the spell that caused it to trigger. If this causes the player who cast that spell to lose the game, that spell won't resolve."
+        },
+        {
+          "date": "2016-07-13",
+          "text": "For more information on double-faced cards, see the Shadows over Innistrad mechanics article (http://magic.wizards.com/en/articles/archive/feature/shadows-over-innistrad-mechanics)."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u8499\u5353\u796d\u5e08",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u8499\u5353\u796d\u5e2b",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Shamane Mondronen",
+          "language": "French"
+        },
+        {
+          "name": "Mondrenner-Schamanin",
+          "language": "German"
+        },
+        {
+          "name": "Sciamana di Mondronen",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30e2\u30f3\u30c9\u30ed\u30cd\u30f3\u306e\u30b7\u30e3\u30fc\u30de\u30f3",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ubaac\ub4dc\ub85c\ub128 \uc8fc\uc220\uc0ac",
+          "language": "Korean"
+        },
+        {
+          "name": "Xam\u00e3 Mondronen",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0428\u0430\u043c\u0430\u043d\u043a\u0430 \u041c\u043e\u043d\u0434\u0440\u043e\u043d\u0435\u043d\u0441\u043a\u043e\u0439 \u0421\u0442\u0430\u0438",
+          "language": "Russian"
+        },
+        {
+          "name": "Cham\u00e1n Mondronen",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Tovolar's Magehunter",
+      "layout": "double-faced",
+      "mana_cost": null,
+      "cmc": 4,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": [
+        "Mondronen Shaman",
+        "Tovolar's Magehunter"
+      ],
+      "type": "Creature \u2014 Werewolf",
+      "supertypes": null,
+      "subtypes": [
+        "Werewolf"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Whenever an opponent casts a spell, Tovolar's Magehunter deals 2 damage to that player.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Tovolar's Magehunter.",
+      "flavor": null,
+      "artist": "Anthony Palumbo",
+      "number": "17b",
+      "power": "5",
+      "toughness": "5",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2012-02-03",
+      "starter": null,
+      "printings": [
+        "pLPA",
+        "DKA"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Dark Ascension Launch Party participation bonus",
+      "image_url": null,
+      "set": "pLPA",
+      "set_name": "Launch Parties",
+      "id": "f979bd8b4511ab033a7c5dccefea5864b8b4dca2",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u6258\u74e6\u62c9\u6cd5\u5e08\u730e\u624b",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u6258\u74e6\u62c9\u6cd5\u5e2b\u7375\u624b",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Chassemage de Tovolar",
+          "language": "French"
+        },
+        {
+          "name": "Tovolars Zauberj\u00e4gerin",
+          "language": "German"
+        },
+        {
+          "name": "Cacciamaghi di Tovolar",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30c8\u30f4\u30a9\u30e9\u30fc\u306e\u9b54\u9053\u58eb\u72e9\u308a",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ud1a0\ubcfc\ub77c\ub974\uc758 \ub9c8\ubc95\uc0ac\ub0e5\uafbc",
+          "language": "Korean"
+        },
+        {
+          "name": "Ca\u00e7ador de Magos de Tovolar",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0422\u043e\u0432\u043e\u043b\u0430\u0440\u043e\u0432\u0430 \u041e\u0445\u043e\u0442\u043d\u0438\u0446\u0430 \u043d\u0430 \u041c\u0430\u0433\u043e\u0432",
+          "language": "Russian"
+        },
+        {
+          "name": "Cazamagos de Tovolar",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Restoration Angel",
+      "layout": "normal",
+      "mana_cost": "{3}{W}",
+      "cmc": 4,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Angel",
+      "supertypes": null,
+      "subtypes": [
+        "Angel"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Flash\nFlying\nWhen Restoration Angel enters the battlefield, you may exile target non-Angel creature you control, then return that card to the battlefield under your control.",
+      "flavor": null,
+      "artist": "Wesley Burt",
+      "number": "18",
+      "power": "3",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2012-05-04",
+      "starter": null,
+      "printings": [
+        "pLPA",
+        "AVR",
+        "MM3",
+        "IMA"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Avacyn Restored Launch Party participation bonus",
+      "image_url": null,
+      "set": "pLPA",
+      "set_name": "Launch Parties",
+      "id": "e17b3723d5cd9987ac0165d2573cb407d0a1fbdc",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2017-11-17",
+          "text": "Once the exiled creature returns, it's considered a new object with no relation to the object that it was. Auras attached to the exiled creature will be put into their owners' graveyards. Equipment attached to the exiled creature will become unattached and remain on the battlefield. Any counters on the exiled creature will cease to exist."
+        },
+        {
+          "date": "2017-11-17",
+          "text": "The returned creature won't be the target of any spells or abilities that targeted it before. Any spells that don't target it, such as Austere Command, will still affect it."
+        },
+        {
+          "date": "2017-11-17",
+          "text": "If you target a creature that you control but don't own, you control the returned creature indefinitely after it returns. When you leave a multiplayer game, exile any objects that you put onto the battlefield under your control but don't own."
+        },
+        {
+          "date": "2017-11-17",
+          "text": "If a token is exiled this way, it will cease to exist and won't return to the battlefield."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u590d\u5f52\u5929\u4f7f",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u5fa9\u6b78\u5929\u4f7f",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Ange de la restauration",
+          "language": "French"
+        },
+        {
+          "name": "Engel der Wiederherstellung",
+          "language": "German"
+        },
+        {
+          "name": "Angelo della Restaurazione",
+          "language": "Italian"
+        },
+        {
+          "name": "\u4fee\u5fa9\u306e\u5929\u4f7f",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ubcf5\uc6d0\uc758 \ucc9c\uc0ac",
+          "language": "Korean"
+        },
+        {
+          "name": "Anjo da Restaura\u00e7\u00e3o",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0410\u043d\u0433\u0435\u043b \u0412\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f",
+          "language": "Russian"
+        },
+        {
+          "name": "\u00c1ngel de la restituci\u00f3n",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Staff of Nin",
+      "layout": "normal",
+      "mana_cost": "{6}",
+      "cmc": 6,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "At the beginning of your upkeep, draw a card.\n{T}: Staff of Nin deals 1 damage to target creature or player.",
+      "flavor": "\"I have attuned the staff to your screams so that only I may benefit from your pain.\"\n\u2014Volux, disciple of Nin",
+      "artist": "Brad Rigney",
+      "number": "19",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2012-07-07",
+      "starter": null,
+      "printings": [
+        "pLPA",
+        "M13",
+        "C15",
+        "C17"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic 2013 Launch Party participation bonus",
+      "image_url": null,
+      "set": "pLPA",
+      "set_name": "Launch Parties",
+      "id": "a262ca6a997b305c95e1d582bb27a642a8ed713e",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u51dd\u8650\u6756",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u51dd\u8650\u6756",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "B\u00e2ton de Nin",
+          "language": "French"
+        },
+        {
+          "name": "Nins Stab",
+          "language": "German"
+        },
+        {
+          "name": "Bastone di Nin",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30cb\u30f3\u306e\u6756",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ub2cc\uc758 \uc9c0\ud321\uc774",
+          "language": "Korean"
+        },
+        {
+          "name": "Cajado de Nin",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041f\u043e\u0441\u043e\u0445 \u041d\u0438\u043d",
+          "language": "Russian"
+        },
+        {
+          "name": "Bast\u00f3n de Nin",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Deadbridge Goliath",
+      "layout": "normal",
+      "mana_cost": "{2}{G}{G}",
+      "cmc": 4,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Insect",
+      "supertypes": null,
+      "subtypes": [
+        "Insect"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Scavenge {4}{G}{G} ({4}{G}{G}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)",
+      "flavor": "Some Golgari insects live for centuries\u2014and they never stop growing.",
+      "artist": "Nils Hamm",
+      "number": "20",
+      "power": "5",
+      "toughness": "5",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2012-10-05",
+      "starter": null,
+      "printings": [
+        "pLPA",
+        "RTR"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Return to Ravnica Launch Party participation bonus",
+      "image_url": null,
+      "set": "pLPA",
+      "set_name": "Launch Parties",
+      "id": "f6ede7fd410280ccf406e3508b418e81367d5786",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "Exiling the creature card with scavenge is part of the cost of activating the scavenge ability. Once the ability is activated and the cost is paid, it's too late to stop the ability from being activated by trying to remove the creature card from the graveyard."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u4ea1\u6865\u5de8\u7532\u866b",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u4ea1\u6a4b\u5de8\u7532\u87f2",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Goliath de Mortepont",
+          "language": "French"
+        },
+        {
+          "name": "Todesbr\u00fccken-Goliathk\u00e4fer",
+          "language": "German"
+        },
+        {
+          "name": "Golia di Pontemorto",
+          "language": "Italian"
+        },
+        {
+          "name": "\u6b7b\u6a4b\u306e\u5927\u5de8\u866b",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uc8fd\uc740\ub2e4\ub9ac \uac70\ub300\uace4\ucda9",
+          "language": "Korean"
+        },
+        {
+          "name": "Golias de Ponte Mort\u00edfera",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0413\u043e\u043b\u0438\u0430\u0444 \u041c\u0435\u0440\u0442\u0432\u043e\u0433\u043e \u041c\u043e\u0441\u0442\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Goliat de Puente Muerto",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Skarrg Goliath",
+      "layout": "normal",
+      "mana_cost": "{6}{G}{G}",
+      "cmc": 8,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Beast",
+      "supertypes": null,
+      "subtypes": [
+        "Beast"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Trample\nBloodrush \u2014 {5}{G}{G}, Discard Skarrg Goliath: Target attacking creature gets +9/+9 and gains trample until end of turn.",
+      "flavor": "\"They bind us with their laws. We free ourselves with nature's fist.\"\n\u2014Nikya of the Old Ways",
+      "artist": "Karl Kopinski",
+      "number": "21",
+      "power": "9",
+      "toughness": "9",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2013-02-01",
+      "starter": null,
+      "printings": [
+        "pLPA",
+        "GTC"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Gatecrash Launch Party participation bonus",
+      "image_url": null,
+      "set": "pLPA",
+      "set_name": "Launch Parties",
+      "id": "7693bb9b7a35b7db6c22b2e5fd349501fe41d3e3",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u59cb\u5361\u514b\u5de8\u4eba",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u59cb\u5361\u514b\u5de8\u4eba",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Goliath de Skarrg",
+          "language": "French"
+        },
+        {
+          "name": "Skarrg-Goliath",
+          "language": "German"
+        },
+        {
+          "name": "Golia Skarrg",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30b9\u30ab\u30eb\u30b0\u306e\u5927\u5de8\u7363",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uc2a4\uce74\ub974\uadf8 \uac70\ub300\uad34\uc218",
+          "language": "Korean"
+        },
+        {
+          "name": "Golias de Skarrg",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0413\u043e\u043b\u0438\u0430\u0444 \u0438\u0437 \u0421\u043a\u0430\u0440\u0433\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Goliat de Skarrg",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Breaking",
+      "layout": "split",
+      "mana_cost": "{U}{B}",
+      "cmc": 2,
+      "colors": [
+        "Blue",
+        "Black"
+      ],
+      "color_identity": [
+        "B",
+        "R",
+        "U"
+      ],
+      "names": [
+        "Breaking",
+        "Entering"
+      ],
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Special",
+      "text": "Target player puts the top eight cards of his or her library into his or her graveyard.\nFuse (You may cast one or both halves of this card from your hand.)",
+      "flavor": null,
+      "artist": "Igor Kieryluk",
+      "number": "22a",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2013-05-03",
+      "starter": null,
+      "printings": [
+        "pLPA",
+        "DGM"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Dragon's Maze Launch Party participation bonus",
+      "image_url": null,
+      "set": "pLPA",
+      "set_name": "Launch Parties",
+      "id": "04f4779c0c2a10ac2f3162e0da7acc5b514f4dae",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "If you're casting a split card with fuse from any zone other than your hand, you can't cast both halves. You'll only be able to cast one half or the other."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "To cast a fused split spell, pay both of its mana costs. While the spell is on the stack, its converted mana cost is the total amount of mana in both costs."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "You can choose the same object as the target of each half of a fused split spell, if appropriate."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "When resolving a fused split spell with multiple targets, treat it as you would any spell with multiple targets. If all targets are illegal when the spell tries to resolve, the spell is countered and none of its effects happen. If at least one target is still legal at that time, the spell resolves, but an illegal target can't perform any actions or have any actions performed on it."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "When a fused split spell resolves, follow the instructions of the left half first, then the instructions on the right half."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "On the stack, a split spell that hasn't been fused has only that half's characteristics and converted mana cost. The other half is treated as though it didn't exist."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "Some split cards with fuse have two monocolor halves of different colors. If such a card is cast as a fused split spell, the resulting spell is multicolored. If only one half is cast, the spell is the color of that half. While not on the stack, such a card is multicolored."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "Some split cards with fuse have two halves that are both multicolored. That card is multicolored no matter which half is cast, or if both halves are cast. It's also multicolored while not on the stack."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If a player names a card, the player may name either half of a split card, but not both. A split card has the chosen name if one of its two names matches the chosen name."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If you cast a split card with fuse from your hand without paying its mana cost, you can choose to use its fuse ability and cast both halves without paying their mana costs."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u7834\u574f (\u7834\u574f/\u4fb5\u5165)",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u7834\u58de (\u7834\u58de/\u4fb5\u5165)",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Effraction (Effraction/P\u00e9n\u00e9tration)",
+          "language": "French"
+        },
+        {
+          "name": "Einbruch (Einbruch/Diebstahl)",
+          "language": "German"
+        },
+        {
+          "name": "Spezzare (Spezzare/Irrompere)",
+          "language": "Italian"
+        },
+        {
+          "name": "\u5f37\u884c (\u5f37\u884c/\u7a81\u5165)",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uac15\uc81c (\uac15\uc81c/\uc9c4\uc785)",
+          "language": "Korean"
+        },
+        {
+          "name": "Quebrar (Quebrar/Entrar)",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0412\u0437\u043b\u043e\u043c (\u0412\u0437\u043b\u043e\u043c/\u041f\u0440\u043e\u043d\u0438\u043a\u043d\u043e\u0432\u0435\u043d\u0438\u0435)",
+          "language": "Russian"
+        },
+        {
+          "name": "Allanar (Allanar/Entrar)",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Entering",
+      "layout": "split",
+      "mana_cost": "{4}{B}{R}",
+      "cmc": 6,
+      "colors": [
+        "Black",
+        "Red"
+      ],
+      "color_identity": [
+        "B",
+        "R",
+        "U"
+      ],
+      "names": [
+        "Breaking",
+        "Entering"
+      ],
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Special",
+      "text": "Put a creature card from a graveyard onto the battlefield under your control. It gains haste until end of turn.\nFuse (You may cast one or both halves of this card from your hand.)",
+      "flavor": null,
+      "artist": "Igor Kieryluk",
+      "number": "22b",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2013-05-03",
+      "starter": null,
+      "printings": [
+        "pLPA",
+        "DGM"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Dragon's Maze Launch Party participation bonus",
+      "image_url": null,
+      "set": "pLPA",
+      "set_name": "Launch Parties",
+      "id": "40217db1b72f0590ee336d5d4cc07ee1ef4c46b1",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "Entering doesn't target any creature card. You choose which card you're putting onto the battlefield as Entering resolves. You can choose any creature card in a graveyard at time, including one put into a graveyard because of Breaking if you cast Breaking // Entering as a fused split spell."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If you're casting a split card with fuse from any zone other than your hand, you can't cast both halves. You'll only be able to cast one half or the other."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "To cast a fused split spell, pay both of its mana costs. While the spell is on the stack, its converted mana cost is the total amount of mana in both costs."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "You can choose the same object as the target of each half of a fused split spell, if appropriate."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "When resolving a fused split spell with multiple targets, treat it as you would any spell with multiple targets. If all targets are illegal when the spell tries to resolve, the spell is countered and none of its effects happen. If at least one target is still legal at that time, the spell resolves, but an illegal target can't perform any actions or have any actions performed on it."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "When a fused split spell resolves, follow the instructions of the left half first, then the instructions on the right half."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "On the stack, a split spell that hasn't been fused has only that half's characteristics and converted mana cost. The other half is treated as though it didn't exist."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "Some split cards with fuse have two monocolor halves of different colors. If such a card is cast as a fused split spell, the resulting spell is multicolored. If only one half is cast, the spell is the color of that half. While not on the stack, such a card is multicolored."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "Some split cards with fuse have two halves that are both multicolored. That card is multicolored no matter which half is cast, or if both halves are cast. It's also multicolored while not on the stack."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If a player names a card, the player may name either half of a split card, but not both. A split card has the chosen name if one of its two names matches the chosen name."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If you cast a split card with fuse from your hand without paying its mana cost, you can choose to use its fuse ability and cast both halves without paying their mana costs."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u4fb5\u5165 (\u7834\u574f/\u4fb5\u5165)",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u4fb5\u5165 (\u7834\u58de/\u4fb5\u5165)",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "P\u00e9n\u00e9tration (Effraction/P\u00e9n\u00e9tration)",
+          "language": "French"
+        },
+        {
+          "name": "Diebstahl (Einbruch/Diebstahl)",
+          "language": "German"
+        },
+        {
+          "name": "Irrompere (Spezzare/Irrompere)",
+          "language": "Italian"
+        },
+        {
+          "name": "\u7a81\u5165 (\u5f37\u884c/\u7a81\u5165)",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uc9c4\uc785 (\uac15\uc81c/\uc9c4\uc785)",
+          "language": "Korean"
+        },
+        {
+          "name": "Entrar (Quebrar/Entrar)",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041f\u0440\u043e\u043d\u0438\u043a\u043d\u043e\u0432\u0435\u043d\u0438\u0435 (\u0412\u0437\u043b\u043e\u043c/\u041f\u0440\u043e\u043d\u0438\u043a\u043d\u043e\u0432\u0435\u043d\u0438\u0435)",
+          "language": "Russian"
+        },
+        {
+          "name": "Entrar (Allanar/Entrar)",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Colossal Whale",
+      "layout": "normal",
+      "mana_cost": "{5}{U}{U}",
+      "cmc": 7,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Whale",
+      "supertypes": null,
+      "subtypes": [
+        "Whale"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Islandwalk (This creature can't be blocked as long as defending player controls an Island.)\nWhenever Colossal Whale attacks, you may exile target creature defending player controls until Colossal Whale leaves the battlefield. (That creature returns under its owner's control.)",
+      "flavor": null,
+      "artist": "Erica Yang",
+      "number": "23",
+      "power": "5",
+      "toughness": "5",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2013-07-19",
+      "starter": null,
+      "printings": [
+        "pLPA",
+        "M14"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic 2014 Launch Party participation bonus",
+      "image_url": null,
+      "set": "pLPA",
+      "set_name": "Launch Parties",
+      "id": "b93ab51e60ba3b1243a372aef6a38fd1ca04db48",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-07-01",
+          "text": "Colossal Whale's triggered ability triggers and resolves during the declare attackers step, before blocking creatures are declared."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "Colossal Whale's ability causes a zone change with a duration, a new style of ability that's somewhat reminiscent of older cards like Oblivion Ring. However, unlike Oblivion Ring, cards like Colossal Whale have a single ability that creates two one-shot effects: one that exiles the creature when the ability resolves, and another that returns the exiled card to the battlefield immediately after Colossal Whale leaves the battlefield."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "If Colossal Whale leaves the battlefield before its triggered ability resolves, the target creature won't be exiled."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "Auras attached to the exiled creature will be put into their owners' graveyards. Equipment attached to the exiled creature will become unattached and remain on the battlefield. Any counters on the exiled creature will cease to exist."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "If a creature token is exiled, it ceases to exist. It won't be returned to the battlefield."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "The exiled card returns to the battlefield immediately after Colossal Whale leaves the battlefield. Nothing happens between the two events, including state-based actions. The two creatures aren't on the battlefield at the same time. For example, if the returning creature is a Clone, it can't enter the battlefield as a copy of Colossal Whale."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "In a multiplayer game, if Colossal Whale's owner leaves the game, the exiled card will return to the battlefield. Because the one-shot effect that returns the card isn't an ability that goes on the stack, it won't cease to exist along with the leaving player's spells and abilities on the stack."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u8d85\u5de8\u9cb8",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u8d85\u5de8\u9be8",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Baleine colossale",
+          "language": "French"
+        },
+        {
+          "name": "Gigantischer Wal",
+          "language": "German"
+        },
+        {
+          "name": "Balena Colossale",
+          "language": "Italian"
+        },
+        {
+          "name": "\u58ee\u5927\u306a\u9be8",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uac70\ub300\ud55c \uace0\ub798",
+          "language": "Korean"
+        },
+        {
+          "name": "Baleia Colossal",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0413\u0440\u043e\u043c\u0430\u0434\u043d\u044b\u0439 \u041a\u0438\u0442",
+          "language": "Russian"
+        },
+        {
+          "name": "Ballena colosal",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Bident of Thassa",
+      "layout": "normal",
+      "mana_cost": "{2}{U}{U}",
+      "cmc": 4,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Legendary Enchantment Artifact",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": null,
+      "types": [
+        "Enchantment",
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "Whenever a creature you control deals combat damage to a player, you may draw a card.\n{1}{U}, {T}: Creatures your opponents control attack this turn if able.",
+      "flavor": "The wills of mortals shift as the tide ebbs and flows.",
+      "artist": "Ryan Yee",
+      "number": "24",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2013-09-27",
+      "starter": null,
+      "printings": [
+        "pLPA",
+        "THS",
+        "C15"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Theros Launch Party participation bonus",
+      "image_url": null,
+      "set": "pLPA",
+      "set_name": "Launch Parties",
+      "id": "b6313e7cd21ec53c8af3818b19112cf2dd8048a4",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-09-15",
+          "text": "The controller of each attacking creature still chooses which player or planeswalker that creature attacks."
+        },
+        {
+          "date": "2013-09-15",
+          "text": "If, during a player's declare attackers step, a creature is tapped, is affected by a spell or ability that says it can't attack, or hasn't been under that player's control continuously since the turn began (and doesn't have haste), then it doesn't attack. If there's a cost associated with having a creature attack, the player isn't forced to pay that cost, so it doesn't have to attack in that case either."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u5854\u8428\u7684\u53cc\u53c9\u621f",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u5854\u85a9\u7684\u96d9\u53c9\u621f",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Bident de Thassa",
+          "language": "French"
+        },
+        {
+          "name": "Zweizack der Thassa",
+          "language": "German"
+        },
+        {
+          "name": "Bidente di Thassa",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30bf\u30c3\u30b5\u306e\u4e8c\u53c9\u69cd",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ud0c0\uc0ac\uc758 \uc30d\uc9c0\ucc3d",
+          "language": "Korean"
+        },
+        {
+          "name": "Bidente de Tassa",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0414\u0432\u0443\u0437\u0443\u0431\u0435\u0446 \u0422\u0430\u0441\u0441\u044b",
+          "language": "Russian"
+        },
+        {
+          "name": "Bidente de Tassa",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Tromokratis",
+      "layout": "normal",
+      "mana_cost": "{5}{U}{U}",
+      "cmc": 7,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Legendary Creature \u2014 Kraken",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Kraken"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Tromokratis has hexproof unless it's attacking or blocking.\nTromokratis can't be blocked unless all creatures defending player controls block it. (If any creature that player controls doesn't block this creature, it can't be blocked.)",
+      "flavor": null,
+      "artist": "Jaime Jones",
+      "number": "25",
+      "power": "8",
+      "toughness": "8",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2014-02-07",
+      "starter": null,
+      "printings": [
+        "pLPA",
+        "BNG"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Born of the Gods Launch Party participation bonus",
+      "image_url": null,
+      "set": "pLPA",
+      "set_name": "Launch Parties",
+      "id": "7bffc2f31868b22acc0b8767fe633c7c101e5088",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2014-02-01",
+          "text": "The defending player may block Tromokratis with each creature he or she controls. If that player can't, perhaps because one of those creatures is tapped, or chooses not to, Tromokratis can't be blocked."
+        },
+        {
+          "date": "2014-02-01",
+          "text": "Tromokratis (like all attacking and blocking creatures) remains an attacking or blocking creature until the end of combat step is over. Notably, it will still be an attacking or blocking creature during the combat damage step, so any abilities an opponent controls that trigger when a creature dies as a result of combat damage could target Tromokratis."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u5353\u83ab\u514b\u96f7\u63d0",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u5353\u83ab\u514b\u96f7\u63d0",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Tromokratis",
+          "language": "French"
+        },
+        {
+          "name": "Tromokratis",
+          "language": "German"
+        },
+        {
+          "name": "Tromokrate",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30c8\u30ed\u30e2\u30af\u30e9\u30c6\u30a3\u30b9",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ud2b8\ub85c\ubaa8\ud06c\ub808\uc774\ud2f0\uc2a4",
+          "language": "Korean"
+        },
+        {
+          "name": "Tromokratis",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0422\u0440\u043e\u043c\u043e\u043a\u0440\u0430\u0442",
+          "language": "Russian"
+        },
+        {
+          "name": "Tromokratis",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Dictate of the Twin Gods",
+      "layout": "normal",
+      "mana_cost": "{3}{R}{R}",
+      "cmc": 5,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Enchantment",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Special",
+      "text": "Flash\nIf a source would deal damage to a permanent or player, it deals double that damage to that permanent or player instead.",
+      "flavor": "Iroas and Mogis are as different in appearance as they are in personality.",
+      "artist": "Chase Stone",
+      "number": "26",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2014-05-02",
+      "starter": null,
+      "printings": [
+        "pLPA",
+        "JOU"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Journey into Nyx Launch Party participation bonus",
+      "image_url": null,
+      "set": "pLPA",
+      "set_name": "Launch Parties",
+      "id": "8d80e793830e0f19a4edec0b73b0cbeb1a7f6825",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2014-04-26",
+          "text": "Dictate of the Twin Gods applies to any damage, not just combat damage. It also doesn't matter who controls the source of the damage that's being dealt."
+        },
+        {
+          "date": "2014-04-26",
+          "text": "The source of the damage doesn't change. A spell that deals damage will specify the source of the damage, often the spell itself. An ability that deals damage will also specify the source of the damage, although the ability itself will never be that source. Often the source of the ability is also the source of the damage."
+        },
+        {
+          "date": "2014-04-26",
+          "text": "If more than one Dictate of the Twin Gods is on the battlefield, damage dealt will double for each one (two of them will end up multiplying the damage by four, three of them by eight, and four of them by sixteen)."
+        },
+        {
+          "date": "2014-04-26",
+          "text": "If multiple effects modify how damage will be dealt, the player being dealt damage or the controller of the permanent being dealt damage chooses the order to apply the effects. For example, the ability of Decorated Griffin says \"Prevent the next 1 combat damage that would be dealt to you this turn.\" Suppose you would be dealt 3 combat damage and you activate the ability of Decorated Griffin. You can either (a) prevent 1 damage first and then let Dictate of the Twin Gods's effect double the remaining 2 damage, for a result of being dealt 4 damage, or (b) double the damage to 6 and then prevent 1 damage, for a result of being dealt 5 damage."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u53cc\u5b50\u795e\u7684\u65e8\u610f",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u96d9\u5b50\u795e\u7684\u65e8\u610f",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Pr\u00e9cepte des dieux jumeaux",
+          "language": "French"
+        },
+        {
+          "name": "Gebot der Zwillingsg\u00f6tter",
+          "language": "German"
+        },
+        {
+          "name": "Dettami degli Dei Gemelli",
+          "language": "Italian"
+        },
+        {
+          "name": "\u53cc\u5b50\u795e\u306e\u6307\u56f3",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uc30d\ub465\uc774 \uc2e0\uc758 \uaddc\uc728",
+          "language": "Korean"
+        },
+        {
+          "name": "Decreto dos Deuses G\u00eameos",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0412\u0435\u043b\u0435\u043d\u0438\u0435 \u0411\u043e\u0433\u043e\u0432-\u0411\u043b\u0438\u0437\u043d\u0435\u0446\u043e\u0432",
+          "language": "Russian"
+        },
+        {
+          "name": "Mandato de los dioses gemelos",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Dragon Throne of Tarkir",
+      "layout": "normal",
+      "mana_cost": "{4}",
+      "cmc": 4,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Legendary Artifact \u2014 Equipment",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Equipment"
+      ],
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "Equipped creature has defender and \"{2}, {T}: Other creatures you control gain trample and get +X/+X until end of turn, where X is this creature's power.\"\nEquip {3}",
+      "flavor": "What once soared high above Tarkir is now reduced to a seat.",
+      "artist": "Daarken",
+      "number": "27",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pLPA",
+        "KTK"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Khans of Tarkir",
+      "image_url": null,
+      "set": "pLPA",
+      "set_name": "Launch Parties",
+      "id": "73ecd5f468ea7681b35df5504e4200b9deda55fb",
+      "legalities": [
+        {
+          "format": "Classic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Extended",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2014-09-20",
+          "text": "The value of X is determined as the activated ability resolves. If the equipped creature isn't on the battlefield at that time, use its power the last time it was on the battlefield to determine the value of X."
+        },
+        {
+          "date": "2017-07-14",
+          "text": "If the equipped creature's power is negative while resolving the activated ability it gains, X is considered to be 0. (This is a change from previous rulings.)"
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u9791\u5951\u9f99\u5ea7",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u97c3\u5951\u9f8d\u5ea7",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Tr\u00f4ne draconique de Tarkir",
+          "language": "French"
+        },
+        {
+          "name": "Drachenthron von Tarkir",
+          "language": "German"
+        },
+        {
+          "name": "Trono Draconico di Tarkir",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30bf\u30eb\u30ad\u30fc\u30eb\u306e\u9f8d\u306e\u7389\u5ea7",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ud0c0\ub974\ucee4\uc758 \uc6a9 \uc655\uc88c",
+          "language": "Korean"
+        },
+        {
+          "name": "Trono do Drag\u00e3o de Tarkir",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0414\u0440\u0430\u043a\u043e\u043d\u0438\u0439 \u0422\u0440\u043e\u043d \u0422\u0430\u0440\u043a\u0438\u0440\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Trono drag\u00f3n de Tarkir",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "In Garruk's Wake",
+      "layout": "normal",
+      "mana_cost": "{7}{B}{B}",
+      "cmc": 9,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Special",
+      "text": "Destroy all creatures you don't control and all planeswalkers you don't control.",
+      "flavor": "Beyond pain, beyond obsession and wild despair, there lies a place of twisted power only the most tormented souls can reach.",
+      "artist": "Brad Rigney",
+      "number": "28",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2014-07-18",
+      "starter": null,
+      "printings": [
+        "pLPA",
+        "M15",
+        "C16"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic 2015 Launch Party participation bonus",
+      "image_url": null,
+      "set": "pLPA",
+      "set_name": "Launch Parties",
+      "id": "9eddba3139917b6d2a8cdeddb898a763b8824e26",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u8d3e\u8def\u5f00\u9053",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u8cc8\u8def\u958b\u9053",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Dans le sillage de Garruk",
+          "language": "French"
+        },
+        {
+          "name": "Auf Garruks Pfad",
+          "language": "German"
+        },
+        {
+          "name": "Sulla Scia di Garruk",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30ac\u30e9\u30af\u306e\u76ee\u899a\u3081",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uac1c\ub7ed\uc758 \ubc1c\uc790\ucde8",
+          "language": "Korean"
+        },
+        {
+          "name": "No Rastro de Garruk",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0413\u0434\u0435 \u041f\u0440\u043e\u0448\u0435\u043b \u0413\u0430\u0440\u0440\u0443\u043a",
+          "language": "Russian"
+        },
+        {
+          "name": "Tras los pasos de Garruk",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Sandsteppe Mastodon",
+      "layout": "normal",
+      "mana_cost": "{5}{G}{G}",
+      "cmc": 7,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Elephant",
+      "supertypes": null,
+      "subtypes": [
+        "Elephant"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Reach\nWhen Sandsteppe Mastodon enters the battlefield, bolster 5. (Choose a creature with the least toughness among creatures you control and put five +1/+1 counters on it.)",
+      "flavor": "A mastodon's path always leads to an oasis.",
+      "artist": "Kev Walker",
+      "number": "29",
+      "power": "5",
+      "toughness": "5",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2015-01-23",
+      "starter": null,
+      "printings": [
+        "pPRE",
+        "pLPA",
+        "FRF"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Fate Reforged Launch Party participation bonus",
+      "image_url": null,
+      "set": "pLPA",
+      "set_name": "Launch Parties",
+      "id": "24f804a6e6c2f421e09861ac8982b16de69ab2af",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2014-11-24",
+          "text": "Bolster itself doesn't target any creature, though some spells and abilities that bolster may have other effects that target creatures. For example, you could put counters on a creature with protection from white with Abzan Skycaptain's bolster ability."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "You determine which creature to put counters on as the spell or ability that instructs you to bolster resolves."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u6c99\u539f\u4e73\u9f7f\u8c61",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u6c99\u539f\u4e73\u9f52\u8c61",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Mastodonte de la steppe de sable",
+          "language": "French"
+        },
+        {
+          "name": "Sandsteppen-Mastodon",
+          "language": "German"
+        },
+        {
+          "name": "Mastodonte delle Steppe Sabbiose",
+          "language": "Italian"
+        },
+        {
+          "name": "\u7802\u8349\u539f\u306e\u30de\u30b9\u30c8\u30c9\u30f3",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ubaa8\ub798\ucd08\uc6d0 \ub9c8\uc2a4\ud1a0\ub3c8",
+          "language": "Korean"
+        },
+        {
+          "name": "Mastodonte da Estepe Arenosa",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041c\u0430\u0441\u0442\u043e\u0434\u043e\u043d\u0442 \u041f\u0435\u0441\u0447\u0430\u043d\u043e\u0439 \u0421\u0442\u0435\u043f\u0438",
+          "language": "Russian"
+        },
+        {
+          "name": "Mastodonte de esteparenosa",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Deathbringer Regent",
+      "layout": "normal",
+      "mana_cost": "{5}{B}{B}",
+      "cmc": 7,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Dragon",
+      "supertypes": null,
+      "subtypes": [
+        "Dragon"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Flying\nWhen Deathbringer Regent enters the battlefield, if you cast it from your hand and there are five or more other creatures on the battlefield, destroy all other creatures.",
+      "flavor": null,
+      "artist": "Chris Rallis",
+      "number": "31",
+      "power": "5",
+      "toughness": "6",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2015-03-27",
+      "starter": null,
+      "printings": [
+        "pPRE",
+        "pLPA",
+        "DTK",
+        "E01",
+        "C17"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Dragons of Tarkir Launch Party participation bonus",
+      "image_url": null,
+      "set": "pLPA",
+      "set_name": "Launch Parties",
+      "id": "dfbed2bbbf4af1904c680e29e19e3fdae9605db7",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2015-02-25",
+          "text": "If you cast a creature spell that enters the battlefield as a copy of Deathbringer Regent, the enters-the-battlefield ability will trigger (assuming the \"five or more other creatures\" requirement is also met)."
+        },
+        {
+          "date": "2015-02-25",
+          "text": "Deathbringer Regent's last ability destroys all creatures except Deathbringer Regent, including the five other creatures required for the ability to have an effect."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u593a\u547d\u9f99\u4faf",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u596a\u547d\u9f8d\u4faf",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "R\u00e9gente portemort",
+          "language": "French"
+        },
+        {
+          "name": "Todesbringer-Regentin",
+          "language": "German"
+        },
+        {
+          "name": "Reggente Latrice di Morte",
+          "language": "Italian"
+        },
+        {
+          "name": "\u6b7b\u81f4\u306e\u57f7\u653f",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uc8fd\uc74c\uc744 \ubd80\ub974\ub294 \uc12d\uc815",
+          "language": "Korean"
+        },
+        {
+          "name": "Regente da Morte Iminente",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0420\u0435\u0433\u0435\u043d\u0442 \u041d\u0430\u0434\u0432\u0438\u0433\u0430\u044e\u0449\u0435\u0439\u0441\u044f \u0421\u043c\u0435\u0440\u0442\u0438",
+          "language": "Russian"
+        },
+        {
+          "name": "Regente rugido mortal",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Mizzium Meddler",
+      "layout": "normal",
+      "mana_cost": "{2}{U}",
+      "cmc": 3,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Vedalken Wizard",
+      "supertypes": null,
+      "subtypes": [
+        "Vedalken",
+        "Wizard"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Flash (You may cast this spell any time you could cast an instant.)\nWhen Mizzium Meddler enters the battlefield, you may change a target of target spell or ability to Mizzium Meddler.",
+      "flavor": "Energy surges in Izzet labs are opportunities for experimentation.",
+      "artist": "Chris Rallis",
+      "number": "32",
+      "power": "1",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2015-07-17",
+      "starter": null,
+      "printings": [
+        "pPRE",
+        "pLPA",
+        "ORI"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Origins Launch Party participation bonus",
+      "image_url": null,
+      "set": "pLPA",
+      "set_name": "Launch Parties",
+      "id": "e6c729dc4005e9071a4bdcd7949f8038ee26e2f9",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2015-06-22",
+          "text": "If changing one target of a spell or ability to Mizzium Meddler would make other targets of that spell or ability illegal, the targets remain unchanged."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "If the spell or ability has multiple instances of the word \"target,\" you choose which target you're changing to Mizzium Meddler as Mizium Meddler's ability resolves."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "The target of the spell or ability won't change unless Mizzium Meddler fulfills all the targeting criteria. If a spell or ability has multiple targets, such as Send to Sleep, you can change only one of the targets to Mizzium Meddler."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "If a spell or ability has a variable number of targets, you can't change the number of targets."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "If Mizzium Meddler leaves the battlefield before its ability resolves, the targets remain unchanged."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "Mizzium Meddler's triggered ability can target a spell or ability even if Mizzium Meddler wouldn't be a legal target for that spell or ability. However, the target of that spell or ability will remain unchanged."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "If Mizzium Meddler's triggered ability targets a spell or ability with no targets, nothing happens."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u7c73\u6377\u5e72\u6d89\u5e08",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u7c73\u6377\u5e72\u6d89\u5e2b",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Factotum manipulateur de mizzium",
+          "language": "French"
+        },
+        {
+          "name": "Mizzium-Herumpfuscher",
+          "language": "German"
+        },
+        {
+          "name": "Manipolatore di Mizzium",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30df\u30b8\u30a6\u30e0\u306e\u5e72\u6e09\u8005",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ubbf8\uc9c0\uc6c0 \ucc38\uacac\uafbc",
+          "language": "Korean"
+        },
+        {
+          "name": "Experimentador de Mizzium",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041c\u0438\u0437\u0437\u0438\u0435\u0432\u044b\u0439 \u0421\u0443\u043c\u0430\u0441\u0431\u0440\u043e\u0434",
+          "language": "Russian"
+        },
+        {
+          "name": "Entrometido de m\u00edzzium",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Blight Herder",
+      "layout": "normal",
+      "mana_cost": "{5}",
+      "cmc": 5,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Creature \u2014 Eldrazi Processor",
+      "supertypes": null,
+      "subtypes": [
+        "Eldrazi",
+        "Processor"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "When you cast Blight Herder, you may put two cards your opponents own from exile into their owners' graveyards. If you do, create three 1/1 colorless Eldrazi Scion creature tokens. They have \"Sacrifice this creature: Add {C} to your mana pool.\"",
+      "flavor": null,
+      "artist": "Jaime Jones",
+      "number": "33",
+      "power": "4",
+      "toughness": "5",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2015-10-02",
+      "starter": null,
+      "printings": [
+        "pPRE",
+        "pLPA",
+        "BFZ"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Battle of Zendikar Launch Party participation bonus",
+      "image_url": null,
+      "set": "pLPA",
+      "set_name": "Launch Parties",
+      "id": "6ad264125c4de1da86d7a56d1fa9cee5e5680fc0",
+      "legalities": [
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2015-08-25",
+          "text": "If a spell or ability requires that you put more than one exiled card into the graveyard, you may choose cards owned by different opponents. Each card chosen will be put into its owner's graveyard."
+        },
+        {
+          "date": "2015-08-25",
+          "text": "If a replacement effect will cause cards that would be put into a graveyard from anywhere to be exiled instead (such as the one created by Anafenza, the Foremost), you can still put an exiled card into its opponent's graveyard. The card becomes a new object and remains in exile. In this situation, you can't use a single exiled card if required to put more than one exiled card into the graveyard. Conversely, you could use the same card in this situation if two separate spells or abilities each required you to put a single exiled card into its owner's graveyard."
+        },
+        {
+          "date": "2015-08-25",
+          "text": "You can't look at face-down cards in exile unless an effect allows you to."
+        },
+        {
+          "date": "2015-08-25",
+          "text": "Face-down cards in exile are grouped using two criteria: what caused them to be exiled face down and when they were exiled face down. If you want to put a face-down card in exile into its owner's graveyard, you must first choose one of these groups and then choose a card from within that group at random. For example, say an artifact causes your opponent to exile his or her hand of three cards face down. Then on a later turn, that artifact causes your opponent to exile another two cards face down. If you use Wasteland Strangler to put one of those cards into his or her graveyard, you would pick the first or second pile and put a card chosen at random from that pile into the graveyard."
+        },
+        {
+          "date": "2015-08-25",
+          "text": "Eldrazi Scions are similar to Eldrazi Spawn, seen in the Zendikar block. Note that Eldrazi Scions are 1/1, not 0/1."
+        },
+        {
+          "date": "2015-08-25",
+          "text": "Eldrazi and Scion are each separate creature types. Anything that affects Eldrazi will affect these tokens, for example."
+        },
+        {
+          "date": "2015-08-25",
+          "text": "Sacrificing an Eldrazi Scion creature token to add {C} to your mana pool is a mana ability. It doesn't use the stack and can't be responded to."
+        },
+        {
+          "date": "2015-08-25",
+          "text": "Some instants and sorceries that create Eldrazi Scions require targets. If all targets for such a spell have become illegal by the time that spell tries to resolve, the spell will be countered and none of its effects will happen. You won't get any Eldrazi Scions."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u67af\u840e\u7267\u4f53",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u67af\u840e\u7267\u9ad4",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Berger du fl\u00e9au",
+          "language": "French"
+        },
+        {
+          "name": "F\u00e4ulnishirte",
+          "language": "German"
+        },
+        {
+          "name": "Mandriano della Sventura",
+          "language": "Italian"
+        },
+        {
+          "name": "\u8352\u5ec3\u3092\u62db\u304f\u3082\u306e",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uc5ed\ubcd1 \ubaa9\ub3d9",
+          "language": "Korean"
+        },
+        {
+          "name": "Pastor da Desgra\u00e7a",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041f\u0430\u0441\u0442\u0443\u0445 \u0427\u0443\u043c\u044b",
+          "language": "Russian"
+        },
+        {
+          "name": "Pastor de par\u00e1sitos",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Endbringer",
+      "layout": "normal",
+      "mana_cost": "{5}{C}",
+      "cmc": 6,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Creature \u2014 Eldrazi",
+      "supertypes": null,
+      "subtypes": [
+        "Eldrazi"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Untap Endbringer during each other player's untap step.\n{T}: Endbringer deals 1 damage to target creature or player.\n{C}, {T}: Target creature can't attack or block this turn.\n{C}{C}, {T}: Draw a card.",
+      "flavor": null,
+      "artist": "Adam Paquette",
+      "number": "34",
+      "power": "5",
+      "toughness": "5",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2016-01-22",
+      "starter": null,
+      "printings": [
+        "pLPA",
+        "OGW"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Oath of the Gatewatch Launch Party participation bonus",
+      "image_url": null,
+      "set": "pLPA",
+      "set_name": "Launch Parties",
+      "id": "31e76f2d89925bfc883806466987f827ec202ed6",
+      "legalities": [
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2016-01-22",
+          "text": "Endbringer untaps at the same time as the active player's permanents. You can't choose to not untap it at that time."
+        },
+        {
+          "date": "2016-01-22",
+          "text": "If an effect states that Endbringer doesn't untap during your untap step, that effect won't apply during another player's untap step."
+        },
+        {
+          "date": "2016-01-22",
+          "text": "Activating the second activated ability after a creature has legally been declared as an attacker or blocker won't change or undo that attack or block."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u7ec8\u7ed3\u6076\u4f53",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u7d42\u7d50\u60e1\u9ad4",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Pr\u00e9curseur de la fin",
+          "language": "French"
+        },
+        {
+          "name": "Todbringer",
+          "language": "German"
+        },
+        {
+          "name": "Annichilatore",
+          "language": "Italian"
+        },
+        {
+          "name": "\u7d42\u672b\u3092\u62db\u304f\u3082\u306e",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ud30c\uba78\uc744 \ubd80\ub974\ub294 \uc790",
+          "language": "Korean"
+        },
+        {
+          "name": "Findador",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0412\u0435\u0441\u0442\u043d\u0438\u043a \u041a\u043e\u043d\u0446\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Adalid del fin",
+          "language": "Spanish"
+        }
+      ]
+    }
+  ]
+}

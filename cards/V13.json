@@ -1,0 +1,1608 @@
+{
+  "code": "V13",
+  "name": "From the Vault: Twenty",
+  "type": "from the vault",
+  "border": "black",
+  "mkm_id": 1455,
+  "mkm_name": "From the Vault: Twenty",
+  "release_date": "2013-08-23",
+  "gatherer_code": null,
+  "magic_cards_info_code": "v13",
+  "booster": null,
+  "old_code": null,
+  "block": null,
+  "online_only": null,
+  "cards": [
+    {
+      "name": "Dark Ritual",
+      "layout": "normal",
+      "mana_cost": "{B}",
+      "cmc": 1,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Add {B}{B}{B}.",
+      "flavor": "\"Leshrac, my liege, grant me the power I am due.\"\n\u2014Lim-D\u00fbl, the Necromancer",
+      "artist": "Clint Langley",
+      "number": "1",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 373329,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "MIR",
+        "ITP",
+        "5ED",
+        "TMP",
+        "pJGP",
+        "USG",
+        "MMQ",
+        "BRB",
+        "BTD",
+        "DKM",
+        "CST",
+        "DDC",
+        "HOP",
+        "DDE",
+        "ME4",
+        "V13",
+        "VMA",
+        "DD3_DVD",
+        "TPR",
+        "MPS_AKH",
+        "A25"
+      ],
+      "original_text": "Add {B}{B}{B} to your mana pool.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=373329&type=card",
+      "set": "V13",
+      "set_name": "From the Vault: Twenty",
+      "id": "47c7d787fed78fffcb31adff492c067a8a39a196",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Swords to Plowshares",
+      "layout": "normal",
+      "mana_cost": "{W}",
+      "cmc": 1,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Exile target creature. Its controller gains life equal to its power.",
+      "flavor": "The smallest seed of regret can bloom into redemption.",
+      "artist": "Terese Nielsen",
+      "number": "2",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 373334,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "pJGP",
+        "ATH",
+        "BRB",
+        "pFNM",
+        "CST",
+        "ME2",
+        "DDF",
+        "ME4",
+        "V13",
+        "CNS",
+        "VMA",
+        "EMA",
+        "C16",
+        "C17",
+        "IMA",
+        "A25"
+      ],
+      "original_text": "Exile target creature. Its controller gains life equal to its power.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=373334&type=card",
+      "set": "V13",
+      "set_name": "From the Vault: Twenty",
+      "id": "669b48f4dc0c849541d9e36c237b591351972e31",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2018-03-16",
+          "text": "The amount of life gained is equal to the power of the targeted creature as it last existed on the battlefield."
+        },
+        {
+          "date": "2018-03-16",
+          "text": "If the creature's power is negative, its controller doesn't lose or gain life."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Hymn to Tourach",
+      "layout": "normal",
+      "mana_cost": "{B}{B}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Target player discards two cards at random.",
+      "flavor": "The priests plead for your anguish and pray for your despair.",
+      "artist": "Greg Staples",
+      "number": "3",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 373324,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "FEM",
+        "ATH",
+        "MED",
+        "V13",
+        "VMA",
+        "EMA"
+      ],
+      "original_text": "Target player discards two cards at random.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=373324&type=card",
+      "set": "V13",
+      "set_name": "From the Vault: Twenty",
+      "id": "4b9b1b83c6b6033d8cc352333e83a0b5987a8fc6",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Fyndhorn Elves",
+      "layout": "normal",
+      "mana_cost": "{G}",
+      "cmc": 1,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Elf Druid",
+      "supertypes": null,
+      "subtypes": [
+        "Elf",
+        "Druid"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "{T}: Add {G}.",
+      "flavor": "\"We could no more abandon the forest than the stars could abandon the night sky.\"",
+      "artist": "Igor Kieryluk",
+      "number": "4",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 373320,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ICE",
+        "DKM",
+        "MED",
+        "V13",
+        "VMA"
+      ],
+      "original_text": "{T}: Add {G} to your mana pool.",
+      "original_type": "Creature \u2014 Elf Druid",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=373320&type=card",
+      "set": "V13",
+      "set_name": "From the Vault: Twenty",
+      "id": "0341f2227337b135ade1cae3a6e7c0fbcd560aa1",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Impulse",
+      "layout": "normal",
+      "mana_cost": "{1}{U}",
+      "cmc": 2,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.",
+      "flavor": "\"You call it luck. I call it preparation.\"",
+      "artist": "Izzy",
+      "number": "5",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 373330,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "VIS",
+        "pFNM",
+        "BTD",
+        "V13",
+        "DDN"
+      ],
+      "original_text": "Look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=373330&type=card",
+      "set": "V13",
+      "set_name": "From the Vault: Twenty",
+      "id": "14a0b811d66fc686c9980f3d15d2b59d227b8839",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "This is not a draw."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "Due to errata, you no longer shuffle your library."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Wall of Blossoms",
+      "layout": "normal",
+      "mana_cost": "{1}{G}",
+      "cmc": 2,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Plant Wall",
+      "supertypes": null,
+      "subtypes": [
+        "Plant",
+        "Wall"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Defender\nWhen Wall of Blossoms enters the battlefield, draw a card.",
+      "flavor": "Each flower identical, every leaf and petal disturbingly exact.",
+      "artist": "Heather Hudson",
+      "number": "6",
+      "power": "0",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": 373319,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "STH",
+        "pFNM",
+        "PC2",
+        "V13",
+        "TPR",
+        "C15",
+        "C16",
+        "PCA",
+        "CMA"
+      ],
+      "original_text": "Defender\nWhen Wall of Blossoms enters the battlefield, draw a card.",
+      "original_type": "Creature \u2014 Plant Wall",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=373319&type=card",
+      "set": "V13",
+      "set_name": "From the Vault: Twenty",
+      "id": "840a10e4e7bc40d61cac79bbc0d26140db5469dd",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Thran Dynamo",
+      "layout": "normal",
+      "mana_cost": "{4}",
+      "cmc": 4,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "{T}: Add {C}{C}{C}.",
+      "flavor": "Urza's metathran children were conceived, birthed, and nurtured by an integrated system of machines.",
+      "artist": "Ron Spears",
+      "number": "7",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 373331,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "UDS",
+        "ARC",
+        "V13",
+        "C14",
+        "IMA"
+      ],
+      "original_text": "{T}: Add {3} to your mana pool.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=373331&type=card",
+      "set": "V13",
+      "set_name": "From the Vault: Twenty",
+      "id": "fa9a623075a4bd1f4cfe36e5402ed657c4e14a02",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Tangle Wire",
+      "layout": "normal",
+      "mana_cost": "{3}",
+      "cmc": 3,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Fading 4 (This artifact enters the battlefield with four fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)\nAt the beginning of each player's upkeep, that player taps an untapped artifact, creature, or land they control for each fade counter on Tangle Wire.",
+      "flavor": null,
+      "artist": "Marco Nelor",
+      "number": "8",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 373322,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "NMS",
+        "V13"
+      ],
+      "original_text": "Fading 4 (This artifact enters the battlefield with four fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)\nAt the beginning of each player's upkeep, that player taps an untapped artifact, creature, or land he or she controls for each fade counter on Tangle Wire.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=373322&type=card",
+      "set": "V13",
+      "set_name": "From the Vault: Twenty",
+      "id": "eaaeae84077b3d49b5c1f22e01e98d77957f5560",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Fact or Fiction",
+      "layout": "normal",
+      "mana_cost": "{3}{U}",
+      "cmc": 4,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.",
+      "flavor": null,
+      "artist": "Terese Nielsen",
+      "number": "9",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 373325,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pFNM",
+        "INV",
+        "DD2",
+        "CMD",
+        "V13",
+        "CNS",
+        "VMA",
+        "DD3_JVC",
+        "C15",
+        "EMA"
+      ],
+      "original_text": "Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=373325&type=card",
+      "set": "V13",
+      "set_name": "From the Vault: Twenty",
+      "id": "4a63f27eaab385dadcdb23da239b5a0bfa778d8e",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2016-06-08",
+          "text": "You choose which pile to put into your hand."
+        },
+        {
+          "date": "2016-06-08",
+          "text": "Each pile may contain from zero to five cards; they don't have to be split \"evenly.\""
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Chainer's Edict",
+      "layout": "normal",
+      "mana_cost": "{1}{B}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Target player sacrifices a creature.\nFlashback {5}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+      "flavor": null,
+      "artist": "Mark Zug",
+      "number": "10",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 373317,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pFNM",
+        "TOR",
+        "V13",
+        "VMA"
+      ],
+      "original_text": "Target player sacrifices a creature.\nFlashback {5}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=373317&type=card",
+      "set": "V13",
+      "set_name": "From the Vault: Twenty",
+      "id": "4d87773cc6af3404dbf6aef229a1ccd177d12ade",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Akroma's Vengeance",
+      "layout": "normal",
+      "mana_cost": "{4}{W}{W}",
+      "cmc": 6,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Destroy all artifacts, creatures, and enchantments.\nCycling {3} ({3}, Discard this card: Draw a card.)",
+      "flavor": "\"Many must die for the one who should not have perished.\"",
+      "artist": "Aleksi Briclot",
+      "number": "11",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 373328,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ONS",
+        "HOP",
+        "CMD",
+        "V13",
+        "CMA",
+        "A25"
+      ],
+      "original_text": "Destroy all artifacts, creatures, and enchantments.\nCycling {3} ({3}, Discard this card: Draw a card.)",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=373328&type=card",
+      "set": "V13",
+      "set_name": "From the Vault: Twenty",
+      "id": "4a6e7efcce2098f35192b76fd19b0bece6076de5",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-10-01",
+          "text": "Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Gilded Lotus",
+      "layout": "normal",
+      "mana_cost": "{5}",
+      "cmc": 5,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "{T}: Add three mana of any one color.",
+      "flavor": "Over such beauty, wars are fought. With such power, wars are won.",
+      "artist": "Daniel Ljunggren",
+      "number": "12",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 373335,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MRD",
+        "M13",
+        "V13",
+        "DOM"
+      ],
+      "original_text": "{T}: Add three mana of any one color to your mana pool.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=373335&type=card",
+      "set": "V13",
+      "set_name": "From the Vault: Twenty",
+      "id": "0116d34ddb955d80cd5adc1cb01151c51326be0b",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Ink-Eyes, Servant of Oni",
+      "layout": "normal",
+      "mana_cost": "{4}{B}{B}",
+      "cmc": 6,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Legendary Creature \u2014 Rat Ninja",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Rat",
+        "Ninja"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Ninjutsu {3}{B}{B} ({3}{B}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nWhenever Ink-Eyes, Servant of Oni deals combat damage to a player, you may put target creature card from that player's graveyard onto the battlefield under your control.\n{1}{B}: Regenerate Ink-Eyes.",
+      "flavor": null,
+      "artist": "Wayne Reynolds",
+      "number": "13",
+      "power": "5",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": 373327,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pPRE",
+        "BOK",
+        "PC2",
+        "V13",
+        "PCA"
+      ],
+      "original_text": "Ninjutsu {3}{B}{B} ({3}{B}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nWhenever Ink-Eyes, Servant of Oni deals combat damage to a player, you may put target creature card from that player's graveyard onto the battlefield under your control.\n{1}{B}: Regenerate Ink-Eyes.",
+      "original_type": "Legendary Creature \u2014 Rat Ninja",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=373327&type=card",
+      "set": "V13",
+      "set_name": "From the Vault: Twenty",
+      "id": "f62f65291f225b3ac58c6e09ab548f54b607bb91",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2005-02-01",
+          "text": "If, during the combat damage step, a creature is destroyed during combat and Ink-Eyes also deals combat damage to a player, the destroyed creature can be a legal target for Ink-Eyes's ability."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Char",
+      "layout": "normal",
+      "mana_cost": "{2}{R}",
+      "cmc": 3,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Char deals 4 damage to any target and 2 damage to you.",
+      "flavor": "Izzet mages often acquire their magic reagents from dubious sources, so the potency of their spells is never predictable.",
+      "artist": "Adam Rex",
+      "number": "14",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 373332,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "RAV",
+        "p15A",
+        "V13"
+      ],
+      "original_text": "Char deals 4 damage to target creature or player and 2 damage to you.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=373332&type=card",
+      "set": "V13",
+      "set_name": "From the Vault: Twenty",
+      "id": "97d4402c5b7942ca1d93d1e1d0f2f0decb8e92fc",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Venser, Shaper Savant",
+      "layout": "normal",
+      "mana_cost": "{2}{U}{U}",
+      "cmc": 4,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Legendary Creature \u2014 Human Wizard",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Human",
+        "Wizard"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Flash\nWhen Venser, Shaper Savant enters the battlefield, return target spell or permanent to its owner's hand.",
+      "flavor": "His marvels of artifice pale in comparison to the developing machinery of his mind.",
+      "artist": "Eric Deschamps",
+      "number": "15",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 373326,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "FUT",
+        "V13",
+        "MM3"
+      ],
+      "original_text": "Flash\nWhen Venser, Shaper Savant enters the battlefield, return target spell or permanent to its owner's hand.",
+      "original_type": "Legendary Creature \u2014 Human Wizard",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=373326&type=card",
+      "set": "V13",
+      "set_name": "From the Vault: Twenty",
+      "id": "c575470a5398a9436af4c639a8eca4a1b0129609",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2017-03-14",
+          "text": "If Venser's triggered ability targets a spell cast with flashback, that spell will be exiled instead of returning to its owner's hand."
+        },
+        {
+          "date": "2017-03-14",
+          "text": "If a spell is returned to its owner's hand, it's removed from the stack and thus will not resolve. The spell isn't countered; it just no longer exists. This works against a spell that can't be countered."
+        },
+        {
+          "date": "2017-03-14",
+          "text": "If a copy of a spell is returned to its owner's hand, it's moved there, then it will cease to exist as a state-based action. It can't be recast."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Chameleon Colossus",
+      "layout": "normal",
+      "mana_cost": "{2}{G}{G}",
+      "cmc": 4,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Shapeshifter",
+      "supertypes": null,
+      "subtypes": [
+        "Shapeshifter"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Changeling (This card is every creature type.)\nProtection from black\n{2}{G}{G}: Chameleon Colossus gets +X/+X until end of turn, where X is its power.",
+      "flavor": null,
+      "artist": "Darrell Riche",
+      "number": "16",
+      "power": "4",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": 373321,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MOR",
+        "ARC",
+        "V13",
+        "C15"
+      ],
+      "original_text": "Changeling (This card is every creature type at all times.)\nProtection from black\n{2}{G}{G}: Chameleon Colossus gets +X/+X until end of turn, where X is its power.",
+      "original_type": "Creature \u2014 Shapeshifter",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=373321&type=card",
+      "set": "V13",
+      "set_name": "From the Vault: Twenty",
+      "id": "dbb01e25ddd905674a0bf5bba9b6d1609937e3e3",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Cruel Ultimatum",
+      "layout": "normal",
+      "mana_cost": "{U}{U}{B}{B}{B}{R}{R}",
+      "cmc": 7,
+      "colors": [
+        "Blue",
+        "Black",
+        "Red"
+      ],
+      "color_identity": [
+        "U",
+        "B",
+        "R"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Target opponent sacrifices a creature, discards three cards, then loses 5 life. You return a creature card from your graveyard to your hand, draw three cards, then gain 5 life.",
+      "flavor": "There is always a greater power.",
+      "artist": "Todd Lockwood",
+      "number": "17",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 373318,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ALA",
+        "DDH",
+        "V13",
+        "C13",
+        "MM3",
+        "E01"
+      ],
+      "original_text": "Target opponent sacrifices a creature, discards three cards, then loses 5 life. You return a creature card from your graveyard to your hand, draw three cards, then gain 5 life.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=373318&type=card",
+      "set": "V13",
+      "set_name": "From the Vault: Twenty",
+      "id": "d737c58d41a28773c3ce861086a659c6df12ca87",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2017-03-14",
+          "text": "Cruel Ultimatum's only target is an opponent. You don't choose which creature card in your graveyard you'll return to your hand until Cruel Ultimatum resolves."
+        },
+        {
+          "date": "2017-03-14",
+          "text": "All of the actions for Cruel Ultimatum are performed sequentially, in the order listed. Earlier actions may affect how you perform later actions. For example, if the opponent sacrifices a creature that they control but you own, it will end up in your graveyard. When Cruel Ultimatum lets you return a creature card from your graveyard to your hand, you can choose that one."
+        },
+        {
+          "date": "2017-03-14",
+          "text": "If, as Cruel Ultimatum begins to resolve, your opponent's life total is 5 or less and you have two or fewer cards in your library, the game will result in a draw. Your opponent's life total will drop to 0 or less, but Cruel Ultimatum must finish resolving completely before state-based actions are performed. You'll then be forced to draw three cards and fail to draw one. When state-based actions are finally performed, you and your opponent will both lose the game at the same time, which means the game is a draw."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Jace, the Mind Sculptor",
+      "layout": "normal",
+      "mana_cost": "{2}{U}{U}",
+      "cmc": 4,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Legendary Planeswalker \u2014 Jace",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Jace"
+      ],
+      "types": [
+        "Planeswalker"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "+2: Look at the top card of target player's library. You may put that card on the bottom of that player's library.\n0: Draw three cards, then put two cards from your hand on top of your library in any order.\n\u22121: Return target creature to its owner's hand.\n\u221212: Exile all cards from target player's library, then that player shuffles their hand into their library.",
+      "flavor": null,
+      "artist": "Jason Chan",
+      "number": "18",
+      "power": null,
+      "toughness": null,
+      "loyalty": 3,
+      "multiverse_id": 373316,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "WWK",
+        "V13",
+        "VMA",
+        "EMA",
+        "A25"
+      ],
+      "original_text": "+2: Look at the top card of target player's library. You may put that card on the bottom of that player's library.\n0: Draw three cards, then put two cards from your hand on top of your library in any order.\n-1: Return target creature to its owner's hand.\n-12: Exile all cards from target player's library, then that player shuffles his or her hand into his or her library.",
+      "original_type": "Planeswalker \u2014 Jace",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=373316&type=card",
+      "set": "V13",
+      "set_name": "From the Vault: Twenty",
+      "id": "b1dfa975ee9bf2fb2b6d7694effad405dbc72ad6",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2018-03-16",
+          "text": "You draw three cards and put two cards back all while Jace's second ability is resolving. Nothing can happen between the two, and no player may choose to take actions."
+        },
+        {
+          "date": "2018-03-16",
+          "text": "If the targeted player for Jace's last ability has no cards in hand, that player shuffles nothing into their library, and that player's library will remain empty. That player won't lose the game until they try to draw from the empty library."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Green Sun's Zenith",
+      "layout": "normal",
+      "mana_cost": "{X}{G}",
+      "cmc": 1,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Search your library for a green creature card with converted mana cost X or less, put it onto the battlefield, then shuffle your library. Shuffle Green Sun's Zenith into its owner's library.",
+      "flavor": "As the green sun crowned, Phyrexian prophecies glowed on the Tree of Tales.",
+      "artist": "David Rapoza",
+      "number": "19",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 373333,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MBS",
+        "V13",
+        "EMA"
+      ],
+      "original_text": "Search your library for a green creature card with converted mana cost X or less, put it onto the battlefield, then shuffle your library. Shuffle Green Sun's Zenith into its owner's library.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=373333&type=card",
+      "set": "V13",
+      "set_name": "From the Vault: Twenty",
+      "id": "d41672d76ea905f2b6efb0185e7484ea63358bea",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Banned"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2011-06-01",
+          "text": "If this spell doesn't resolve, none of its effects occur. In particular, it will go to the graveyard rather than to its owner's library."
+        },
+        {
+          "date": "2016-06-08",
+          "text": "If Green Sun's Zenith is countered, none of its effects will happen. Notably, it will be put into its owner's graveyard rather than shuffled into its owner's library."
+        },
+        {
+          "date": "2016-06-08",
+          "text": "In most cases, if you own Green Sun's Zenith and cast it, you'll shuffle your library twice. In practice, shuffling once is sufficient, but effects that care about you shuffling your library (like Psychogenic Probe, for example) will see that you've shuffled twice."
+        },
+        {
+          "date": "2016-06-08",
+          "text": "If you own Green Sun's Zenith, but an opponent casts it (due to Knowledge Pool's effect, for example), that opponent searches their library for an appropriate creature card, then shuffles that library. That opponent then shuffles Green Sun's Zenith into your library. You won't shuffle any library in this case."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Kessig Wolf Run",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "R",
+        "G"
+      ],
+      "names": null,
+      "type": "Land",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "{T}: Add {C}.\n{X}{R}{G}, {T}: Target creature gets +X/+0 and gains trample until end of turn.",
+      "flavor": "When a werewolf changes for the first time, that first howl is said to echo through the wilds till moonset.",
+      "artist": "Eytan Zana",
+      "number": "20",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 373323,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ISD",
+        "V13"
+      ],
+      "original_text": "{T}: Add {1} to your mana pool.\n{X}{R}{G}, {T}: Target creature gets +X/+0 and gains trample until end of turn.",
+      "original_type": "Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=373323&type=card",
+      "set": "V13",
+      "set_name": "From the Vault: Twenty",
+      "id": "23cf676a52006b41152c05adafc76a1113d838a6",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    }
+  ]
+}

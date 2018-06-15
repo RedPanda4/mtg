@@ -1,0 +1,615 @@
+{
+  "code": "pPOD",
+  "name": "Portal Demo Game",
+  "type": "promo",
+  "border": "black",
+  "mkm_id": null,
+  "mkm_name": null,
+  "release_date": "1997-05-01",
+  "gatherer_code": null,
+  "magic_cards_info_code": "pot",
+  "booster": null,
+  "old_code": null,
+  "block": null,
+  "online_only": null,
+  "cards": [
+    {
+      "name": "Armored Pegasus",
+      "layout": "normal",
+      "mana_cost": "{1}{W}",
+      "cmc": 2,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Pegasus",
+      "supertypes": null,
+      "subtypes": [
+        "Pegasus"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Flying",
+      "flavor": "Asked how it survived a run-in with a bog imp, the pegasus just shook its mane and burped.",
+      "artist": "Andrew Robinson",
+      "number": "1",
+      "power": "1",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "1997-05-01",
+      "starter": null,
+      "printings": [
+        "POR",
+        "pPOD",
+        "TMP",
+        "ATH",
+        "6ED",
+        "BRB",
+        "S00",
+        "TPR"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": null,
+      "image_url": null,
+      "set": "pPOD",
+      "set_name": "Portal Demo Game",
+      "id": "194d7f10c50b78e6db25b5d56837f7e35a14015b",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "P\u00e9gase cuirass\u00e9",
+          "language": "French"
+        },
+        {
+          "name": "Gepanzerter Pegasus",
+          "language": "German"
+        },
+        {
+          "name": "Pegaso Corazzato",
+          "language": "Italian"
+        },
+        {
+          "name": "P\u00e9gaso de Armadura",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "Pegaso acorazado",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Bull Hippo",
+      "layout": "normal",
+      "mana_cost": "{3}{G}",
+      "cmc": 4,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Hippo",
+      "supertypes": null,
+      "subtypes": [
+        "Hippo"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Islandwalk (This creature can't be blocked as long as defending player controls an Island.)",
+      "flavor": null,
+      "artist": "Roger Raupp",
+      "number": "2",
+      "power": "3",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "1997-05-01",
+      "starter": null,
+      "printings": [
+        "POR",
+        "pPOD",
+        "USG",
+        "S99",
+        "7ED"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": null,
+      "image_url": null,
+      "set": "pPOD",
+      "set_name": "Portal Demo Game",
+      "id": "7ca86e7f9ca7dd6283a36d0d78f7dea790159dba",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "Hippopotame m\u00e2le",
+          "language": "French"
+        },
+        {
+          "name": "Flusspferdbulle",
+          "language": "German"
+        },
+        {
+          "name": "Ippopotamo Capobranco",
+          "language": "Italian"
+        },
+        {
+          "name": "Hipop\u00f3tamo Macho",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "Hipop\u00f3tamo macho",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Cloud Pirates",
+      "layout": "normal",
+      "mana_cost": "{U}",
+      "cmc": 1,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Pirate",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Pirate"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Flying\nCloud Pirates can block only creatures with flying.",
+      "flavor": null,
+      "artist": "Phil Foglio",
+      "number": "3",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "1997-05-01",
+      "starter": null,
+      "printings": [
+        "POR",
+        "pPOD"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": null,
+      "image_url": null,
+      "set": "pPOD",
+      "set_name": "Portal Demo Game",
+      "id": "81fea19e481511aeb53f2ca154cf4961e61c3fc5",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "Pirate des nuages",
+          "language": "French"
+        },
+        {
+          "name": "Wolkenpiraten",
+          "language": "German"
+        },
+        {
+          "name": "Pirata de las nubers",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Feral Shadow",
+      "layout": "normal",
+      "mana_cost": "{2}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Nightstalker",
+      "supertypes": null,
+      "subtypes": [
+        "Nightstalker"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Flying",
+      "flavor": "Not all shadows are cast by light\u2014some are cast by darkness.",
+      "artist": "Colin MacNeil",
+      "number": "4",
+      "power": "2",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "1997-05-01",
+      "starter": null,
+      "printings": [
+        "MIR",
+        "POR",
+        "pPOD",
+        "6ED",
+        "S99",
+        "BTD"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": null,
+      "image_url": null,
+      "set": "pPOD",
+      "set_name": "Portal Demo Game",
+      "id": "c7b12b8cef9867b68c60c8d8313c60e1f0a1b60e",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "M\u00e2nes funestes",
+          "language": "French"
+        },
+        {
+          "name": "Wildschatten",
+          "language": "German"
+        },
+        {
+          "name": "Ombra Ferale",
+          "language": "Italian"
+        },
+        {
+          "name": "Vulto Feroz",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "Sombra feral",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Snapping Drake",
+      "layout": "normal",
+      "mana_cost": "{3}{U}",
+      "cmc": 4,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Drake",
+      "supertypes": null,
+      "subtypes": [
+        "Drake"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Flying",
+      "flavor": "Drakes claim to be dragons\u2014until the dragons show up.",
+      "artist": "Christopher Rush",
+      "number": "5",
+      "power": "3",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "1997-05-01",
+      "starter": null,
+      "printings": [
+        "POR",
+        "pPOD",
+        "S99",
+        "BTD",
+        "RAV",
+        "10E",
+        "M10",
+        "DPA"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": null,
+      "image_url": null,
+      "set": "pPOD",
+      "set_name": "Portal Demo Game",
+      "id": "67268eeec446421b6e5f39a08df4ae5b2709b131",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u95ea\u5149\u9f99\u517d",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u9583\u5149\u9f8d\u7378",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Drak\u00f4n happeur",
+          "language": "French"
+        },
+        {
+          "name": "Schnappender Sceada",
+          "language": "German"
+        },
+        {
+          "name": "Draghetto Azzannatore",
+          "language": "Italian"
+        },
+        {
+          "name": "\u565b\u307f\u3064\u304d\u30c9\u30ec\u30a4\u30af",
+          "language": "Japanese"
+        },
+        {
+          "name": "Dragonete Trinchador",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041a\u0443\u0441\u0430\u0447\u0438\u0439 \u0414\u0440\u0435\u0439\u043a",
+          "language": "Russian"
+        },
+        {
+          "name": "Draco mordiente",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Storm Crow",
+      "layout": "normal",
+      "mana_cost": "{1}{U}",
+      "cmc": 2,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Bird",
+      "supertypes": null,
+      "subtypes": [
+        "Bird"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)",
+      "flavor": "Storm crow descending, winter unending. Storm crow departing, summer is starting.",
+      "artist": "Una Fricker",
+      "number": "6",
+      "power": "1",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "1997-05-01",
+      "starter": null,
+      "printings": [
+        "ALL",
+        "POR",
+        "pPOD",
+        "6ED",
+        "S99",
+        "7ED",
+        "8ED",
+        "9ED"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": null,
+      "image_url": null,
+      "set": "pPOD",
+      "set_name": "Portal Demo Game",
+      "id": "312923a554ea5e14cec3d034d3ba0cd8c9b7ac91",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u66b4\u98ce\u4e4c\u9e26",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u66b4\u98a8\u70cf\u9d09",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Corbeau de l'orage",
+          "language": "French"
+        },
+        {
+          "name": "Sturmkr\u00e4he",
+          "language": "German"
+        },
+        {
+          "name": "Corvo delle Tempeste",
+          "language": "Italian"
+        },
+        {
+          "name": "\u5d50\u96f2\u306e\u30ab\u30e9\u30b9",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ud3ed\ud48d \uae4c\ub9c8\uadc0",
+          "language": "Korean"
+        },
+        {
+          "name": "Corvo da Tempestade",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0412\u0435\u0441\u0442\u043d\u0438\u043a \u043d\u0435\u043d\u0430\u0441\u0442\u044c\u044f",
+          "language": "Russian"
+        },
+        {
+          "name": "Cuervo de la tempestad",
+          "language": "Spanish"
+        }
+      ]
+    }
+  ]
+}

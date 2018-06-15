@@ -1,0 +1,4226 @@
+{
+  "code": "MPS",
+  "name": "Masterpiece Series: Kaladesh Inventions",
+  "type": "masterpiece",
+  "border": "black",
+  "mkm_id": null,
+  "mkm_name": null,
+  "release_date": "2016-09-30",
+  "gatherer_code": "MPS_KLD",
+  "magic_cards_info_code": "mpskld",
+  "booster": null,
+  "old_code": null,
+  "block": null,
+  "online_only": null,
+  "cards": [
+    {
+      "name": "Cataclysmic Gearhulk",
+      "layout": "normal",
+      "mana_cost": "{3}{W}{W}",
+      "cmc": 5,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Artifact Creature \u2014 Construct",
+      "supertypes": null,
+      "subtypes": [
+        "Construct"
+      ],
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Vigilance\nWhen Cataclysmic Gearhulk enters the battlefield, each player chooses an artifact, a creature, an enchantment, and a planeswalker from among the nonland permanents they control, then sacrifices the rest.",
+      "flavor": null,
+      "artist": "Jason Rainville",
+      "number": "1",
+      "power": "4",
+      "toughness": "5",
+      "loyalty": null,
+      "multiverse_id": 420588,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "KLD",
+        "MPS"
+      ],
+      "original_text": "Vigilance\nWhen Cataclysmic Gearhulk enters the battlefield, each player chooses an artifact, a creature, an enchantment, and a planeswalker from among the nonland permanents he or she controls, then sacrifices the rest.",
+      "original_type": "Artifact Creature \u2014 Construct",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=420588&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "6e31c776dd650501ca8d0c64da5deedfe6397726",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2016-09-20",
+          "text": "First the player whose turn it is chooses permanents they control, then each other player in turn order does the same. Each player will know the choices made by players who chose before them. All of the unchosen nonland permanents are then sacrificed simultaneously."
+        },
+        {
+          "date": "2016-09-20",
+          "text": "A permanent with more than one type may be chosen as either of the types or both. For example, an artifact creature may be chosen as the artifact, the creature, or both. Choosing the same permanent twice this way has the same result as choosing it once."
+        },
+        {
+          "date": "2016-09-20",
+          "text": "Cataclysmic Gearhulk will be sacrificed to its own ability if you don't choose it as your artifact or your creature."
+        },
+        {
+          "date": "2016-09-20",
+          "text": "Lands can't be chosen and won't be sacrificed, even if they have other types (such as an artifact land)."
+        },
+        {
+          "date": "2016-09-20",
+          "text": "If you don't control any permanents of one of the types, you'll still choose the permanents of the types you do control."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Torrential Gearhulk",
+      "layout": "normal",
+      "mana_cost": "{4}{U}{U}",
+      "cmc": 6,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Artifact Creature \u2014 Construct",
+      "supertypes": null,
+      "subtypes": [
+        "Construct"
+      ],
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Flash\nWhen Torrential Gearhulk enters the battlefield, you may cast target instant card from your graveyard without paying its mana cost. If that card would be put into your graveyard this turn, exile it instead.",
+      "flavor": null,
+      "artist": "Jakub Kasper",
+      "number": "2",
+      "power": "5",
+      "toughness": "6",
+      "loyalty": null,
+      "multiverse_id": 420589,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "KLD",
+        "MPS"
+      ],
+      "original_text": "Flash\nWhen Torrential Gearhulk enters the battlefield, you may cast target instant card from your graveyard without paying its mana cost. If that card would be put into your graveyard this turn, exile it instead.",
+      "original_type": "Artifact Creature \u2014 Construct",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=420589&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "a90dff1487009c415c591455cf68bf828d98cc9f",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2016-09-20",
+          "text": "If you cast the card, you do so as part of the resolution of Torrential Gearhulk's triggered ability. You can't wait to cast it later in the turn. Timing restrictions (such as \"Cast [this card] only during combat\") still apply."
+        },
+        {
+          "date": "2016-09-20",
+          "text": "If you cast a card \"without paying its mana cost,\" you can't choose to cast it for any alternative costs, such as emerge costs. You can, however, pay additional costs. If the card has any mandatory additional costs, such as that of Incendiary Sabotage, you must pay those to cast the card."
+        },
+        {
+          "date": "2016-09-20",
+          "text": "If the card has {X} in its mana cost, you must choose 0 as the value of X when casting it without paying its mana cost."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Noxious Gearhulk",
+      "layout": "normal",
+      "mana_cost": "{4}{B}{B}",
+      "cmc": 6,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Artifact Creature \u2014 Construct",
+      "supertypes": null,
+      "subtypes": [
+        "Construct"
+      ],
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Menace\nWhen Noxious Gearhulk enters the battlefield, you may destroy another target creature. If a creature is destroyed this way, you gain life equal to its toughness.",
+      "flavor": null,
+      "artist": "Vincent Proce",
+      "number": "3",
+      "power": "5",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": 420590,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "KLD",
+        "MPS"
+      ],
+      "original_text": "Menace\nWhen Noxious Gearhulk enters the battlefield, you may destroy another target creature. If a creature is destroyed this way, you gain life equal to its toughness.",
+      "original_type": "Artifact Creature \u2014 Construct",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=420590&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "171e6ecb0ce14e8239eafeb534fbcb77dd8aa4d0",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2016-09-20",
+          "text": "Use the toughness of the creature as it last existed on the battlefield to determine how much life to gain."
+        },
+        {
+          "date": "2016-09-20",
+          "text": "If the target creature has indestructible, it isn't destroyed this way and you won't gain life. If it is destroyed but put into a zone other than a graveyard, you'll gain life."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Combustible Gearhulk",
+      "layout": "normal",
+      "mana_cost": "{4}{R}{R}",
+      "cmc": 6,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Artifact Creature \u2014 Construct",
+      "supertypes": null,
+      "subtypes": [
+        "Construct"
+      ],
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "First strike\nWhen Combustible Gearhulk enters the battlefield, target opponent may have you draw three cards. If the player doesn't, put the top three cards of your library into your graveyard, then Combustible Gearhulk deals damage to that player equal to the total converted mana cost of those cards.",
+      "flavor": null,
+      "artist": "Greg Opalinski",
+      "number": "4",
+      "power": "6",
+      "toughness": "6",
+      "loyalty": null,
+      "multiverse_id": 420591,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "KLD",
+        "MPS"
+      ],
+      "original_text": "First strike\nWhen Combustible Gearhulk enters the battlefield, target opponent may have you draw three cards. If the player doesn't, put the top three cards of your library into your graveyard, then Combustible Gearhulk deals damage to that player equal to the total converted mana cost of those cards.",
+      "original_type": "Artifact Creature \u2014 Construct",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=420591&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "da629bebb15dc2e2c9dc15a8781d61bd2a56bfd9",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2016-09-20",
+          "text": "If any of the cards put into your graveyard have {X} in their mana cost, X is considered to be 0."
+        },
+        {
+          "date": "2016-09-20",
+          "text": "If you have fewer than three cards in your library, the opponent may choose to have you draw three cards. If so, you'll lose the game as state-based actions are performed."
+        },
+        {
+          "date": "2016-09-20",
+          "text": "While Combustible Gearhulk's triggered ability is resolving, no player may take any actions other than those specified by the Gearhulk. Once the opponent makes a choice, players can't cast spells or activate abilities until after the cards are drawn or put into the graveyard and damage has been dealt (if applicable)."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Verdurous Gearhulk",
+      "layout": "normal",
+      "mana_cost": "{3}{G}{G}",
+      "cmc": 5,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Artifact Creature \u2014 Construct",
+      "supertypes": null,
+      "subtypes": [
+        "Construct"
+      ],
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Trample\nWhen Verdurous Gearhulk enters the battlefield, distribute four +1/+1 counters among any number of target creatures you control.",
+      "flavor": null,
+      "artist": "Zack Stella",
+      "number": "5",
+      "power": "4",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": 420592,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "KLD",
+        "MPS"
+      ],
+      "original_text": "Trample\nWhen Verdurous Gearhulk enters the battlefield, distribute four +1/+1 counters among any number of target creatures you control.",
+      "original_type": "Artifact Creature \u2014 Construct",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=420592&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "5fb6ab512a68b65922c2c8807105ea364a4b6379",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2016-09-20",
+          "text": "You choose how the counters will be distributed as you put Verdurous Gearhulk's triggered ability onto the stack. Each target creature must be assigned at least one counter."
+        },
+        {
+          "date": "2016-09-20",
+          "text": "If one of the target creatures becomes an illegal target in response to Verdurous Gearhulk's triggered ability, the +1/+1 counters that would have been put on that creature are lost. They can't be put on another legal target."
+        },
+        {
+          "date": "2016-09-20",
+          "text": "Verdurous Gearhulk can be the target of its own triggered ability."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Aether Vial",
+      "layout": "normal",
+      "mana_cost": "{1}",
+      "cmc": 1,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "At the beginning of your upkeep, you may put a charge counter on Aether Vial.\n{T}: You may put a creature card with converted mana cost equal to the number of charge counters on Aether Vial from your hand onto the battlefield.",
+      "flavor": null,
+      "artist": "Raoul Vitale",
+      "number": "6",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 420593,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "DST",
+        "V10",
+        "MMA",
+        "MPS",
+        "IMA"
+      ],
+      "original_text": "At the beginning of your upkeep, you may put a charge counter on Aether Vial.\n{T}: You may put a creature card with converted mana cost equal to the number of charge counters on Aether Vial from your hand onto the battlefield.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=420593&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "93012e8047382c0d90947c323f0737ddd446cf8e",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Banned"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2017-11-17",
+          "text": "If Aether Vial leaves the battlefield while its second ability is on the stack, use its last known number of charge counters to determine what you may put from your hand onto the battlefield."
+        },
+        {
+          "date": "2017-11-17",
+          "text": "If a card in a player's hand has {X} in its mana cost, X is considered to be 0."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Champion's Helm",
+      "layout": "normal",
+      "mana_cost": "{3}",
+      "cmc": 3,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact \u2014 Equipment",
+      "supertypes": null,
+      "subtypes": [
+        "Equipment"
+      ],
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "Equipped creature gets +2/+2.\nAs long as equipped creature is legendary, it has hexproof. (It can't be the target of spells or abilities your opponents control.)\nEquip {1}",
+      "flavor": "Adi Thandray designed this helm as a tribute to his mentor, the great Daljit Gavaskar.",
+      "artist": "Lindsey Look",
+      "number": "7",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 420594,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "CMD",
+        "MPS"
+      ],
+      "original_text": "Equipped creature gets +2/+2.\nAs long as equipped creature is legendary, it has hexproof.\nEquip {1}",
+      "original_type": "Artifact \u2014 Equipment",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=420594&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "1b4e4290324b2080d4f1d0c3f4cb480a56f293df",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2011-09-22",
+          "text": "It's possible for a Champion's Helm you control to be attached to a creature an opponent controls (if an opponent gains control of your equipped creature, for example). In this case, the creature couldn't be the target of spells or abilities you control, as you are an opponent of the controller of the creature with hexproof."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Chromatic Lantern",
+      "layout": "normal",
+      "mana_cost": "{3}",
+      "cmc": 3,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "Lands you control have \"{T}: Add one mana of any color.\"\n{T}: Add one mana of any color.",
+      "flavor": "It exemplifies the motto of the Luminary League: \"Innovation requires insatiable curiosity and a good source of light.\"",
+      "artist": "Yeong-Hao Han",
+      "number": "8",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 420595,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "RTR",
+        "MPS",
+        "C16"
+      ],
+      "original_text": "Lands you control have \"{T}: Add one mana of any color to your mana pool.\"\n{T}: Add one mana of any color to your mana pool.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=420595&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "fab5d5159f39291b6d2303d26831eea8205644f9",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2012-10-01",
+          "text": "Lands you control won't lose any other abilities they had. They also won't gain or lose any land types."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Chrome Mox",
+      "layout": "normal",
+      "mana_cost": "{0}",
+      "cmc": 0,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "Imprint \u2014 When Chrome Mox enters the battlefield, you may exile a nonartifact, nonland card from your hand.\n{T}: Add one mana of any of the exiled card's colors.",
+      "flavor": null,
+      "artist": "Kieran Yanner",
+      "number": "9",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 420596,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MRD",
+        "pGPX",
+        "EMA",
+        "MPS"
+      ],
+      "original_text": "Imprint \u2014 When Chrome Mox enters the battlefield, you may exile a nonartifact, nonland card from your hand.\n{T}: Add one mana of any of the exiled card's colors to your mana pool.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=420596&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "3dd5802d56ed2fdaeaf7895ca5d1185b908efb93",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Banned"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2016-06-08",
+          "text": "If no card is imprinted on Chrome Mox, it can't add mana to your mana pool. It can never add colorless mana to your mana pool, even if the imprinted card has a colorless mana symbol in its mana cost."
+        },
+        {
+          "date": "2016-06-08",
+          "text": "If you imprinted a multicolored card, you choose one of that card's colors each time Chrome Mox's ability resolves."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Cloudstone Curio",
+      "layout": "normal",
+      "mana_cost": "{3}",
+      "cmc": 3,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "Whenever a nonartifact permanent enters the battlefield under your control, you may return another permanent you control that shares a permanent type with it to its owner's hand.",
+      "flavor": "With innovative stabilizing techniques, Suja Pavani brings this piece of the sky itself to the Inventors' Fair.",
+      "artist": "Noah Bradley",
+      "number": "10",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 420597,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "RAV",
+        "MPS"
+      ],
+      "original_text": "Whenever a nonartifact permanent enters the battlefield under your control, you may return another permanent you control that shares a permanent type with it to its owner's hand.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=420597&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "6edd966f52d257a930310661a8b4a043398de7c5",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Crucible of Worlds",
+      "layout": "normal",
+      "mana_cost": "{3}",
+      "cmc": 3,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "You may play land cards from your graveyard.",
+      "flavor": "By isolating liquid aether at room temperature, foundry hand Jitya Reyath has given us a glimpse of raw aetheric matter\u2014the very stuff of the cosmos.",
+      "artist": "Chris Rahn",
+      "number": "11",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 420598,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pJGP",
+        "5DN",
+        "10E",
+        "MPS"
+      ],
+      "original_text": "You may play land cards from your graveyard.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=420598&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "c44eddd9f07d7268424b64307bd9d2a2a6c51884",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-12-01",
+          "text": "Crucible of Worlds allows you to play land cards from your graveyard as well as from your hand."
+        },
+        {
+          "date": "2004-12-01",
+          "text": "Crucible of Worlds doesn't change the times when you can play those land cards. You can still play only one land per turn, and only during your main phase when you have priority and the stack is empty."
+        },
+        {
+          "date": "2004-12-01",
+          "text": "Crucible of Worlds doesn't allow you to activate activated abilities (such as cycling) of land cards in your graveyard."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Gauntlet of Power",
+      "layout": "normal",
+      "mana_cost": "{5}",
+      "cmc": 5,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "As Gauntlet of Power enters the battlefield, choose a color.\nCreatures of the chosen color get +1/+1.\nWhenever a basic land is tapped for mana of the chosen color, its controller adds an additional one mana of that color.",
+      "flavor": null,
+      "artist": "John Severin Brassell",
+      "number": "12",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 420599,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "TSP",
+        "MPS"
+      ],
+      "original_text": "As Gauntlet of Power enters the battlefield, choose a color.\nCreatures of the chosen color get +1/+1.\nWhenever a basic land is tapped for mana of the chosen color, its controller adds one mana of that color to his or her mana pool.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=420599&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "ad6e06d965562356819bdd93e4f95aef92500027",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Hangarback Walker",
+      "layout": "normal",
+      "mana_cost": "{X}{X}",
+      "cmc": 0,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact Creature \u2014 Construct",
+      "supertypes": null,
+      "subtypes": [
+        "Construct"
+      ],
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Hangarback Walker enters the battlefield with X +1/+1 counters on it.\nWhen Hangarback Walker dies, create a 1/1 colorless Thopter artifact creature token with flying for each +1/+1 counter on Hangarback Walker.\n{1}, {T}: Put a +1/+1 counter on Hangarback Walker.",
+      "flavor": null,
+      "artist": "Adam Paquette",
+      "number": "13",
+      "power": "0",
+      "toughness": "0",
+      "loyalty": null,
+      "multiverse_id": 420600,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ORI",
+        "MPS"
+      ],
+      "original_text": "Hangarback Walker enters the battlefield with X +1/+1 counters on it.\nWhen Hangarback Walker dies, create a 1/1 colorless Thopter artifact creature token with flying for each +1/+1 counter on Hangarback Walker.\n{1}, {T}: Put a +1/+1 counter on Hangarback Walker.",
+      "original_type": "Artifact Creature \u2014 Construct",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=420600&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "3dd900968b2b00c4d76268ddb4277aab4530c557",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2015-06-22",
+          "text": "The value of each X in Hangarback Walker's mana cost must be equal. For example, if X is 2, you'll pay {4} to cast Hangarback Walker and it will enter the battlefield with two +1/+1 counters on it."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "If enough -1/-1 counters are put on Hangarback Walker at the same time to make its toughness 0 or less, the number of +1/+1 counters on it before it got any -1/-1 counters will be used to determine how many Thopter tokens you get. For example, if there are three +1/+1 counters on Hangarback Walker and it gets four -1/-1 counters, you'll get three Thopter tokens. That's because Hangarback Walker's triggered ability checks the creature's existence just before it leaves the battlefield, and it still has all those counters on it at that point."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Lightning Greaves",
+      "layout": "normal",
+      "mana_cost": "{2}",
+      "cmc": 2,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact \u2014 Equipment",
+      "supertypes": null,
+      "subtypes": [
+        "Equipment"
+      ],
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "Equipped creature has haste and shroud. (It can't be the target of spells or abilities.)\nEquip {0}",
+      "flavor": "This matched set incorporates aetheric accelerators and deflection matrices in an elegant, wearable design.",
+      "artist": "Slawomir Maniak",
+      "number": "14",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 420601,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pFNM",
+        "MRD",
+        "DDE",
+        "ARC",
+        "CMD",
+        "C15",
+        "MPS",
+        "C16",
+        "CMA",
+        "C17"
+      ],
+      "original_text": "Equipped creature has haste and shroud.\nEquip {0}",
+      "original_type": "Artifact \u2014 Equipment",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=420601&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "4800236134e026c9bc6f1f2f083dc1d2f81dc646",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "You are not allowed to \"unequip\" equipment from a creature. If Lightning Greaves is attached to the only creature you control, you won't be able to attach other equipment to it (or target it with anything else) until you have another creature onto which you can move Lightning Greaves."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Lotus Petal",
+      "layout": "normal",
+      "mana_cost": "{0}",
+      "cmc": 0,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "{T}, Sacrifice Lotus Petal: Add one mana of any color.",
+      "flavor": "Each of these intricate mechanical petals stores enough power to supply all of Ghirapur, if only for a fleeting moment.",
+      "artist": "Slawomir Maniak",
+      "number": "15",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 420602,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "TMP",
+        "V09",
+        "TPR",
+        "MPS"
+      ],
+      "original_text": "{T}, Sacrifice Lotus Petal: Add one mana of any color to your mana pool.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=420602&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "918aa0f2704c7e02f33e0ea7087c219bdbe22d4a",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Restricted"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Mana Crypt",
+      "layout": "normal",
+      "mana_cost": "{0}",
+      "cmc": 0,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "At the beginning of your upkeep, flip a coin. If you lose the flip, Mana Crypt deals 3 damage to you.\n{T}: Add {C}{C}.",
+      "flavor": "An utterly silent chamber, submitted by an artificer who wished to remain anonymous.",
+      "artist": "Volkan Baga",
+      "number": "16",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 420603,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pMEI",
+        "pJGP",
+        "ME2",
+        "VMA",
+        "EMA",
+        "MPS"
+      ],
+      "original_text": "At the beginning of your upkeep, flip a coin. If you lose the flip, Mana Crypt deals 3 damage to you.\n{T}: Add {C}{C} to your mana pool.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=420603&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "81c4c5dfd6b0f01778ed5ff4fd8fd2c504727d76",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Banned"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Restricted"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2016-06-08",
+          "text": "No player may choose to take actions between determining the result of the flip and damage being dealt if you lost the flip."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Mana Vault",
+      "layout": "normal",
+      "mana_cost": "{1}",
+      "cmc": 1,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "Mana Vault doesn't untap during your untap step.\nAt the beginning of your upkeep, you may pay {4}. If you do, untap Mana Vault.\nAt the beginning of your draw step, if Mana Vault is tapped, it deals 1 damage to you.\n{T}: Add {C}{C}{C}.",
+      "flavor": null,
+      "artist": "Kirsten Zirngibl",
+      "number": "17",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 420604,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "5ED",
+        "ME4",
+        "VMA",
+        "MPS"
+      ],
+      "original_text": "Mana Vault doesn't untap during your untap step.\nAt the beginning of your upkeep, you may pay {4}. If you do, untap Mana Vault.\nAt the beginning of your draw step, if Mana Vault is tapped, it deals 1 damage to you.\n{T}: Add {C}{C}{C} to your mana pool.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=420604&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "bbf012f7debf56e6f57370de5f15cbc1523e7143",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Banned"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Restricted"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Mind's Eye",
+      "layout": "normal",
+      "mana_cost": "{5}",
+      "cmc": 5,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "Whenever an opponent draws a card, you may pay {1}. If you do, draw a card.",
+      "flavor": "Developed and tested by researchers at the Consulate's House of Knowledge, these devices allow anyone to see with a visionary's eye.",
+      "artist": "David Gaillet",
+      "number": "18",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 420605,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MRD",
+        "CM1",
+        "MPS"
+      ],
+      "original_text": "Whenever an opponent draws a card, you may pay {1}. If you do, draw a card.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=420605&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "fdd58e78bed7de6d9a7e51f57b33450b6c44d9de",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Mox Opal",
+      "layout": "normal",
+      "mana_cost": "{0}",
+      "cmc": 0,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Legendary Artifact",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "Metalcraft \u2014 {T}: Add one mana of any color. Activate this ability only if you control three or more artifacts.",
+      "flavor": "On loan from a private collection, this unique mechanism extracts power from a carefully prepared gemstone.",
+      "artist": "Chris Rahn",
+      "number": "19",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 420606,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "SOM",
+        "MM2",
+        "MPS"
+      ],
+      "original_text": "Metalcraft \u2014 {T}: Add one mana of any color to your mana pool. Activate this ability only if you control three or more artifacts.",
+      "original_type": "Legendary Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=420606&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "1268094fa77483500d12d942e0c8d860e8b411c4",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Painter's Servant",
+      "layout": "normal",
+      "mana_cost": "{2}",
+      "cmc": 2,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact Creature \u2014 Scarecrow",
+      "supertypes": null,
+      "subtypes": [
+        "Scarecrow"
+      ],
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "As Painter's Servant enters the battlefield, choose a color.\nAll cards that aren't on the battlefield, spells, and permanents are the chosen color in addition to their other colors.",
+      "flavor": "This whimsical automaton helps create beautiful murals, then stands guard as they dry.",
+      "artist": "Magali Villeneuve",
+      "number": "20",
+      "power": "1",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": 420607,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "SHM",
+        "MPS"
+      ],
+      "original_text": "As Painter's Servant enters the battlefield, choose a color.\nAll cards that aren't on the battlefield, spells, and permanents are the chosen color in addition to their other colors.",
+      "original_type": "Artifact Creature \u2014 Scarecrow",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=420607&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "7482087f2c709ee20bf1d660d3b57f31bb426cb7",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Banned"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-05-01",
+          "text": "This ability affects every card in every game zone, all tokens on the battlefield, and all spell copies on the stack, regardless of who controls or owns them."
+        },
+        {
+          "date": "2008-05-01",
+          "text": "This ability doesn't overwrite any previous colors. Rather, it adds another color."
+        },
+        {
+          "date": "2008-05-01",
+          "text": "The effects of multiple Painter's Servants are cumulative."
+        },
+        {
+          "date": "2008-05-01",
+          "text": "While Painter's Servant is on the battlefield, an effect that changes an object's colors will overwrite Painter's Servant's effect. For example, casting Cerulean Wisps on a creature will turn it blue, regardless of the color chosen for Painter's Servant."
+        },
+        {
+          "date": "2008-05-01",
+          "text": "Each card becomes a new object as it changes zones, so this effect will apply to it from scratch in the new zone. Zone-change replacement abilities that care about the new color (like \"[color] permanents enter the battlefield tapped\") won't work because those effects are applied as the card is entering its new zone. Zone-change triggered abilities that care about the new color (like \"when a [color] permanent enters the battlefield\" or \"when you cast a [color] spell\") will work because those effects apply after the card is already in its new zone."
+        },
+        {
+          "date": "2008-05-01",
+          "text": "If something affected by Painter's Servant is normally colorless, it will simply be the new color. It won't be both the new color and colorless."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Rings of Brighthearth",
+      "layout": "normal",
+      "mana_cost": "{3}",
+      "cmc": 3,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "Whenever you activate an ability, if it isn't a mana ability, you may pay {2}. If you do, copy that ability. You may choose new targets for the copy.",
+      "flavor": "Crafted in emulation of dwarven hearth decorations, these devices doubled the output of Amrit Vatyam's forges.",
+      "artist": "Yeong-Hao Han",
+      "number": "21",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 420608,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LRW",
+        "MPS"
+      ],
+      "original_text": "Whenever you activate an ability, if it isn't a mana ability, you may pay {2}. If you do, copy that ability. You may choose new targets for the copy.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=420608&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "2d91c37a6f741ca69365a1282445c6ba90e8da0f",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "A mana ability is an ability that (1) isn't a loyalty ability, (2) doesn't target, and (3) could put mana into a player's mana pool when it resolves."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Scroll Rack",
+      "layout": "normal",
+      "mana_cost": "{2}",
+      "cmc": 2,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "{1}, {T}: Exile any number of cards from your hand face down. Put that many cards from the top of your library into your hand. Then look at the exiled cards and put them on top of your library in any order.",
+      "flavor": null,
+      "artist": "Jason A. Engle",
+      "number": "22",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 420609,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "TMP",
+        "CM1",
+        "MPS"
+      ],
+      "original_text": "{1}, {T}: Exile any number of cards from your hand face down. Put that many cards from the top of your library into your hand. Then look at the exiled cards and put them on top of your library in any order.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=420609&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "7dd08fcec7de251c11e1da95ee74fdf27f7ca5d2",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "If there are not enough cards in the library, you do not lose. This is not a draw effect. You just get as many cards as are there, even if there are zero cards in the library."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Sculpting Steel",
+      "layout": "normal",
+      "mana_cost": "{3}",
+      "cmc": 3,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "You may have Sculpting Steel enter the battlefield as a copy of any artifact on the battlefield.",
+      "flavor": "Perfected by the kinetic sculptor Shanti Makam, these self-assembling metal strands can be coaxed into any shape imaginable.",
+      "artist": "Magali Villeneuve",
+      "number": "23",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 420610,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MRD",
+        "10E",
+        "MPS"
+      ],
+      "original_text": "You may have Sculpting Steel enter the battlefield as a copy of any artifact on the battlefield.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=420610&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "b120635d86e2a8e594ace6eee47e95a78a29ed32",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-12-01",
+          "text": "Any enters-the-battlefield abilities of the copied artifact will trigger when Sculpting Steel enters the battlefield. Any \"as enters the battlefield\" or \"enters the battlefield with\" abilities of the chosen artifact will also work. For example, if Sculpting Steel copies an artifact creature with sunburst, the copy will get +1/+1 counters based on the number of different colors of mana used to pay Sculpting Steel's total cost. If Sculpting Steel copies a noncreature artifact with sunburst, the copy will get charge counters based on the number of different colors of mana used to pay Sculpting Steel's total cost."
+        },
+        {
+          "date": "2007-07-15",
+          "text": "Sculpting Steel doesn't copy whether the original artifact is tapped or untapped. It also doesn't copy any counters on that artifact, any Auras or Equipment attached to that artifact, or any effects that are currently affecting that artifact \u2014 you get exactly what's printed on the chosen card and nothing more. So if you copy an animated Chimeric Staff, for example, you get a normal, nonanimated Chimeric Staff."
+        },
+        {
+          "date": "2007-07-15",
+          "text": "If the chosen artifact is copying something else (for example, if the chosen artifact is another Sculpting Steel), then your Sculpting Steel enters the battlefield as whatever the chosen artifact copied."
+        },
+        {
+          "date": "2007-07-15",
+          "text": "If the chosen artifact is a token, your Sculpting Steel copies the original characteristics of that token as stated by the effect that put it onto the battlefield. Your Sculpting Steel is not considered to be a token."
+        },
+        {
+          "date": "2007-07-15",
+          "text": "You can choose not to copy anything. In that case, Sculpting Steel stays on the battlefield as an artifact that doesn't do much of anything."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Sol Ring",
+      "layout": "normal",
+      "mana_cost": "{1}",
+      "cmc": 1,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "{T}: Add {C}{C}.",
+      "flavor": "It took the reclusive Venya Sangmi a lifetime to realize her childhood vision: a band of sunlight made solid.",
+      "artist": "Volkan Baga",
+      "number": "24",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 420611,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "pJGP",
+        "V10",
+        "ME4",
+        "CMD",
+        "C13",
+        "VMA",
+        "C14",
+        "C15",
+        "MPS",
+        "C16",
+        "CMA",
+        "C17"
+      ],
+      "original_text": "{T}: Add {C}{C} to your mana pool.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=420611&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "54d97af7b7dc21e49624332ac05a9927325dad8f",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Banned"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Restricted"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Solemn Simulacrum",
+      "layout": "normal",
+      "mana_cost": "{4}",
+      "cmc": 4,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact Creature \u2014 Golem",
+      "supertypes": null,
+      "subtypes": [
+        "Golem"
+      ],
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "When Solemn Simulacrum enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.\nWhen Solemn Simulacrum dies, you may draw a card.",
+      "flavor": null,
+      "artist": "Daarken",
+      "number": "25",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 420612,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MRD",
+        "CMD",
+        "M12",
+        "C14",
+        "C15",
+        "MPS",
+        "C16",
+        "DDU"
+      ],
+      "original_text": "When Solemn Simulacrum enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.\nWhen Solemn Simulacrum dies, you may draw a card.",
+      "original_type": "Artifact Creature \u2014 Golem",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=420612&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "75e04260b8d2d734d7fb9ba3dede4c34e6018594",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Static Orb",
+      "layout": "normal",
+      "mana_cost": "{3}",
+      "cmc": 3,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "As long as Static Orb is untapped, players can't untap more than two permanents during their untap steps.",
+      "flavor": "Reduction of energy and motion within the stasis field creates the illusion of slowed time.",
+      "artist": "Tommy Arnold",
+      "number": "26",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 420613,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "TMP",
+        "7ED",
+        "MPS"
+      ],
+      "original_text": "As long as Static Orb is untapped, players can't untap more than two permanents during their untap steps.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=420613&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "c32fc7b5006d734aa2e3914fb373b66cec422639",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "If there are two of these on the battlefield, they do not add together. The result is that only two permanents can be untapped."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Steel Overseer",
+      "layout": "normal",
+      "mana_cost": "{2}",
+      "cmc": 2,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact Creature \u2014 Construct",
+      "supertypes": null,
+      "subtypes": [
+        "Construct"
+      ],
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "{T}: Put a +1/+1 counter on each artifact creature you control.",
+      "flavor": "In an unusual foray into the humanoid form, Venand Kapur\u2014known as the Gearherder\u2014built this automaton to keep watch over his clockwork herds.",
+      "artist": "Adam Paquette",
+      "number": "27",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 420614,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "M11",
+        "DDF",
+        "MPS"
+      ],
+      "original_text": "{T}: Put a +1/+1 counter on each artifact creature you control.",
+      "original_type": "Artifact Creature \u2014 Construct",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=420614&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "599c0573e3ceaa869b9178ba70ed81f5132934fa",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2010-08-15",
+          "text": "Steel Overseer is affected by its own ability (assuming that, by the time the ability resolves, you still control Steel Overseer and its types haven't changed). You'll put a +1/+1 counter on it, as well as on each other artifact creature you control."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Sword of Feast and Famine",
+      "layout": "normal",
+      "mana_cost": "{3}",
+      "cmc": 3,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact \u2014 Equipment",
+      "supertypes": null,
+      "subtypes": [
+        "Equipment"
+      ],
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "Equipped creature gets +2/+2 and has protection from black and from green.\nWhenever equipped creature deals combat damage to a player, that player discards a card and you untap all lands you control.\nEquip {2}",
+      "flavor": null,
+      "artist": "Steven Belledin",
+      "number": "28",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 420615,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pJGP",
+        "MBS",
+        "MD1",
+        "MPS"
+      ],
+      "original_text": "Equipped creature gets +2/+2 and has protection from black and from green.\nWhenever equipped creature deals combat damage to a player, that player discards a card and you untap all lands you control.\nEquip {2}",
+      "original_type": "Artifact \u2014 Equipment",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=420615&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "d7f1bca0cc9ae6f122203c81f05ac830dc015abc",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2011-06-01",
+          "text": "You'll untap all lands you control even if the player doesn't discard a card."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Sword of Fire and Ice",
+      "layout": "normal",
+      "mana_cost": "{3}",
+      "cmc": 3,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact \u2014 Equipment",
+      "supertypes": null,
+      "subtypes": [
+        "Equipment"
+      ],
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "Equipped creature gets +2/+2 and has protection from red and from blue.\nWhenever equipped creature deals combat damage to a player, Sword of Fire and Ice deals 2 damage to any target and you draw a card.\nEquip {2}",
+      "flavor": null,
+      "artist": "Volkan Baga",
+      "number": "29",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 420616,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pJGP",
+        "DST",
+        "MMA",
+        "MPS"
+      ],
+      "original_text": "Equipped creature gets +2/+2 and has protection from red and from blue.\nWhenever equipped creature deals combat damage to a player, Sword of Fire and Ice deals 2 damage to target creature or player and you draw a card.\nEquip {2}",
+      "original_type": "Artifact \u2014 Equipment",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=420616&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "e5b479dd9c4235dbd24798267b2048fc65775ff8",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-06-07",
+          "text": "The triggered ability has one target: the permanent or player to be dealt 2 damage. If that permanent or player is an illegal target when the ability tries to resolve, it won't resolve and none of its effects will happen. You won't draw a card."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Sword of Light and Shadow",
+      "layout": "normal",
+      "mana_cost": "{3}",
+      "cmc": 3,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact \u2014 Equipment",
+      "supertypes": null,
+      "subtypes": [
+        "Equipment"
+      ],
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "Equipped creature gets +2/+2 and has protection from white and from black.\nWhenever equipped creature deals combat damage to a player, you gain 3 life and you may return up to one target creature card from your graveyard to your hand.\nEquip {2}",
+      "flavor": null,
+      "artist": "Matt Stewart",
+      "number": "30",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 420617,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pJGP",
+        "DST",
+        "MMA",
+        "MPS"
+      ],
+      "original_text": "Equipped creature gets +2/+2 and has protection from white and from black.\nWhenever equipped creature deals combat damage to a player, you gain 3 life and you may return up to one target creature card from your graveyard to your hand.\nEquip {2}",
+      "original_type": "Artifact \u2014 Equipment",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=420617&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "6ed92ea9022f50a4a6620784d2535df054e0d922",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-06-07",
+          "text": "You may put the triggered ability with no targets. However, If you choose a target creature in your graveyard, and that card is an illegal target when the ability tries to resolve, it won't resolve and none of its effects will happen. You won't gain 3 life."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Arcbound Ravager",
+      "layout": "normal",
+      "mana_cost": "{2}",
+      "cmc": 2,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact Creature \u2014 Beast",
+      "supertypes": null,
+      "subtypes": [
+        "Beast"
+      ],
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Sacrifice an artifact: Put a +1/+1 counter on Arcbound Ravager.\nModular 1 (This enters the battlefield with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)",
+      "flavor": "\"Top-performing automaton combatants are to be seized and modified for service.\"\n\u2014Confiscation directive",
+      "artist": "Daarken",
+      "number": "31",
+      "power": "0",
+      "toughness": "0",
+      "loyalty": null,
+      "multiverse_id": 425802,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "DST",
+        "MMA",
+        "MPS"
+      ],
+      "original_text": "Sacrifice an artifact: Put a +1/+1 counter on Arcbound Ravager.\nModular 1",
+      "original_type": "Artifact Creature \u2014 Beast",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=425802&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "82bceebff669dfc6c6af1e94f0fa13edc9dbc0ef",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Banned"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2006-09-25",
+          "text": "If this creature gets enough -1/-1 counters put on it to cause its toughness to be 0 or less (or the damage marked on it to be lethal), modular will put a number of +1/+1 counters on the target artifact creature equal to the number of +1/+1 counters on this creature before it left the battlefield."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Black Vise",
+      "layout": "normal",
+      "mana_cost": "{1}",
+      "cmc": 1,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "As Black Vise enters the battlefield, choose an opponent.\nAt the beginning of the chosen player's upkeep, Black Vise deals X damage to that player, where X is the number of cards in their hand minus 4.",
+      "flavor": null,
+      "artist": "Igor Kieryluk",
+      "number": "32",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 425803,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ME3",
+        "V10",
+        "MPS"
+      ],
+      "original_text": "As Black Vise enters the battlefield, choose an opponent.\nAt the beginning of the chosen player's upkeep, Black Vise deals X damage to that player, where X is the number of cards in his or her hand minus 4.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=425803&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "655a0c7abc9d8344362a5c4c9de5fe93ac0199a1",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "You choose one opposing player as it enters the battlefield and it only affects that one player. This choice is not changed even if Black Vise changes controllers. It becomes useless but stays on the battlefield if that player leaves the game."
+        },
+        {
+          "date": "2009-10-01",
+          "text": "If the chosen player has four or fewer cards in their hand as Black Vise's ability resolves, the ability just won't do anything that turn."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Chalice of the Void",
+      "layout": "normal",
+      "mana_cost": "{X}{X}",
+      "cmc": 0,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "Chalice of the Void enters the battlefield with X charge counters on it.\nWhenever a player casts a spell with converted mana cost equal to the number of charge counters on Chalice of the Void, counter that spell.",
+      "flavor": null,
+      "artist": "Kieran Yanner",
+      "number": "33",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 425804,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MRD",
+        "MMA",
+        "MPS",
+        "A25"
+      ],
+      "original_text": "Chalice of the Void enters the battlefield with X charge counters on it.\nWhenever a player casts a spell with converted mana cost equal to the number of charge counters on Chalice of the Void, counter that spell.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=425804&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "8aaa5caf3d671b0564e3975f0aed8d00409023ea",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Restricted"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2018-03-16",
+          "text": "A mana cost of {X}{X} means that you pay twice X. If you want X to be 3, you pay {6} to cast Chalice of the Void."
+        },
+        {
+          "date": "2018-03-16",
+          "text": "The number of counters on Chalice of the Void matters only at the time the spell is cast. Changing the number of charge counters on Chalice of the Void after a spell has been cast won't change whether the ability counters the spell."
+        },
+        {
+          "date": "2018-03-16",
+          "text": "If there are zero charge counters on Chalice of the Void, it counters each spell with a converted mana cost of 0. This includes face-down creature spells cast with morph's alternative cost."
+        },
+        {
+          "date": "2018-03-16",
+          "text": "Chalice of the Void has to be on the battlefield at the end of casting a spell for the ability to trigger. If you sacrifice Chalice of the Void as a cost to cast a spell, its ability can't trigger. However, if it leaves the battlefield once its ability has triggered, that ability will still counter the spell."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Defense Grid",
+      "layout": "normal",
+      "mana_cost": "{2}",
+      "cmc": 2,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "Each spell costs {3} more to cast except during its controller's turn.",
+      "flavor": "\"Woven together, strands of aether can form a mesh of surprising stability, though such a network tends to pull power from nearby devices.\"\n\u2014Consulate engineer's log",
+      "artist": "Jonas De Ro",
+      "number": "34",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 425805,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ULG",
+        "8ED",
+        "9ED",
+        "MPS"
+      ],
+      "original_text": "Each spell costs {3} more to cast except during its controller's turn.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=425805&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "b1bd06af32ab5c05eae3588f963199f2379daeff",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "The additional cost can be reduced by effects that reduce costs, such as Sapphire Medallion."
+        },
+        {
+          "date": "2006-05-01",
+          "text": "In Two-Headed Giant, spells don't cost extra on your own turn."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Duplicant",
+      "layout": "normal",
+      "mana_cost": "{6}",
+      "cmc": 6,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact Creature \u2014 Shapeshifter",
+      "supertypes": null,
+      "subtypes": [
+        "Shapeshifter"
+      ],
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Imprint \u2014 When Duplicant enters the battlefield, you may exile target nontoken creature.\nAs long as a card exiled with Duplicant is a creature card, Duplicant has the power, toughness, and creature types of the last creature card exiled with Duplicant. It's still a Shapeshifter.",
+      "flavor": null,
+      "artist": "Slawomir Maniak",
+      "number": "35",
+      "power": "2",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": 425806,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MRD",
+        "ARC",
+        "CM1",
+        "EMA",
+        "MPS"
+      ],
+      "original_text": "Imprint \u2014 When Duplicant enters the battlefield, you may exile target nontoken creature.\nAs long as a card exiled with Duplicant is a creature card, Duplicant has the power, toughness, and creature types of the last creature card exiled with Duplicant. It's still a Shapeshifter.",
+      "original_type": "Artifact Creature \u2014 Shapeshifter",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=425806&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "ffd0af070432b720fe0db85f30f6c525d6ad422b",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2016-06-08",
+          "text": "If no creature card is imprinted on Duplicant, it has its normal power, toughness, and creature type."
+        },
+        {
+          "date": "2016-06-08",
+          "text": "Duplicant's base power and toughness change to the imprinted card's power and toughness. Counters and other effects that modify Duplicant's power and toughness still apply."
+        },
+        {
+          "date": "2016-06-08",
+          "text": "Abilities that define a creature's power and toughness apply while that card is in exile, but abilities that add or subtract from it don't. For example, the ability of Battle Squadron applies to determine Duplicant's power and toughness, but the ability of Werebear doesn't. Duplicant's power and toughness are constantly updated if the exiled card's power and/or toughness change."
+        },
+        {
+          "date": "2016-06-08",
+          "text": "Duplicant keeps all creature types it had when the card was imprinted, including any types that Duplicant had gained."
+        },
+        {
+          "date": "2016-07-13",
+          "text": "If a melded permanent is exiled by Duplicant's triggered ability, that ability's controller chooses the relative timestamp of the two meld cards. Duplicant looks at the information of the one with the later timestamp."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Engineered Explosives",
+      "layout": "normal",
+      "mana_cost": "{X}",
+      "cmc": 0,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "Sunburst (This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)\n{2}, Sacrifice Engineered Explosives: Destroy each nonland permanent with converted mana cost equal to the number of charge counters on Engineered Explosives.",
+      "flavor": null,
+      "artist": "James Paick",
+      "number": "36",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 425807,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "5DN",
+        "MMA",
+        "MPS"
+      ],
+      "original_text": "Sunburst\n{2}, Sacrifice Engineered Explosives: Destroy each nonland permanent with converted mana cost equal to the number of charge counters on Engineered Explosives.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=425807&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "ef66ab3061cf5ce88aa01e8ece184e17c711f328",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-12-01",
+          "text": "If Engineered Explosives had no charge counters on it when you sacrificed it, it won't destroy an animated land, because that permanent is a land in addition to being a creature."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Ensnaring Bridge",
+      "layout": "normal",
+      "mana_cost": "{3}",
+      "cmc": 3,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "Creatures with power greater than the number of cards in your hand can't attack.",
+      "flavor": "\"With a few minor adjustments, we were able to convert sky-dock assisters into a defense system for the Aether Spire.\"\n\u2014Consulate engineer's log",
+      "artist": "Florian de Gesincourt",
+      "number": "37",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 425808,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "STH",
+        "7ED",
+        "8ED",
+        "MPS",
+        "A25"
+      ],
+      "original_text": "Creatures with power greater than the number of cards in your hand can't attack.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=425808&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "b89c5ba69a02f62f7631993cabf70bf97bc4199c",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2018-03-16",
+          "text": "Ensnaring Bridge's effect checks the number of cards in your hand only while a player (including you) is declaring attackers. Once a creature has legally attacked, changing its power or the number of cards in your hand won't remove it from combat."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Extraplanar Lens",
+      "layout": "normal",
+      "mana_cost": "{3}",
+      "cmc": 3,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "Imprint \u2014 When Extraplanar Lens enters the battlefield, you may exile target land you control.\nWhenever a land with the same name as the exiled card is tapped for mana, its controller adds one mana of any type that land produced.",
+      "flavor": null,
+      "artist": "Noah Bradley",
+      "number": "38",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 425809,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MRD",
+        "MPS"
+      ],
+      "original_text": "Imprint \u2014 When Extraplanar Lens enters the battlefield, you may exile target land you control.\nWhenever a land with the same name as the exiled card is tapped for mana, its controller adds one mana to his or her mana pool of any type that land produced.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=425809&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "97a7944b32789409680ae2f4cb959f00566f08b4",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Grindstone",
+      "layout": "normal",
+      "mana_cost": "{1}",
+      "cmc": 1,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "{3}, {T}: Target player puts the top two cards of their library into their graveyard. If both cards share a color, repeat this process.",
+      "flavor": "\"All attempts to halt the machine failed. We must find a way to repurpose it.\"\n\u2014Consulate engineer's log",
+      "artist": "Johann Bodin",
+      "number": "39",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 425810,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "TMP",
+        "TPR",
+        "MPS"
+      ],
+      "original_text": "{3}, {T}: Target player puts the top two cards of his or her library into his or her graveyard. If both cards share a color, repeat this process.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=425810&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "eb386587d936a63c14802c0289bf969416324cfc",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "If the two cards are both colorless, then the effect does not repeat. It only repeats if both cards have at least one color and at least one color is shared between them."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "The effect repeats as many times as it takes to meet the end condition."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Meekstone",
+      "layout": "normal",
+      "mana_cost": "{1}",
+      "cmc": 1,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "Creatures with power 3 or greater don't untap during their controllers' untap steps.",
+      "flavor": "\"When it oscillated above a particular frequency, the stone induced acute listlessness in several researchers.\"\n\u2014Consulate engineer's log",
+      "artist": "Steve Argyle",
+      "number": "40",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 425811,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "5ED",
+        "6ED",
+        "7ED",
+        "MPS"
+      ],
+      "original_text": "Creatures with power 3 or greater don't untap during their controllers' untap steps.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=425811&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "5050ef8c4d3ae3fe0c92fdba9a22cb975551d5b4",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Oblivion Stone",
+      "layout": "normal",
+      "mana_cost": "{3}",
+      "cmc": 3,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "{4}, {T}: Put a fate counter on target permanent.\n{5}, {T}, Sacrifice Oblivion Stone: Destroy each nonland permanent without a fate counter on it, then remove all fate counters from all permanents.",
+      "flavor": null,
+      "artist": "Yeong-Hao Han",
+      "number": "41",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 425812,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MRD",
+        "CMD",
+        "MPS",
+        "IMA"
+      ],
+      "original_text": "{4}, {T}: Put a fate counter on target permanent.\n{5}, {T}, Sacrifice Oblivion Stone: Destroy each nonland permanent without a fate counter on it, then remove all fate counters from all permanents.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=425812&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "c36761ad30d95ca88977204c5030f8c5c7296387",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Ornithopter",
+      "layout": "normal",
+      "mana_cost": "{0}",
+      "cmc": 0,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact Creature \u2014 Thopter",
+      "supertypes": null,
+      "subtypes": [
+        "Thopter"
+      ],
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Flying",
+      "flavor": "\"Consider all confiscated items hostile until proven otherwise.\"\n\u2014Confiscation directive",
+      "artist": "Howard Lyon",
+      "number": "42",
+      "power": "0",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 425813,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ATQ",
+        "3ED",
+        "4ED",
+        "5ED",
+        "6ED",
+        "MRD",
+        "9ED",
+        "10E",
+        "M10",
+        "M11",
+        "M15",
+        "MPS",
+        "AER"
+      ],
+      "original_text": "Flying",
+      "original_type": "Artifact Creature \u2014 Thopter",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=425813&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "3e8a99ff3326c26ef4ca30f36ce13bfe5190b199",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Paradox Engine",
+      "layout": "normal",
+      "mana_cost": "{5}",
+      "cmc": 5,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Legendary Artifact",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "Whenever you cast a spell, untap all nonland permanents you control.",
+      "flavor": "\"This device was submitted to the Fair anonymously. It is imperative that its maker be found. We must understand it.\"\n\u2014Confiscation directive",
+      "artist": "Vincent Proce",
+      "number": "43",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 425814,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MPS",
+        "AER"
+      ],
+      "original_text": "Whenever you cast a spell, untap all nonland permanents you control.",
+      "original_type": "Legendary Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=425814&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "de52a6c0a10697b266d90001d886faa5ed4b6b59",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2017-02-09",
+          "text": "Paradox Engine's triggered ability resolves before the spell that caused it to trigger. The ability will resolve even if that spell is countered."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Pithing Needle",
+      "layout": "normal",
+      "mana_cost": "{1}",
+      "cmc": 1,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "As Pithing Needle enters the battlefield, choose a card name.\nActivated abilities of sources with the chosen name can't be activated unless they're mana abilities.",
+      "flavor": null,
+      "artist": "Joseph Meehan",
+      "number": "44",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 425815,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "SOK",
+        "10E",
+        "M10",
+        "RTR",
+        "MPS"
+      ],
+      "original_text": "As Pithing Needle enters the battlefield, name a card.\nActivated abilities of sources with the chosen name can't be activated unless they're mana abilities.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=425815&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "39563d7af94e744ae658550fea9bb82479f0af43",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2005-06-01",
+          "text": "Pithing Needle affects cards regardless of what zone they're in. This includes cards in hand, cards in the graveyard, and exiled cards. For example, a player can't cycle Eternal Dragon or return an Eternal Dragon from their graveyard to hand if Pithing Needle naming Eternal Dragon is on the battlefield."
+        },
+        {
+          "date": "2005-06-01",
+          "text": "You can name any card, even if that card doesn't normally have an activated ability. You can't name a token unless that token has the same name as a card."
+        },
+        {
+          "date": "2005-06-01",
+          "text": "If you name a card that has both a mana ability and another activated ability, the mana ability can be activated but the other ability can't be activated."
+        },
+        {
+          "date": "2009-10-01",
+          "text": "Once Pithing Needle has left the battlefield, activated abilities of sources with the chosen name can be activated again."
+        },
+        {
+          "date": "2012-10-01",
+          "text": "Activated abilities include a colon and are written in the form \"[cost]: [effect].\" Triggered abilities and static abilities of the named card work normally."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Planar Bridge",
+      "layout": "normal",
+      "mana_cost": "{6}",
+      "cmc": 6,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Legendary Artifact",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "{8}, {T}: Search your library for a permanent card, put it onto the battlefield, then shuffle your library.",
+      "flavor": "\"Rashmi's design was just the beginning. We are most eager to see what the High Consul has planned for it.\"\n\u2014Consulate engineer's log",
+      "artist": "Raymond Swanland",
+      "number": "45",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 425816,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MPS",
+        "AER"
+      ],
+      "original_text": "{8}, {T}: Search your library for a permanent card, put it onto the battlefield, then shuffle your library.",
+      "original_type": "Legendary Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=425816&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "8088641533cfa7a926d3fe2920113537bcde877a",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2017-02-09",
+          "text": "A permanent card is an artifact, creature, enchantment, land, or planeswalker card."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Platinum Angel",
+      "layout": "normal",
+      "mana_cost": "{7}",
+      "cmc": 7,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact Creature \u2014 Angel",
+      "supertypes": null,
+      "subtypes": [
+        "Angel"
+      ],
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Flying\nYou can't lose the game and your opponents can't win the game.",
+      "flavor": "\"Adi Thandray's angel is a Priority One confiscation from the Fair. Once you see it, you'll understand why.\"\n\u2014Confiscation directive",
+      "artist": "Victor Adame Minguez",
+      "number": "46",
+      "power": "4",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": 425817,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MRD",
+        "10E",
+        "M10",
+        "M11",
+        "V15",
+        "CN2",
+        "MPS"
+      ],
+      "original_text": "Flying\nYou can't lose the game and your opponents can't win the game.",
+      "original_type": "Artifact Creature \u2014 Angel",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=425817&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "80f2db9098be5efdf06d2f82e1a2ce67a5e35299",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-12-01",
+          "text": "Effects that say the game is a draw, such as the _Legends_(TM) card Divine Intervention, are not affected by Platinum Angel. They'll still work."
+        },
+        {
+          "date": "2004-12-01",
+          "text": "You can concede a game while Platinum Angel on the battlefield. A concession causes you to leave the game, which then causes you to lose the game (Once you concede, you no longer control a Platinum Angel, so its ability can't prevent you from losing the game)."
+        },
+        {
+          "date": "2009-10-01",
+          "text": "No game effect can cause you to lose the game or cause any opponent to win the game while you control Platinum Angel. It doesn't matter whether you have 0 or less life, you're forced to draw a card while your library is empty, you have ten or more poison counters, you're dealt combat damage by Phage the Untouchable, your opponent has Mortal Combat with twenty or more creature cards in their graveyard, or so on. You keep playing."
+        },
+        {
+          "date": "2009-10-01",
+          "text": "Other circumstances can still cause you to lose the game, however. You will lose a game if you concede, if you're penalized with a Game Loss or a Match Loss during a sanctioned tournament due to a DCI rules infraction, or if your _Magic Online_(R) game clock runs out of time."
+        },
+        {
+          "date": "2009-10-01",
+          "text": "If you control Platinum Angel in a Two-Headed Giant game, your team can't lose the game and the opposing team can't win the game."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Sphere of Resistance",
+      "layout": "normal",
+      "mana_cost": "{2}",
+      "cmc": 2,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "Spells cost {1} more to cast.",
+      "flavor": "\"At the outset, we weren't aware of Chief Baral's motives for the project. It's now apparent that he intends to use the device to hamper the 'mages' among the ranks of the renegades.\"\n\u2014Consulate engineer's log",
+      "artist": "Richard Wright",
+      "number": "47",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 425818,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "EXO",
+        "VMA",
+        "MPS"
+      ],
+      "original_text": "Spells cost {1} more to cast.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=425818&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "ff31af9b51661edb5cc9ea6fc3521b779998f83f",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "It affects all players, including you."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Staff of Domination",
+      "layout": "normal",
+      "mana_cost": "{3}",
+      "cmc": 3,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "{1}: Untap Staff of Domination.\n{2}, {T}: You gain 1 life.\n{3}, {T}: Untap target creature.\n{4}, {T}: Tap target creature.\n{5}, {T}: Draw a card.",
+      "flavor": null,
+      "artist": "Zezhou Chen",
+      "number": "48",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 425819,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "5DN",
+        "MPS"
+      ],
+      "original_text": "{1}: Untap Staff of Domination.\n{2}, {T}: You gain 1 life.\n{3}, {T}: Untap target creature.\n{4}, {T}: Tap target creature.\n{5}, {T}: Draw a card.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=425819&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "bf95c9118cdd76786e08cee9025bd63ec4bbaea0",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Sundering Titan",
+      "layout": "normal",
+      "mana_cost": "{8}",
+      "cmc": 8,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact Creature \u2014 Golem",
+      "supertypes": null,
+      "subtypes": [
+        "Golem"
+      ],
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "When Sundering Titan enters the battlefield or leaves the battlefield, choose a land of each basic land type, then destroy those lands.",
+      "flavor": "\"Truth be told, my team had hoped never to see the day it was deployed.\"\n\u2014Consulate engineer's log",
+      "artist": "Lius Lasahido",
+      "number": "49",
+      "power": "7",
+      "toughness": "10",
+      "loyalty": null,
+      "multiverse_id": 425820,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "DST",
+        "ARC",
+        "V10",
+        "MPS",
+        "A25"
+      ],
+      "original_text": "When Sundering Titan enters the battlefield or leaves the battlefield, choose a land of each basic land type, then destroy those lands.",
+      "original_type": "Artifact Creature \u2014 Golem",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=425820&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "13320fe45aaf715d01f5b8ffa5dfd5726bfc2a35",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Banned"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2018-03-16",
+          "text": "Sundering Titan's ability isn't targeted. When it resolves, Sundering Titan's controller must choose one land for each basic land type (Plains, Island, Swamp, Mountain, and Forest), and then they are destroyed simultaneously."
+        },
+        {
+          "date": "2018-03-16",
+          "text": "Players can't take actions in between the time you choose the lands and the time you destroy them. Notably, they can't activate mana abilities of those lands."
+        },
+        {
+          "date": "2018-03-16",
+          "text": "If one of the basic land types isn't present, it isn't chosen. If the only land of a certain type is one you control, you must choose it."
+        },
+        {
+          "date": "2018-03-16",
+          "text": "If a land has more than one basic land type, it can be chosen more than once."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Sword of Body and Mind",
+      "layout": "normal",
+      "mana_cost": "{3}",
+      "cmc": 3,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact \u2014 Equipment",
+      "supertypes": null,
+      "subtypes": [
+        "Equipment"
+      ],
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "Equipped creature gets +2/+2 and has protection from green and from blue.\nWhenever equipped creature deals combat damage to a player, you create a 2/2 green Wolf creature token and that player puts the top ten cards of their library into their graveyard.\nEquip {2}",
+      "flavor": null,
+      "artist": "Mark Zug",
+      "number": "50",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 425821,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "V10",
+        "SOM",
+        "MPS"
+      ],
+      "original_text": "Equipped creature gets +2/+2 and has protection from green and from blue.\nWhenever equipped creature deals combat damage to a player, you create a 2/2 green Wolf creature token and that player puts the top ten cards of his or her library into his or her graveyard.\nEquip {2}",
+      "original_type": "Artifact \u2014 Equipment",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=425821&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "d03a2c0fb36f102eff0d5f0de588a3a2148e5624",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2011-01-01",
+          "text": "If there are fewer than ten cards in that player's library, that player puts all the cards from their library into their graveyard."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Sword of War and Peace",
+      "layout": "normal",
+      "mana_cost": "{3}",
+      "cmc": 3,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact \u2014 Equipment",
+      "supertypes": null,
+      "subtypes": [
+        "Equipment"
+      ],
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "Equipped creature gets +2/+2 and has protection from red and from white.\nWhenever equipped creature deals combat damage to a player, Sword of War and Peace deals damage to that player equal to the number of cards in their hand and you gain 1 life for each card in your hand.\nEquip {2}",
+      "flavor": null,
+      "artist": "Filip Burburan",
+      "number": "51",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 425822,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "NPH",
+        "MPS"
+      ],
+      "original_text": "Equipped creature gets +2/+2 and has protection from red and from white.\nWhenever equipped creature deals combat damage to a player, Sword of War and Peace deals damage to that player equal to the number of cards in his or her hand and you gain 1 life for each card in your hand.\nEquip {2}",
+      "original_type": "Artifact \u2014 Equipment",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=425822&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "a82dc99cc7cc92d875a748ae452070fe919c2541",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2011-06-01",
+          "text": "You count the cards in the each player's hand when the triggered ability resolves."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Trinisphere",
+      "layout": "normal",
+      "mana_cost": "{3}",
+      "cmc": 3,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "As long as Trinisphere is untapped, each spell that would cost less than three mana to cast costs three mana to cast. (Additional mana in the cost may be paid with any color of mana or colorless mana. For example, a spell that would cost {1}{B} to cast costs {2}{B} to cast instead.)",
+      "flavor": "\"This exhibition of Nehra's Threshold Principle must be expropriated and examined for its potential applications in enforcement.\"\n\u2014Confiscation directive",
+      "artist": "Daniel Ljunggren",
+      "number": "52",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 425823,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "DST",
+        "V09",
+        "MPS"
+      ],
+      "original_text": "As long as Trinisphere is untapped, each spell that would cost less than three mana to cast costs three mana to cast.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=425823&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "4f1a0035b647adf21ca3aa7bc3e24761de86eb79",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Restricted"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-12-01",
+          "text": "Trinisphere's ability affects the total cost of the spell. It is applied *after* any other cost increasers or cost reducers are applied: First apply any cost increases. Next apply any cost reducers. Finally look at the amount of mana you have to pay. If it's less than three mana, you'll pay three mana."
+        },
+        {
+          "date": "2004-12-01",
+          "text": "Even with a cost reducer on the battlefield, spells can't cost less than three mana to cast."
+        },
+        {
+          "date": "2004-12-01",
+          "text": "If a spell costs at least three mana due to additional costs, such as kicker costs, that's fine."
+        },
+        {
+          "date": "2004-12-01",
+          "text": "You still need to pay any additional nonmana costs the spell has, such as sacrificing a creature or discarding cards."
+        },
+        {
+          "date": "2004-12-01",
+          "text": "Casting a creature with morph face down already costs three mana, even though the converted mana cost of the face-down spell is zero, so Trinisphere normally doesn't modify the total cost of a face-down creature spell. However, if Dream Chisel is reducing that cost while Trinisphere is on the battlefield, you'll still have to pay three mana for the spell."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Vedalken Shackles",
+      "layout": "normal",
+      "mana_cost": "{3}",
+      "cmc": 3,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "You may choose not to untap Vedalken Shackles during your untap step.\n{2}, {T}: Gain control of target creature with power less than or equal to the number of Islands you control for as long as Vedalken Shackles remains tapped.",
+      "flavor": null,
+      "artist": "Svetlin Velinov",
+      "number": "53",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 425824,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "5DN",
+        "MMA",
+        "MPS"
+      ],
+      "original_text": "You may choose not to untap Vedalken Shackles during your untap step.\n{2}, {T}: Gain control of target creature with power less than or equal to the number of Islands you control for as long as Vedalken Shackles remains tapped.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=425824&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "fe95ffc06a03b0899a1a9b6d4dcd5fe870400957",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-12-01",
+          "text": "The creature's power and the number of Islands you control matter only when the ability is activated and when it resolves. After that, only the fact that Vedalken Shackles remains tapped matters. If the creature stops being a creature, you'll keep control of it."
+        },
+        {
+          "date": "2004-12-01",
+          "text": "If Vedalken Shackles becomes untapped before its ability resolves, you won't gain control of the creature."
+        },
+        {
+          "date": "2004-12-01",
+          "text": "If Vedalken Shackles leaves the battlefield, it's no longer tapped, so the control-changing effect ends."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Wurmcoil Engine",
+      "layout": "normal",
+      "mana_cost": "{6}",
+      "cmc": 6,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact Creature \u2014 Wurm",
+      "supertypes": null,
+      "subtypes": [
+        "Wurm"
+      ],
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Deathtouch, lifelink\nWhen Wurmcoil Engine dies, create a 3/3 colorless Wurm artifact creature token with deathtouch and a 3/3 colorless Wurm artifact creature token with lifelink.",
+      "flavor": null,
+      "artist": "Aleksi Briclot",
+      "number": "54",
+      "power": "6",
+      "toughness": "6",
+      "loyalty": null,
+      "multiverse_id": 425825,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pPRE",
+        "SOM",
+        "C14",
+        "MPS"
+      ],
+      "original_text": "Deathtouch, lifelink\nWhen Wurmcoil Engine dies, create a 3/3 colorless Wurm artifact creature token with deathtouch and a 3/3 colorless Wurm artifact creature token with lifelink.",
+      "original_type": "Artifact Creature \u2014 Wurm",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=425825&type=card",
+      "set": "MPS",
+      "set_name": "Masterpiece Series: Kaladesh Inventions",
+      "id": "aa15219ddae7c1959fe765df58208fd78b21a672",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2011-01-01",
+          "text": "The two creature tokens enter the battlefield at the same time."
+        },
+        {
+          "date": "2011-01-01",
+          "text": "It must be clear to all players which token has deathtouch and which token has lifelink."
+        }
+      ],
+      "foreign_names": null
+    }
+  ]
+}

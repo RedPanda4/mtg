@@ -1,0 +1,753 @@
+{
+  "code": "CP3",
+  "name": "Magic Origins Clash Pack",
+  "type": "starter",
+  "border": "black",
+  "mkm_id": null,
+  "mkm_name": null,
+  "release_date": "2015-07-17",
+  "gatherer_code": null,
+  "magic_cards_info_code": "mbp",
+  "booster": null,
+  "old_code": null,
+  "block": null,
+  "online_only": null,
+  "cards": [
+    {
+      "name": "Honored Hierarch",
+      "layout": "normal",
+      "mana_cost": "{G}",
+      "cmc": 1,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Druid",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Druid"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)\nAs long as Honored Hierarch is renowned, it has vigilance and \"{T}: Add one mana of any color to your mana pool.\"",
+      "flavor": null,
+      "artist": "Magali Villeneuve",
+      "number": "1",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pPRE",
+        "CP3",
+        "ORI"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Clash Pack Promo (Magic Origins)",
+      "image_url": null,
+      "set": "CP3",
+      "set_name": "Magic Origins Clash Pack",
+      "id": "728c0ebc413301b8710df679db311c8c4c768893",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2015-06-22",
+          "text": "Renown won't trigger when a creature deals combat damage to a planeswalker or another creature. It also won't trigger when a creature deals noncombat damage to a player."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "If a creature with renown deals combat damage to its controller because that damage was redirected, renown will trigger."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "If a renown ability triggers, but the creature leaves the battlefield before that ability resolves, the creature doesn't become renowned. Any ability that triggers \"whenever a creature becomes renowned\" won't trigger."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u8363\u8000\u5927\u4e3b\u6559",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u69ae\u8000\u5927\u4e3b\u6559",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Hi\u00e9rarche honor\u00e9",
+          "language": "French"
+        },
+        {
+          "name": "Verehrter Hierarch",
+          "language": "German"
+        },
+        {
+          "name": "Gerarca Venerato",
+          "language": "Italian"
+        },
+        {
+          "name": "\u540d\u8a89\u3042\u308b\u6559\u4e3b",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uba85\uc608\ub85c\uc6b4 \ub300\uc81c\uc0ac\uc7a5",
+          "language": "Korean"
+        },
+        {
+          "name": "Hierarca Honrado",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041f\u043e\u0447\u0442\u0435\u043d\u043d\u044b\u0439 \u0418\u0435\u0440\u0430\u0440\u0445",
+          "language": "Russian"
+        },
+        {
+          "name": "Jerarca venerado",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Seeker of the Way",
+      "layout": "normal",
+      "mana_cost": "{1}{W}",
+      "cmc": 2,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Warrior",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Warrior"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nWhenever you cast a noncreature spell, Seeker of the Way gains lifelink until end of turn.",
+      "flavor": "\"I don't know where my destiny lies, but I know it isn't here.\"",
+      "artist": "Magali Villeneuve",
+      "number": "2",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "KTK",
+        "CP3",
+        "IMA"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Clash Pack Promo (Magic Origins)",
+      "image_url": null,
+      "set": "CP3",
+      "set_name": "Magic Origins Clash Pack",
+      "id": "19ea634dbd7f6aaa8fbca48e2b314a23fb62cf7f",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2014-09-20",
+          "text": "Any spell you cast that doesn't have the type creature will cause prowess to trigger. If a spell has multiple types, and one of those types is creature (such as an artifact creature), casting it won't cause prowess to trigger. Playing a land also won't cause prowess to trigger."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "Prowess goes on the stack on top of the spell that caused it to trigger. It will resolve before that spell."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "Once it triggers, prowess isn't connected to the spell that caused it to trigger. If that spell is countered, prowess will still resolve."
+        },
+        {
+          "date": "2017-11-17",
+          "text": "Multiple instances of lifelink on the same creature are redundant."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u7075\u9053\u63a2\u6c42\u8005",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u9748\u9053\u63a2\u6c42\u8005",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Chercheur de la Voie",
+          "language": "French"
+        },
+        {
+          "name": "Sucher des Weges",
+          "language": "German"
+        },
+        {
+          "name": "Cercatore della Via",
+          "language": "Italian"
+        },
+        {
+          "name": "\u9053\u306e\u63a2\u6c42\u8005",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ub3c4\ub97c \ucd94\uad6c\ud558\ub294 \uc790",
+          "language": "Korean"
+        },
+        {
+          "name": "Buscador do Caminho",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0418\u0441\u043a\u0430\u0442\u0435\u043b\u044c \u041f\u0443\u0442\u0438",
+          "language": "Russian"
+        },
+        {
+          "name": "Buscador de la sabidur\u00eda",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Valorous Stance",
+      "layout": "normal",
+      "mana_cost": "{1}{W}",
+      "cmc": 2,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Choose one \u2014\n\u2022 Target creature gains indestructible until end of turn.\n\u2022 Destroy target creature with toughness 4 or greater.",
+      "flavor": "\"Every choice alters the path of fate.\"\n\u2014Sarkhan Vol",
+      "artist": "Victor Adame Minguez",
+      "number": "3",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "FRF",
+        "CP3"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Clash Pack Promo (Magic Origins)",
+      "image_url": null,
+      "set": "CP3",
+      "set_name": "Magic Origins Clash Pack",
+      "id": "483477195742678878820659c980402602150848",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u82f1\u52c7\u4ee5\u5bf9",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u82f1\u52c7\u4ee5\u5c0d",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Posture valeureuse",
+          "language": "French"
+        },
+        {
+          "name": "Tapfere Haltung",
+          "language": "German"
+        },
+        {
+          "name": "Posizione Valorosa",
+          "language": "Italian"
+        },
+        {
+          "name": "\u52c7\u6562\u306a\u59ff\u52e2",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ub300\ub2f4\ud55c \ud0dc\uc138",
+          "language": "Korean"
+        },
+        {
+          "name": "Postura Valente",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0414\u043e\u0431\u043b\u0435\u0441\u0442\u043d\u0430\u044f \u0421\u0442\u043e\u0439\u043a\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Postura valerosa",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Dromoka, the Eternal",
+      "layout": "normal",
+      "mana_cost": "{3}{G}{W}",
+      "cmc": 5,
+      "colors": [
+        "White",
+        "Green"
+      ],
+      "color_identity": [
+        "W",
+        "G"
+      ],
+      "names": null,
+      "type": "Legendary Creature \u2014 Dragon",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Dragon"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Flying\nWhenever a Dragon you control attacks, bolster 2. (Choose a creature with the least toughness among creatures you control and put two +1/+1 counters on it.)",
+      "flavor": "\"The bane of countless shattered weapons, each a failure to slay her.\"\n\u2014Daghatar the Adamant",
+      "artist": "Slawomir Maniak",
+      "number": "4",
+      "power": "5",
+      "toughness": "5",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pPRE",
+        "FRF",
+        "CP3",
+        "C17"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Clash Pack Promo (Magic Origins)",
+      "image_url": null,
+      "set": "CP3",
+      "set_name": "Magic Origins Clash Pack",
+      "id": "24fd5c20d95900d06c4eee69ed08e8a7d5640a9d",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2014-11-24",
+          "text": "Each Dragon you attack with will cause Dromoka's triggered ability to trigger. For each instance of the ability, you'll determine which creature to put +1/+1 counters on as it resolves. Specifically, the creature you control with the lowest toughness as the first such ability resolves may not have the lowest toughness as the second such ability resolves."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Bolster itself doesn't target any creature, though some spells and abilities that bolster may have other effects that target creatures. For example, you could put counters on a creature with protection from white with Abzan Skycaptain's bolster ability."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "You determine which creature to put counters on as the spell or ability that instructs you to bolster resolves."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u6c38\u751f\u9f99\u738b\u5353\u8309\u5361",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u6c38\u751f\u9f8d\u738b\u5353\u8309\u5361",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Dromoka l'\u00e9ternelle",
+          "language": "French"
+        },
+        {
+          "name": "Dromoka die Ewige",
+          "language": "German"
+        },
+        {
+          "name": "Dromoka, l'Eterna",
+          "language": "Italian"
+        },
+        {
+          "name": "\u6c38\u9060\u306e\u30c9\u30ed\u30e2\u30ab",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ubd88\uba78\uc758 \ub4dc\ub85c\ubaa8\uce74",
+          "language": "Korean"
+        },
+        {
+          "name": "Dromoka, a Eterna",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0414\u0440\u043e\u043c\u043e\u043a\u0430, \u0418\u0437\u0432\u0435\u0447\u043d\u0430\u044f",
+          "language": "Russian"
+        },
+        {
+          "name": "Dr\u00f3moka, la Eterna",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Siege Rhino",
+      "layout": "normal",
+      "mana_cost": "{1}{W}{B}{G}",
+      "cmc": 4,
+      "colors": [
+        "White",
+        "Black",
+        "Green"
+      ],
+      "color_identity": [
+        "W",
+        "B",
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Rhino",
+      "supertypes": null,
+      "subtypes": [
+        "Rhino"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Trample\nWhen Siege Rhino enters the battlefield, each opponent loses 3 life and you gain 3 life.",
+      "flavor": "The mere approach of an Abzan war beast is enough to send enemies fleeing in panic.",
+      "artist": "Kev Walker",
+      "number": "5",
+      "power": "4",
+      "toughness": "5",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pPRE",
+        "KTK",
+        "CP3"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Clash Pack Promo (Magic Origins)",
+      "image_url": null,
+      "set": "CP3",
+      "set_name": "Magic Origins Clash Pack",
+      "id": "61e79d7ad6a16024fb0d320eab2616c30f6e1d3e",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u653b\u57ce\u7280\u725b",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u653b\u57ce\u7280\u725b",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Rhinoc\u00e9ros de si\u00e8ge",
+          "language": "French"
+        },
+        {
+          "name": "Belagerungsnashorn",
+          "language": "German"
+        },
+        {
+          "name": "Rinoceronte da Assedio",
+          "language": "Italian"
+        },
+        {
+          "name": "\u5305\u56f2\u30b5\u30a4",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uacf5\uc131 \ucf54\ubfd4\uc18c",
+          "language": "Korean"
+        },
+        {
+          "name": "Rinoceronte de Cerco",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041e\u0441\u0430\u0434\u043d\u044b\u0439 \u041d\u043e\u0441\u043e\u0440\u043e\u0433",
+          "language": "Russian"
+        },
+        {
+          "name": "Rinoceronte de asedio",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Sandsteppe Citadel",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "W",
+        "B",
+        "G"
+      ],
+      "names": null,
+      "type": "Land",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Special",
+      "text": "Sandsteppe Citadel enters the battlefield tapped.\n{T}: Add {W}, {B}, or {G} to your mana pool.",
+      "flavor": "That which endures, survives.",
+      "artist": "John Avon",
+      "number": "6",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "KTK",
+        "CP3",
+        "C16",
+        "C17"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Clash Pack Promo (Magic Origins)",
+      "image_url": null,
+      "set": "CP3",
+      "set_name": "Magic Origins Clash Pack",
+      "id": "8d57775eaaf285e601916557eaa2d1a66ce4d623",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u6c99\u539f\u6bbf\u5802",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u6c99\u539f\u6bbf\u5802",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Citadelle de la steppe de sable",
+          "language": "French"
+        },
+        {
+          "name": "Sandsteppenzitadelle",
+          "language": "German"
+        },
+        {
+          "name": "Roccaforte delle Steppe Sabbiose",
+          "language": "Italian"
+        },
+        {
+          "name": "\u7802\u8349\u539f\u306e\u57ce\u585e",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ubaa8\ub798\ucd08\uc6d0 \uc131\ucc44",
+          "language": "Korean"
+        },
+        {
+          "name": "Cidadela da Estepe Arenosa",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0426\u0438\u0442\u0430\u0434\u0435\u043b\u044c \u0432 \u041f\u0435\u0441\u0447\u0430\u043d\u043e\u0439 \u0421\u0442\u0435\u043f\u0438",
+          "language": "Russian"
+        },
+        {
+          "name": "Ciudadela esteparenosa",
+          "language": "Spanish"
+        }
+      ]
+    }
+  ]
+}

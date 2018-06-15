@@ -1,0 +1,1148 @@
+{
+  "code": "V12",
+  "name": "From the Vault: Realms",
+  "type": "from the vault",
+  "border": "black",
+  "mkm_id": 1397,
+  "mkm_name": "From the Vault: Realms",
+  "release_date": "2012-08-31",
+  "gatherer_code": null,
+  "magic_cards_info_code": "v12",
+  "booster": null,
+  "old_code": "FVR",
+  "block": null,
+  "online_only": null,
+  "cards": [
+    {
+      "name": "Ancient Tomb",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Land",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "{T}: Add {C}{C}. Ancient Tomb deals 2 damage to you.",
+      "flavor": "There is no glory to be gained in the kingdom of the dead.\n\u2014Vec tomb inscription",
+      "artist": "Colin MacNeil",
+      "number": "1",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 288994,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "TMP",
+        "V12",
+        "VMA",
+        "EXP"
+      ],
+      "original_text": "{T}: Add {2} to your mana pool. Ancient Tomb deals 2 damage to you.",
+      "original_type": "Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=288994&type=card",
+      "set": "V12",
+      "set_name": "From the Vault: Realms",
+      "id": "99b2e9bf6a1138265a80bd21055d6be8a51f1449",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Boseiju, Who Shelters All",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Legendary Land",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Boseiju, Who Shelters All enters the battlefield tapped.\n{T}, Pay 2 life: Add {C}. If that mana is spent on an instant or sorcery spell, that spell can't be countered.",
+      "flavor": null,
+      "artist": "Ralph Horsley",
+      "number": "2",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 291507,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "CHK",
+        "V12"
+      ],
+      "original_text": "Boseiju, Who Shelters All enters the battlefield tapped.\n{T}, Pay 2 life: Add {1} to your mana pool. If that mana is spent on an instant or sorcery spell, that spell can't be countered by spells or abilities.",
+      "original_type": "Legendary Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=291507&type=card",
+      "set": "V12",
+      "set_name": "From the Vault: Realms",
+      "id": "fc97839153b80b47e486e8f2aeb685fb32ce6a7c",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-12-01",
+          "text": "The spell can't be countered if the mana produced by Boseiju is spent to cover any cost of the spell, even an additional cost such as a splice cost. This is true even if you pay an additional cost while casting a spell \"without paying its mana cost.\""
+        },
+        {
+          "date": "2004-12-01",
+          "text": "Suppose mana produced by Boseiju is spent on a spell and an effect creates a copy of that spell. The copy can be countered, even though the original can't."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Cephalid Coliseum",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Land",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "{T}: Add {U}. Cephalid Coliseum deals 1 damage to you.\nThreshold \u2014 {U}, {T}, Sacrifice Cephalid Coliseum: Target player draws three cards, then discards three cards. Activate this ability only if seven or more cards are in your graveyard.",
+      "flavor": null,
+      "artist": "Cliff Childs",
+      "number": "3",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 288995,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ODY",
+        "V12"
+      ],
+      "original_text": "{T}: Add {U} to your mana pool. Cephalid Coliseum deals 1 damage to you.\nThreshold \u2014 {U}, {T}, Sacrifice Cephalid Coliseum: Target player draws three cards, then discards three cards. Activate this ability only if seven or more cards are in your graveyard.",
+      "original_type": "Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=288995&type=card",
+      "set": "V12",
+      "set_name": "From the Vault: Realms",
+      "id": "d9a22cd5f67c1cc35fcff76a76b0a8c06f5774eb",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Desert",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Land \u2014 Desert",
+      "supertypes": null,
+      "subtypes": [
+        "Desert"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "{T}: Add {C}.\n{T}: Desert deals 1 damage to target attacking creature. Activate this ability only during the end of combat step.",
+      "flavor": null,
+      "artist": "Glen Angus",
+      "number": "4",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 287341,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ARN",
+        "pFNM",
+        "TSB",
+        "V12"
+      ],
+      "original_text": "{T}: Add {1} to your mana pool.\n{T}: Desert deals 1 damage to target attacking creature. Activate this ability only during the end of combat step.",
+      "original_type": "Land \u2014 Desert",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=287341&type=card",
+      "set": "V12",
+      "set_name": "From the Vault: Realms",
+      "id": "6328bf018f5e0471130c5d70db5671450eb3eac9",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "The ability can be used on any player's attacking creatures. This includes your own and creatures in an attack you are not involved in (for multiplayer games)."
+        },
+        {
+          "date": "2017-04-18",
+          "text": "Desert is a land subtype with no special meaning. It doesn't grant the land an intrinsic mana ability. Other cards may care about which lands are Deserts."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Dryad Arbor",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Land Creature \u2014 Forest Dryad",
+      "supertypes": null,
+      "subtypes": [
+        "Forest",
+        "Dryad"
+      ],
+      "types": [
+        "Land",
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "(Dryad Arbor isn't a spell, it's affected by summoning sickness, and it has \"{T}: Add {G}.\")",
+      "flavor": null,
+      "artist": "Brad Rigney",
+      "number": "5",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 282542,
+      "variations": null,
+      "watermark": "Green",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "FUT",
+        "V12"
+      ],
+      "original_text": "G",
+      "original_type": "Land Creature \u2014 Forest Dryad",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=282542&type=card",
+      "set": "V12",
+      "set_name": "From the Vault: Realms",
+      "id": "8b3955b69c7e05132f780ce79e3fd0a6f05cea58",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2007-05-01",
+          "text": "Forest is a land type. Dryad is a creature type."
+        },
+        {
+          "date": "2007-05-01",
+          "text": "Dryad Arbor is played as a land. It doesn't use the stack, it's not a spell, it can't be responded to, it has no mana cost, and it counts as your land play for the turn."
+        },
+        {
+          "date": "2007-05-01",
+          "text": "If a Dryad Arbor gains flash, or you have the ability to play Dryad Arbor as though it had flash (due to Teferi, Mage of Zhalfir or Scout's Warning, for example), you can ignore the normal timing rules for playing a land, but not any other restrictions. You can't play Dryad Arbor during another player's turn, and you can't play Dryad Arbor if it's your turn and you've already played a land."
+        },
+        {
+          "date": "2011-09-22",
+          "text": "If Dryad Arbor is changed into another basic land type (such as by Sea's Claim), it continues to be a creature and a Dryad."
+        },
+        {
+          "date": "2013-06-07",
+          "text": "Although originally printed with a characteristic-defining ability that defined its color, this card now has a color indicator. This color indicator can't be affected by text-changing effects (such as the one created by Crystal Spray), although color-changing effects can still overwrite it."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Forbidden Orchard",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Land",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "{T}: Add one mana of any color.\nWhenever you tap Forbidden Orchard for mana, target opponent creates a 1/1 colorless Spirit creature token.",
+      "flavor": null,
+      "artist": "Daniel Ljunggren",
+      "number": "6",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 282541,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "CHK",
+        "V12",
+        "EXP",
+        "C16"
+      ],
+      "original_text": "{T}: Add one mana of any color to your mana pool.\nWhenever you tap Forbidden Orchard for mana, put a 1/1 colorless Spirit creature token onto the battlefield under target opponent's control.",
+      "original_type": "Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=282541&type=card",
+      "set": "V12",
+      "set_name": "From the Vault: Realms",
+      "id": "24333805558698527e143fcf264f59a1e8160e89",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Glacial Chasm",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Land",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Cumulative upkeep\u2014Pay 2 life. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nWhen Glacial Chasm enters the battlefield, sacrifice a land.\nCreatures you control can't attack.\nPrevent all damage that would be dealt to you.",
+      "flavor": null,
+      "artist": "Mike Bierek",
+      "number": "7",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 288996,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ICE",
+        "ME2",
+        "V12"
+      ],
+      "original_text": "Cumulative upkeep\u2014Pay 2 life.\nWhen Glacial Chasm enters the battlefield, sacrifice a land.\nCreatures you control can't attack.\nPrevent all damage that would be dealt to you.",
+      "original_type": "Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=288996&type=card",
+      "set": "V12",
+      "set_name": "From the Vault: Realms",
+      "id": "73601a38920cae3d0b2eac3085ce192d4eddc41b",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-08-01",
+          "text": "When Glacial Chasm's enters-the-battlefield ability resolves, if you don't control any other lands, you must sacrifice Glacial Chasm itself."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Grove of the Burnwillows",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "R",
+        "G"
+      ],
+      "names": null,
+      "type": "Land",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "{T}: Add {C}.\n{T}: Add {R} or {G}. Each opponent gains 1 life.",
+      "flavor": "Spring is the most beautiful season in the grove, when the new leaves open from their ember-buds in a race of leaping flames.",
+      "artist": "Cliff Childs",
+      "number": "8",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 287335,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "FUT",
+        "V12",
+        "IMA"
+      ],
+      "original_text": "{T}: Add {1} to your mana pool.\n{T}: Add {R} or {G} to your mana pool. Each opponent gains 1 life.",
+      "original_type": "Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=287335&type=card",
+      "set": "V12",
+      "set_name": "From the Vault: Realms",
+      "id": "e585c610a61a49a655403d25c2ce8442a473dff5",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "High Market",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Land",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "{T}: Add {C}.\n{T}, Sacrifice a creature: You gain 1 life.",
+      "flavor": "If it can't be had here, it can't be had on any world.",
+      "artist": "Carl Critchlow",
+      "number": "9",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 287336,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MMQ",
+        "V12",
+        "C15",
+        "CMA"
+      ],
+      "original_text": "{T}: Add {1} to your mana pool.\n{T}, Sacrifice a creature: You gain 1 life.",
+      "original_type": "Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=287336&type=card",
+      "set": "V12",
+      "set_name": "From the Vault: Realms",
+      "id": "4ab2570bcf52272ce7f35a92d2aa19de9fd03e0b",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Maze of Ith",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Land",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "{T}: Untap target attacking creature. Prevent all combat damage that would be dealt to and dealt by that creature this turn.",
+      "flavor": null,
+      "artist": "Yeong-Hao Han",
+      "number": "10",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 287329,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "DRK",
+        "pJGP",
+        "ME4",
+        "V12",
+        "EMA"
+      ],
+      "original_text": "{T}: Untap target attacking creature. Prevent all combat damage that would be dealt to and dealt by that creature this turn.",
+      "original_type": "Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=287329&type=card",
+      "set": "V12",
+      "set_name": "From the Vault: Realms",
+      "id": "fa6333a942e55a72a802d39778d0b26b7fa8cb10",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2016-06-08",
+          "text": "Maze of Ith can target an untapped attacking creature. It will still prevent damage in that case."
+        },
+        {
+          "date": "2016-06-08",
+          "text": "The creature isn't removed from combat; it just has its damage prevented. It's still an attacking creature until the combat phase is complete."
+        },
+        {
+          "date": "2016-06-08",
+          "text": "You can activate Maze of Ith's ability targeting an attacking creature you control during the combat damage step or the end of combat step. It'll be untapped and the damage it had already dealt won't be undone."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Murmuring Bosk",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "G",
+        "W",
+        "B"
+      ],
+      "names": null,
+      "type": "Land \u2014 Forest",
+      "supertypes": null,
+      "subtypes": [
+        "Forest"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "({T}: Add {G}.)\nAs Murmuring Bosk enters the battlefield, you may reveal a Treefolk card from your hand. If you don't, Murmuring Bosk enters the battlefield tapped.\n{T}: Add {W} or {B}. Murmuring Bosk deals 1 damage to you.",
+      "flavor": null,
+      "artist": "John Avon",
+      "number": "11",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 287334,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MOR",
+        "V12",
+        "C16"
+      ],
+      "original_text": "({T}: Add {G} to your mana pool.)\nAs Murmuring Bosk enters the battlefield, you may reveal a Treefolk card from your hand. If you don't, Murmuring Bosk enters the battlefield tapped.\n{T}: Add {W} or {B} to your mana pool. Murmuring Bosk deals 1 damage to you.",
+      "original_type": "Land \u2014 Forest",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=287334&type=card",
+      "set": "V12",
+      "set_name": "From the Vault: Realms",
+      "id": "884d9f4836338ba1da0bec50c620e255a6ced4e1",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-04-01",
+          "text": "Murmuring Bosk is a Forest, but it isn't a basic land. Things that affect basic lands don't affect it. Things that affect basic land types do. For example, you can't find Murmuring Bosk with Fertilid's ability (\"searches their library for a basic land card\"), but you can find Murmuring Bosk with Everbark Shaman's ability (\"search your library for two Forest cards\")."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Shivan Gorge",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Legendary Land",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "{T}: Add {C}.\n{2}{R}, {T}: Shivan Gorge deals 1 damage to each opponent.",
+      "flavor": "Both forge and pyre.",
+      "artist": "Adam Paquette",
+      "number": "12",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 288997,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "USG",
+        "V12"
+      ],
+      "original_text": "{T}: Add {1} to your mana pool.\n{2}{R}, {T}: Shivan Gorge deals 1 damage to each opponent.",
+      "original_type": "Legendary Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=288997&type=card",
+      "set": "V12",
+      "set_name": "From the Vault: Realms",
+      "id": "66f41ba737764ac4e28c1d5017df990b34fc1a24",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "The damage has no color. It is not red."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Urborg, Tomb of Yawgmoth",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Legendary Land",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Each land is a Swamp in addition to its other land types.",
+      "flavor": "\"Yawgmoth's corpse is a wound in the universe. His foul blood seeps out, infecting the land with his final curse.\"\n\u2014Lord Windgrace",
+      "artist": "John Avon",
+      "number": "13",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 287330,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "PLC",
+        "V12",
+        "M15"
+      ],
+      "original_text": "Each land is a Swamp in addition to its other land types.",
+      "original_type": "Legendary Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=287330&type=card",
+      "set": "V12",
+      "set_name": "From the Vault: Realms",
+      "id": "c9d4c5b09a41d94d6471503792d30a89860a5f81",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-04-01",
+          "text": "If Urborg, Tomb of Yawgmoth and either Blood Moon or Magus of the Moon are on the battlefield, all nonbasic lands will be Mountains, not Swamps. Urborg, Tomb of Yawgmoth will be a Mountain as well. It will have \"{T}: Add {R}\" and no other abilities."
+        },
+        {
+          "date": "2014-07-18",
+          "text": "Urborg, Tomb of Yawgmoth isn't a Swamp while it's not on the battlefield."
+        },
+        {
+          "date": "2014-07-18",
+          "text": "Urborg's ability causes each land on the battlefield to have the land type Swamp. Each land thus has the ability \"{T}: Add {B}.\" Nothing else changes about those lands, including their names, other subtypes, other abilities, and whether they're legendary or basic."
+        },
+        {
+          "date": "2014-07-18",
+          "text": "If Urborg loses its abilities (for example, if it becomes a creature and then Turn to Frog targets it), all lands on the battlefield, including Urborg, will still be Swamps, but Urborg won't have the ability \"Each land is a Swamp in addition to its other land types.\" Urborg also won't be able to tap to produce {B}, but other lands (including those that enter the battlefield later in the turn) will. The way continuous effects work, Urborg's type-changing ability is applied before the effect that removes both the type-changing ability and its own mana ability."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Vesuva",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Land",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "You may have Vesuva enter the battlefield tapped as a copy of any land on the battlefield.",
+      "flavor": "It is everywhere you've ever been.",
+      "artist": "Zoltan Boros & Gabor Szikszai",
+      "number": "14",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 287332,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "TSP",
+        "V12"
+      ],
+      "original_text": "You may have Vesuva enter the battlefield tapped as a copy of any land on the battlefield.",
+      "original_type": "Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=287332&type=card",
+      "set": "V12",
+      "set_name": "From the Vault: Realms",
+      "id": "820a202b31e2d9c1ced2df72e61bb39308e1886b",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2006-09-25",
+          "text": "Vesuva has no intrinsic mana abilities."
+        },
+        {
+          "date": "2006-09-25",
+          "text": "If you don't choose a land on the battlefield, Vesuva enters the battlefield untapped as itself."
+        },
+        {
+          "date": "2006-10-15",
+          "text": "Cornered Market won't prevent Vesuva from being played (unless there's a Vesuva on the battlefield copying nothing), since you play it before it becomes named something else."
+        },
+        {
+          "date": "2018-04-27",
+          "text": "If Vesuva somehow enters the battlefield at the same time as another land, Vesuva can't become a copy of that land. You may choose only a land that's already on the battlefield."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Windbrisk Heights",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Land",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Hideaway (This land enters the battlefield tapped. When it does, look at the top four cards of your library, exile one face down, then put the rest on the bottom of your library.)\n{T}: Add {W}.\n{W}, {T}: You may play the exiled card without paying its mana cost if you attacked with three or more creatures this turn.",
+      "flavor": null,
+      "artist": "Omar Rayyan",
+      "number": "15",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 287338,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LRW",
+        "V12",
+        "MD1",
+        "C16"
+      ],
+      "original_text": "Hideaway (This land enters the battlefield tapped. When it does, look at the top four cards of your library, exile one face down, then put the rest on the bottom of your library.)\n{T}: Add {W} to your mana pool.\n{W}, {T}: You may play the exiled card without paying its mana cost if you attacked with three or more creatures this turn.",
+      "original_type": "Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=287338&type=card",
+      "set": "V12",
+      "set_name": "From the Vault: Realms",
+      "id": "0621cfc9bcd7d45ecd7d962910e0c81fade1e961",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2007-10-01",
+          "text": "At the time the ability resolves, you'll get to play the card if you declared three different creatures as attackers at any point in the turn. A creature declared as an attacker in two different attack phases counts only once. A creature that entered the battlefield attacking (such as a token created by Militia's Pride) doesn't count because you never attacked with it."
+        }
+      ],
+      "foreign_names": null
+    }
+  ]
+}

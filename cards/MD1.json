@@ -1,0 +1,2534 @@
+{
+  "code": "MD1",
+  "name": "Modern Event Deck 2014",
+  "type": "box",
+  "border": "black",
+  "mkm_id": 1484,
+  "mkm_name": "Modern Event Deck 2014",
+  "release_date": "2014-05-30",
+  "gatherer_code": null,
+  "magic_cards_info_code": "md1",
+  "booster": null,
+  "old_code": null,
+  "block": null,
+  "online_only": null,
+  "cards": [
+    {
+      "name": "Soul Warden",
+      "layout": "normal",
+      "mana_cost": "{W}",
+      "cmc": 1,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Cleric",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Cleric"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Whenever another creature enters the battlefield, you gain 1 life.",
+      "flavor": "\"One does not question the size or shape of the grains of sand in an hourglass. Nor do I question the temperament of the souls under my guidance.\"",
+      "artist": "Randy Gallegos",
+      "number": "1",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 382197,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "EXO",
+        "BRB",
+        "9ED",
+        "10E",
+        "M10",
+        "HOP",
+        "MD1",
+        "MM3"
+      ],
+      "original_text": "Whenever another creature enters the battlefield, you gain 1 life.",
+      "original_type": "Creature \u2014 Human Cleric",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=382197&type=card",
+      "set": "MD1",
+      "set_name": "Modern Event Deck 2014",
+      "id": "2e3b4ea36d9c0cac4bf4330f40df8aa31c5e78ff",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "Does not trigger on a card on the battlefield being changed into a creature."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "The ability will not trigger on itself entering the battlefield, but it will trigger on any other creature that is put onto the battlefield at the same time."
+        },
+        {
+          "date": "2005-08-01",
+          "text": "Two Soul Wardens entering the battlefield at the same time will each cause the other's ability to trigger."
+        },
+        {
+          "date": "2005-08-01",
+          "text": "The life gain is mandatory."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Tidehollow Sculler",
+      "layout": "normal",
+      "mana_cost": "{W}{B}",
+      "cmc": 2,
+      "colors": [
+        "White",
+        "Black"
+      ],
+      "color_identity": [
+        "W",
+        "B"
+      ],
+      "names": null,
+      "type": "Artifact Creature \u2014 Zombie",
+      "supertypes": null,
+      "subtypes": [
+        "Zombie"
+      ],
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "When Tidehollow Sculler enters the battlefield, target opponent reveals their hand and you choose a nonland card from it. Exile that card.\nWhen Tidehollow Sculler leaves the battlefield, return the exiled card to its owner's hand.",
+      "flavor": null,
+      "artist": "rk post",
+      "number": "2",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 382201,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pFNM",
+        "ALA",
+        "MMA",
+        "MD1"
+      ],
+      "original_text": "When Tidehollow Sculler enters the battlefield, target opponent reveals his or her hand and you choose a nonland card from it. Exile that card.\nWhen Tidehollow Sculler leaves the battlefield, return the exiled card to its owner's hand.",
+      "original_type": "Artifact Creature \u2014 Zombie",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=382201&type=card",
+      "set": "MD1",
+      "set_name": "Modern Event Deck 2014",
+      "id": "9818a0492bc24d73c27f41c66f5def6ffdf1ca05",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-06-07",
+          "text": "If Tidehollow Sculler leaves the battlefield before its first ability has resolved, its second ability will trigger. This ability will do nothing when it resolves. Then its first ability will resolve and exile the chosen card forever."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Path to Exile",
+      "layout": "normal",
+      "mana_cost": "{W}",
+      "cmc": 1,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Uncommon",
+      "text": "Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle their library.",
+      "flavor": null,
+      "artist": "Todd Lockwood",
+      "number": "3",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 382192,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pFNM",
+        "pWPN",
+        "CON",
+        "ARC",
+        "CMD",
+        "DDI",
+        "MMA",
+        "MD1",
+        "MM3",
+        "CMA",
+        "E02"
+      ],
+      "original_text": "Exile target creature. Its controller may search his or her library for a basic land card, put that card onto the battlefield tapped, then shuffle his or her library.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=382192&type=card",
+      "set": "MD1",
+      "set_name": "Modern Event Deck 2014",
+      "id": "a170d3f3444d0927b4ef0c34d9ddb920a3d0f3b7",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2017-03-14",
+          "text": "If the targeted creature becomes an illegal target by the time Path to Exile would resolve, the entire spell doesn't resolve. The creature's controller won't search for a basic land card."
+        },
+        {
+          "date": "2017-03-14",
+          "text": "The controller of the exiled creature isn't required to search their library for a basic land. If that player doesn't, the player won't shuffle their library."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Inquisition of Kozilek",
+      "layout": "normal",
+      "mana_cost": "{B}",
+      "cmc": 1,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Uncommon",
+      "text": "Target player reveals their hand. You choose a nonland card from it with converted mana cost 3 or less. That player discards that card.",
+      "flavor": "You will scream out your innermost secrets just to make it stop.",
+      "artist": "Tomasz Jedruszek",
+      "number": "4",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 382187,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ROE",
+        "MD1",
+        "CN2",
+        "MM3"
+      ],
+      "original_text": "Target player reveals his or her hand. You choose a nonland card from it with converted mana cost 3 or less. That player discards that card.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=382187&type=card",
+      "set": "MD1",
+      "set_name": "Modern Event Deck 2014",
+      "id": "f29a0cd5a82506f123174d7b9efc9ba77bc3bc71",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2014-02-01",
+          "text": "If you target yourself with this spell, you must reveal your entire hand to the other players just as any other player would."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Shrine of Loyal Legions",
+      "layout": "normal",
+      "mana_cost": "{2}",
+      "cmc": 2,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Uncommon",
+      "text": "At the beginning of your upkeep or whenever you cast a white spell, put a charge counter on Shrine of Loyal Legions.\n{3}, {T}, Sacrifice Shrine of Loyal Legions: Create a 1/1 colorless Myr artifact creature token for each charge counter on Shrine of Loyal Legions.",
+      "flavor": null,
+      "artist": "Igor Kieryluk",
+      "number": "5",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 382196,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "NPH",
+        "MD1"
+      ],
+      "original_text": "At the beginning of your upkeep or whenever you cast a white spell, put a charge counter on Shrine of Loyal Legions.\n{3}, {T}, Sacrifice Shrine of Loyal Legions: Put a 1/1 colorless Myr artifact creature token onto the battlefield for each charge counter on Shrine of Loyal Legions.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=382196&type=card",
+      "set": "MD1",
+      "set_name": "Modern Event Deck 2014",
+      "id": "c80c8334a0efb3b019157dcc94e324e4b4d73288",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Honor of the Pure",
+      "layout": "normal",
+      "mana_cost": "{1}{W}",
+      "cmc": 2,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Enchantment",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Rare",
+      "text": "White creatures you control get +1/+1.",
+      "flavor": "Together the soldiers were like a golden blade, cutting down their enemies and scarring the darkness.",
+      "artist": "Greg Staples",
+      "number": "6",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 382186,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pMEI",
+        "M10",
+        "M11",
+        "M12",
+        "MD1"
+      ],
+      "original_text": "White creatures you control get +1/+1.",
+      "original_type": "Enchantment",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=382186&type=card",
+      "set": "MD1",
+      "set_name": "Modern Event Deck 2014",
+      "id": "39202b9f153f4a6589a909d11b3828e98d311c44",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Intangible Virtue",
+      "layout": "normal",
+      "mana_cost": "{1}{W}",
+      "cmc": 2,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Enchantment",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Uncommon",
+      "text": "Creature tokens you control get +1/+1 and have vigilance.",
+      "flavor": "In life, they were a motley crew: farmers, lords, cutpurses, priests. In death, they are united in singular, benevolent purpose.",
+      "artist": "Clint Cearley",
+      "number": "7",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 382188,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ISD",
+        "MD1",
+        "CNS",
+        "EMA",
+        "MM3"
+      ],
+      "original_text": "Creature tokens you control get +1/+1 and have vigilance.",
+      "original_type": "Enchantment",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=382188&type=card",
+      "set": "MD1",
+      "set_name": "Modern Event Deck 2014",
+      "id": "64ddd0ac2472cfdccfe64cb07ed0b5c048c1043b",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Banned"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Raise the Alarm",
+      "layout": "normal",
+      "mana_cost": "{1}{W}",
+      "cmc": 2,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Common",
+      "text": "Create two 1/1 white Soldier creature tokens.",
+      "flavor": "\"The nim raid our homes without warning. We must defend our homes without hesitation.\"",
+      "artist": "John Matson",
+      "number": "8",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 382194,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MRD",
+        "DDF",
+        "MD1",
+        "M15",
+        "DDO",
+        "MM2",
+        "EMA",
+        "CN2"
+      ],
+      "original_text": "Put two 1/1 white Soldier creature tokens onto the battlefield.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=382194&type=card",
+      "set": "MD1",
+      "set_name": "Modern Event Deck 2014",
+      "id": "f57c2e077ae25feb9542bffdfc29d0a0cca6e792",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Zealous Persecution",
+      "layout": "normal",
+      "mana_cost": "{W}{B}",
+      "cmc": 2,
+      "colors": [
+        "White",
+        "Black"
+      ],
+      "color_identity": [
+        "W",
+        "B"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Uncommon",
+      "text": "Until end of turn, creatures you control get +1/+1 and creatures your opponents control get -1/-1.",
+      "flavor": "\"Jharic returned from Grixis changed, a haunted look in her eyes. She destroyed them with an unholy glee that made me shudder.\"\n\u2014Knight-Captain Wyhorn",
+      "artist": "Christopher Moeller",
+      "number": "9",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 382204,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ARB",
+        "DDK",
+        "MD1",
+        "EMA",
+        "E02"
+      ],
+      "original_text": "Until end of turn, creatures you control get +1/+1 and creatures your opponents control get -1/-1.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=382204&type=card",
+      "set": "MD1",
+      "set_name": "Modern Event Deck 2014",
+      "id": "1dbf3a6b4f52478f134fcce51f8208e44dac31fa",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Sword of Feast and Famine",
+      "layout": "normal",
+      "mana_cost": "{3}",
+      "cmc": 3,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact \u2014 Equipment",
+      "supertypes": null,
+      "subtypes": [
+        "Equipment"
+      ],
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Equipped creature gets +2/+2 and has protection from black and from green.\nWhenever equipped creature deals combat damage to a player, that player discards a card and you untap all lands you control.\nEquip {2}",
+      "flavor": null,
+      "artist": "Chris Rahn",
+      "number": "10",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 382200,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pJGP",
+        "MBS",
+        "MD1",
+        "MPS"
+      ],
+      "original_text": "Equipped creature gets +2/+2 and has protection from black and from green.\nWhenever equipped creature deals combat damage to a player, that player discards a card and you untap all lands you control.\nEquip {2}",
+      "original_type": "Artifact \u2014 Equipment",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=382200&type=card",
+      "set": "MD1",
+      "set_name": "Modern Event Deck 2014",
+      "id": "7f35998e2b47761e55be7c2a67ded6039db72679",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2011-06-01",
+          "text": "You'll untap all lands you control even if the player doesn't discard a card."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Lingering Souls",
+      "layout": "normal",
+      "mana_cost": "{2}{W}",
+      "cmc": 3,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W",
+        "B"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Uncommon",
+      "text": "Create two 1/1 white Spirit creature tokens with flying.\nFlashback {1}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+      "flavor": "The murdered inhabitants of Hollowhenge impart to the living the terror they felt in death.",
+      "artist": "Bud Cook",
+      "number": "11",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 382191,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pFNM",
+        "DKA",
+        "DDK",
+        "MD1",
+        "MM3"
+      ],
+      "original_text": "Put two 1/1 white Spirit creature tokens with flying onto the battlefield.\nFlashback {1}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=382191&type=card",
+      "set": "MD1",
+      "set_name": "Modern Event Deck 2014",
+      "id": "22c5f6c02b128f05c479d3cc5ba1e02055debce6",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Banned"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Spectral Procession",
+      "layout": "normal",
+      "mana_cost": "{2/W}{2/W}{2/W}",
+      "cmc": 6,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Uncommon",
+      "text": "Create three 1/1 white Spirit creature tokens with flying.",
+      "flavor": "\"I need never remember my past associates, my victims, my mistakes. Innistrad preserves them all for me.\"\n\u2014Sorin Markov",
+      "artist": "Tomasz Jedruszek",
+      "number": "12",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 382198,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "SHM",
+        "DDK",
+        "MD1",
+        "C14",
+        "MM2"
+      ],
+      "original_text": "Put three 1/1 white Spirit creature tokens with flying onto the battlefield.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=382198&type=card",
+      "set": "MD1",
+      "set_name": "Modern Event Deck 2014",
+      "id": "c73ba223c2e3fff48c519e14986df091e03f3519",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-05-01",
+          "text": "If an effect reduces the cost to cast a spell by an amount of generic mana, it applies to a monocolored hybrid spell only if you've chosen a method of paying for it that includes generic mana."
+        },
+        {
+          "date": "2008-05-01",
+          "text": "A card with a monocolored hybrid mana symbol in its mana cost is each of the colors that appears in its mana cost, regardless of what mana was spent to cast it. Thus, Spectral Procession is white even if you spend six blue mana to cast it."
+        },
+        {
+          "date": "2008-05-01",
+          "text": "A card with monocolored hybrid mana symbols in its mana cost has a converted mana cost equal to the highest possible cost it could be cast for. Its converted mana cost never changes. Thus, Spectral Procession has a converted mana cost of 6, even if you spend {W}{W}{W} to cast it."
+        },
+        {
+          "date": "2008-05-01",
+          "text": "If a cost includes more than one monocolored hybrid mana symbol, you can choose a different way to pay for each symbol. For example, you can pay for Spectral Procession by spending {W}{W}{W}, {2}{W}{W}, {4}{W}, or {6}."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Elspeth, Knight-Errant",
+      "layout": "normal",
+      "mana_cost": "{2}{W}{W}",
+      "cmc": 4,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Legendary Planeswalker \u2014 Elspeth",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Elspeth"
+      ],
+      "types": [
+        "Planeswalker"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "+1: Create a 1/1 white Soldier creature token.\n+1: Target creature gets +3/+3 and gains flying until end of turn.\n\u22128: You get an emblem with \"Artifacts, creatures, enchantments, and lands you control have indestructible.\"",
+      "flavor": null,
+      "artist": "Volkan Baga",
+      "number": "13",
+      "power": null,
+      "toughness": null,
+      "loyalty": 4,
+      "multiverse_id": 382184,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ALA",
+        "DDF",
+        "MMA",
+        "MD1"
+      ],
+      "original_text": "+1: Put a 1/1 white Soldier creature token onto the battlefield.\n+1: Target creature gets +3/+3 and gains flying until end of turn.\n-8: You get an emblem with \"Artifacts, creatures, enchantments, and lands you control have indestructible.\"",
+      "original_type": "Planeswalker \u2014 Elspeth",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=382184&type=card",
+      "set": "MD1",
+      "set_name": "Modern Event Deck 2014",
+      "id": "948349edc0ad3dde3964dfb37bf1be0f2f757a6a",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2011-01-01",
+          "text": "Emblems behave similarly to enchantments: They have an ability that, in a general sense, continually affects the game. The primary difference between them is that emblems aren't permanents and don't exist on the battlefield. Nothing in the game can remove an emblem, simply because no other spell or ability references them. Once you get an emblem, you keep it for the rest of the game. Emblems have no color, name, card type, or other characteristics beyond the listed ability."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "Lethal damage and effects that say \"destroy\" won't cause a permanent with indestructible to be put into the graveyard. However, a permanent with indestructible can be put into the graveyard for a number of reasons. The most likely reasons are if it's sacrificed, if it's a creature whose toughness is 0 or less, or if it's an Aura that's either unattached or attached to something illegal."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Caves of Koilos",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "W",
+        "B"
+      ],
+      "names": null,
+      "type": "Land",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Rare",
+      "text": "{T}: Add {C}.\n{T}: Add {W} or {B}. Caves of Koilos deals 1 damage to you.",
+      "flavor": null,
+      "artist": "Jim Nelson",
+      "number": "14",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 382180,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "APC",
+        "9ED",
+        "10E",
+        "MD1",
+        "M15",
+        "ORI",
+        "C16"
+      ],
+      "original_text": "{T}: Add {1} to your mana pool.\n{T}: Add {W} or {B} to your mana pool. Caves of Koilos deals 1 damage to you.",
+      "original_type": "Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=382180&type=card",
+      "set": "MD1",
+      "set_name": "Modern Event Deck 2014",
+      "id": "275f977621a31bcef8a008d3bf7c45be3cfe58ab",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2015-06-22",
+          "text": "The damage dealt to you is part of the second mana ability. It doesn't use the stack and can't be responded to."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "Like most lands, each land in this cycle is colorless. The damage dealt to you is dealt by a colorless source."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "City of Brass",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Land",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Rare",
+      "text": "Whenever City of Brass becomes tapped, it deals 1 damage to you.\n{T}: Add one mana of any color.",
+      "flavor": "\"There is much to learn here, but few can endure the ringing of the spires.\"\n\u2014Nulakam the Archivist",
+      "artist": "Jung Park",
+      "number": "15",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 382181,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ARN",
+        "CHR",
+        "5ED",
+        "6ED",
+        "pSUS",
+        "7ED",
+        "8ED",
+        "ME4",
+        "MMA",
+        "MD1"
+      ],
+      "original_text": "Whenever City of Brass becomes tapped, it deals 1 damage to you.\n{T}: Add one mana of any color to your mana pool.",
+      "original_type": "Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=382181&type=card",
+      "set": "MD1",
+      "set_name": "Modern Event Deck 2014",
+      "id": "2cb57cc80094f5be8356c3caaa840cfe0c7c2c5b",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "The first ability triggers no matter how the land becomes tapped."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "If you tap City of Brass while you are casting a spell or activating an ability, its ability will trigger and wait. When you finish casting that spell or activating that ability, City of Brass's triggered ability is put on the stack on top of it. City of Brass's ability will resolve first."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "On the other hand, you can tap City of Brass, put its triggered ability on the stack, and then respond to that ability by casting an instant or activating an ability using that mana. In that case, the instant spell or activated ability will resolve first."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Isolated Chapel",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "W",
+        "B"
+      ],
+      "names": null,
+      "type": "Land",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Rare",
+      "text": "Isolated Chapel enters the battlefield tapped unless you control a Plains or a Swamp.\n{T}: Add {W} or {B}.",
+      "flavor": "Not every church is a place of faith.",
+      "artist": "Cliff Childs",
+      "number": "16",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 382189,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ISD",
+        "MD1",
+        "DOM"
+      ],
+      "original_text": "Isolated Chapel enters the battlefield tapped unless you control a Plains or a Swamp.\n{T}: Add {W} or {B} to your mana pool.",
+      "original_type": "Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=382189&type=card",
+      "set": "MD1",
+      "set_name": "Modern Event Deck 2014",
+      "id": "fc41ca47c28415aacc57f41adc7caafb18982b87",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Vault of the Archangel",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "W",
+        "B"
+      ],
+      "names": null,
+      "type": "Land",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Rare",
+      "text": "{T}: Add {C}.\n{2}{W}{B}, {T}: Creatures you control gain deathtouch and lifelink until end of turn.",
+      "flavor": "\"For centuries my creation kept this world in balance. Now only her shadow remains.\"\n\u2014Sorin Markov",
+      "artist": "John Avon",
+      "number": "17",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 382202,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "DKA",
+        "MD1"
+      ],
+      "original_text": "{T}: Add {1} to your mana pool.\n{2}{W}{B}, {T}: Creatures you control gain deathtouch and lifelink until end of turn.",
+      "original_type": "Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=382202&type=card",
+      "set": "MD1",
+      "set_name": "Modern Event Deck 2014",
+      "id": "c5bb96a1d9c9123a6efe5631e8ab4d1923c2ec49",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2011-01-22",
+          "text": "Vault of the Archangel's last ability affects only creatures you control when that ability resolves. It won't affect creatures that come under your control later in the turn."
+        },
+        {
+          "date": "2011-01-22",
+          "text": "Multiple instances of deathtouch or lifelink on the same creature are redundant."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Windbrisk Heights",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Land",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Rare",
+      "text": "Hideaway (This land enters the battlefield tapped. When it does, look at the top four cards of your library, exile one face down, then put the rest on the bottom of your library.)\n{T}: Add {W}.\n{W}, {T}: You may play the exiled card without paying its mana cost if you attacked with three or more creatures this turn.",
+      "flavor": null,
+      "artist": "Omar Rayyan",
+      "number": "18",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 382203,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LRW",
+        "V12",
+        "MD1",
+        "C16"
+      ],
+      "original_text": "Hideaway (This land enters the battlefield tapped. When it does, look at the top four cards of your library, exile one face down, then put the rest on the bottom of your library.)\n{T}: Add {W} to your mana pool.\n{W}, {T}: You may play the exiled card without paying its mana cost if you attacked with three or more creatures this turn.",
+      "original_type": "Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=382203&type=card",
+      "set": "MD1",
+      "set_name": "Modern Event Deck 2014",
+      "id": "e3431d3f573c4e330eaf8d625baa3f15d6c21a5b",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2007-10-01",
+          "text": "At the time the ability resolves, you'll get to play the card if you declared three different creatures as attackers at any point in the turn. A creature declared as an attacker in two different attack phases counts only once. A creature that entered the battlefield attacking (such as a token created by Militia's Pride) doesn't count because you never attacked with it."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Plains",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Plains",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Plains"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Adam Paquette",
+      "number": "19",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 382193,
+      "variations": null,
+      "watermark": "White",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "pPRE",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "INV",
+        "7ED",
+        "ODY",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DDC",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "ARC",
+        "M11",
+        "DDF",
+        "SOM",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "RTR",
+        "DDK",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "MD1",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_DVD",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "UST",
+        "RIX",
+        "DOM"
+      ],
+      "original_text": "W",
+      "original_type": "Basic Land \u2014 Plains",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=382193&type=card",
+      "set": "MD1",
+      "set_name": "Modern Event Deck 2014",
+      "id": "6fa5556488b3c66346c946f9ee6de8070896f354",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Swamp",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Swamp",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Swamp"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Adam Paquette",
+      "number": "20",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 382199,
+      "variations": null,
+      "watermark": "Black",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DDC",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "DDD",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "MBS",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "PD3",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "DDK",
+        "M14",
+        "THS",
+        "C13",
+        "DDM",
+        "MD1",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_DVD",
+        "DD3_GVL",
+        "FRF",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "DDR",
+        "KLD",
+        "C16",
+        "PCA",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "UST",
+        "RIX",
+        "DOM"
+      ],
+      "original_text": "B",
+      "original_type": "Basic Land \u2014 Swamp",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=382199&type=card",
+      "set": "MD1",
+      "set_name": "Modern Event Deck 2014",
+      "id": "ac8dece2d08e1dacd1f3435fe173146f313af151",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Relic of Progenitus",
+      "layout": "normal",
+      "mana_cost": "{1}",
+      "cmc": 1,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Uncommon",
+      "text": "{T}: Target player exiles a card from their graveyard.\n{1}, Exile Relic of Progenitus: Exile all cards from all graveyards. Draw a card.",
+      "flavor": "Elves believe the hydra-god Progenitus sleeps beneath Naya, feeding on forgotten magics.",
+      "artist": "Jean-S\u00e9bastien Rossbach",
+      "number": "21",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 382195,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ALA",
+        "HOP",
+        "MMA",
+        "MD1",
+        "EMA"
+      ],
+      "original_text": "{T}: Target player exiles a card from his or her graveyard.\n{1}, Exile Relic of Progenitus: Exile all cards from all graveyards. Draw a card.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=382195&type=card",
+      "set": "MD1",
+      "set_name": "Modern Event Deck 2014",
+      "id": "732935eb8603149d5253dc02a9702e951c2b4c72",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2016-06-08",
+          "text": "If you activate Relic of Progenitus's first ability, the targeted player chooses which card to exile. The choice is made as the ability resolves."
+        },
+        {
+          "date": "2016-06-08",
+          "text": "You can activate Relic of Progenitus's second ability even if no players have any cards in their graveyards. You'll still draw a card."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Burrenton Forge-Tender",
+      "layout": "normal",
+      "mana_cost": "{W}",
+      "cmc": 1,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Kithkin Wizard",
+      "supertypes": null,
+      "subtypes": [
+        "Kithkin",
+        "Wizard"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "Protection from red\nSacrifice Burrenton Forge-Tender: Prevent all damage a red source of your choice would deal this turn.",
+      "flavor": "\"We are a clachan of smiths. The forge is as comfortable to us as a small fire during a cool winter's evening.\"",
+      "artist": "Chuck Lukacs",
+      "number": "22",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 382179,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LRW",
+        "MD1",
+        "IMA"
+      ],
+      "original_text": "Protection from red\nSacrifice Burrenton Forge-Tender: Prevent all damage a red source of your choice would deal this turn.",
+      "original_type": "Creature \u2014 Kithkin Wizard",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=382179&type=card",
+      "set": "MD1",
+      "set_name": "Modern Event Deck 2014",
+      "id": "6a1de336d2c494aee05be41df1e8b1a0f924a026",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2017-11-17",
+          "text": "If the red source you chose changes colors before it deals damage, the damage-prevention effect doesn't apply."
+        },
+        {
+          "date": "2017-11-17",
+          "text": "The last ability of Burrenton Forge-Tender doesn't target anything. You choose a source of damage as the ability resolves, if able. You can activate it even if there is no source to choose."
+        },
+        {
+          "date": "2017-11-17",
+          "text": "If a permanent spell is chosen as the source of damage, Burrenton Forge-Tender's prevention effect continues to apply for the rest of the turn to the permanent that spell becomes once it has entered the battlefield."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Duress",
+      "layout": "normal",
+      "mana_cost": "{B}",
+      "cmc": 1,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Common",
+      "text": "Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.",
+      "flavor": "\"It hurts more if you think about it.\"\n\u2014Hooks, Cabal torturer",
+      "artist": "Steven Belledin",
+      "number": "23",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 382183,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pMEI",
+        "pARL",
+        "USG",
+        "pFNM",
+        "7ED",
+        "DDC",
+        "M10",
+        "M11",
+        "PD3",
+        "M13",
+        "M14",
+        "MD1",
+        "DD3_DVD",
+        "DTK",
+        "EMA",
+        "XLN",
+        "IMA"
+      ],
+      "original_text": "Target opponent reveals his or her hand. You choose a noncreature, nonland card from it. That player discards that card.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=382183&type=card",
+      "set": "MD1",
+      "set_name": "Modern Event Deck 2014",
+      "id": "49788a9318b3836c38626493cfadb790df2ab128",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Kataki, War's Wage",
+      "layout": "normal",
+      "mana_cost": "{1}{W}",
+      "cmc": 2,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Legendary Creature \u2014 Spirit",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Spirit"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": "All artifacts have \"At the beginning of your upkeep, sacrifice this artifact unless you pay {1}.\"",
+      "flavor": "\"Before the war, we prayed to Kataki to sharpen our swords and harden our armor. Without his blessing our weapons are all but useless against the kami hordes.\"\n\u2014Kenzo the Hardhearted",
+      "artist": "Matt Thompson",
+      "number": "24",
+      "power": "2",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 382190,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "SOK",
+        "MMA",
+        "MD1"
+      ],
+      "original_text": "All artifacts have \"At the beginning of your upkeep, sacrifice this artifact unless you pay {1}.\"",
+      "original_type": "Legendary Creature \u2014 Spirit",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=382190&type=card",
+      "set": "MD1",
+      "set_name": "Modern Event Deck 2014",
+      "id": "c92f8396712a78f03cec2092b8b91458fe096de1",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Dismember",
+      "layout": "normal",
+      "mana_cost": "{1}{B/P}{B/P}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Uncommon",
+      "text": "({B/P} can be paid with either {B} or 2 life.)\nTarget creature gets -5/-5 until end of turn.",
+      "flavor": "\"You serve Phyrexia. Your pieces would better serve Phyrexia elsewhere.\"\n\u2014Azax-Azog, the Demon Thane",
+      "artist": "Terese Nielsen",
+      "number": "25",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 382182,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pFNM",
+        "NPH",
+        "MD1",
+        "MM2"
+      ],
+      "original_text": "({B/P} can be paid with either {B} or 2 life.)\nTarget creature gets -5/-5 until end of turn.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=382182&type=card",
+      "set": "MD1",
+      "set_name": "Modern Event Deck 2014",
+      "id": "d8489367e1771568de82f9bd6103ac82f780569f",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2011-06-01",
+          "text": "A card with Phyrexian mana symbols in its mana cost is each color that appears in that mana cost, regardless of how that cost may have been paid."
+        },
+        {
+          "date": "2011-06-01",
+          "text": "To calculate the converted mana cost of a card with Phyrexian mana symbols in its cost, count each Phyrexian mana symbol as 1."
+        },
+        {
+          "date": "2011-06-01",
+          "text": "As you cast a spell or activate an activated ability with one or more Phyrexian mana symbols in its cost, you choose how to pay for each Phyrexian mana symbol at the same time you would choose modes or choose a value for X."
+        },
+        {
+          "date": "2011-06-01",
+          "text": "If you're at 1 life or less, you can't pay 2 life."
+        },
+        {
+          "date": "2011-06-01",
+          "text": "Phyrexian mana is not a new color. Players can't add Phyrexian mana to their mana pools."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Ghost Quarter",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Land",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Uncommon",
+      "text": "{T}: Add {C}.\n{T}, Sacrifice Ghost Quarter: Destroy target land. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle their library.",
+      "flavor": "Deserted, but not uninhabited.",
+      "artist": "Peter Mohrbacher",
+      "number": "26",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 382185,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "DIS",
+        "ISD",
+        "MD1",
+        "C14",
+        "C15",
+        "CMA"
+      ],
+      "original_text": "{T}: Add {1} to your mana pool.\n{T}, Sacrifice Ghost Quarter: Destroy target land. Its controller may search his or her library for a basic land card, put it onto the battlefield, then shuffle his or her library.",
+      "original_type": "Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=382185&type=card",
+      "set": "MD1",
+      "set_name": "Modern Event Deck 2014",
+      "id": "0a3ece87d17040412913b1867c702bb3391b1120",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2006-05-01",
+          "text": "If you target Ghost Quarter with its own ability, the ability won't resolve because its target is no longer on the battlefield. You won't get to search for a land card."
+        },
+        {
+          "date": "2011-09-22",
+          "text": "If the targeted land is an illegal target by the time Ghost Quarter's ability resolves, it won't resolve and none of its effects will happen. The land's controller won't get to search for a basic land card."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "The target land's controller gets to search for a basic land card even if that land wasn't destroyed by Ghost Quarter's ability. This may happen because the land has indestructible or because it was regenerated."
+        }
+      ],
+      "foreign_names": null
+    }
+  ]
+}

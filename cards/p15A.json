@@ -1,0 +1,244 @@
+{
+  "code": "p15A",
+  "name": "15th Anniversary",
+  "type": "promo",
+  "border": "black",
+  "mkm_id": null,
+  "mkm_name": null,
+  "release_date": "2008-04-01",
+  "gatherer_code": null,
+  "magic_cards_info_code": "15ann",
+  "booster": null,
+  "old_code": null,
+  "block": null,
+  "online_only": null,
+  "cards": [
+    {
+      "name": "Char",
+      "layout": "normal",
+      "mana_cost": "{2}{R}",
+      "cmc": 3,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Char deals 4 damage to target creature or player and 2 damage to you.",
+      "flavor": "If you've never choked on the embers of your own spell, you aren't casting it hard enough.",
+      "artist": "Dave Dorman",
+      "number": "1",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2008-04",
+      "starter": null,
+      "printings": [
+        "RAV",
+        "p15A",
+        "V13"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Comic Con Magic Fifteenth Anniversary Tournament",
+      "image_url": null,
+      "set": "p15A",
+      "set_name": "15th Anniversary",
+      "id": "0da3828a8cd7221e99e210314f91039b8360b77c",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u70e4\u7126",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Carboniser",
+          "language": "French"
+        },
+        {
+          "name": "Verkohlen",
+          "language": "German"
+        },
+        {
+          "name": "Ardere",
+          "language": "Italian"
+        },
+        {
+          "name": "\u9ed2\u7126\u3052",
+          "language": "Japanese"
+        },
+        {
+          "name": "Carbonizar",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0413\u043e\u043b\u043e\u0432\u0435\u0448\u043a\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Quemar",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Kamahl, Pit Fighter",
+      "layout": "normal",
+      "mana_cost": "{4}{R}{R}",
+      "cmc": 6,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Legendary Creature \u2014 Human Barbarian",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Human",
+        "Barbarian"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Haste (This creature can attack and {T} as soon as it comes under your control.)\n{T}: Kamahl, Pit Fighter deals 3 damage to target creature or player.",
+      "flavor": "In times when freedom seems lost, great souls arise to reclaim it.",
+      "artist": "Kev Walker",
+      "number": "2",
+      "power": "6",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2008",
+      "starter": null,
+      "printings": [
+        "ODY",
+        "10E",
+        "p15A",
+        "DPA",
+        "DDL",
+        "DDS"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "15th Anniversary starter 10Th Edition",
+      "image_url": null,
+      "set": "p15A",
+      "set_name": "15th Anniversary",
+      "id": "ca41f764c6661c4d81ea7c91f0f8f051ff471020",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "The Legend rule only applies to two legendary permanents with identical names. If the names are different, even if they depict the same character, the rule does not apply."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u6b7b\u6597\u6218\u58eb\u5361\u9a6c\u5c14",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u6b7b\u9b25\u6230\u58eb\u5361\u99ac\u723e",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Kamahl, sangrahbaire",
+          "language": "French"
+        },
+        {
+          "name": "Kamahl, der Grubenk\u00e4mpfer",
+          "language": "German"
+        },
+        {
+          "name": "Kamahl, Combattente dell'Arena",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30d4\u30c3\u30c8\u30fb\u30d5\u30a1\u30a4\u30bf\u30fc\u3001\u30ab\u30de\u30fc\u30eb",
+          "language": "Japanese"
+        },
+        {
+          "name": "Kamahl, Lutador da Li\u00e7a",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041a\u0430\u043c\u0430\u043b\u044c, \u0411\u043e\u0435\u0446 \u042f\u043c\u044b",
+          "language": "Russian"
+        },
+        {
+          "name": "Kamahl, luchador del foso",
+          "language": "Spanish"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "code": "pLGM",
+  "name": "Legend Membership",
+  "type": "promo",
+  "border": "black",
+  "mkm_id": null,
+  "mkm_name": null,
+  "release_date": "1995-01-01",
+  "gatherer_code": null,
+  "magic_cards_info_code": "dcilm",
+  "booster": null,
+  "old_code": null,
+  "block": null,
+  "online_only": null,
+  "cards": [
+    {
+      "name": "Counterspell",
+      "layout": "normal",
+      "mana_cost": "{U}{U}",
+      "cmc": 2,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Counter target spell.",
+      "flavor": null,
+      "artist": "Dom!",
+      "number": "1",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "1995",
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "pLGM",
+        "4ED",
+        "ICE",
+        "5ED",
+        "TMP",
+        "pJGP",
+        "6ED",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pFNM",
+        "S00",
+        "BTD",
+        "7ED",
+        "ME2",
+        "DD2",
+        "ME4",
+        "VMA",
+        "DD3_JVC",
+        "TPR",
+        "EMA",
+        "MPS_AKH"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "DCI Legend Membership bonus.",
+      "image_url": null,
+      "set": "pLGM",
+      "set_name": "Legend Membership",
+      "id": "49ade2479e2c2a83cabc1bcad534222ed9f3b2a0",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u53cd\u51fb\u5492\u8bed",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Contresort",
+          "language": "French"
+        },
+        {
+          "name": "Gegenzauber",
+          "language": "German"
+        },
+        {
+          "name": "Contromagia",
+          "language": "Italian"
+        },
+        {
+          "name": "\u5bfe\u6297\u546a\u6587",
+          "language": "Japanese"
+        },
+        {
+          "name": "Contram\u00e1gica",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "Contrahechizo",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Incinerate",
+      "layout": "normal",
+      "mana_cost": "{1}{R}",
+      "cmc": 2,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Incinerate deals 3 damage to target creature or player. A creature dealt damage this way can't be regenerated this turn.",
+      "flavor": "\"Yes, I think 'toast' is an appropriate description.\"\n\u2014Jaya Ballard, Task Mage",
+      "artist": "Jock",
+      "number": "2",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "1995",
+      "starter": null,
+      "printings": [
+        "pLGM",
+        "ICE",
+        "MIR",
+        "5ED",
+        "pMPR",
+        "DKM",
+        "CST",
+        "10E",
+        "ME2",
+        "DD2",
+        "DPA",
+        "M12",
+        "DD3_JVC"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "DCI Legend Membership bonus.",
+      "image_url": null,
+      "set": "pLGM",
+      "set_name": "Legend Membership",
+      "id": "2837b7bdf8b92d9a20cf31e6f278dcb42697c437",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2007-07-15",
+          "text": "Regeneration abilities that would affect that creature can still be activated; they just won't do anything. The creature can't be regenerated for any reason, even if an effect other than Incinerate would deal lethal damage to it or otherwise destroy it."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u711a\u5316",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u711a\u5316",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Incin\u00e9ration",
+          "language": "French"
+        },
+        {
+          "name": "Ein\u00e4scherung",
+          "language": "German"
+        },
+        {
+          "name": "Incenerire",
+          "language": "Italian"
+        },
+        {
+          "name": "\u706b\u846c",
+          "language": "Japanese"
+        },
+        {
+          "name": "Incinerar",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0421\u0436\u0438\u0433\u0430\u043d\u0438\u0435",
+          "language": "Russian"
+        },
+        {
+          "name": "Incinerar",
+          "language": "Spanish"
+        }
+      ]
+    }
+  ]
+}

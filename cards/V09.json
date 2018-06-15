@@ -1,0 +1,1155 @@
+{
+  "code": "V09",
+  "name": "From the Vault: Exiled",
+  "type": "from the vault",
+  "border": "black",
+  "mkm_id": 112,
+  "mkm_name": "From the Vault: Exiled",
+  "release_date": "2009-08-28",
+  "gatherer_code": null,
+  "magic_cards_info_code": "fve",
+  "booster": null,
+  "old_code": "FVE",
+  "block": null,
+  "online_only": null,
+  "cards": [
+    {
+      "name": "Balance",
+      "layout": "normal",
+      "mana_cost": "{1}{W}",
+      "cmc": 2,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Each player chooses a number of lands they control equal to the number of lands controlled by the player who controls the fewest, then sacrifices the rest. Players discard cards and sacrifice creatures the same way.",
+      "flavor": null,
+      "artist": "Randy Gallegos",
+      "number": "1",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 194966,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "pJGP",
+        "V09",
+        "ME4",
+        "VMA",
+        "EMA"
+      ],
+      "original_text": "Each player chooses a number of lands he or she controls equal to the number of lands controlled by the player who controls the fewest, then sacrifices the rest. Players discard cards and sacrifice creatures the same way.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194966&type=card",
+      "set": "V09",
+      "set_name": "From the Vault: Exiled",
+      "id": "613d7b53ca2826fa9ad800470e65f1d37e240e04",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Banned"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Banned"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Restricted"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2016-06-08",
+          "text": "First the player whose turn it is chooses which lands (if any) to keep, then each other player in turn order does the same. Each player will know the choices made by the players who chose before them. All of the unchosen lands are then sacrificed simultaneously. Then the process is repeated for cards in hand, except that no cards are revealed until all players have chosen what to discard, at which point those cards are all discarded simultaneously. Lastly, the process is repeated for creatures, and players will again know earlier choices made when deciding what to sacrifice. All of the unchosen creatures are then sacrificed simultaneously."
+        },
+        {
+          "date": "2016-06-08",
+          "text": "Balance doesn't have targets, so permanents that can't be targeted, such as a creature with shroud or protection from white, are valid choices to be sacrificed."
+        },
+        {
+          "date": "2016-06-08",
+          "text": "Each type of object is counted during the corresponding part of the process. Cards in hand are counted after lands have been sacrificed, and creatures on the battlefield are counted after cards have been discarded. Thus, a land creature sacrificed to the first part of the spell would not be counted when determining how many creatures are on the battlefield for the last part."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Berserk",
+      "layout": "normal",
+      "mana_cost": "{G}",
+      "cmc": 1,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Cast this spell only before the combat damage step.\nTarget creature gains trample and gets +X/+0 until end of turn, where X is its power. At the beginning of the next end step, destroy that creature if it attacked this turn.",
+      "flavor": null,
+      "artist": "Steve Prescott",
+      "number": "2",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 194969,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "MED",
+        "V09",
+        "VMA",
+        "CN2"
+      ],
+      "original_text": "Cast Berserk only before the combat damage step.\nTarget creature gains trample and gets +X/+0 until end of turn, where X is its power. At the beginning of the end step, destroy that creature if it attacked this turn.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194969&type=card",
+      "set": "V09",
+      "set_name": "From the Vault: Exiled",
+      "id": "f5860738966026dec0a02d671a5ee5bf0daea1ae",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "If the permanent stops being a creature before the end of the turn, it is still destroyed."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Channel",
+      "layout": "normal",
+      "mana_cost": "{G}{G}",
+      "cmc": 2,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Until end of turn, any time you could activate a mana ability, you may pay 1 life. If you do, add {C}.",
+      "flavor": "To some mages, the meaning of life is less important than how much is left.",
+      "artist": "Rebecca Guay",
+      "number": "3",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 194967,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "V09",
+        "ME4",
+        "VMA",
+        "IMA"
+      ],
+      "original_text": "Until end of turn, any time you could activate a mana ability, you may pay 1 life. If you do, add {1} to your mana pool.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194967&type=card",
+      "set": "V09",
+      "set_name": "From the Vault: Exiled",
+      "id": "4315d88f93d99240a2229e2a5824bda3f21756a8",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Banned"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Banned"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Restricted"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2017-11-17",
+          "text": "Once your life total is 0, you can't pay any more life, even if you've somehow not lost the game yet."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Gifts Ungiven",
+      "layout": "normal",
+      "mana_cost": "{3}{U}",
+      "cmc": 4,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Search your library for up to four cards with different names and reveal them. Target opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand. Then shuffle your library.",
+      "flavor": null,
+      "artist": "D. Alexander Gregory",
+      "number": "4",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 194971,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "CHK",
+        "V09",
+        "MMA",
+        "MM3"
+      ],
+      "original_text": "Search your library for four cards with different names and reveal them. Target opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand. Then shuffle your library.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194971&type=card",
+      "set": "V09",
+      "set_name": "From the Vault: Exiled",
+      "id": "7342615a54a62a837ce9e150594b049a2579aa1a",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Banned"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2017-03-14",
+          "text": "You can choose to find fewer than four cards if you want. If you find one or two cards, your opponent must choose for them to be put into your graveyard, even if they don't want to."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Goblin Lackey",
+      "layout": "normal",
+      "mana_cost": "{R}",
+      "cmc": 1,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Goblin",
+      "supertypes": null,
+      "subtypes": [
+        "Goblin"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Whenever Goblin Lackey deals damage to a player, you may put a Goblin permanent card from your hand onto the battlefield.",
+      "flavor": "At the first sign of enemy scouts, Jula grinned and strapped on his diplomacy helmet.",
+      "artist": "Christopher Moeller",
+      "number": "5",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 194973,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "USG",
+        "V09",
+        "VMA"
+      ],
+      "original_text": "Whenever Goblin Lackey deals damage to a player, you may put a Goblin permanent card from your hand onto the battlefield.",
+      "original_type": "Creature \u2014 Goblin",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194973&type=card",
+      "set": "V09",
+      "set_name": "From the Vault: Exiled",
+      "id": "045a6c15e78297ad7690b91134a34efefcf76997",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-08-01",
+          "text": "A Goblin permanent card is an artifact, creature, land, and/or enchantment card with the creature type \"Goblin\". Usually such cards will be creatures in addition to any other types, but they may be tribal instead. For example, you could put Boggart Shenanigans onto the battlefield with this effect."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Kird Ape",
+      "layout": "normal",
+      "mana_cost": "{R}",
+      "cmc": 1,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Ape",
+      "supertypes": null,
+      "subtypes": [
+        "Ape"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Kird Ape gets +1/+2 as long as you control a Forest.",
+      "flavor": "Apes can be gentle, contemplative beasts\u2014but context is everything.",
+      "artist": "Terese Nielsen",
+      "number": "6",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 194974,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ARN",
+        "3ED",
+        "pFNM",
+        "BTD",
+        "9ED",
+        "V09",
+        "DDH",
+        "EMA"
+      ],
+      "original_text": "Kird Ape gets +1/+2 as long as you control a Forest.",
+      "original_type": "Creature \u2014 Ape",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194974&type=card",
+      "set": "V09",
+      "set_name": "From the Vault: Exiled",
+      "id": "6349039d146b64836d6b0f6b5176b43ae9d3a08b",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Lotus Petal",
+      "layout": "normal",
+      "mana_cost": "{0}",
+      "cmc": 0,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "{T}, Sacrifice Lotus Petal: Add one mana of any color.",
+      "flavor": "\"Hard to imagine,\" mused Hanna, stroking the petal, \"such a lovely flower inspiring such greed.\"",
+      "artist": "April Lee",
+      "number": "7",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 194975,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "TMP",
+        "V09",
+        "TPR",
+        "MPS"
+      ],
+      "original_text": "{T}, Sacrifice Lotus Petal: Add one mana of any color to your mana pool.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194975&type=card",
+      "set": "V09",
+      "set_name": "From the Vault: Exiled",
+      "id": "cf9c415825f63ef4a349db4fbd586db0c9c9cf38",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Restricted"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Mystical Tutor",
+      "layout": "normal",
+      "mana_cost": "{U}",
+      "cmc": 1,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Search your library for an instant or sorcery card and reveal that card. Shuffle your library, then put the card on top of it.",
+      "flavor": "The student searches the world for meaning. The master finds worlds of meaning in the search.",
+      "artist": "David O'Connor",
+      "number": "8",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 194976,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MIR",
+        "6ED",
+        "V09",
+        "EMA"
+      ],
+      "original_text": "Search your library for an instant or sorcery card and reveal that card. Shuffle your library, then put the card on top of it.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194976&type=card",
+      "set": "V09",
+      "set_name": "From the Vault: Exiled",
+      "id": "cfbc86e0639c8f8020c99197fbfd8adb2f3c8ed5",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Banned"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Restricted"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2016-06-08",
+          "text": "The \"shuffle and put the card on top\" is a single action. If an effect causes the top card of the library to be face up, the second card down is not revealed."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Necropotence",
+      "layout": "normal",
+      "mana_cost": "{B}{B}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Enchantment",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Skip your draw step.\nWhenever you discard a card, exile that card from your graveyard.\nPay 1 life: Exile the top card of your library face down. Put that card into your hand at the beginning of your next end step.",
+      "flavor": null,
+      "artist": "Dave Kendall",
+      "number": "9",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 194977,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ICE",
+        "5ED",
+        "DKM",
+        "ME2",
+        "V09",
+        "VMA",
+        "EMA",
+        "IMA"
+      ],
+      "original_text": "Skip your draw step.\nWhenever you discard a card, exile that card from your graveyard.\nPay 1 life: Exile the top card of your library face down. Put that card into your hand at the beginning of your next end step.",
+      "original_type": "Enchantment",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194977&type=card",
+      "set": "V09",
+      "set_name": "From the Vault: Exiled",
+      "id": "f6733bcd93d821340c306a7b5e5b06c021b377c0",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Banned"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Restricted"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2017-11-17",
+          "text": "If a discarded card isn't put into your graveyard (due to an effect such as that of Obstinate Baloth) or leaves your graveyard (perhaps because another effect returned it to your hand), it won't be exiled."
+        },
+        {
+          "date": "2017-11-17",
+          "text": "If you discard a card with madness and wish to cast it, Necropotence's ability won't exile that card. If you don't wish to cast it, you choose whether it ends up exiled or in your graveyard."
+        },
+        {
+          "date": "2017-11-17",
+          "text": "Necropotence's last ability creates a delayed triggered ability that will put the exiled card into your hand. That ability still triggers even if Necropotence is removed from the battlefield before your end step."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Sensei's Divining Top",
+      "layout": "normal",
+      "mana_cost": "{1}",
+      "cmc": 1,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "{1}: Look at the top three cards of your library, then put them back in any order.\n{T}: Draw a card, then put Sensei's Divining Top on top of its owner's library.",
+      "flavor": null,
+      "artist": "Michael Sutfin",
+      "number": "10",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 194972,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "CHK",
+        "V09",
+        "EMA"
+      ],
+      "original_text": "{1}: Look at the top three cards of your library, then put them back in any order.\n{T}: Draw a card, then put Sensei's Divining Top on top of its owner's library.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194972&type=card",
+      "set": "V09",
+      "set_name": "From the Vault: Exiled",
+      "id": "37aea06bf6443b85690c50c793a1d62945e87487",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Banned"
+        },
+        {
+          "format": "Modern",
+          "legality": "Banned"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2016-06-08",
+          "text": "Sensei's Divining Top's second ability may be activated in response to its first ability. If so, you'll draw a card, put Sensei's Divining Top on top of your library, and then look at the top three cards and rearrange them."
+        },
+        {
+          "date": "2016-06-08",
+          "text": "If Sensei's Divining Top leaves the battlefield while its second ability is on the stack, you'll draw a card and leave Sensei's Divining Top in the zone it's moved to."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Serendib Efreet",
+      "layout": "normal",
+      "mana_cost": "{2}{U}",
+      "cmc": 3,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Efreet",
+      "supertypes": null,
+      "subtypes": [
+        "Efreet"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Flying\nAt the beginning of your upkeep, Serendib Efreet deals 1 damage to you.",
+      "flavor": "Summoners of efreeti remember only the power of command, never the sting of regret.",
+      "artist": "Matt Stewart",
+      "number": "11",
+      "power": "3",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": 194970,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ARN",
+        "3ED",
+        "MED",
+        "V09",
+        "VMA",
+        "EMA"
+      ],
+      "original_text": "Flying\nAt the beginning of your upkeep, Serendib Efreet deals 1 damage to you.",
+      "original_type": "Creature \u2014 Efreet",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194970&type=card",
+      "set": "V09",
+      "set_name": "From the Vault: Exiled",
+      "id": "1704a05e0d06778cea59a094ac37f6e19c0b8fbc",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Skullclamp",
+      "layout": "normal",
+      "mana_cost": "{1}",
+      "cmc": 1,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact \u2014 Equipment",
+      "supertypes": null,
+      "subtypes": [
+        "Equipment"
+      ],
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Equipped creature gets +1/-1.\nWhenever equipped creature dies, draw two cards.\nEquip {1}",
+      "flavor": "The mind is a beautiful bounty encased in an annoying bone container.",
+      "artist": "Luca Zontini",
+      "number": "12",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 194978,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "DST",
+        "V09",
+        "CMD",
+        "VMA",
+        "C14",
+        "C15",
+        "C16",
+        "CMA",
+        "C17"
+      ],
+      "original_text": "Equipped creature gets +1/-1.\nWhen equipped creature is put into a graveyard, draw two cards.\nEquip {1}",
+      "original_type": "Artifact \u2014 Equipment",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194978&type=card",
+      "set": "V09",
+      "set_name": "From the Vault: Exiled",
+      "id": "964686f9e32457814dbeea69c4a799f12c07f4a3",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Banned"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Banned"
+        },
+        {
+          "format": "Modern",
+          "legality": "Banned"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Strip Mine",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Land",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "{T}: Add {C}.\n{T}, Sacrifice Strip Mine: Destroy target land.",
+      "flavor": "Unlike previous conflicts, the war between Urza and Mishra made Dominaria itself a casualty of war.",
+      "artist": "John Avon",
+      "number": "13",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 194968,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ATQ",
+        "4ED",
+        "ATH",
+        "V09",
+        "ME4",
+        "VMA",
+        "EXP"
+      ],
+      "original_text": "{T}: Add {1} to your mana pool.\n{T}, Sacrifice Strip Mine: Destroy target land.",
+      "original_type": "Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194968&type=card",
+      "set": "V09",
+      "set_name": "From the Vault: Exiled",
+      "id": "7a8a73bd54984534fe06ea82b3557e84a8eb2eec",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Banned"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Restricted"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Tinker",
+      "layout": "normal",
+      "mana_cost": "{2}{U}",
+      "cmc": 3,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "As an additional cost to cast this spell, sacrifice an artifact.\nSearch your library for an artifact card and put that card onto the battlefield. Then shuffle your library.",
+      "flavor": "\"What separates us from mere beasts is the capacity for self-improvement.\"",
+      "artist": "Chris Rahn",
+      "number": "14",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 194980,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ULG",
+        "V09"
+      ],
+      "original_text": "As an additional cost to cast Tinker, sacrifice an artifact.\nSearch your library for an artifact card and put that card onto the battlefield. Then shuffle your library.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194980&type=card",
+      "set": "V09",
+      "set_name": "From the Vault: Exiled",
+      "id": "b9c98a9a46a009b3944d000714a488507d5fb6cb",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Banned"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Banned"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Restricted"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "Because the \"search\" requires you to find a card with certain characteristics, you don't have to find the card if you don't want to."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Trinisphere",
+      "layout": "normal",
+      "mana_cost": "{3}",
+      "cmc": 3,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "As long as Trinisphere is untapped, each spell that would cost less than three mana to cast costs three mana to cast. (Additional mana in the cost may be paid with any color of mana or colorless mana. For example, a spell that would cost {1}{B} to cast costs {2}{B} to cast instead.)",
+      "flavor": "Designed to restrain petty thoughts, but used to repress entire empires.",
+      "artist": "Tim Hildebrandt",
+      "number": "15",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 194979,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "DST",
+        "V09",
+        "MPS"
+      ],
+      "original_text": "As long as Trinisphere is untapped, each spell that would cost less than three mana to cast costs three mana to cast.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194979&type=card",
+      "set": "V09",
+      "set_name": "From the Vault: Exiled",
+      "id": "7f2086825499c3b909079aa85fab2ae963086730",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Restricted"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-12-01",
+          "text": "Trinisphere's ability affects the total cost of the spell. It is applied *after* any other cost increasers or cost reducers are applied: First apply any cost increases. Next apply any cost reducers. Finally look at the amount of mana you have to pay. If it's less than three mana, you'll pay three mana."
+        },
+        {
+          "date": "2004-12-01",
+          "text": "Even with a cost reducer on the battlefield, spells can't cost less than three mana to cast."
+        },
+        {
+          "date": "2004-12-01",
+          "text": "If a spell costs at least three mana due to additional costs, such as kicker costs, that's fine."
+        },
+        {
+          "date": "2004-12-01",
+          "text": "You still need to pay any additional nonmana costs the spell has, such as sacrificing a creature or discarding cards."
+        },
+        {
+          "date": "2004-12-01",
+          "text": "Casting a creature with morph face down already costs three mana, even though the converted mana cost of the face-down spell is zero, so Trinisphere normally doesn't modify the total cost of a face-down creature spell. However, if Dream Chisel is reducing that cost while Trinisphere is on the battlefield, you'll still have to pay three mana for the spell."
+        }
+      ],
+      "foreign_names": null
+    }
+  ]
+}

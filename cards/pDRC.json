@@ -1,0 +1,108 @@
+{
+  "code": "pDRC",
+  "name": "Dragon Con",
+  "type": "promo",
+  "border": "black",
+  "mkm_id": null,
+  "mkm_name": null,
+  "release_date": "1994-01-01",
+  "gatherer_code": null,
+  "magic_cards_info_code": "drc",
+  "booster": null,
+  "old_code": null,
+  "block": null,
+  "online_only": null,
+  "cards": [
+    {
+      "name": "Nalathni Dragon",
+      "layout": "normal",
+      "mana_cost": "{2}{R}{R}",
+      "cmc": 4,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Dragon",
+      "supertypes": null,
+      "subtypes": [
+        "Dragon"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Flying; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)\n{R}: Nalathni Dragon gets +1/+0 until end of turn. If this ability has been activated four or more times this turn, sacrifice Nalathni Dragon at the beginning of the next end step.",
+      "flavor": "These small but intelligent Dragons and their Olesian allies held back the tide of Pashalik Mons's hordes of Goblin Raiders.\nDragonCon 1994",
+      "artist": "Michael Whelan",
+      "number": "1",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 97050,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pDRC",
+        "pMEI"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "DragonCon 1994",
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97050&type=card",
+      "set": "pDRC",
+      "set_name": "Dragon Con",
+      "id": "2f6ad2b7730247c9eb7acc83abc33bb6fe569749",
+      "legalities": [
+        {
+          "format": "Classic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-10-01",
+          "text": "If a creature with banding attacks, it can team up with any number of other attacking creatures with banding (and up to one nonbanding creature) and attack as a unit called a \"band.\" The band can be blocked by any creature that could block a single creature in the band. Blocking any creature in a band blocks the entire band. If a creature with banding is blocked, the attacking player chooses how the blockers' damage is assigned."
+        },
+        {
+          "date": "2008-10-01",
+          "text": "A maximum of one nonbanding creature can join an attacking band no matter how many creatures with banding are in it."
+        },
+        {
+          "date": "2008-10-01",
+          "text": "Creatures in the same band must all attack the same player or planeswalker."
+        },
+        {
+          "date": "2009-10-01",
+          "text": "If a creature in combat has banding, its controller assigns damage for creatures blocking or blocked by it. That player can ignore the damage assignment order when making this assignment."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u30ca\u30e9\u30b9\u30cb\u30fb\u30c9\u30e9\u30b4\u30f3",
+          "language": "Japanese"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,791 @@
+{
+  "code": "CP1",
+  "name": "Magic 2015 Clash Pack",
+  "type": "starter",
+  "border": "black",
+  "mkm_id": null,
+  "mkm_name": null,
+  "release_date": "2014-07-18",
+  "gatherer_code": null,
+  "magic_cards_info_code": "clash",
+  "booster": null,
+  "old_code": null,
+  "block": null,
+  "online_only": null,
+  "cards": [
+    {
+      "name": "Prognostic Sphinx",
+      "layout": "normal",
+      "mana_cost": "{3}{U}{U}",
+      "cmc": 5,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Sphinx",
+      "supertypes": null,
+      "subtypes": [
+        "Sphinx"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Flying\nDiscard a card: Prognostic Sphinx gains hexproof until end of turn. Tap it.\nWhenever Prognostic Sphinx attacks, scry 3. (Look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",
+      "flavor": null,
+      "artist": "Jesper Ejsing",
+      "number": "1",
+      "power": "3",
+      "toughness": "5",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "THS",
+        "CP1",
+        "E01"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic 2015",
+      "image_url": null,
+      "set": "CP1",
+      "set_name": "Magic 2015 Clash Pack",
+      "id": "11ff5bca85b8593fd318173d765198c3f70496f9",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-09-15",
+          "text": "You can activate Prognostic Sphinx's ability even if it's already tapped."
+        },
+        {
+          "date": "2013-09-15",
+          "text": "When you scry, you may put all the cards you look at back on top of your library, you may put all of those cards on the bottom of your library, or you may put some of those cards on top and the rest of them on the bottom."
+        },
+        {
+          "date": "2013-09-15",
+          "text": "You choose how to order cards returned to your library after scrying no matter where you put them."
+        },
+        {
+          "date": "2013-09-15",
+          "text": "You perform the actions stated on a card in sequence. For some spells and abilities, that means you'll scry last. For others, that means you'll scry and then perform other actions."
+        },
+        {
+          "date": "2013-09-15",
+          "text": "Scry appears on some spells and abilities with one or more targets. If all of the spell or ability's targets are illegal when it tries to resolve, it will be countered and none of its effects will happen. You won't scry."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u5148\u77e5\u53f2\u82ac\u65af",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u5148\u77e5\u53f2\u82ac\u65af",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Sphinx des auspices",
+          "language": "French"
+        },
+        {
+          "name": "Prophezeiende Sphinx",
+          "language": "German"
+        },
+        {
+          "name": "Sfinge Profetica",
+          "language": "Italian"
+        },
+        {
+          "name": "\u4e88\u77e5\u3059\u308b\u30b9\u30d5\u30a3\u30f3\u30af\u30b9",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uc120\uacac\uc9c0\uba85 \uc2a4\ud551\ud06c\uc2a4",
+          "language": "Korean"
+        },
+        {
+          "name": "Esfinge Progn\u00f3stica",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0421\u0444\u0438\u043d\u043a\u0441-\u041f\u0440\u043e\u0432\u0438\u0434\u0435\u0446",
+          "language": "Russian"
+        },
+        {
+          "name": "Esfinge adivina",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Fated Intervention",
+      "layout": "normal",
+      "mana_cost": "{2}{G}{G}{G}",
+      "cmc": 5,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Create two 3/3 green Centaur enchantment creature tokens. If it's your turn, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",
+      "flavor": null,
+      "artist": "Eric Deschamps",
+      "number": "2",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "BNG",
+        "CP1"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic 2015",
+      "image_url": null,
+      "set": "CP1",
+      "set_name": "Magic 2015 Clash Pack",
+      "id": "6b865b19113a3588bf5085f53e04ec47037b74ee",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-09-15",
+          "text": "When you scry, you may put all the cards you look at back on top of your library, you may put all of those cards on the bottom of your library, or you may put some of those cards on top and the rest of them on the bottom."
+        },
+        {
+          "date": "2013-09-15",
+          "text": "You choose how to order cards returned to your library after scrying no matter where you put them."
+        },
+        {
+          "date": "2013-09-15",
+          "text": "You perform the actions stated on a card in sequence. For some spells and abilities, that means you'll scry last. For others, that means you'll scry and then perform other actions."
+        },
+        {
+          "date": "2013-09-15",
+          "text": "Scry appears on some spells and abilities with one or more targets. If all of the spell or ability's targets are illegal when it tries to resolve, it will be countered and none of its effects will happen. You won't scry."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u547d\u5b9a\u5e72\u9884",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u547d\u5b9a\u5e72\u9810",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Intervention annonc\u00e9e",
+          "language": "French"
+        },
+        {
+          "name": "Schicksalhaftes Eingreifen",
+          "language": "German"
+        },
+        {
+          "name": "Intervento Fatidico",
+          "language": "Italian"
+        },
+        {
+          "name": "\u5bbf\u547d\u7684\u4ecb\u5165",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uc6b4\uba85\uc801 \uac1c\uc785",
+          "language": "Korean"
+        },
+        {
+          "name": "Interven\u00e7\u00e3o Predestinada",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041f\u0440\u0435\u0434\u043d\u0430\u0447\u0435\u0440\u0442\u0430\u043d\u043d\u043e\u0435 \u0412\u043c\u0435\u0448\u0430\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e",
+          "language": "Russian"
+        },
+        {
+          "name": "Intervenci\u00f3n nefasta",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Font of Fertility",
+      "layout": "normal",
+      "mana_cost": "{G}",
+      "cmc": 1,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Enchantment",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Special",
+      "text": "{1}{G}, Sacrifice Font of Fertility: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.",
+      "flavor": "Drink deep, and know the path to the heart of the wilds.",
+      "artist": "Jung Park",
+      "number": "3",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "JOU",
+        "CP1"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic 2015",
+      "image_url": null,
+      "set": "CP1",
+      "set_name": "Magic 2015 Clash Pack",
+      "id": "b329ae81dcecc2c85b6393d3de900ab909b03ca6",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u5bcc\u9976\u6d17\u793c\u6c60",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u5bcc\u9952\u6d17\u79ae\u6c60",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Fontaine de fertilit\u00e9",
+          "language": "French"
+        },
+        {
+          "name": "Quell der Fruchtbarkeit",
+          "language": "German"
+        },
+        {
+          "name": "Fonte della Fertilit\u00e0",
+          "language": "Italian"
+        },
+        {
+          "name": "\u8c4a\u7a63\u306e\u6cc9",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ud48d\uc694\uc758 \uc138\ub840\ubc18",
+          "language": "Korean"
+        },
+        {
+          "name": "Fonte da Fertilidade",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0418\u0441\u0442\u043e\u0447\u043d\u0438\u043a \u041f\u043b\u043e\u0434\u043e\u0440\u043e\u0434\u0438\u044f",
+          "language": "Russian"
+        },
+        {
+          "name": "Fuente de la fertilidad",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Hydra Broodmaster",
+      "layout": "normal",
+      "mana_cost": "{4}{G}{G}",
+      "cmc": 6,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Hydra",
+      "supertypes": null,
+      "subtypes": [
+        "Hydra"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "{X}{X}{G}: Monstrosity X. (If this creature isn't monstrous, put X +1/+1 counters on it and it becomes monstrous.)\nWhen Hydra Broodmaster becomes monstrous, create X X/X green Hydra creature tokens.",
+      "flavor": null,
+      "artist": "Vincent Proce",
+      "number": "4",
+      "power": "7",
+      "toughness": "7",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "JOU",
+        "CP1"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic 2015",
+      "image_url": null,
+      "set": "CP1",
+      "set_name": "Magic 2015 Clash Pack",
+      "id": "de93ba83d807f4c65811e052209aa6ec85237e48",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2014-04-26",
+          "text": "The value of each X in Hydra Broodmaster's last ability is equal to the value chosen for X when its monstrosity ability was activated."
+        },
+        {
+          "date": "2014-04-26",
+          "text": "Once a creature becomes monstrous, it can't become monstrous again. If the creature is already monstrous when the monstrosity ability resolves, nothing happens."
+        },
+        {
+          "date": "2014-04-26",
+          "text": "Monstrous isn't an ability that a creature has. It's just something true about that creature. If the creature stops being a creature or loses its abilities, it will continue to be monstrous."
+        },
+        {
+          "date": "2014-04-26",
+          "text": "An ability that triggers when a creature becomes monstrous won't trigger if that creature isn't on the battlefield when its monstrosity ability resolves."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u62a4\u5375\u591a\u5934\u9f99",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u8b77\u5375\u591a\u982d\u9f8d",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Ma\u00eetre de couv\u00e9e hydre",
+          "language": "French"
+        },
+        {
+          "name": "Hydra-Brutw\u00e4chterin",
+          "language": "German"
+        },
+        {
+          "name": "Idra Protettrice della Covata",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30cf\u30a4\u30c9\u30e9\u306e\u7e41\u6b96\u4e3b",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ubc88\uc2dd\ud558\ub294 \ud788\ub4dc\ub77c",
+          "language": "Korean"
+        },
+        {
+          "name": "Hidra Criadeira",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0413\u0438\u0434\u0440\u0430-\u041f\u043e\u0440\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u0438\u0446\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Hidra ama de la progenie",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Prophet of Kruphix",
+      "layout": "normal",
+      "mana_cost": "{3}{G}{U}",
+      "cmc": 5,
+      "colors": [
+        "Blue",
+        "Green"
+      ],
+      "color_identity": [
+        "U",
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Wizard",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Wizard"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Untap all creatures and lands you control during each other player's untap step.\nYou may cast creature spells as though they had flash.",
+      "flavor": "\"Time is fluid as a dance, and truth as fleeting.\"",
+      "artist": "Anastasia Ovchinnikova",
+      "number": "5",
+      "power": "2",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "THS",
+        "CP1"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic 2015",
+      "image_url": null,
+      "set": "CP1",
+      "set_name": "Magic 2015 Clash Pack",
+      "id": "92fbb08d48cccaf7951c38726adb993c7ae22d9b",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Banned"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-09-15",
+          "text": "Creatures and lands you control untap at the same time as the active player's permanents. You can't choose to not untap them at that time."
+        },
+        {
+          "date": "2013-09-15",
+          "text": "Effects that state a creature or land you control doesn't untap during your untap step won't apply during another player's untap step."
+        },
+        {
+          "date": "2013-09-15",
+          "text": "Controlling more than one Prophet of Kruphix doesn't allow you to untap any creature or land more than once during a single untap step."
+        },
+        {
+          "date": "2013-09-15",
+          "text": "If you're casting a creature spell with bestow, whether or not it has flash will depend on if you're casting it as a creature or as an Aura. Prophet of Kruphix won't give flash to a spell with bestow you're casting as an Aura."
+        },
+        {
+          "date": "2013-09-15",
+          "text": "The last ability applies to creature cards in any zone, provided something is allowing you to cast them. For example, if you control a Zombie, you could cast Gravecrawler (a creature with \"You may cast Gravecrawler from your graveyard as long as you control a Zombie\") from your graveyard as though it had flash."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u514b\u9c81\u83f2\u65af\u7684\u5148\u77e5",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u514b\u9b6f\u83f2\u65af\u7684\u5148\u77e5",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Proph\u00e9tesse de Kruphix",
+          "language": "French"
+        },
+        {
+          "name": "Prophetin des Kruphix",
+          "language": "German"
+        },
+        {
+          "name": "Profetessa di Krufix",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30af\u30eb\u30d5\u30a3\u30c3\u30af\u30b9\u306e\u9810\u8a00\u8005",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ud06c\ub8e8\ud53d\uc2a4\uc758 \uc608\uc5b8\uc790",
+          "language": "Korean"
+        },
+        {
+          "name": "Profeta de Crufix",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041f\u0440\u043e\u0440\u0438\u0446\u0430\u0442\u0435\u043b\u044c\u043d\u0438\u0446\u0430 \u041a\u0440\u0443\u0444\u0438\u043a\u0441\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Profeta de Krufix",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Temple of Mystery",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "G",
+        "U"
+      ],
+      "names": null,
+      "type": "Land",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Special",
+      "text": "Temple of Mystery enters the battlefield tapped.\nWhen Temple of Mystery enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)\n{T}: Add {G} or {U} to your mana pool.",
+      "flavor": null,
+      "artist": "Adam Paquette",
+      "number": "6",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "THS",
+        "CP1"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic 2015",
+      "image_url": null,
+      "set": "CP1",
+      "set_name": "Magic 2015 Clash Pack",
+      "id": "6df84c68eb368285ee8dba17f550d26446a90eb9",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-09-15",
+          "text": "When you scry, you may put all the cards you look at back on top of your library, you may put all of those cards on the bottom of your library, or you may put some of those cards on top and the rest of them on the bottom."
+        },
+        {
+          "date": "2013-09-15",
+          "text": "You choose how to order cards returned to your library after scrying no matter where you put them."
+        },
+        {
+          "date": "2013-09-15",
+          "text": "You perform the actions stated on a card in sequence. For some spells and abilities, that means you'll scry last. For others, that means you'll scry and then perform other actions."
+        },
+        {
+          "date": "2013-09-15",
+          "text": "Scry appears on some spells and abilities with one or more targets. If all of the spell or ability's targets are illegal when it tries to resolve, it will be countered and none of its effects will happen. You won't scry."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u795e\u79d8\u6bbf\u5802",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u795e\u79d8\u6bbf\u5802",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Temple du myst\u00e8re",
+          "language": "French"
+        },
+        {
+          "name": "Tempel der Geheimnisse",
+          "language": "German"
+        },
+        {
+          "name": "Tempio del Mistero",
+          "language": "Italian"
+        },
+        {
+          "name": "\u795e\u79d8\u306e\u795e\u6bbf",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uc2e0\ube44\uc758 \uc2e0\uc804",
+          "language": "Korean"
+        },
+        {
+          "name": "Templo do Mist\u00e9rio",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0425\u0440\u0430\u043c \u0422\u0430\u0438\u043d\u0441\u0442\u0432",
+          "language": "Russian"
+        },
+        {
+          "name": "Templo del misterio",
+          "language": "Spanish"
+        }
+      ]
+    }
+  ]
+}

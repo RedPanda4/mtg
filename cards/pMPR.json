@@ -1,0 +1,6349 @@
+{
+  "code": "pMPR",
+  "name": "Magic Player Rewards",
+  "type": "promo",
+  "border": "black",
+  "mkm_id": null,
+  "mkm_name": null,
+  "release_date": "2001-05-01",
+  "gatherer_code": null,
+  "magic_cards_info_code": "mprp",
+  "booster": null,
+  "old_code": null,
+  "block": null,
+  "online_only": null,
+  "cards": [
+    {
+      "name": "Wasteland",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Land",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Special",
+      "text": "{T}: Add {C} to your mana pool.\n{T}, Sacrifice Wasteland: Destroy target nonbasic land.",
+      "flavor": "\"I will show you fear in a handful of dust.\" - T. S. Eliot, \"The Waste Land\"",
+      "artist": "Una Fricker",
+      "number": "1",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2001-05",
+      "starter": null,
+      "printings": [
+        "TMP",
+        "pJGP",
+        "pMPR",
+        "TPR",
+        "EXP",
+        "EMA"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "c196412491b9ef93646ef7ec137598f08662e828",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u8352\u539f",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Terres d\u00e9vast\u00e9es",
+          "language": "French"
+        },
+        {
+          "name": "Ein\u00f6de",
+          "language": "German"
+        },
+        {
+          "name": "Lande Desolate",
+          "language": "Italian"
+        },
+        {
+          "name": "\u4e0d\u6bdb\u306e\u5927\u5730",
+          "language": "Japanese"
+        },
+        {
+          "name": "Terras Ermas",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "Erial",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Voidmage Prodigy",
+      "layout": "normal",
+      "mana_cost": "{U}{U}",
+      "cmc": 2,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Wizard",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Wizard"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "{U}{U}, Sacrifice a Wizard: Counter target spell.\nMorph {U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+      "flavor": null,
+      "artist": "Christopher Moeller",
+      "number": "2",
+      "power": "2",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2003-01",
+      "starter": null,
+      "printings": [
+        "pMPR",
+        "ONS",
+        "TSB"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "6318eb2d58727b8ef820126b0109c93295e54a12",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u9500\u6cd5\u5e08\u9038\u624d",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Prodige videmage",
+          "language": "French"
+        },
+        {
+          "name": "Nichtigmacher-Naturtalent",
+          "language": "German"
+        },
+        {
+          "name": "Prodigio di Svuotamagie",
+          "language": "Italian"
+        },
+        {
+          "name": "\u975e\u51e1\u306a\u865a\u7a7a\u9b54\u9053\u58eb",
+          "language": "Japanese"
+        },
+        {
+          "name": "Prod\u00edgio dos Magos do V\u00e1cuo",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0413\u0435\u043d\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u041c\u0430\u0433 \u041f\u0443\u0441\u0442\u043e\u0442\u044b",
+          "language": "Russian"
+        },
+        {
+          "name": "Invalidamago prodigio",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Powder Keg",
+      "layout": "normal",
+      "mana_cost": "{2}",
+      "cmc": 2,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "At the beginning of your upkeep, you may put a fuse counter on Powder Keg.\n{T}, Sacrifice Powder Keg: Destroy each artifact and creature with converted mana cost equal to the number of fuse counters on Powder Keg.",
+      "flavor": null,
+      "artist": "Dan Frazier",
+      "number": "3",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2003-09",
+      "starter": null,
+      "printings": [
+        "UDS",
+        "pMPR"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "98bb67da9912be629e913dd124ce736cb6fc68cb",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "Only destroys artifacts and creatures with exactly the specified cost. It does not mean \"less than or equal to\"."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "Putting on a counter is optional. If you forget, you can't go back later even if it is something you usually do."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "Tonnelet de Poudre",
+          "language": "French"
+        },
+        {
+          "name": "Pulverfa\u00df",
+          "language": "German"
+        },
+        {
+          "name": "Polveriera",
+          "language": "Italian"
+        },
+        {
+          "name": "Barrilete de P\u00f3lvora",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "Barril de p\u00f3lvora",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Psychatog",
+      "layout": "normal",
+      "mana_cost": "{1}{U}{B}",
+      "cmc": 3,
+      "colors": [
+        "Blue",
+        "Black"
+      ],
+      "color_identity": [
+        "U",
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Atog",
+      "supertypes": null,
+      "subtypes": [
+        "Atog"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Discard a card: Psychatog gets +1/+1 until end of turn.\nExile two cards from your graveyard: Psychatog gets +1/+1 until end of turn.",
+      "flavor": null,
+      "artist": "Edward P. Beard, Jr.",
+      "number": "4",
+      "power": "1",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2004-09",
+      "starter": null,
+      "printings": [
+        "pMPR",
+        "ODY",
+        "VMA"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "aef76d5952b22b5eddf867aeeebed3aac8bd7794",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "Psychatog",
+          "language": "French"
+        },
+        {
+          "name": "Psychatog",
+          "language": "German"
+        },
+        {
+          "name": "Psicoatog",
+          "language": "Italian"
+        },
+        {
+          "name": "Psicatogue",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "Psiqueatog",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Terror",
+      "layout": "normal",
+      "mana_cost": "{1}{B}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Destroy target nonartifact, nonblack creature. It can't be regenerated.",
+      "flavor": null,
+      "artist": "Ron Spencer",
+      "number": "5",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2004-09",
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED",
+        "ATH",
+        "6ED",
+        "BRB",
+        "pFNM",
+        "S00",
+        "BTD",
+        "pMPR",
+        "MRD",
+        "10E",
+        "DPA",
+        "ME4"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "ec322ae495f33a4d20788dc1229e1548e9ba7d28",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u60ca\u9a87",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u9a5a\u99ed",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Terreur",
+          "language": "French"
+        },
+        {
+          "name": "Terror",
+          "language": "German"
+        },
+        {
+          "name": "Terrore",
+          "language": "Italian"
+        },
+        {
+          "name": "\u6050\u6016",
+          "language": "Japanese"
+        },
+        {
+          "name": "Terror",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0422\u0435\u0440\u0440\u043e\u0440",
+          "language": "Russian"
+        },
+        {
+          "name": "Terror",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Fireball",
+      "layout": "normal",
+      "mana_cost": "{X}{R}",
+      "cmc": 1,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Special",
+      "text": "Fireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players.\nFireball costs {1} more to cast for each target beyond the first.",
+      "flavor": null,
+      "artist": "Mark Tedin",
+      "number": "6",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2005-01",
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "pMEI",
+        "4ED",
+        "RQS",
+        "pARL",
+        "ITP",
+        "5ED",
+        "ATH",
+        "BTD",
+        "pMPR",
+        "DST",
+        "DD2",
+        "M10",
+        "ARC",
+        "M11",
+        "PD2",
+        "ME4",
+        "M12",
+        "C13",
+        "DD3_JVC",
+        "IMA"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "24891c10024e18ab69a1d87b443f9e4ff4be131f",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2017-11-17",
+          "text": "For example, if X is 5 and you choose three target creatures, Fireball has a total cost of {7}{R} (even though its mana cost is just {5}{R} and its converted mana cost is 6). If those creatures are all still legal targets as Fireball resolves, it deals 1 damage to each of them."
+        },
+        {
+          "date": "2017-11-17",
+          "text": "You may cast Fireball with zero targets, regardless of the value chosen for X. If you do so, it will not be a targeted spell, and no damage will actually be dealt when it resolves."
+        },
+        {
+          "date": "2017-11-17",
+          "text": "Fireball's damage is divided as Fireball resolves, not as it's cast, because there are no choices involved. The division involves only targets that are still legal as Fireball resolves."
+        },
+        {
+          "date": "2017-11-17",
+          "text": "You can target more than X creatures. However, if the number of legal targets at the time Fireball resolves is greater than X, none of them will be dealt any damage."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u706b\u7403",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u706b\u7403",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Boule de feu",
+          "language": "French"
+        },
+        {
+          "name": "Feuerball",
+          "language": "German"
+        },
+        {
+          "name": "Palla di Fuoco",
+          "language": "Italian"
+        },
+        {
+          "name": "\u706b\u306e\u7389",
+          "language": "Japanese"
+        },
+        {
+          "name": "Bola de Fogo",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041e\u0433\u043d\u0435\u043d\u043d\u044b\u0439 \u0428\u0430\u0440",
+          "language": "Russian"
+        },
+        {
+          "name": "Bola de fuego",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Oxidize",
+      "layout": "normal",
+      "mana_cost": "{G}",
+      "cmc": 1,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Destroy target artifact. It can't be regenerated.",
+      "flavor": null,
+      "artist": "Scott M. Fischer",
+      "number": "7",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2005-01",
+      "starter": null,
+      "printings": [
+        "pMPR",
+        "DST"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "83b739e0819308d66587ecdf32abece7e3cf4fd9",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u6c27\u5316",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Oxydation",
+          "language": "French"
+        },
+        {
+          "name": "Oxidieren",
+          "language": "German"
+        },
+        {
+          "name": "Ossidare",
+          "language": "Italian"
+        },
+        {
+          "name": "\u9178\u5316",
+          "language": "Japanese"
+        },
+        {
+          "name": "Oxidar",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "Oxidar",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Mana Leak",
+      "layout": "normal",
+      "mana_cost": "{1}{U}",
+      "cmc": 2,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Counter target spell unless its controller pays {3}.",
+      "flavor": null,
+      "artist": "Christopher Rush",
+      "number": "8",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2005-05",
+      "starter": null,
+      "printings": [
+        "pARL",
+        "STH",
+        "BRB",
+        "pMPR",
+        "8ED",
+        "9ED",
+        "M11",
+        "M12",
+        "DDN",
+        "TPR",
+        "MM2",
+        "IMA"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "86fdcc93641b2310624bde628fb9fb6a65e8406d",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u9b54\u529b\u6d41\u5931",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u9b54\u529b\u6d41\u5931",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Fuite de mana",
+          "language": "French"
+        },
+        {
+          "name": "Manaleck",
+          "language": "German"
+        },
+        {
+          "name": "Indebolimento Magico",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30de\u30ca\u6f0f\u51fa",
+          "language": "Japanese"
+        },
+        {
+          "name": "Fuga de Mana",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0423\u0442\u0435\u0447\u043a\u0430 \u041c\u0430\u043d\u044b",
+          "language": "Russian"
+        },
+        {
+          "name": "Fuga de man\u00e1",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Reciprocate",
+      "layout": "normal",
+      "mana_cost": "{W}",
+      "cmc": 1,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Exile target creature that dealt damage to you this turn.",
+      "flavor": null,
+      "artist": "Jim Murray",
+      "number": "9",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2005-05",
+      "starter": null,
+      "printings": [
+        "pMPR",
+        "CHK",
+        "DDG"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "9b52516d334106b0219e8ae43232366aed7376d0",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u56de\u62a5",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Rendre la pareille",
+          "language": "French"
+        },
+        {
+          "name": "Gegendienst leisten",
+          "language": "German"
+        },
+        {
+          "name": "Contraccambiare",
+          "language": "Italian"
+        },
+        {
+          "name": "\u8fd4\u793c",
+          "language": "Japanese"
+        },
+        {
+          "name": "Reciprocar",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "Reciprocar",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Hypnotic Specter",
+      "layout": "normal",
+      "mana_cost": "{1}{B}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Specter",
+      "supertypes": null,
+      "subtypes": [
+        "Specter"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Flying\nWhenever Hypnotic Specter deals damage to an opponent, that player discards a card at random.",
+      "flavor": "\"There was no trace\nOf aught on that illumined face...\" -Samuel Taylor Coleridge, \"Phantom\"",
+      "artist": "Douglas Shuler",
+      "number": "10",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2005-09",
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ATH",
+        "pMPR",
+        "9ED",
+        "10E",
+        "M10"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "d2a7bc99d64fb6705876561dc7eb721770819474",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-08-01",
+          "text": "The ability triggers even if the Specter's damage is being redirected to an opponent. It does not trigger if damage that would have been dealt to the opponent is redirected to a nonopponent player or a creature, or if the damage is prevented."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u50ac\u7720\u5e7d\u7075",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u50ac\u7720\u5e7d\u9748",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Spectre hypnotiseur",
+          "language": "French"
+        },
+        {
+          "name": "Hypnotisierendes Gespenst",
+          "language": "German"
+        },
+        {
+          "name": "Spettro Ipnotico",
+          "language": "Italian"
+        },
+        {
+          "name": "\u60d1\u4e71\u306e\u6b7b\u970a",
+          "language": "Japanese"
+        },
+        {
+          "name": "Espectro Hipn\u00f3tico",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0423\u0441\u044b\u043f\u043b\u044f\u044e\u0449\u0438\u0439 \u041f\u0440\u0438\u0437\u0440\u0430\u043a",
+          "language": "Russian"
+        },
+        {
+          "name": "Espectro hipn\u00f3tico",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Hinder",
+      "layout": "normal",
+      "mana_cost": "{1}{U}{U}",
+      "cmc": 3,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Counter target spell. If that spell is countered this way, put that card on the top or bottom of its owner's library instead of into that player's graveyard.",
+      "flavor": null,
+      "artist": "Anthony S. Waters",
+      "number": "11",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2005-09",
+      "starter": null,
+      "printings": [
+        "pMPR",
+        "CHK"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "67edf3b4fdc09a167b6b75ab673243f4181d817e",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u963b\u788d",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Obstacle",
+          "language": "French"
+        },
+        {
+          "name": "Hindern",
+          "language": "German"
+        },
+        {
+          "name": "Intralciare",
+          "language": "Italian"
+        },
+        {
+          "name": "\u90aa\u9b54",
+          "language": "Japanese"
+        },
+        {
+          "name": "Obstruir",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "Obstaculizar",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Pyroclasm",
+      "layout": "normal",
+      "mana_cost": "{1}{R}",
+      "cmc": 2,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Special",
+      "text": "Pyroclasm deals 2 damage to each creature.",
+      "flavor": null,
+      "artist": "Dave Dorman",
+      "number": "12",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2005-09",
+      "starter": null,
+      "printings": [
+        "ICE",
+        "POR",
+        "7ED",
+        "pMPR",
+        "DKM",
+        "8ED",
+        "9ED",
+        "10E",
+        "M10",
+        "M11",
+        "DDK",
+        "DDL",
+        "MM3"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "6ad695c9d61373ba9b5ca01b9768bf3acaeeabf0",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u70c8\u706b\u65ad\u5c42",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u70c8\u706b\u65b7\u5c64",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Pyroclasme",
+          "language": "French"
+        },
+        {
+          "name": "Feuermasse",
+          "language": "German"
+        },
+        {
+          "name": "Piroclasma",
+          "language": "Italian"
+        },
+        {
+          "name": "\u7d05\u84ee\u5730\u7344",
+          "language": "Japanese"
+        },
+        {
+          "name": "Piroclasma",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041f\u0438\u0440\u043e\u043a\u043b\u0430\u0437\u043c",
+          "language": "Russian"
+        },
+        {
+          "name": "Detonaci\u00f3n \u00edgnea",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Giant Growth",
+      "layout": "normal",
+      "mana_cost": "{G}",
+      "cmc": 1,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Target creature gets +3/+3 until end of turn.",
+      "flavor": null,
+      "artist": "Joel Thomas",
+      "number": "13",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2006-01",
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "5ED",
+        "ATH",
+        "6ED",
+        "BRB",
+        "pSUS",
+        "pFNM",
+        "S00",
+        "BTD",
+        "7ED",
+        "pMPR",
+        "DKM",
+        "8ED",
+        "9ED",
+        "10E",
+        "EVG",
+        "ME2",
+        "M10",
+        "ME3",
+        "DDD",
+        "DPA",
+        "M11",
+        "ME4",
+        "RTR",
+        "M14",
+        "DD3_EVG",
+        "DD3_GVL"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "a0bbd0d4c25c74ffaadbed45b8752da73f58c1da",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u53d8\u5de8\u672f",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u8b8a\u5de8\u8853",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Croissance gigantesque",
+          "language": "French"
+        },
+        {
+          "name": "Riesenwuchs",
+          "language": "German"
+        },
+        {
+          "name": "Crescita Gigante",
+          "language": "Italian"
+        },
+        {
+          "name": "\u5de8\u5927\u5316",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uac70\ub300\ud654",
+          "language": "Korean"
+        },
+        {
+          "name": "Crescimento Desenfreado",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0418\u0441\u043f\u043e\u043b\u0438\u043d\u0441\u043a\u0438\u0439 \u0420\u043e\u0441\u0442",
+          "language": "Russian"
+        },
+        {
+          "name": "Crecimiento gigante",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Putrefy",
+      "layout": "normal",
+      "mana_cost": "{1}{B}{G}",
+      "cmc": 3,
+      "colors": [
+        "Black",
+        "Green"
+      ],
+      "color_identity": [
+        "B",
+        "G"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Destroy target artifact or creature. It can't be regenerated.",
+      "flavor": null,
+      "artist": "Richard Sardinha",
+      "number": "14",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2006-01",
+      "starter": null,
+      "printings": [
+        "pMPR",
+        "RAV",
+        "DDJ",
+        "DGM",
+        "C15",
+        "C16",
+        "MM3",
+        "CMA"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "02d302629662f12898cc86e057ed0b7bac0aaef3",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2006-02-01",
+          "text": "This spell isn't Modal. When it resolves, it will destroy the target if it's a creature or an artifact, even if it changed from one to the other between targeting and resolution."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u8150\u70c2",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u8150\u721b",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Putr\u00e9fier",
+          "language": "French"
+        },
+        {
+          "name": "Verfaulen lassen",
+          "language": "German"
+        },
+        {
+          "name": "Putrificare",
+          "language": "Italian"
+        },
+        {
+          "name": "\u5316\u81bf",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uc369\ud788\uae30",
+          "language": "Korean"
+        },
+        {
+          "name": "Putrificar",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0413\u043d\u0438\u0435\u043d\u0438\u0435",
+          "language": "Russian"
+        },
+        {
+          "name": "Pudrir",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Zombify",
+      "layout": "normal",
+      "mana_cost": "{3}{B}",
+      "cmc": 4,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Special",
+      "text": "Return target creature card from your graveyard to the battlefield.",
+      "flavor": null,
+      "artist": "Allan Pollack",
+      "number": "15",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2006-05",
+      "starter": null,
+      "printings": [
+        "pMPR",
+        "ODY",
+        "8ED",
+        "9ED",
+        "ARC"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "9867481be9ecb8030948739ba77d78ac25e8c5c6",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u7075\u4fd1\u5316",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Zombification",
+          "language": "French"
+        },
+        {
+          "name": "Zombifizierung",
+          "language": "German"
+        },
+        {
+          "name": "Zombificare",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30be\u30f3\u30d3\u5316",
+          "language": "Japanese"
+        },
+        {
+          "name": "Zumbificar",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0417\u043e\u043c\u0431\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435",
+          "language": "Russian"
+        },
+        {
+          "name": "Zombificar",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Lightning Helix",
+      "layout": "normal",
+      "mana_cost": "{R}{W}",
+      "cmc": 2,
+      "colors": [
+        "White",
+        "Red"
+      ],
+      "color_identity": [
+        "W",
+        "R"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Lightning Helix deals 3 damage to target creature or player and you gain 3 life.",
+      "flavor": null,
+      "artist": "Kev Walker",
+      "number": "16",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2006-05",
+      "starter": null,
+      "printings": [
+        "pMPR",
+        "RAV",
+        "HOP",
+        "DDH",
+        "MMA",
+        "DDN",
+        "IMA"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "6a81861665219976e438f5fc853e2f0078cca3a9",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2017-11-17",
+          "text": "If the chosen target is illegal when Lightning Helix tries to resolve, it will be countered and none of its effects will happen. You won't gain 3 life."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u95ea\u7535\u87ba\u65cb",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "H\u00e9lice d'\u00e9clairs",
+          "language": "French"
+        },
+        {
+          "name": "Blitzhelix",
+          "language": "German"
+        },
+        {
+          "name": "Spirale Fulminante",
+          "language": "Italian"
+        },
+        {
+          "name": "\u7a32\u59bb\u306e\u3089\u305b\u3093",
+          "language": "Japanese"
+        },
+        {
+          "name": "H\u00e9lice de Raios",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0421\u043f\u0438\u0440\u0430\u043b\u044c \u043c\u043e\u043b\u043d\u0438\u0439",
+          "language": "Russian"
+        },
+        {
+          "name": "H\u00e9lice de rel\u00e1mpagos",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Wrath of God",
+      "layout": "normal",
+      "mana_cost": "{2}{W}{W}",
+      "cmc": 4,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Special",
+      "text": "Destroy all creatures. They can't be regenerated.",
+      "flavor": null,
+      "artist": "Ron Spencer",
+      "number": "17",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2006-09",
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "5ED",
+        "POR",
+        "6ED",
+        "BRB",
+        "7ED",
+        "pMPR",
+        "8ED",
+        "9ED",
+        "10E",
+        "C13",
+        "V14",
+        "EMA",
+        "MPS_AKH"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "fe54d06dfff2d1f71414c3f9f910d3705ea15ec8",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u795e\u4e4b\u6124\u6012",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u795e\u4e4b\u61a4\u6012",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Col\u00e8re de Dieu",
+          "language": "French"
+        },
+        {
+          "name": "Zorn Gottes",
+          "language": "German"
+        },
+        {
+          "name": "Ira di Dio",
+          "language": "Italian"
+        },
+        {
+          "name": "\u795e\u306e\u6012\u308a",
+          "language": "Japanese"
+        },
+        {
+          "name": "C\u00f3lera de Deus",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0413\u043d\u0435\u0432 \u0411\u043e\u0436\u0438\u0439",
+          "language": "Russian"
+        },
+        {
+          "name": "Ira de Dios",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Condemn",
+      "layout": "normal",
+      "mana_cost": "{W}",
+      "cmc": 1,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Put target attacking creature on the bottom of its owner's library. Its controller gains life equal to its toughness.",
+      "flavor": null,
+      "artist": "Kev Walker",
+      "number": "18",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2006-09",
+      "starter": null,
+      "printings": [
+        "pMPR",
+        "DIS",
+        "10E",
+        "M11",
+        "DDL",
+        "C14",
+        "C17"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "cba2def8065bd96138b61c0fba8bf0a2acb07573",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2010-08-15",
+          "text": "The affected creature's last known existence on the battlefield is checked to determine its toughness."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u5224\u7f6a",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u5224\u7f6a",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Condamnation",
+          "language": "French"
+        },
+        {
+          "name": "Verdammen",
+          "language": "German"
+        },
+        {
+          "name": "Condannare",
+          "language": "Italian"
+        },
+        {
+          "name": "\u7cfe\u5f3e",
+          "language": "Japanese"
+        },
+        {
+          "name": "Condenar",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041e\u0441\u0443\u0436\u0434\u0435\u043d\u0438\u0435",
+          "language": "Russian"
+        },
+        {
+          "name": "Condenar",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Mortify",
+      "layout": "normal",
+      "mana_cost": "{1}{W}{B}",
+      "cmc": 3,
+      "colors": [
+        "White",
+        "Black"
+      ],
+      "color_identity": [
+        "W",
+        "B"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Destroy target creature or enchantment.",
+      "flavor": null,
+      "artist": "Brian Sn\u00f5ddy",
+      "number": "19",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2006-09",
+      "starter": null,
+      "printings": [
+        "pMPR",
+        "GPT",
+        "CMD",
+        "DDK",
+        "CNS",
+        "C16",
+        "CMA",
+        "C17"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "1a0e67d1c9ed30dfd5f66e7092c90b480416e7c3",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2006-02-01",
+          "text": "This spell isn't Modal. When it resolves, it will destroy the target if it's a creature or an enchantment, even if it changed from one to the other between targeting and resolution."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u7f9e\u6127",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Mortification",
+          "language": "French"
+        },
+        {
+          "name": "Kasteiung",
+          "language": "German"
+        },
+        {
+          "name": "Mortificare",
+          "language": "Italian"
+        },
+        {
+          "name": "\u5c48\u8fb1",
+          "language": "Japanese"
+        },
+        {
+          "name": "Mortificar",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0423\u043d\u0438\u0436\u0435\u043d\u0438\u0435",
+          "language": "Russian"
+        },
+        {
+          "name": "Mortificar",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Psionic Blast",
+      "layout": "normal",
+      "mana_cost": "{2}{U}",
+      "cmc": 3,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Psionic Blast deals 4 damage to target creature or player and 2 damage to you.",
+      "flavor": null,
+      "artist": "Aleksi Briclot",
+      "number": "20",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2007-03",
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "pMPR",
+        "TSB"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "a591905565b7d496d892c711b5ad859717516cbf",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u7075\u80fd\u51b2\u51fb\u6ce2",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Salve psionique",
+          "language": "French"
+        },
+        {
+          "name": "Psionischer Strahl",
+          "language": "German"
+        },
+        {
+          "name": "Esplosione Psionica",
+          "language": "Italian"
+        },
+        {
+          "name": "\u5fc3\u970a\u7834",
+          "language": "Japanese"
+        },
+        {
+          "name": "Explos\u00e3o Ps\u00edquica",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041f\u0441\u0438\u0445\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0412\u0437\u0440\u044b\u0432",
+          "language": "Russian"
+        },
+        {
+          "name": "R\u00e1faga psi\u00f3nica",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Cruel Edict",
+      "layout": "normal",
+      "mana_cost": "{1}{B}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Special",
+      "text": "Target opponent sacrifices a creature.",
+      "flavor": null,
+      "artist": "Steve Ellis",
+      "number": "21",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2007-07",
+      "starter": null,
+      "printings": [
+        "PO2",
+        "pMPR",
+        "9ED",
+        "10E",
+        "DDC",
+        "DD3_DVD"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "008339d05add5a03c9e97f019cc4dde4511d3dc7",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u6b8b\u9177\u52d2\u4ee4",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u6b98\u9177\u52d2\u4ee4",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "\u00c9dit cruel",
+          "language": "French"
+        },
+        {
+          "name": "Grausames Edikt",
+          "language": "German"
+        },
+        {
+          "name": "Editto Crudele",
+          "language": "Italian"
+        },
+        {
+          "name": "\u6b8b\u9177\u306a\u5e03\u544a",
+          "language": "Japanese"
+        },
+        {
+          "name": "\u00c9dito Cruel",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0416\u0435\u0441\u0442\u043e\u043a\u0438\u0439 \u0423\u043a\u0430\u0437",
+          "language": "Russian"
+        },
+        {
+          "name": "Edicto cruel",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Disenchant",
+      "layout": "normal",
+      "mana_cost": "{1}{W}",
+      "cmc": 2,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Destroy target artifact or enchantment.",
+      "flavor": null,
+      "artist": "Heather Hudson",
+      "number": "22",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2007-03",
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "pARL",
+        "MIR",
+        "5ED",
+        "TMP",
+        "USG",
+        "ATH",
+        "6ED",
+        "MMQ",
+        "BRB",
+        "pFNM",
+        "S00",
+        "7ED",
+        "pMPR",
+        "CST",
+        "TSB",
+        "ME2",
+        "ME3",
+        "TPR",
+        "CN2",
+        "IMA"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "15a089171a1211a0ede154d20d34a453602f0ca8",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "This is not modal. If the target changes from an artifact to an enchantment or vice versa, this still destroys it."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u6d88\u9664\u9b54\u969c",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "D\u00e9senchantement",
+          "language": "French"
+        },
+        {
+          "name": "Entzauberung",
+          "language": "German"
+        },
+        {
+          "name": "Disincantare",
+          "language": "Italian"
+        },
+        {
+          "name": "\u89e3\u546a",
+          "language": "Japanese"
+        },
+        {
+          "name": "Desencantar",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0420\u0430\u0437\u043e\u0447\u0430\u0440\u043e\u0432\u044b\u0432\u0430\u0442\u044c",
+          "language": "Russian"
+        },
+        {
+          "name": "Desencantar",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Recollect",
+      "layout": "normal",
+      "mana_cost": "{2}{G}",
+      "cmc": 3,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Special",
+      "text": "Return target card from your graveyard to your hand.",
+      "flavor": null,
+      "artist": "Michael Sutfin",
+      "number": "23",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2007-07",
+      "starter": null,
+      "printings": [
+        "pMPR",
+        "RAV",
+        "10E"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "ec44476184e349e1dabda06d95bde446e8193989",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u91cd\u62fe\u8bb0\u5fc6",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u91cd\u62fe\u8a18\u61b6",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Souvenance",
+          "language": "French"
+        },
+        {
+          "name": "Ins Ged\u00e4chtnis zur\u00fcckrufen",
+          "language": "German"
+        },
+        {
+          "name": "Rammentare",
+          "language": "Italian"
+        },
+        {
+          "name": "\u559a\u8d77",
+          "language": "Japanese"
+        },
+        {
+          "name": "Recordar",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041f\u0440\u0438\u043f\u043e\u043c\u0438\u043d\u0430\u043d\u0438\u0435",
+          "language": "Russian"
+        },
+        {
+          "name": "Recordar",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Damnation",
+      "layout": "normal",
+      "mana_cost": "{2}{B}{B}",
+      "cmc": 4,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Special",
+      "text": "Destroy all creatures. They can't be regenerated.",
+      "flavor": null,
+      "artist": "Ron Spencer",
+      "number": "24",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2007-12",
+      "starter": null,
+      "printings": [
+        "pJGP",
+        "pMPR",
+        "PLC",
+        "MM3",
+        "MPS_AKH"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "26959ccda8d4650c2baf6ec0526415df20cad991",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2007-02-01",
+          "text": "This is the timeshifted version of Wrath of God."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u7834\u706d",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Damnation",
+          "language": "French"
+        },
+        {
+          "name": "Verdammung",
+          "language": "German"
+        },
+        {
+          "name": "Dannazione",
+          "language": "Italian"
+        },
+        {
+          "name": "\u6ec5\u3073",
+          "language": "Japanese"
+        },
+        {
+          "name": "Dana\u00e7\u00e3o",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041f\u0440\u043e\u043a\u043b\u044f\u0442\u0438\u0435 \u0410\u0434\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Condenaci\u00f3n",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Tidings",
+      "layout": "normal",
+      "mana_cost": "{3}{U}{U}",
+      "cmc": 5,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Special",
+      "text": "Draw four cards.",
+      "flavor": null,
+      "artist": "Michael Komarck",
+      "number": "25",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2007-12",
+      "starter": null,
+      "printings": [
+        "S99",
+        "pMPR",
+        "9ED",
+        "10E"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "c00665eaae8a574d5152583a493486e1e58edda1",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u97f3\u4fe1",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u97f3\u4fe1",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Nouvelles",
+          "language": "French"
+        },
+        {
+          "name": "Botschaft",
+          "language": "German"
+        },
+        {
+          "name": "Novelle",
+          "language": "Italian"
+        },
+        {
+          "name": "\u9023\u7d61",
+          "language": "Japanese"
+        },
+        {
+          "name": "Novidades",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0412\u0435\u0441\u0442\u0438",
+          "language": "Russian"
+        },
+        {
+          "name": "Informes",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Incinerate",
+      "layout": "normal",
+      "mana_cost": "{1}{R}",
+      "cmc": 2,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Incinerate deals 3 damage to target creature or player. A creature dealt damage this way can't be regenerated this turn.",
+      "flavor": null,
+      "artist": "Zoltan Boros & Gabor Szikszai",
+      "number": "26",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2007-12",
+      "starter": null,
+      "printings": [
+        "pLGM",
+        "ICE",
+        "MIR",
+        "5ED",
+        "pMPR",
+        "DKM",
+        "CST",
+        "10E",
+        "ME2",
+        "DD2",
+        "DPA",
+        "M12",
+        "DD3_JVC"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "a970be7ebc9b665b9bbc16ebcaa6a88d55accbe4",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2007-07-15",
+          "text": "Regeneration abilities that would affect that creature can still be activated; they just won't do anything. The creature can't be regenerated for any reason, even if an effect other than Incinerate would deal lethal damage to it or otherwise destroy it."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u711a\u5316",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u711a\u5316",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Incin\u00e9ration",
+          "language": "French"
+        },
+        {
+          "name": "Ein\u00e4scherung",
+          "language": "German"
+        },
+        {
+          "name": "Incenerire",
+          "language": "Italian"
+        },
+        {
+          "name": "\u706b\u846c",
+          "language": "Japanese"
+        },
+        {
+          "name": "Incinerar",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0421\u0436\u0438\u0433\u0430\u043d\u0438\u0435",
+          "language": "Russian"
+        },
+        {
+          "name": "Incinerar",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Mana Tithe",
+      "layout": "normal",
+      "mana_cost": "{W}",
+      "cmc": 1,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Counter target spell unless its controller pays {1}.",
+      "flavor": null,
+      "artist": "Donato Giancola",
+      "number": "27",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2008-03",
+      "starter": null,
+      "printings": [
+        "pMPR",
+        "PLC"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "403bc8dcff947f7a49e212ae18e5da119a086de8",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "The payment is optional."
+        },
+        {
+          "date": "2007-02-01",
+          "text": "This is the timeshifted version of Force Spike."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u9b54\u529b\u4ec0\u4e00\u7a0e",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "D\u00eeme de mana",
+          "language": "French"
+        },
+        {
+          "name": "Manazehnt",
+          "language": "German"
+        },
+        {
+          "name": "Tributo di Mana",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30de\u30ca\u306e\u7a0e\u53ce",
+          "language": "Japanese"
+        },
+        {
+          "name": "D\u00edzimo de Mana",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041c\u0430\u043d\u043e\u0432\u044b\u0439 \u041d\u0430\u043b\u043e\u0433",
+          "language": "Russian"
+        },
+        {
+          "name": "Diezmo de man\u00e1",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Harmonize",
+      "layout": "normal",
+      "mana_cost": "{2}{G}{G}",
+      "cmc": 4,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Special",
+      "text": "Draw three cards.",
+      "flavor": null,
+      "artist": "Vance Kovacs",
+      "number": "28",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2008-03",
+      "starter": null,
+      "printings": [
+        "pMPR",
+        "PLC",
+        "EVG",
+        "DDD",
+        "ARC",
+        "CMD",
+        "C13",
+        "DD3_EVG",
+        "DD3_GVL",
+        "EMA",
+        "MM3",
+        "DDS",
+        "C17"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "4cf4be65e1a7616a6c4de8e22d3ec09feda157ac",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2007-02-01",
+          "text": "This is the timeshifted version of Concentrate."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u548c\u8c10",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Harmonisation",
+          "language": "French"
+        },
+        {
+          "name": "In Einklang bringen",
+          "language": "German"
+        },
+        {
+          "name": "Armonizzare",
+          "language": "Italian"
+        },
+        {
+          "name": "\u8abf\u548c",
+          "language": "Japanese"
+        },
+        {
+          "name": "Harmonizar",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0413\u0430\u0440\u043c\u043e\u043d\u0438\u044f",
+          "language": "Russian"
+        },
+        {
+          "name": "Armonizar",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Ponder",
+      "layout": "normal",
+      "mana_cost": "{U}",
+      "cmc": 1,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Special",
+      "text": "Look at the top three cards of your library, then put them back in any order. You may shuffle your library.\nDraw a card.",
+      "flavor": null,
+      "artist": "Steve Argyle",
+      "number": "29",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2008-07",
+      "starter": null,
+      "printings": [
+        "pMPR",
+        "LRW",
+        "M10",
+        "M12"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "a75476415c4bc2c019f2c13c07c82765e2240493",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Banned"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Restricted"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2007-10-01",
+          "text": "If you choose to shuffle your library, that includes the three cards you just looked at and put back on top of it."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u6c89\u601d",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u6c89\u601d",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Contemplation",
+          "language": "French"
+        },
+        {
+          "name": "In Betracht ziehen",
+          "language": "German"
+        },
+        {
+          "name": "Ponderare",
+          "language": "Italian"
+        },
+        {
+          "name": "\u601d\u6848",
+          "language": "Japanese"
+        },
+        {
+          "name": "Ponderar",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0420\u0430\u0437\u043c\u044b\u0448\u043b\u0435\u043d\u0438\u044f",
+          "language": "Russian"
+        },
+        {
+          "name": "Reflexionar",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Corrupt",
+      "layout": "normal",
+      "mana_cost": "{5}{B}",
+      "cmc": 6,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Special",
+      "text": "Corrupt deals damage to target creature or player equal to the number of Swamps you control. You gain life equal to the damage dealt this way.",
+      "flavor": null,
+      "artist": "Philip Straub",
+      "number": "30",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2008-07",
+      "starter": null,
+      "printings": [
+        "pMEI",
+        "USG",
+        "7ED",
+        "pMPR",
+        "SHM",
+        "DDC",
+        "DDD",
+        "M11",
+        "M14",
+        "DD3_DVD",
+        "DD3_GVL"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "8e95e07b5fcda1da26ecc0d5ff419ae3236ebf51",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "The swamps are counted on resolution."
+        },
+        {
+          "date": "2010-08-15",
+          "text": "The life you gain is equal to the damage dealt by Corrupt, not necessarily to the number of Swamps you control (if some or all of the damage is prevented, for example)."
+        },
+        {
+          "date": "2010-08-15",
+          "text": "The amount of damage dealt to a creature is not bounded by its toughness, and the amount of damage dealt to a player is not bounded by that player's life total. For example, if Corrupt deals 6 damage to a 2/2 creature, you'll gain 6 life."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "Corrupt counts any land you control with the subtype Swamp, not just ones named Swamp."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u8150\u5316",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u8150\u5316",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Corruption",
+          "language": "French"
+        },
+        {
+          "name": "Korruption",
+          "language": "German"
+        },
+        {
+          "name": "Corrompere",
+          "language": "Italian"
+        },
+        {
+          "name": "\u5815\u843d",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ud0c0\ub77d",
+          "language": "Korean"
+        },
+        {
+          "name": "Corromper",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0420\u0430\u0437\u043b\u043e\u0436\u0435\u043d\u0438\u0435",
+          "language": "Russian"
+        },
+        {
+          "name": "Corromper",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Cryptic Command",
+      "layout": "normal",
+      "mana_cost": "{1}{U}{U}{U}",
+      "cmc": 4,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Choose two \u2014\n\u2022 Counter target spell.\n\u2022 Return target permanent to its owner's hand.\n\u2022 Tap all creatures your opponents control.\n\u2022 Draw a card.",
+      "flavor": null,
+      "artist": "Wayne England",
+      "number": "31",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2009",
+      "starter": null,
+      "printings": [
+        "pMPR",
+        "LRW",
+        "MMA",
+        "MM2",
+        "MPS_AKH",
+        "IMA"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "223c3d1bdc55d9949011f1ca2f5d74701932f179",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2017-11-17",
+          "text": "You choose both modes as you cast Cryptic Command. You must choose two different modes."
+        },
+        {
+          "date": "2017-11-17",
+          "text": "Look at both chosen modes to determine how many targets Cryptic Command has, if any. If it has at least one target, and all its targets are illegal when it tries to resolve, then it will be countered and none of its effects will happen. For example, if you choose the second and fourth modes, and the permanent is an illegal target when Cryptic Command tries to resolve, you won't draw a card."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u5730\u4e0b\u6307\u547d",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u5730\u4e0b\u6307\u547d",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Commandement cryptique",
+          "language": "French"
+        },
+        {
+          "name": "Kryptischer Befehl",
+          "language": "German"
+        },
+        {
+          "name": "Ordine Criptico",
+          "language": "Italian"
+        },
+        {
+          "name": "\u8b0e\u3081\u3044\u305f\u547d\u4ee4",
+          "language": "Japanese"
+        },
+        {
+          "name": "Comando Cr\u00edptico",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0422\u0430\u0439\u043d\u0430\u044f \u041a\u043e\u043c\u0430\u043d\u0434\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Dictado cr\u00edptico",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Flame Javelin",
+      "layout": "normal",
+      "mana_cost": "{2/R}{2/R}{2/R}",
+      "cmc": 6,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "({2/R} can be paid with any two mana or with {R}. This card's converted mana cost is 6.)\nFlame Javelin deals 4 damage to target creature or player.",
+      "flavor": null,
+      "artist": "Zoltan Boros & Gabor Szikszai",
+      "number": "32",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2009",
+      "starter": null,
+      "printings": [
+        "pMPR",
+        "SHM",
+        "DD2",
+        "DDK",
+        "DD3_JVC"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "1e91bed30880d954296dc45d0b2c6509434c4487",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-05-01",
+          "text": "If an effect reduces the cost to cast a spell by an amount of generic mana, it applies to a monocolored hybrid spell only if you've chosen a method of paying for it that includes generic mana."
+        },
+        {
+          "date": "2008-05-01",
+          "text": "A card with a monocolored hybrid mana symbol in its mana cost is each of the colors that appears in its mana cost, regardless of what mana was spent to cast it. Thus, Flame Javelin is red even if you spend six green mana to cast it."
+        },
+        {
+          "date": "2008-05-01",
+          "text": "A card with monocolored hybrid mana symbols in its mana cost has a converted mana cost equal to the highest possible cost it could be cast for. Its converted mana cost never changes. Thus, Flame Javelin has a converted mana cost of 6, even if you spend {R}{R}{R} to cast it."
+        },
+        {
+          "date": "2008-05-01",
+          "text": "If a cost includes more than one monocolored hybrid mana symbol, you can choose a different way to pay for each symbol. For example, you can pay for Flame Javelin by spending {R}{R}{R}, {2}{R}{R}, {4}{R}, or {6}."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u706b\u7130\u6807\u67aa",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Flame Javelin",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Javelot de flammes",
+          "language": "French"
+        },
+        {
+          "name": "Flammenspeer",
+          "language": "German"
+        },
+        {
+          "name": "Giavellotto Infuocato",
+          "language": "Italian"
+        },
+        {
+          "name": "\u708e\u306e\u6295\u3052\u69cd",
+          "language": "Japanese"
+        },
+        {
+          "name": "Azagaia Ardente",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041f\u043b\u0430\u043c\u0435\u043d\u043d\u043e\u0435 \u041a\u043e\u043f\u044c\u0435",
+          "language": "Russian"
+        },
+        {
+          "name": "Jabalina de llamas",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Unmake",
+      "layout": "normal",
+      "mana_cost": "{W/B}{W/B}{W/B}",
+      "cmc": 3,
+      "colors": [
+        "White",
+        "Black"
+      ],
+      "color_identity": [
+        "W",
+        "B"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Exile target creature.",
+      "flavor": null,
+      "artist": "Chris Rahn",
+      "number": "33",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2009",
+      "starter": null,
+      "printings": [
+        "pMPR",
+        "EVE",
+        "ARC",
+        "DDK"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "b92f53cc7e2a65bdab6101a778054bbd51f8801a",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u5f52\u8fd4\u7a7a\u65e0",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "D\u00e9faire",
+          "language": "French"
+        },
+        {
+          "name": "Beseitigen",
+          "language": "German"
+        },
+        {
+          "name": "Disfare",
+          "language": "Italian"
+        },
+        {
+          "name": "\u640d\u306a\u3044",
+          "language": "Japanese"
+        },
+        {
+          "name": "Inexistir",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041f\u043e\u0433\u0443\u0431\u0438\u0442\u044c",
+          "language": "Russian"
+        },
+        {
+          "name": "Desvanecer",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Nameless Inversion",
+      "layout": "normal",
+      "mana_cost": "{1}{B}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Tribal Instant \u2014 Shapeshifter",
+      "supertypes": null,
+      "subtypes": [
+        "Shapeshifter"
+      ],
+      "types": [
+        "Tribal",
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Changeling (This card is every creature type.)\nTarget creature gets +3/-3 and loses all creature types until end of turn.",
+      "flavor": null,
+      "artist": "Jesper Ejsing",
+      "number": "34",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2009",
+      "starter": null,
+      "printings": [
+        "pMPR",
+        "LRW",
+        "MM2"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "075beb582fb9d74e86114fa0dc03b2062c00eb68",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2007-10-01",
+          "text": "If a creature loses all creature types but then gains a new creature type later in the turn, it will be that new creature type."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "Examples of creature types include Sliver, Goblin, and Soldier. Creature types appear after the dash on the type line of creatures."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u65e0\u540d\u5012\u9519",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u7121\u540d\u5012\u932f",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Inversion sans nom",
+          "language": "French"
+        },
+        {
+          "name": "Namenlose Umkehrung",
+          "language": "German"
+        },
+        {
+          "name": "Inversione Indicibile",
+          "language": "Italian"
+        },
+        {
+          "name": "\u540d\u3082\u7121\u304d\u8ee2\u7f6e",
+          "language": "Japanese"
+        },
+        {
+          "name": "Invers\u00e3o An\u00f4nima",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041d\u0435\u0432\u044b\u0440\u0430\u0437\u0438\u043c\u043e\u0435 \u041f\u0440\u0435\u0432\u0440\u0430\u0449\u0435\u043d\u0438\u0435",
+          "language": "Russian"
+        },
+        {
+          "name": "Inversi\u00f3n sin nombre",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Remove Soul",
+      "layout": "normal",
+      "mana_cost": "{1}{U}",
+      "cmc": 2,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Counter target creature spell.",
+      "flavor": null,
+      "artist": "Mike Dringenberg",
+      "number": "35",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2009",
+      "starter": null,
+      "printings": [
+        "LEG",
+        "CHR",
+        "5ED",
+        "6ED",
+        "S99",
+        "7ED",
+        "pMPR",
+        "8ED",
+        "9ED",
+        "10E",
+        "ME3"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "0e89e5cbe3fc9ebf005b8a0a3118e2da0aceb5f4",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-04-01",
+          "text": "A \"creature spell\" is any spell with the type Creature, even if it has other types such as Artifact or Enchantment. Older cards of type Summon are also Creature spells."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u79fb\u9b42\u672f",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u79fb\u9b42\u8853",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Retrait d'\u00e2me",
+          "language": "French"
+        },
+        {
+          "name": "Seelenvernichtung",
+          "language": "German"
+        },
+        {
+          "name": "Estirpare l'Anima",
+          "language": "Italian"
+        },
+        {
+          "name": "\u970a\u9b42\u653e\u9010",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uc601\ud63c \uc81c\uac70",
+          "language": "Korean"
+        },
+        {
+          "name": "Remover a Alma",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0423\u0434\u0430\u043b\u0435\u043d\u0438\u0435 \u0414\u0443\u0448\u0438",
+          "language": "Russian"
+        },
+        {
+          "name": "Robar el alma",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Blightning",
+      "layout": "normal",
+      "mana_cost": "{1}{B}{R}",
+      "cmc": 3,
+      "colors": [
+        "Black",
+        "Red"
+      ],
+      "color_identity": [
+        "B",
+        "R"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Special",
+      "text": "Blightning deals 3 damage to target player. That player discards two cards.",
+      "flavor": null,
+      "artist": "Jim Pavelec",
+      "number": "36",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2009-04",
+      "starter": null,
+      "printings": [
+        "pMPR",
+        "ALA",
+        "DDK"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "755b01bf2c415ef09814cbe5197d2000bf69dd76",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-10-01",
+          "text": "The targeted player will discard two cards even if some or all of Blightning's damage is prevented or redirected."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u8111\u7535\u51fb",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u00c9clair de fl\u00e9trissement",
+          "language": "French"
+        },
+        {
+          "name": "Fahlschlag",
+          "language": "German"
+        },
+        {
+          "name": "Folgore Devastante",
+          "language": "Italian"
+        },
+        {
+          "name": "\u8352\u5ec3\u7a32\u59bb",
+          "language": "Japanese"
+        },
+        {
+          "name": "Detonar",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0413\u0443\u0431\u0438\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u041c\u043e\u043b\u043d\u0438\u044f",
+          "language": "Russian"
+        },
+        {
+          "name": "Ruin\u00e1mpago",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Rampant Growth",
+      "layout": "normal",
+      "mana_cost": "{1}{G}",
+      "cmc": 2,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Special",
+      "text": "Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.",
+      "flavor": null,
+      "artist": "Terese Nielsen",
+      "number": "37",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2009-04",
+      "starter": null,
+      "printings": [
+        "MIR",
+        "TMP",
+        "6ED",
+        "BTD",
+        "7ED",
+        "pMPR",
+        "8ED",
+        "9ED",
+        "10E",
+        "M10",
+        "HOP",
+        "DPA",
+        "M12",
+        "TPR",
+        "MM2",
+        "C15",
+        "C16",
+        "DDS"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "090caa5a822f1f21d9fa04fb7dcb81c0026fa347",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "The land does not count toward your one per turn limit because it was put onto the battlefield by an effect."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "Because the \"search\" requires you to find a card with certain characteristics, you don't have to find the card if you don't want to."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u5f92\u957f",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u5f92\u9577",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Croissance luxuriante",
+          "language": "French"
+        },
+        {
+          "name": "Wucherndes Wachstum",
+          "language": "German"
+        },
+        {
+          "name": "Crescita Inarrestabile",
+          "language": "Italian"
+        },
+        {
+          "name": "\u4e0d\u5c48\u306e\u81ea\u7136",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uae09\uaca9\ud55c \uc131\uc7a5",
+          "language": "Korean"
+        },
+        {
+          "name": "Crescimento Exuberante",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0411\u0443\u0439\u043d\u044b\u0439 \u0420\u043e\u0441\u0442",
+          "language": "Russian"
+        },
+        {
+          "name": "Crecimiento exuberante",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Negate",
+      "layout": "normal",
+      "mana_cost": "{1}{U}",
+      "cmc": 2,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Counter target noncreature spell.",
+      "flavor": null,
+      "artist": "Ralph Horsley",
+      "number": "38",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2009",
+      "starter": null,
+      "printings": [
+        "pMPR",
+        "MOR",
+        "M10",
+        "DPA",
+        "M11",
+        "M12",
+        "M13",
+        "M14",
+        "M15",
+        "DTK",
+        "ORI",
+        "OGW",
+        "CN2",
+        "AER"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "9e112a6b0873fadb26fbfe8bd60b6e3d71b04f2c",
+      "legalities": [
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2009-10-01",
+          "text": "A \"creature spell\" is any spell with the type creature, even if it has other types such as artifact or enchantment. Older cards of type summon are also creature spells."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u5931\u6548",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u5931\u6548",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "N\u00e9gation",
+          "language": "French"
+        },
+        {
+          "name": "Negieren",
+          "language": "German"
+        },
+        {
+          "name": "Negare",
+          "language": "Italian"
+        },
+        {
+          "name": "\u5426\u8a8d",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ubd80\uc778",
+          "language": "Korean"
+        },
+        {
+          "name": "Negar",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041e\u0442\u0432\u0435\u0440\u0433\u043d\u0443\u0442\u044c",
+          "language": "Russian"
+        },
+        {
+          "name": "Negar",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Terminate",
+      "layout": "normal",
+      "mana_cost": "{B}{R}",
+      "cmc": 2,
+      "colors": [
+        "Black",
+        "Red"
+      ],
+      "color_identity": [
+        "B",
+        "R"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Destroy target creature. It can't be regenerated.",
+      "flavor": null,
+      "artist": "Thomas M. Baxa",
+      "number": "39",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2009",
+      "starter": null,
+      "printings": [
+        "pFNM",
+        "PLS",
+        "pMPR",
+        "ARB",
+        "ARC",
+        "CMD",
+        "DDK",
+        "C16",
+        "MM3",
+        "CMA",
+        "C17"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "f560af3194ed314a6d01454c24c103be1f4c25d5",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u7ec8\u7ed3",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Terminaison",
+          "language": "French"
+        },
+        {
+          "name": "Terminieren",
+          "language": "German"
+        },
+        {
+          "name": "Terminare",
+          "language": "Italian"
+        },
+        {
+          "name": "\u7d42\u6b62",
+          "language": "Japanese"
+        },
+        {
+          "name": "Findar",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0418\u0441\u0442\u0440\u0435\u0431\u0438\u0442\u044c",
+          "language": "Russian"
+        },
+        {
+          "name": "Terminar",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Lightning Bolt",
+      "layout": "normal",
+      "mana_cost": "{R}",
+      "cmc": 1,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Lightning Bolt deals 3 damage to target creature or player.",
+      "flavor": null,
+      "artist": "V\u00e9ronique Meignaud",
+      "number": "40",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2010",
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "pJGP",
+        "ATH",
+        "BTD",
+        "pMPR",
+        "MED",
+        "M10",
+        "M11",
+        "PD2",
+        "MM2",
+        "E01"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "c449fdd231832437bd069641cb91611547fcff65",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u95ea\u7535\u51fb",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u9583\u96fb\u64ca",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Foudre",
+          "language": "French"
+        },
+        {
+          "name": "Blitzschlag",
+          "language": "German"
+        },
+        {
+          "name": "Fulmine",
+          "language": "Italian"
+        },
+        {
+          "name": "\u7a32\u59bb",
+          "language": "Japanese"
+        },
+        {
+          "name": "Raio",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0423\u0434\u0430\u0440 \u041c\u043e\u043b\u043d\u0438\u0438",
+          "language": "Russian"
+        },
+        {
+          "name": "Rel\u00e1mpago",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Cancel",
+      "layout": "normal",
+      "mana_cost": "{1}{U}{U}",
+      "cmc": 3,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Counter target spell.",
+      "flavor": null,
+      "artist": "Izzy",
+      "number": "41",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2010",
+      "starter": null,
+      "printings": [
+        "pMPR",
+        "TSP",
+        "10E",
+        "ALA",
+        "M10",
+        "ZEN",
+        "DPA",
+        "M11",
+        "M12",
+        "PC2",
+        "RTR",
+        "M14",
+        "M15",
+        "KTK",
+        "PCA",
+        "AKH",
+        "XLN"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "53df0b44546c98d096ce97d6047ce65e49974876",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u53d6\u6d88",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u53d6\u6d88",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "R\u00e9vocation",
+          "language": "French"
+        },
+        {
+          "name": "Abbrechen",
+          "language": "German"
+        },
+        {
+          "name": "Eliminare",
+          "language": "Italian"
+        },
+        {
+          "name": "\u53d6\u308a\u6d88\u3057",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uc8fc\ubb38 \ucde8\uc18c",
+          "language": "Korean"
+        },
+        {
+          "name": "Cancelar",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041e\u0442\u043c\u0435\u043d\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Deshacer",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Sign in Blood",
+      "layout": "normal",
+      "mana_cost": "{B}{B}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Special",
+      "text": "Target player draws two cards and loses 2 life.",
+      "flavor": null,
+      "artist": "Alan Pollack",
+      "number": "42",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2010",
+      "starter": null,
+      "printings": [
+        "pMPR",
+        "M10",
+        "DDD",
+        "ARC",
+        "M11",
+        "CMD",
+        "M13",
+        "M15",
+        "C14",
+        "DD3_GVL",
+        "MM2"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "d75ce37157fef8ededf7cf5c91813c5eebd70d3d",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u4ee5\u8840\u7acb\u5951",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u4ee5\u8840\u7acb\u5951",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Signature de sang",
+          "language": "French"
+        },
+        {
+          "name": "Mit Blut unterschreiben",
+          "language": "German"
+        },
+        {
+          "name": "Firmare col Sangue",
+          "language": "Italian"
+        },
+        {
+          "name": "\u8840\u306e\u7f72\u540d",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ud53c\uc758 \uc11c\uba85",
+          "language": "Korean"
+        },
+        {
+          "name": "Assinar com Sangue",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041f\u043e\u0434\u043f\u0438\u0441\u0430\u043d\u0438\u0435 \u041a\u0440\u043e\u0432\u044c\u044e",
+          "language": "Russian"
+        },
+        {
+          "name": "Firmar con sangre",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Infest",
+      "layout": "normal",
+      "mana_cost": "{1}{B}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Special",
+      "text": "All creatures get -2/-2 until end of turn.",
+      "flavor": null,
+      "artist": "Pete Venters",
+      "number": "43",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2010",
+      "starter": null,
+      "printings": [
+        "pMPR",
+        "ONS",
+        "ALA",
+        "ARC",
+        "C13",
+        "CN2"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "4c4435aed3d3eac0e3ac35323f0ac251d1a15aaf",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u75ab\u75c5\u8513\u5ef6",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Infestation",
+          "language": "French"
+        },
+        {
+          "name": "Heimsuchung",
+          "language": "German"
+        },
+        {
+          "name": "Infestare",
+          "language": "Italian"
+        },
+        {
+          "name": "\u8513\u5ef6",
+          "language": "Japanese"
+        },
+        {
+          "name": "Infestar",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0417\u0430\u0440\u0430\u0436\u0435\u043d\u0438\u0435",
+          "language": "Russian"
+        },
+        {
+          "name": "Infestar",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Volcanic Fallout",
+      "layout": "normal",
+      "mana_cost": "{1}{R}{R}",
+      "cmc": 3,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Volcanic Fallout can't be countered.\nVolcanic Fallout deals 2 damage to each creature and each player.",
+      "flavor": null,
+      "artist": "Jim Pavelec",
+      "number": "44",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2010",
+      "starter": null,
+      "printings": [
+        "pMPR",
+        "CON",
+        "ARC",
+        "CNS"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "84881ba20de0e86e12a6baa27251480656a3ccf4",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2009-02-01",
+          "text": "Volcanic Fallout can be targeted by spells that try to counter it (such as Countersquall). Those spells will still resolve, but the part of their effect that would counter Volcanic Fallout won't do anything. Any other effects those spells have will work as normal."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u706b\u5c71\u843d\u5c18",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Retomb\u00e9es volcaniques",
+          "language": "French"
+        },
+        {
+          "name": "Vulkanischer Auswurf",
+          "language": "German"
+        },
+        {
+          "name": "Pioggia di Lapilli",
+          "language": "Italian"
+        },
+        {
+          "name": "\u706b\u5c71\u306e\u6d41\u5f3e",
+          "language": "Japanese"
+        },
+        {
+          "name": "Chuva Vulc\u00e2nica",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0412\u0443\u043b\u043a\u0430\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u041e\u0441\u0430\u0434\u043a\u0438",
+          "language": "Russian"
+        },
+        {
+          "name": "Repercusi\u00f3n volc\u00e1nica",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Celestial Purge",
+      "layout": "normal",
+      "mana_cost": "{1}{W}",
+      "cmc": 2,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Exile target black or red permanent.",
+      "flavor": null,
+      "artist": "Nils Hamm",
+      "number": "45",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2010",
+      "starter": null,
+      "printings": [
+        "pMPR",
+        "CON",
+        "M10",
+        "M11",
+        "M12",
+        "MM2"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "d893998f5ef8fd296df28803d9a5ce99bdd3a082",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2009-10-01",
+          "text": "Lands are colorless (even if their frames have some colored elements to them). You can't target a Swamp, a Mountain, or any other land with Celestial Purge (unless some other effect has turned that land black or red)."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u5929\u754c\u6da4\u51c0",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u5929\u754c\u6ecc\u6de8",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "\u00c9puration c\u00e9leste",
+          "language": "French"
+        },
+        {
+          "name": "Himmlische S\u00e4uberung",
+          "language": "German"
+        },
+        {
+          "name": "Epurazione Celeste",
+          "language": "Italian"
+        },
+        {
+          "name": "\u5929\u754c\u306e\u7c9b\u6e05",
+          "language": "Japanese"
+        },
+        {
+          "name": "Expurgo Celestial",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041d\u0435\u0431\u0435\u0441\u043d\u043e\u0435 \u041e\u0447\u0438\u0449\u0435\u043d\u0438\u0435",
+          "language": "Russian"
+        },
+        {
+          "name": "Purga celestial",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Bituminous Blast",
+      "layout": "normal",
+      "mana_cost": "{3}{B}{R}",
+      "cmc": 5,
+      "colors": [
+        "Black",
+        "Red"
+      ],
+      "color_identity": [
+        "B",
+        "R"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order.)\nBituminous Blast deals 4 damage to target creature.",
+      "flavor": null,
+      "artist": "Aleksi Briclot",
+      "number": "46",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2010",
+      "starter": null,
+      "printings": [
+        "pMPR",
+        "ARB",
+        "ARC",
+        "PC2",
+        "C16",
+        "PCA"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "a7e941f97eb282013310dc9ed7cfccfa56c5eb07",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2009-05-01",
+          "text": "Cascade triggers when you cast the spell, meaning that it resolves before that spell. If you end up casting the exiled card, it will go on the stack above the spell with cascade."
+        },
+        {
+          "date": "2009-05-01",
+          "text": "When the cascade ability resolves, you must exile cards. The only optional part of the ability is whether or not you cast the last card exiled."
+        },
+        {
+          "date": "2009-05-01",
+          "text": "If a spell with cascade is countered, the cascade ability will still resolve normally."
+        },
+        {
+          "date": "2009-05-01",
+          "text": "You exile the cards face-up. All players will be able to see them."
+        },
+        {
+          "date": "2009-05-01",
+          "text": "If you cast the last exiled card, you're casting it as a spell. It can be countered. If that card has cascade, the new spell's cascade ability will trigger, and you'll repeat the process for the new spell."
+        },
+        {
+          "date": "2009-05-01",
+          "text": "After you're done exiling cards and casting the last one if you chose to do so, the remaining exiled cards are randomly placed on the bottom of your library. Neither you nor any other player is allowed to know the order of those cards."
+        },
+        {
+          "date": "2017-04-18",
+          "text": "The converted mana cost of a split card is determined by the combined mana cost of its two halves. If cascade allows you to cast a split card, you may cast either half but not both halves."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u6ca5\u9752\u51b2\u51fb",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Salve bitumeuse",
+          "language": "French"
+        },
+        {
+          "name": "Pechhaltiger Strahl",
+          "language": "German"
+        },
+        {
+          "name": "Esplosione di Bitume",
+          "language": "Italian"
+        },
+        {
+          "name": "\u701d\u9752\u7834",
+          "language": "Japanese"
+        },
+        {
+          "name": "Explos\u00e3o Betuminosa",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0411\u0438\u0442\u0443\u043c\u0438\u043d\u043e\u0437\u043d\u0430\u044f \u0412\u043e\u043b\u043d\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "R\u00e1faga bituminosa",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Burst Lightning",
+      "layout": "normal",
+      "mana_cost": "{R}",
+      "cmc": 1,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Kicker {4} (You may pay an additional {4} as you cast this spell.)\nBurst Lightning deals 2 damage to target creature or player. If Burst Lightning was kicked, it deals 4 damage to that creature or player instead.",
+      "flavor": null,
+      "artist": "Jung Park",
+      "number": "47",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2010",
+      "starter": null,
+      "printings": [
+        "pMPR",
+        "ZEN",
+        "MM2"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "77b1e6cc65463d82b6363f4c7dac420f40551b51",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u95ea\u7535\u8ff8\u53d1",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u00c9clair explosif",
+          "language": "French"
+        },
+        {
+          "name": "Geborstener Blitz",
+          "language": "German"
+        },
+        {
+          "name": "Fulmine Dirompente",
+          "language": "Italian"
+        },
+        {
+          "name": "\u5674\u51fa\u306e\u7a32\u59bb",
+          "language": "Japanese"
+        },
+        {
+          "name": "Explodir em Raios",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0412\u0437\u0440\u044b\u0432\u043d\u0430\u044f \u041c\u043e\u043b\u043d\u0438\u044f",
+          "language": "Russian"
+        },
+        {
+          "name": "Estallido de rel\u00e1mpagos",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Harrow",
+      "layout": "normal",
+      "mana_cost": "{2}{G}",
+      "cmc": 3,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "As an additional cost to cast Harrow, sacrifice a land.\nSearch your library for up to two basic land cards and put them onto the battlefield. Then shuffle your library.",
+      "flavor": null,
+      "artist": "Lars Grant-West",
+      "number": "48",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2010",
+      "starter": null,
+      "printings": [
+        "TMP",
+        "INV",
+        "pMPR",
+        "ZEN",
+        "DDE",
+        "C14",
+        "TPR",
+        "DDP",
+        "CMA"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "06f64ebb7c6b35352bbfbeb31df4059ae804547e",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "The sacrifice of a land is part of the cost of casting Harrow. You can't pay this cost more than once to get a multiple effect."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "The two lands do not count toward your normal one land you can play each turn."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "Because the \"search\" requires you to find a card with certain characteristics, you don't have to find the card if you don't want to."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u6574\u5730",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Hersage",
+          "language": "French"
+        },
+        {
+          "name": "Brandrodung",
+          "language": "German"
+        },
+        {
+          "name": "Erpice",
+          "language": "Italian"
+        },
+        {
+          "name": "\u7815\u571f",
+          "language": "Japanese"
+        },
+        {
+          "name": "Estorrar",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0411\u043e\u0440\u043e\u043d\u0435\u043d\u0438\u0435",
+          "language": "Russian"
+        },
+        {
+          "name": "Gradar",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Day of Judgment",
+      "layout": "normal",
+      "mana_cost": "{2}{W}{W}",
+      "cmc": 4,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Special",
+      "text": "Destroy all creatures.",
+      "flavor": null,
+      "artist": "Svetlin Velinov",
+      "number": "49",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2011",
+      "starter": null,
+      "printings": [
+        "pMEI",
+        "pMPR",
+        "ZEN",
+        "M11",
+        "M12"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "a0cf2fb2cb1f23bbad83e41dbdfc91824e0274c3",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u5ba1\u5224\u672b\u65e5",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u5be9\u5224\u672b\u65e5",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Jour de condamnation",
+          "language": "French"
+        },
+        {
+          "name": "Tag der Abrechnung",
+          "language": "German"
+        },
+        {
+          "name": "Giorno del Castigo",
+          "language": "Italian"
+        },
+        {
+          "name": "\u5be9\u5224\u306e\u65e5",
+          "language": "Japanese"
+        },
+        {
+          "name": "Dia do Julgamento",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0421\u0443\u0434\u043d\u044b\u0439 \u0414\u0435\u043d\u044c",
+          "language": "Russian"
+        },
+        {
+          "name": "D\u00eda del juicio final",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Brave the Elements",
+      "layout": "normal",
+      "mana_cost": "{W}",
+      "cmc": 1,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Choose a color. White creatures you control gain protection from the chosen color until end of turn.",
+      "flavor": null,
+      "artist": "Kekai Kotaki",
+      "number": "50",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2011",
+      "starter": null,
+      "printings": [
+        "pMPR",
+        "ZEN",
+        "M14",
+        "C14"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "549f633adcea480901501e236fac6785fda81154",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2009-10-01",
+          "text": "You choose a color as Brave the Elements resolves. Once the color is chosen, it's too late for players to respond."
+        },
+        {
+          "date": "2009-10-01",
+          "text": "Only white creatures you control at the time Brave the Elements resolves gain the protection ability. Creatures that come under your control later in the turn, or that turn white later in the turn, won't have it."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u4e0d\u60e7\u9177\u5883",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u4e0d\u61fc\u9177\u5883",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Braver les \u00e9l\u00e9ments",
+          "language": "French"
+        },
+        {
+          "name": "Den Elementen trotzen",
+          "language": "German"
+        },
+        {
+          "name": "Sfidare gli Elementi",
+          "language": "Italian"
+        },
+        {
+          "name": "\u7cbe\u970a\u3078\u306e\u6311\u6226",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uc6d0\uc18c \ub3cc\ud30c",
+          "language": "Korean"
+        },
+        {
+          "name": "Enfrentar os Elementos",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0412\u044b\u0437\u043e\u0432 \u0421\u0442\u0438\u0445\u0438\u0438",
+          "language": "Russian"
+        },
+        {
+          "name": "Resistir los elementos",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Doom Blade",
+      "layout": "normal",
+      "mana_cost": "{1}{B}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Destroy target nonblack creature.",
+      "flavor": null,
+      "artist": "Carl Critchlow",
+      "number": "51",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2011",
+      "starter": null,
+      "printings": [
+        "pMPR",
+        "M10",
+        "M11",
+        "CMD",
+        "M12",
+        "M14",
+        "DDR",
+        "E01",
+        "IMA"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "863294493474298908b19d49f375c58b391428c0",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u9001\u7ec8\u5200\u950b",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u9001\u7d42\u5200\u92d2",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Lame du destin",
+          "language": "French"
+        },
+        {
+          "name": "Klinge des Schicksals",
+          "language": "German"
+        },
+        {
+          "name": "Lama del Fato",
+          "language": "Italian"
+        },
+        {
+          "name": "\u7834\u6ec5\u306e\u5203",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ud30c\uba78\uc758 \uce7c\ub0a0",
+          "language": "Korean"
+        },
+        {
+          "name": "L\u00e2mina da Destrui\u00e7\u00e3o",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041a\u043b\u0438\u043d\u043e\u043a \u0421\u0443\u0434\u044c\u0431\u044b",
+          "language": "Russian"
+        },
+        {
+          "name": "Cuchilla fatal",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Treasure Hunt",
+      "layout": "normal",
+      "mana_cost": "{1}{U}",
+      "cmc": 2,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Special",
+      "text": "Reveal cards from the top of your library until you reveal a nonland card, then put all cards revealed this way into your hand.",
+      "flavor": null,
+      "artist": "Steve Prescott",
+      "number": "52",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2011",
+      "starter": null,
+      "printings": [
+        "pMEI",
+        "pMPR",
+        "WWK"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "c425b1222b88deb7eb7df3bfbe084a1c3f7daae4",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2010-03-01",
+          "text": "The cards you put into your hand this way include one nonland card, plus all the land cards on top of it in your library (if any). If the top card of your library is a nonland card, you just get that one."
+        },
+        {
+          "date": "2010-03-01",
+          "text": "If all the cards left in your library are lands, you'll reveal all of them and put them all into your hand."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u5bfb\u5b9d",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Chasse au tr\u00e9sor",
+          "language": "French"
+        },
+        {
+          "name": "Schatzsuche",
+          "language": "German"
+        },
+        {
+          "name": "Caccia al Tesoro",
+          "language": "Italian"
+        },
+        {
+          "name": "\u5b9d\u7269\u63a2\u3057",
+          "language": "Japanese"
+        },
+        {
+          "name": "Treasure Hunt",
+          "language": "Korean"
+        },
+        {
+          "name": "Ca\u00e7a ao Tesouro",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0412 \u041f\u043e\u0438\u0441\u043a\u0435 \u0421\u043e\u043a\u0440\u043e\u0432\u0438\u0449",
+          "language": "Russian"
+        },
+        {
+          "name": "B\u00fasqueda del tesoro",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Searing Blaze",
+      "layout": "normal",
+      "mana_cost": "{R}{R}",
+      "cmc": 2,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Searing Blaze deals 1 damage to target player and 1 damage to target creature that player controls.\nLandfall \u2014 If you had a land enter the battlefield under your control this turn, Searing Blaze deals 3 damage to that player and 3 damage to that creature instead.",
+      "flavor": null,
+      "artist": "Jaime Jones",
+      "number": "53",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2011",
+      "starter": null,
+      "printings": [
+        "pMPR",
+        "WWK",
+        "DDI"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Player Rewards program reward",
+      "image_url": null,
+      "set": "pMPR",
+      "set_name": "Magic Player Rewards",
+      "id": "6005bf907f00b2e16d536321c1d80efc264cdd32",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2010-03-01",
+          "text": "Whether you had a land enter the battlefield under your control this turn is checked as this spell resolves, not as you cast it."
+        },
+        {
+          "date": "2010-03-01",
+          "text": "Having more than one land enter the battlefield under your control this turn provides no additional benefit."
+        },
+        {
+          "date": "2010-03-01",
+          "text": "The landfall ability checks for an action that has happened in the past. It doesn't matter if a land that entered the battlefield under your control previously in the turn is still on the battlefield, is still under your control, or is still a land."
+        },
+        {
+          "date": "2010-03-01",
+          "text": "Once the spell resolves, having a land enter the battlefield under your control provides no further benefit."
+        },
+        {
+          "date": "2010-03-01",
+          "text": "The effect of this spell's landfall ability replaces its normal effect. If you had a land enter the battlefield under your control this turn, only the landfall-based effect happens."
+        },
+        {
+          "date": "2010-03-01",
+          "text": "You must choose two targets as you cast Searing Blaze: a player and a creature that player controls. If you can't (because there are no creatures on the battlefield, perhaps), then you can't cast the spell."
+        },
+        {
+          "date": "2010-03-01",
+          "text": "If either target is illegal by the time Searing Blaze resolves, it still deals damage to the other target."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u7099\u70ed\u706b\u5149",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Brasier calcinant",
+          "language": "French"
+        },
+        {
+          "name": "Sengende Strahlen",
+          "language": "German"
+        },
+        {
+          "name": "Fiamma Ustionante",
+          "language": "Italian"
+        },
+        {
+          "name": "\u713c\u5c3d\u306e\u731b\u706b",
+          "language": "Japanese"
+        },
+        {
+          "name": "Searing Blaze",
+          "language": "Korean"
+        },
+        {
+          "name": "Labareda Cauterizante",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0416\u0430\u0440\u043a\u043e\u0435 \u041f\u043b\u0430\u043c\u044f",
+          "language": "Russian"
+        },
+        {
+          "name": "Llamarada abrasadora",
+          "language": "Spanish"
+        }
+      ]
+    }
+  ]
+}

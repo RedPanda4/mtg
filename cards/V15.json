@@ -1,0 +1,1303 @@
+{
+  "code": "V15",
+  "name": "From the Vault: Angels",
+  "type": "from the vault",
+  "border": "black",
+  "mkm_id": 1661,
+  "mkm_name": "From the Vault: Angels",
+  "release_date": "2015-08-21",
+  "gatherer_code": null,
+  "magic_cards_info_code": "v15",
+  "booster": null,
+  "old_code": null,
+  "block": null,
+  "online_only": null,
+  "cards": [
+    {
+      "name": "Akroma, Angel of Fury",
+      "layout": "normal",
+      "mana_cost": "{5}{R}{R}{R}",
+      "cmc": 8,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Legendary Creature \u2014 Angel",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Angel"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "This spell can't be countered.\nFlying, trample, protection from white and from blue\n{R}: Akroma, Angel of Fury gets +1/+0 until end of turn.\nMorph {3}{R}{R}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+      "flavor": null,
+      "artist": "Terese Nielsen",
+      "number": "1",
+      "power": "6",
+      "toughness": "6",
+      "loyalty": null,
+      "multiverse_id": 401628,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "PLC",
+        "CMD",
+        "V15",
+        "CMA",
+        "A25"
+      ],
+      "original_text": "Akroma, Angel of Fury can't be countered.\nFlying, trample, protection from white and from blue\n{R}: Akroma, Angel of Fury gets +1/+0 until end of turn.\nMorph {3}{R}{R}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+      "original_type": "Legendary Creature \u2014 Angel",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401628&type=card",
+      "set": "V15",
+      "set_name": "From the Vault: Angels",
+      "id": "819283339163cb87e16262f376ac3d6609b6178d",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2007-02-01",
+          "text": "If Akroma, Angel of Fury is cast face down, it can be countered."
+        },
+        {
+          "date": "2007-02-01",
+          "text": "Akroma, Angel of Fury and Akroma, Angel of Wrath do not have the same name, so the legend rule does not apply."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "In a Commander game where this card is your commander, you may cast it face-down from the Command zone by paying {3} plus {2} for each time it has been cast from your command zone. The cost to turn it face-up is unaffected."
+        },
+        {
+          "date": "2018-03-16",
+          "text": "The \"legend rule\" cares about legendary permanents with the exact same English name. You can control Akroma, Angel of Fury and Akroma, Angel of Wrath at the same time."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Akroma, Angel of Wrath",
+      "layout": "normal",
+      "mana_cost": "{5}{W}{W}{W}",
+      "cmc": 8,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Legendary Creature \u2014 Angel",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Angel"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Flying, first strike, vigilance, trample, haste, protection from black and from red",
+      "flavor": "\"Wrath is no vice when inflicted upon the deserving.\"",
+      "artist": "Terese Nielsen",
+      "number": "2",
+      "power": "6",
+      "toughness": "6",
+      "loyalty": null,
+      "multiverse_id": 401629,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LGN",
+        "TSB",
+        "DDC",
+        "DD3_DVD",
+        "V15",
+        "A25"
+      ],
+      "original_text": "Flying, first strike, vigilance, trample, haste, protection from black and from red",
+      "original_type": "Legendary Creature \u2014 Angel",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401629&type=card",
+      "set": "V15",
+      "set_name": "From the Vault: Angels",
+      "id": "752ff1f4e47955eceb89d54e73ea2788061ac43d",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2018-03-16",
+          "text": "The \"legend rule\" cares about legendary permanents with the exact same English name. You can control Akroma, Angel of Wrath and Akroma, Angel of Fury at the same time."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Archangel of Strife",
+      "layout": "normal",
+      "mana_cost": "{5}{W}{W}",
+      "cmc": 7,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Angel",
+      "supertypes": null,
+      "subtypes": [
+        "Angel"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Flying\nAs Archangel of Strife enters the battlefield, each player chooses war or peace.\nCreatures controlled by players who chose war get +3/+0.\nCreatures controlled by players who chose peace get +0/+3.",
+      "flavor": null,
+      "artist": "Greg Staples",
+      "number": "3",
+      "power": "6",
+      "toughness": "6",
+      "loyalty": null,
+      "multiverse_id": 401630,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "CMD",
+        "V15",
+        "CMA"
+      ],
+      "original_text": "Flying\nAs Archangel of Strife enters the battlefield, each player chooses war or peace.\nCreatures controlled by players who chose war get +3/+0.\nCreatures controlled by players who chose peace get +0/+3.",
+      "original_type": "Creature \u2014 Angel",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401630&type=card",
+      "set": "V15",
+      "set_name": "From the Vault: Angels",
+      "id": "12c109b630dd72f006685471aee6f5a24cd7b114",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2011-09-22",
+          "text": "Archangel of Strife's second and third abilities are linked. Similarly, its second and fourth abilities are linked. The bonus a player's creatures get depends only on the choice that player made when Archangel of Strife entered the battlefield."
+        },
+        {
+          "date": "2011-09-22",
+          "text": "The active player chooses war or peace first, followed by each other player in turn order. Each player will know what previous players chose when making their choice."
+        },
+        {
+          "date": "2011-09-22",
+          "text": "Archangel of Strife's bonuses apply immediately. Depending on your choice, Archangel of Strife will enter the battlefield as either a 9/6 or 6/9 creature."
+        },
+        {
+          "date": "2011-09-22",
+          "text": "If there are two Archangels of Strife on the battlefield, and you choose war for one and peace for the other, your creatures get +3/+3."
+        },
+        {
+          "date": "2011-09-22",
+          "text": "As soon as Archangel of Strife leaves the battlefield, the bonus stops applying. If it returns to the battlefield, players will be able to make new choices."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Aurelia, the Warleader",
+      "layout": "normal",
+      "mana_cost": "{2}{R}{R}{W}{W}",
+      "cmc": 6,
+      "colors": [
+        "White",
+        "Red"
+      ],
+      "color_identity": [
+        "W",
+        "R"
+      ],
+      "names": null,
+      "type": "Legendary Creature \u2014 Angel",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Angel"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Flying, vigilance, haste\nWhenever Aurelia, the Warleader attacks for the first time each turn, untap all creatures you control. After this phase, there is an additional combat phase.",
+      "flavor": "Where Razia was aloof and untouchable, Aurelia is on the frontlines, calling for war.",
+      "artist": "Slawomir Maniak",
+      "number": "4",
+      "power": "3",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": 401631,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "GTC",
+        "V15"
+      ],
+      "original_text": "Flying, vigilance, haste\nWhenever Aurelia, the Warleader attacks for the first time each turn, untap all creatures you control. After this phase, there is an additional combat phase.",
+      "original_type": "Legendary Creature \u2014 Angel",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401631&type=card",
+      "set": "V15",
+      "set_name": "From the Vault: Angels",
+      "id": "a27d4668c40809745e63beeb5f1be64f90c4b334",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-01-24",
+          "text": "You untap all creatures you control, including ones that aren't attacking."
+        },
+        {
+          "date": "2013-01-24",
+          "text": "You don't have to attack with any creatures during the additional combat phase."
+        },
+        {
+          "date": "2013-01-24",
+          "text": "If Aurelia is put onto the battlefield attacking, the triggered ability won't trigger."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Avacyn, Angel of Hope",
+      "layout": "normal",
+      "mana_cost": "{5}{W}{W}{W}",
+      "cmc": 8,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Legendary Creature \u2014 Angel",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Angel"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Flying, vigilance, indestructible\nOther permanents you control have indestructible.",
+      "flavor": "A golden helix streaked skyward from the Helvault. A thunderous explosion shattered the silver monolith and Avacyn emerged, free from her prison at last.",
+      "artist": "Jason Chan",
+      "number": "5",
+      "power": "8",
+      "toughness": "8",
+      "loyalty": null,
+      "multiverse_id": 401632,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "AVR",
+        "V15",
+        "IMA"
+      ],
+      "original_text": "Flying, vigilance, indestructible\nOther permanents you control have indestructible.",
+      "original_type": "Legendary Creature \u2014 Angel",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401632&type=card",
+      "set": "V15",
+      "set_name": "From the Vault: Angels",
+      "id": "fa0dc16eedf10359a81f6cafac182332e755f2ed",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2017-11-17",
+          "text": "A permanent with indestructible can't be destroyed, but it can still be sacrificed, exiled, put into a graveyard, and so on. Notably, a permanent with indestructible can be put into its owner's graveyard due to the \"legend rule.\""
+        },
+        {
+          "date": "2017-11-17",
+          "text": "Creatures with indestructible still have damage marked on them, even though that damage won't destroy them. If Avacyn leaves the battlefield, creatures that lose indestructible and have lethal damage marked on them will be destroyed."
+        },
+        {
+          "date": "2017-11-17",
+          "text": "A creature with 0 toughness is put into its owner's graveyard even if it has indestructible."
+        },
+        {
+          "date": "2017-11-17",
+          "text": "A planeswalker with indestructible still loses loyalty as it's dealt damage. It is put into its owner's graveyard if its loyalty becomes 0."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Baneslayer Angel",
+      "layout": "normal",
+      "mana_cost": "{3}{W}{W}",
+      "cmc": 5,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Angel",
+      "supertypes": null,
+      "subtypes": [
+        "Angel"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Flying, first strike, lifelink, protection from Demons and from Dragons",
+      "flavor": "Some angels protect the meek and innocent. Others seek out and smite evil wherever it lurks.",
+      "artist": "Greg Staples",
+      "number": "6",
+      "power": "5",
+      "toughness": "5",
+      "loyalty": null,
+      "multiverse_id": 401633,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "M10",
+        "M11",
+        "V15"
+      ],
+      "original_text": "Flying, first strike, lifelink, protection from Demons and from Dragons",
+      "original_type": "Creature \u2014 Angel",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401633&type=card",
+      "set": "V15",
+      "set_name": "From the Vault: Angels",
+      "id": "c7416f618d15b5067b2020814108622e3161caf0",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2009-10-01",
+          "text": "\"Protection from Demons and from Dragons\" means the following: -- Baneslayer Angel can't be blocked by creatures with the creature type Demon or the creature type Dragon. -- Baneslayer Angel can't be targeted abilities from sources with the creature type Demon or the creature type Dragon, or by spells with either of those types. -- All damage that would be dealt to Baneslayer Angel by sources with the creature type Demon or the creature type Dragon is prevented. -- Baneslayer Angel can't be enchanted by Auras or equipped by artifacts that have somehow gotten the creature type Demon or the creature type Dragon."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Entreat the Angels",
+      "layout": "normal",
+      "mana_cost": "{X}{X}{W}{W}{W}",
+      "cmc": 3,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Create X 4/4 white Angel creature tokens with flying.\nMiracle {X}{W}{W} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
+      "flavor": null,
+      "artist": "Todd Lockwood",
+      "number": "7",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 401634,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "AVR",
+        "V15",
+        "MM3"
+      ],
+      "original_text": "Put X 4/4 white Angel creature tokens with flying onto the battlefield.\nMiracle {X}{W}{W} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401634&type=card",
+      "set": "V15",
+      "set_name": "From the Vault: Angels",
+      "id": "92f2ce4f8a209d8dcec6deca9369fd4394afb09f",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2017-03-14",
+          "text": "A mana cost of {X}{X} means that you pay twice X. If you want X to be 3, you pay {6}{W}{W}{W} to cast Entreat the Angels."
+        },
+        {
+          "date": "2017-03-14",
+          "text": "Entreat the Angels's converted mana cost is based on its mana cost of {X}{X}{W}{W}{W}, even if you're casting it for its miracle cost. For example, if you cast Entreat the Angels for its miracle cost and choose 4 for X, its converted mana cost is 11."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Exalted Angel",
+      "layout": "normal",
+      "mana_cost": "{4}{W}{W}",
+      "cmc": 6,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Angel",
+      "supertypes": null,
+      "subtypes": [
+        "Angel"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Flying\nWhenever Exalted Angel deals damage, you gain that much life.\nMorph {2}{W}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+      "flavor": null,
+      "artist": "Tyler Jacobson",
+      "number": "8",
+      "power": "4",
+      "toughness": "5",
+      "loyalty": null,
+      "multiverse_id": 401635,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pJGP",
+        "ONS",
+        "V15"
+      ],
+      "original_text": "Flying\nWhenever Exalted Angel deals damage, you gain that much life.\nMorph {2}{W}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+      "original_type": "Creature \u2014 Angel",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401635&type=card",
+      "set": "V15",
+      "set_name": "From the Vault: Angels",
+      "id": "fffbe97daeb02bd896ee659b1c1fd36e1717fe2f",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "You only gain the life when the triggered ability resolves. If you are reduced to zero life before the ability resolves, you will lose before gaining the life."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Iona, Shield of Emeria",
+      "layout": "normal",
+      "mana_cost": "{6}{W}{W}{W}",
+      "cmc": 9,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Legendary Creature \u2014 Angel",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Angel"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Flying\nAs Iona, Shield of Emeria enters the battlefield, choose a color.\nYour opponents can't cast spells of the chosen color.",
+      "flavor": "No more shall the righteous cower before evil.",
+      "artist": "Jason Chan",
+      "number": "9",
+      "power": "7",
+      "toughness": "7",
+      "loyalty": null,
+      "multiverse_id": 401636,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ZEN",
+        "MM2",
+        "V15"
+      ],
+      "original_text": "Flying\nAs Iona, Shield of Emeria enters the battlefield, choose a color.\nYour opponents can't cast spells of the chosen color.",
+      "original_type": "Legendary Creature \u2014 Angel",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401636&type=card",
+      "set": "V15",
+      "set_name": "From the Vault: Angels",
+      "id": "16b1bce7dd9f6a77480fb6b33f2b211f1c5b9ebc",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2009-10-01",
+          "text": "Iona's third ability includes permanent spells (artifacts, creatures, enchantments, and planeswalkers), not just instant and sorcery spells. It does not include lands or abilities (such as cycling or unearth)."
+        },
+        {
+          "date": "2009-10-01",
+          "text": "Once the color is chosen, it's too late for opponents to respond by casting spells of that color. Iona is not yet in the battlefield at the time the color is chosen, so, for example, there's no way for an opponent to destroy it by casting Doom Blade if the chosen color is black."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Iridescent Angel",
+      "layout": "normal",
+      "mana_cost": "{5}{W}{U}",
+      "cmc": 7,
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "color_identity": [
+        "W",
+        "U"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Angel",
+      "supertypes": null,
+      "subtypes": [
+        "Angel"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Flying, protection from all colors",
+      "flavor": "She enraptures all, encompasses all, endures all.",
+      "artist": "Ryan Alexander Lee",
+      "number": "10",
+      "power": "4",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": 401637,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ODY",
+        "V15"
+      ],
+      "original_text": "Flying, protection from all colors",
+      "original_type": "Creature \u2014 Angel",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401637&type=card",
+      "set": "V15",
+      "set_name": "From the Vault: Angels",
+      "id": "ab9286c11256a4775007b83fe64727de06c1f34f",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "This card has Protection from Black, from Blue, from Red, from White, and from Green. This is the definition of \"All Colors\". This means it is possible to use an effect that removes one color of protection, such as just black, on this card."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Jenara, Asura of War",
+      "layout": "normal",
+      "mana_cost": "{G}{W}{U}",
+      "cmc": 3,
+      "colors": [
+        "White",
+        "Blue",
+        "Green"
+      ],
+      "color_identity": [
+        "W",
+        "U",
+        "G"
+      ],
+      "names": null,
+      "type": "Legendary Creature \u2014 Angel",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Angel"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Flying\n{1}{W}: Put a +1/+1 counter on Jenara, Asura of War.",
+      "flavor": "Wounded soldiers looked up, grateful for her appearance. But she passed over them, her eyes firmly on their foe.",
+      "artist": "Chris Rahn",
+      "number": "11",
+      "power": "3",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": 401638,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ARB",
+        "V15"
+      ],
+      "original_text": "Flying\n{1}{W}: Put a +1/+1 counter on Jenara, Asura of War.",
+      "original_type": "Legendary Creature \u2014 Angel",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401638&type=card",
+      "set": "V15",
+      "set_name": "From the Vault: Angels",
+      "id": "5eca77b5944067ef5ad21dcac583bb7337a79042",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Lightning Angel",
+      "layout": "normal",
+      "mana_cost": "{1}{U}{R}{W}",
+      "cmc": 4,
+      "colors": [
+        "White",
+        "Blue",
+        "Red"
+      ],
+      "color_identity": [
+        "W",
+        "U",
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Angel",
+      "supertypes": null,
+      "subtypes": [
+        "Angel"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Flying, vigilance, haste",
+      "flavor": "Sudden vengeance, echoing fury.",
+      "artist": "rk post",
+      "number": "12",
+      "power": "3",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": 401639,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "APC",
+        "TSB",
+        "DDN",
+        "V15"
+      ],
+      "original_text": "Flying, vigilance, haste",
+      "original_type": "Creature \u2014 Angel",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401639&type=card",
+      "set": "V15",
+      "set_name": "From the Vault: Angels",
+      "id": "51e267d9af5101861a59b574d50613ab89322109",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Platinum Angel",
+      "layout": "normal",
+      "mana_cost": "{7}",
+      "cmc": 7,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact Creature \u2014 Angel",
+      "supertypes": null,
+      "subtypes": [
+        "Angel"
+      ],
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Flying\nYou can't lose the game and your opponents can't win the game.",
+      "flavor": "She is the apex of the artificer's craft, the spirit of the divine called out of base metal.",
+      "artist": "Brom",
+      "number": "13",
+      "power": "4",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": 401640,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MRD",
+        "10E",
+        "M10",
+        "M11",
+        "V15",
+        "CN2",
+        "MPS"
+      ],
+      "original_text": "Flying\nYou can't lose the game and your opponents can't win the game.",
+      "original_type": "Artifact Creature \u2014 Angel",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401640&type=card",
+      "set": "V15",
+      "set_name": "From the Vault: Angels",
+      "id": "90a5fc4a6453270d50a1cfba6c842049f3ad7b5b",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-12-01",
+          "text": "Effects that say the game is a draw, such as the _Legends_(TM) card Divine Intervention, are not affected by Platinum Angel. They'll still work."
+        },
+        {
+          "date": "2004-12-01",
+          "text": "You can concede a game while Platinum Angel on the battlefield. A concession causes you to leave the game, which then causes you to lose the game (Once you concede, you no longer control a Platinum Angel, so its ability can't prevent you from losing the game)."
+        },
+        {
+          "date": "2009-10-01",
+          "text": "No game effect can cause you to lose the game or cause any opponent to win the game while you control Platinum Angel. It doesn't matter whether you have 0 or less life, you're forced to draw a card while your library is empty, you have ten or more poison counters, you're dealt combat damage by Phage the Untouchable, your opponent has Mortal Combat with twenty or more creature cards in their graveyard, or so on. You keep playing."
+        },
+        {
+          "date": "2009-10-01",
+          "text": "Other circumstances can still cause you to lose the game, however. You will lose a game if you concede, if you're penalized with a Game Loss or a Match Loss during a sanctioned tournament due to a DCI rules infraction, or if your _Magic Online_(R) game clock runs out of time."
+        },
+        {
+          "date": "2009-10-01",
+          "text": "If you control Platinum Angel in a Two-Headed Giant game, your team can't lose the game and the opposing team can't win the game."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Serra Angel",
+      "layout": "normal",
+      "mana_cost": "{3}{W}{W}",
+      "cmc": 5,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Angel",
+      "supertypes": null,
+      "subtypes": [
+        "Angel"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Flying, vigilance",
+      "flavor": "Born with wings of light and a sword of faith, this heavenly incarnation embodies both fury and purity.",
+      "artist": "Rebecca Guay",
+      "number": "14",
+      "power": "4",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": 401641,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ATH",
+        "pWOS",
+        "7ED",
+        "8ED",
+        "9ED",
+        "10E",
+        "DDC",
+        "M10",
+        "M11",
+        "ME4",
+        "CMD",
+        "M12",
+        "M13",
+        "M14",
+        "M15",
+        "DD3_DVD",
+        "ORI",
+        "V15",
+        "W16",
+        "EMA",
+        "W17",
+        "CMA",
+        "IMA",
+        "DOM"
+      ],
+      "original_text": "Flying, vigilance",
+      "original_type": "Creature \u2014 Angel",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401641&type=card",
+      "set": "V15",
+      "set_name": "From the Vault: Angels",
+      "id": "5cf0ad14e023d5cf246dee35d68bad7eab5e6483",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Tariel, Reckoner of Souls",
+      "layout": "normal",
+      "mana_cost": "{4}{R}{W}{B}",
+      "cmc": 7,
+      "colors": [
+        "White",
+        "Black",
+        "Red"
+      ],
+      "color_identity": [
+        "W",
+        "B",
+        "R"
+      ],
+      "names": null,
+      "type": "Legendary Creature \u2014 Angel",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Angel"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Flying, vigilance\n{T}: Choose a creature card at random from target opponent's graveyard. Put that card onto the battlefield under your control.",
+      "flavor": "\"After death you face paradise, damnation, or Tariel.\"\n\u2014Priest's teaching",
+      "artist": "Wayne Reynolds",
+      "number": "15",
+      "power": "4",
+      "toughness": "7",
+      "loyalty": null,
+      "multiverse_id": 401642,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "CMD",
+        "V15",
+        "CMA"
+      ],
+      "original_text": "Flying, vigilance\n{T}: Choose a creature card at random from target opponent's graveyard. Put that card onto the battlefield under your control.",
+      "original_type": "Legendary Creature \u2014 Angel",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=401642&type=card",
+      "set": "V15",
+      "set_name": "From the Vault: Angels",
+      "id": "e1f148d98771e7f1a2c796d43be1112cdd3c5d22",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2011-09-22",
+          "text": "The only target of this ability is the opponent."
+        },
+        {
+          "date": "2011-09-22",
+          "text": "The creature card is chosen at random from among creature cards in the target opponent's graveyard as the ability resolves. Players can respond to the ability knowing the targeted player, but they won't know which creature card is about to enter the battlefield."
+        }
+      ],
+      "foreign_names": null
+    }
+  ]
+}

@@ -1,0 +1,1024 @@
+{
+  "code": "MGB",
+  "name": "Multiverse Gift Box",
+  "type": "box",
+  "border": "black",
+  "mkm_id": 1519,
+  "mkm_name": "Multiverse Gift Box",
+  "release_date": "1996-11-01",
+  "gatherer_code": null,
+  "magic_cards_info_code": "mgbc",
+  "booster": null,
+  "old_code": null,
+  "block": null,
+  "online_only": null,
+  "cards": [
+    {
+      "name": "Bull Elephant",
+      "layout": "normal",
+      "mana_cost": "{3}{G}",
+      "cmc": 4,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Elephant",
+      "supertypes": null,
+      "subtypes": [
+        "Elephant"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "When Bull Elephant enters the battlefield, sacrifice it unless you return two Forests you control to their owner's hand.",
+      "flavor": "Four gray trees and a long, coiling snake. What am I? \u2014Zhalfirin riddle",
+      "artist": "Steve White",
+      "number": null,
+      "power": "4",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MGB",
+        "VIS"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": null,
+      "image_url": null,
+      "set": "MGB",
+      "set_name": "Multiverse Gift Box",
+      "id": "b86fb8a93ec71cff1c45a68acdccb3d27f1288b8",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "El\u00e9phant m\u00e2le",
+          "language": "French"
+        },
+        {
+          "name": "Elefantenbulle",
+          "language": "German"
+        },
+        {
+          "name": "Elefante Capo Branco",
+          "language": "Italian"
+        },
+        {
+          "name": "Elefante Macho",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "Elefante toro",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Dark Privilege",
+      "layout": "normal",
+      "mana_cost": "{1}{B}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Enchantment \u2014 Aura",
+      "supertypes": null,
+      "subtypes": [
+        "Aura"
+      ],
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Special",
+      "text": "Enchant creature\nEnchanted creature gets +1/+1.\nSacrifice a creature: Regenerate enchanted creature.",
+      "flavor": "\"As you breathe your last, understand why I accept such forbidden gifts.\"\n\u2014Purraj of Urborg",
+      "artist": "Tom Kyffin",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MGB",
+        "VIS"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": null,
+      "image_url": null,
+      "set": "MGB",
+      "set_name": "Multiverse Gift Box",
+      "id": "fcfd122f543c405a9d9d61e20c2d5d91a23962da",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "Sombre privil\u00e8ge",
+          "language": "French"
+        },
+        {
+          "name": "Dunkles Privileg",
+          "language": "German"
+        },
+        {
+          "name": "Privilegio Oscuro",
+          "language": "Italian"
+        },
+        {
+          "name": "Privil\u00e9gio Sombrio",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "Privilegio siniestro",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "King Cheetah",
+      "layout": "normal",
+      "mana_cost": "{3}{G}",
+      "cmc": 4,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Cat",
+      "supertypes": null,
+      "subtypes": [
+        "Cat"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Flash",
+      "flavor": "If you find yourself and a friend being chased by a king cheetah, you have but one chance: Trip your friend. \u2014Suq'Ata wisdom",
+      "artist": "Terese Nielsen",
+      "number": null,
+      "power": "3",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MGB",
+        "VIS",
+        "9ED"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": null,
+      "image_url": null,
+      "set": "MGB",
+      "set_name": "Multiverse Gift Box",
+      "id": "aa78de1093b69943825d8fd89b523c726b6044f8",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2005-08-01",
+          "text": "King Cheetah is always a Creature spell, never an instant, regardless of when you cast it."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u5e1d\u738b\u730e\u8c79",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Gu\u00e9pard royal",
+          "language": "French"
+        },
+        {
+          "name": "K\u00f6nigsgepard",
+          "language": "German"
+        },
+        {
+          "name": "Ghepardo Reale",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30ad\u30f3\u30b0\u30fb\u30c1\u30fc\u30bf",
+          "language": "Japanese"
+        },
+        {
+          "name": "Guepardo Rei",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041a\u043e\u0440\u043e\u043b\u044c \u0433\u0435\u043f\u0430\u0440\u0434\u043e\u0432",
+          "language": "Russian"
+        },
+        {
+          "name": "Rey guepardo",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Necrosavant",
+      "layout": "normal",
+      "mana_cost": "{3}{B}{B}{B}",
+      "cmc": 6,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Zombie Giant",
+      "supertypes": null,
+      "subtypes": [
+        "Zombie",
+        "Giant"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "{3}{B}{B}, Sacrifice a creature: Return Necrosavant from your graveyard to the battlefield. Activate this ability only during your upkeep.",
+      "flavor": "\"Ah, I remember my first death.\"\n\u2014Zarkuu, necrosavant",
+      "artist": "John Coulthart",
+      "number": null,
+      "power": "5",
+      "toughness": "5",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MGB",
+        "VIS",
+        "6ED"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": null,
+      "image_url": null,
+      "set": "MGB",
+      "set_name": "Multiverse Gift Box",
+      "id": "13564a3ed23fa9c77035f401eeb68824de6defbd",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "The ability is activated while this card is in the graveyard."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "N\u00e9crosavant",
+          "language": "French"
+        },
+        {
+          "name": "Todeskundiger",
+          "language": "German"
+        },
+        {
+          "name": "Esperto di Necromanzia",
+          "language": "Italian"
+        },
+        {
+          "name": "Necross\u00e1bio",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "Necr\u00f3sofo",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Ovinomancer",
+      "layout": "normal",
+      "mana_cost": "{2}{U}",
+      "cmc": 3,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Wizard",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Wizard"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "When Ovinomancer enters the battlefield, sacrifice it unless you return three basic lands you control to their owner's hand.\n{T}, Return Ovinomancer to its owner's hand: Destroy target creature. It can't be regenerated. That creature's controller creates a 0/1 green Sheep creature token.",
+      "flavor": null,
+      "artist": "Kev Walker",
+      "number": null,
+      "power": "0",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MGB",
+        "VIS",
+        "TSB"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": null,
+      "image_url": null,
+      "set": "MGB",
+      "set_name": "Multiverse Gift Box",
+      "id": "8eba28bd307fe653783228f39f8c0b32ecb3a01a",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "Can target itself. This will cause it to be returned to your hand during announcement and will result in no sheep since it will not be on the battlefield at resolution so the effect fails since it target is illegal."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u7f8a\u5316\u672f\u5e08",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Ovinomancien",
+          "language": "French"
+        },
+        {
+          "name": "Hammelpriester",
+          "language": "German"
+        },
+        {
+          "name": "Ovinomante",
+          "language": "Italian"
+        },
+        {
+          "name": "\u7f8a\u8853\u5e2b",
+          "language": "Japanese"
+        },
+        {
+          "name": "Ovinomante",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041c\u0430\u0433 \u041e\u0432\u0446\u0435\u0432\u043e\u0434",
+          "language": "Russian"
+        },
+        {
+          "name": "Ovinomante",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Peace Talks",
+      "layout": "normal",
+      "mana_cost": "{1}{W}",
+      "cmc": 2,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Special",
+      "text": "This turn and next turn, creatures can't attack, and players and permanents can't be the targets of spells or activated abilities.",
+      "flavor": "\"By the tongues of a thousand serpents, this time I do not lie.\"\n\u2014Ahmahz il Kin, Suq'Ata diplomat",
+      "artist": "Roger Raupp",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MGB",
+        "VIS"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": null,
+      "image_url": null,
+      "set": "MGB",
+      "set_name": "Multiverse Gift Box",
+      "id": "fac81171dc14ae378ea3872c112e5c415ab84c12",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "Can be cast after your attack."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "It affects the current turn and the next turn. This could affect the same player twice if they have two turns in a row, or it could affect different players. In a multiplayer game it affects exactly two turns, not a full round of turns."
+        },
+        {
+          "date": "2006-02-01",
+          "text": "Doesn't skip the Combat Phase, just renders creatures unable to attack."
+        },
+        {
+          "date": "2016-06-08",
+          "text": "Activated abilities contain a colon. They're generally written \"[Cost]: [Effect].\" Some keywords are activated abilities and will have colons in their reminder text."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "Parole de paix",
+          "language": "French"
+        },
+        {
+          "name": "Friedensverhandlungen",
+          "language": "German"
+        },
+        {
+          "name": "Trattative di Pace",
+          "language": "Italian"
+        },
+        {
+          "name": "Conversa\u00e7\u00f5es de Paz",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "Negociaciones de paz",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Urborg Mindsucker",
+      "layout": "normal",
+      "mana_cost": "{2}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Horror",
+      "supertypes": null,
+      "subtypes": [
+        "Horror"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "{B}, Sacrifice Urborg Mindsucker: Target opponent discards a card at random. Activate this ability only any time you could cast a sorcery.",
+      "flavor": "\"My pet will pick the ripe fruit from your tortured brain as if it were hanging from a vine.\"\n\u2014Kaervek",
+      "artist": "Tony Diterlizzi",
+      "number": null,
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MGB",
+        "VIS"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": null,
+      "image_url": null,
+      "set": "MGB",
+      "set_name": "Multiverse Gift Box",
+      "id": "18b8a5c8ec858fc99c488b92cb668b176a2203af",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "If you cast this as normal during your main phase, it will enter the battlefield and you'll receive priority. If no abilities trigger because of this, you can activate its ability immediately, before any other player has a chance to remove it from the battlefield."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "Suceur d'\u00e2mes d'Urborg",
+          "language": "French"
+        },
+        {
+          "name": "Urborg'scher Gedankenfresser",
+          "language": "German"
+        },
+        {
+          "name": "Parassita Mentale di Urborg",
+          "language": "Italian"
+        },
+        {
+          "name": "Sugamentes de Urborg",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "Chupamentes de Urborg",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Vampirism",
+      "layout": "normal",
+      "mana_cost": "{1}{B}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Enchantment \u2014 Aura",
+      "supertypes": null,
+      "subtypes": [
+        "Aura"
+      ],
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Special",
+      "text": "Enchant creature\nWhen Vampirism enters the battlefield, draw a card at the beginning of the next turn's upkeep.\nEnchanted creature gets +1/+1 for each other creature you control.\nOther creatures you control get -1/-1.",
+      "flavor": null,
+      "artist": "Gary Leach",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MGB",
+        "VIS"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": null,
+      "image_url": null,
+      "set": "MGB",
+      "set_name": "Multiverse Gift Box",
+      "id": "438bfd82c84af268f4dd30e430abd1f4ee435b31",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "Vampirisme",
+          "language": "French"
+        },
+        {
+          "name": "Vampirismus",
+          "language": "German"
+        },
+        {
+          "name": "Vampirismo",
+          "language": "Italian"
+        },
+        {
+          "name": "Vampirismo",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "Vampirismo",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Viashino Sandstalker",
+      "layout": "normal",
+      "mana_cost": "{1}{R}{R}",
+      "cmc": 3,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Viashino Warrior",
+      "supertypes": null,
+      "subtypes": [
+        "Viashino",
+        "Warrior"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Haste (This creature can attack the turn it comes under your control.)\nAt the beginning of the end step, return Viashino Sandstalker to its owner's hand. (Return it only if it's on the battlefield.)",
+      "flavor": "\"Some believe sandstalkers to be illusions; those with scars know better.\"\n\u2014Zhalfirin Guide to the Desert",
+      "artist": "Andrew Robinson",
+      "number": null,
+      "power": "4",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MGB",
+        "VIS",
+        "8ED",
+        "9ED"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": null,
+      "image_url": null,
+      "set": "MGB",
+      "set_name": "Multiverse Gift Box",
+      "id": "b6ea3a9a99277acbf3f9946e44e23c7e6cce26cb",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "It is returned to its owner's hand at the end of any turn in which it is on the battlefield."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u51e1\u5c14\u897f\u8bfa\u6c99\u6f5c\u8005",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Pisteur des sables viashino",
+          "language": "French"
+        },
+        {
+          "name": "Viashino-Sandl\u00e4ufer",
+          "language": "German"
+        },
+        {
+          "name": "Cacciatore delle Sabbie Viashino",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30f4\u30a3\u30fc\u30a2\u30b7\u30fc\u30ce\u306e\u7802\u6f20\u306e\u72e9\u4eba",
+          "language": "Japanese"
+        },
+        {
+          "name": "Ca\u00e7ador das Areias Viashino",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041f\u0435\u0441\u0447\u0430\u043d\u044b\u0439 \u0441\u0442\u0440\u0430\u043d\u043d\u0438\u043a \u0412\u0438\u0430\u0448\u0438\u043d\u043e",
+          "language": "Russian"
+        },
+        {
+          "name": "Cazador de la arena viashino",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Wicked Reward",
+      "layout": "normal",
+      "mana_cost": "{1}{B}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "As an additional cost to cast Wicked Reward, sacrifice a creature.\nTarget creature gets +4/+2 until end of turn.",
+      "flavor": "\"The blood on my hands is merely proof of my ambition.\"\n\u2014Kaervek",
+      "artist": "D. Alexander Gregory",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MGB",
+        "VIS"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": null,
+      "image_url": null,
+      "set": "MGB",
+      "set_name": "Multiverse Gift Box",
+      "id": "5931b9373bd5fa51acc2518cc227eca4dae5916a",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "You must sacrifice exactly one creature to cast this spell; you cannot cast it without sacrificing a creature, and you cannot sacrifice additional creatures."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "Players can only respond once this spell has been cast and all its costs have been paid. No one can try to destroy the creature you sacrificed to prevent you from casting this spell."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "Cruelle r\u00e9compense",
+          "language": "French"
+        },
+        {
+          "name": "Unmoralische Belohnung",
+          "language": "German"
+        },
+        {
+          "name": "Ricompensa Maligna",
+          "language": "Italian"
+        },
+        {
+          "name": "Recompensa In\u00edqua",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "Recompensa perversa",
+          "language": "Spanish"
+        }
+      ]
+    }
+  ]
+}

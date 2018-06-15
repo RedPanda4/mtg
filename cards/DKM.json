@@ -1,0 +1,6261 @@
+{
+  "code": "DKM",
+  "name": "Deckmasters",
+  "type": "box",
+  "border": "white",
+  "mkm_id": 67,
+  "mkm_name": "Deckmasters",
+  "release_date": "2001-12-01",
+  "gatherer_code": null,
+  "magic_cards_info_code": "dm",
+  "booster": null,
+  "old_code": null,
+  "block": null,
+  "online_only": null,
+  "cards": [
+    {
+      "name": "Abyssal Specter",
+      "layout": "normal",
+      "mana_cost": "{2}{B}{B}",
+      "cmc": 4,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Specter",
+      "supertypes": null,
+      "subtypes": [
+        "Specter"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "Flying\nWhenever Abyssal Specter deals damage to a player, that player discards a card.",
+      "flavor": "\"Open the gates, and bid them enter.\"\n\u2014Lim-D\u00fbl, the Necromancer",
+      "artist": "Ruth Thompson",
+      "number": "1",
+      "power": "2",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ICE",
+        "5ED",
+        "6ED",
+        "BRB",
+        "7ED",
+        "DKM",
+        "8ED",
+        "DDC",
+        "DPA",
+        "DD3_DVD",
+        "MM3"
+      ],
+      "original_text": "Flying\nWhenever Abyssal Specter deals damage to a player, that player discards a card from his or her hand.",
+      "original_type": "Creature \u2014 Specter",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "2fde81a87313b129df684fb2a3d07d58c6d7489d",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Balduvian Bears",
+      "layout": "normal",
+      "mana_cost": "{1}{G}",
+      "cmc": 2,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Bear",
+      "supertypes": null,
+      "subtypes": [
+        "Bear"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": null,
+      "flavor": "\"They're a hardy bunch, but I'd still bet that they just slept through the worst of the cold times.\"\n\u2014Disa the Restless, journal entry",
+      "artist": "Quinton Hoover",
+      "number": "22",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ICE",
+        "DKM"
+      ],
+      "original_text": null,
+      "original_type": "Creature \u2014 Bear",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "791a20acb908b77a6d359b94ad7059b0d92005b1",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Balduvian Horde",
+      "layout": "normal",
+      "mana_cost": "{2}{R}{R}",
+      "cmc": 4,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Barbarian",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Barbarian"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": "When Balduvian Horde enters the battlefield, sacrifice it unless you discard a card at random.",
+      "flavor": "\"Peace will come only when we have taken Varchild's head.\"\n\u2014Lovisa Coldeyes,\nBalduvian Chieftain",
+      "artist": "Brian Sn\u00f5ddy",
+      "number": "10",
+      "power": "5",
+      "toughness": "5",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ALL",
+        "6ED",
+        "pWOR",
+        "BTD",
+        "DKM",
+        "MED"
+      ],
+      "original_text": "When Balduvian Horde comes into play, sacrifice it unless you discard a card at random from your hand.",
+      "original_type": "Creature \u2014 Barbarians",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "3596d21e338bfc528e1719173ce7e1f11a18655a",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "You choose whether to discard or not on resolution. If not, then you sacrifice this card. You can choose to not discard even if you no longer control this card on resolution."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Barbed Sextant",
+      "layout": "normal",
+      "mana_cost": "{1}",
+      "cmc": 1,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Common",
+      "text": "{1}, {T}, Sacrifice Barbed Sextant: Add one mana of any color to your mana pool. Draw a card at the beginning of the next turn's upkeep.",
+      "flavor": null,
+      "artist": "Amy Weber",
+      "number": "34",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ICE",
+        "5ED",
+        "DKM",
+        "CST",
+        "ME2"
+      ],
+      "original_text": "{1}, {T}, Sacrifice Barbed Sextant: Add one mana of any color to your mana pool. Draw a card at the beginning of next turn's upkeep.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "489c1308161adb4705095fb471785b48da110ea6",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Bounty of the Hunt",
+      "layout": "normal",
+      "mana_cost": "{3}{G}{G}",
+      "cmc": 5,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Uncommon",
+      "text": "You may exile a green card from your hand rather than pay Bounty of the Hunt's mana cost.\nDistribute three +1/+1 counters among one, two, or three target creatures. For each +1/+1 counter you put on a creature this way, remove a +1/+1 counter from that creature at the beginning of the next cleanup step.",
+      "flavor": null,
+      "artist": "Jeff A. Menges",
+      "number": "23",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ALL",
+        "DKM",
+        "CST",
+        "ME2"
+      ],
+      "original_text": "You may remove a green card in your hand from the game rather than pay Bounty of the Hunt's mana cost.\nChoose one \u2014 Target creature gets +3/+3 until end of turn; or target creature gets +2/+2 and another target creature gets +1/+1 until end of turn; or three target creatures each get +1/+1 until end of turn.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "26e53f1edc1c62ffd69570dd137e3c5260203538",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Contagion",
+      "layout": "normal",
+      "mana_cost": "{3}{B}{B}",
+      "cmc": 5,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Uncommon",
+      "text": "You may pay 1 life and exile a black card from your hand rather than pay Contagion's mana cost.\nDistribute two -2/-1 counters among one or two target creatures.",
+      "flavor": null,
+      "artist": "Mike Raabe",
+      "number": "2",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ALL",
+        "DKM",
+        "MED"
+      ],
+      "original_text": "You may pay 1 life and remove a black card in your hand from the game rather than pay Contagion's mana cost.\nPut two -2/-1 counters, distributed as you choose, on one or two target creatures.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "bef404176238e78f84dc0492a2f0b7c342a6f3bd",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Dark Banishing",
+      "layout": "normal",
+      "mana_cost": "{2}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Common",
+      "text": "Destroy target nonblack creature. It can't be regenerated.",
+      "flavor": "\"Will not the mountains quake and hills melt at the coming of the darkness? Share this vision with your enemies, Lim-D\u00fbl, and they shall wither.\"\n\u2014Leshrac, Walker of Night",
+      "artist": "Drew Tucker",
+      "number": "3",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ICE",
+        "MIR",
+        "TMP",
+        "7ED",
+        "DKM",
+        "8ED",
+        "9ED",
+        "CST",
+        "ME2",
+        "DDC",
+        "DD3_DVD",
+        "TPR"
+      ],
+      "original_text": "Destroy target nonblack creature. It can't be regenerated.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "a59cc3770bc40141f9a2abc60c867e0a83645530",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Dark Ritual",
+      "layout": "normal",
+      "mana_cost": "{B}",
+      "cmc": 1,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Common",
+      "text": "Add {B}{B}{B} to your mana pool.",
+      "flavor": "\"Leshrac, my liege, grant me the power I am due.\"\n\u2014Lim-D\u00fbl, the Necromancer",
+      "artist": "Justin Hampton",
+      "number": "4",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "MIR",
+        "ITP",
+        "5ED",
+        "TMP",
+        "pJGP",
+        "USG",
+        "MMQ",
+        "BRB",
+        "BTD",
+        "DKM",
+        "CST",
+        "DDC",
+        "HOP",
+        "DDE",
+        "ME4",
+        "V13",
+        "VMA",
+        "DD3_DVD",
+        "TPR",
+        "MPS_AKH"
+      ],
+      "original_text": "Add {B}{B}{B} to your mana pool.",
+      "original_type": "Interrupt",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "dc2114218e35dcbc4142ae912cca94927118e8e0",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Death Spark",
+      "layout": "normal",
+      "mana_cost": "{R}",
+      "cmc": 1,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Uncommon",
+      "text": "Death Spark deals 1 damage to target creature or player.\nAt the beginning of your upkeep, if Death Spark is in your graveyard with a creature card directly above it, you may pay {1}. If you do, return Death Spark to your hand.",
+      "flavor": null,
+      "artist": "Mark Tedin",
+      "number": "11",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ALL",
+        "DKM",
+        "CST",
+        "ME2"
+      ],
+      "original_text": "Death Spark deals 1 damage to target creature or player.\nAt the beginning of your upkeep, if Death Spark is in your graveyard with a creature card directly above it, you may pay {1}. If you do, return Death Spark to your hand.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "8a0d657ae94f98890e458c9d33da5e8049f27d1b",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-10-01",
+          "text": "A card is \"directly above\" another card in your graveyard if it was put into that graveyard later and there are no cards in between the two."
+        },
+        {
+          "date": "2008-10-01",
+          "text": "Players may not rearrange the cards in their graveyards."
+        },
+        {
+          "date": "2008-10-01",
+          "text": "If an effect or rule puts two or more cards into the same graveyard at the same time, the owner of those cards may arrange them in any order."
+        },
+        {
+          "date": "2008-10-01",
+          "text": "The last thing that happens to a resolving instant or sorcery spell is that it's put into its owner's graveyard. Example: You cast Wrath of God. All creatures on the battlefield are destroyed. You arrange all the cards put into your graveyard this way in any order you want. The other players in the game do the same to the cards that are put into their graveyards. Then you put Wrath of God into your graveyard, on top of the other cards."
+        },
+        {
+          "date": "2008-10-01",
+          "text": "Say you're the owner of both a permanent and an Aura that's attached to it. If both the permanent and the Aura are destroyed at the same time (by Akroma's Vengeance, for example), you decide the order they're put into your graveyard. If just the enchanted permanent is destroyed, it's put into your graveyard first. Then, after state-based actions are checked, the Aura (which is no longer attached to anything) is put into your graveyard on top of it."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Elkin Bottle",
+      "layout": "normal",
+      "mana_cost": "{3}",
+      "cmc": 3,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Rare",
+      "text": "{3}, {T}: Exile the top card of your library. Until the beginning of your next upkeep, you may play that card.",
+      "flavor": null,
+      "artist": "Quinton Hoover",
+      "number": "35",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ICE",
+        "5ED",
+        "DKM",
+        "ME2"
+      ],
+      "original_text": "{3}, {T}: Remove the top card of your library from the game face up. Until the beginning of your next upkeep, you may play that card as though it were in your hand. At the beginning of your next upkeep, if you haven't played the card, put it into your graveyard.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "b13a05f57ceb8b419cfa182e552868bf62ec50a3",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "This is not considered to be drawing a card."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "If the Bottle leaves the battlefield or your control, the cards remain waiting until played or until the beginning of your next upkeep. The card is in the \"Exile\" zone."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "The card is not part of your hand in any way. You can't be forced to discard it due to a discard from hand effect, and you can't discard it to pay a cost."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "To \"play a card\" is to either cast a spell or to put a land onto the battlefield using the main phase special action."
+        },
+        {
+          "date": "2008-08-01",
+          "text": "If you do not play the card before your next upkeep, it remains exiled; you just lose the ability to play it."
+        },
+        {
+          "date": "2008-10-01",
+          "text": "The exiled card is played using the normal timing rules for its card type, as well as any other applicable restrictions such as \"Cast [this card] only during combat.\" For example, you can't play the card during an opponent's turn unless it's an instant or has flash. Similarly, if the exiled card is a land, you can't play it if you've already played a land that turn. If it's a nonland card, you'll have to pay its mana cost. The only thing that's different is you're playing it from the Exile zone."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Elvish Bard",
+      "layout": "normal",
+      "mana_cost": "{3}{G}{G}",
+      "cmc": 5,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Elf Shaman",
+      "supertypes": null,
+      "subtypes": [
+        "Elf",
+        "Shaman"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "All creatures able to block Elvish Bard do so.",
+      "flavor": null,
+      "artist": "Susan Van Camp",
+      "number": "24",
+      "power": "2",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ALL",
+        "DKM",
+        "9ED"
+      ],
+      "original_text": "All creatures able to block Elvish Bard do so.",
+      "original_type": "Creature \u2014 Elf",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "f276a66d856800f1dc213de20d2b6af32204ef8e",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Folk of the Pines",
+      "layout": "normal",
+      "mana_cost": "{4}{G}",
+      "cmc": 5,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Dryad",
+      "supertypes": null,
+      "subtypes": [
+        "Dryad"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "{1}{G}: Folk of the Pines gets +1/+0 until end of turn.",
+      "flavor": "\"Our friends of the forest take many forms, yet all serve the will of Freyalise.\"\n\u2014Laina of the Elvish Council",
+      "artist": "N\u00e9N\u00e9 Thomas & Catherine Buck",
+      "number": "25",
+      "power": "2",
+      "toughness": "5",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ICE",
+        "DKM",
+        "ME2"
+      ],
+      "original_text": "{1}{G}: Folk of the Pines gets +1/+0 until end of turn.",
+      "original_type": "Creature \u2014 Dryads",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "3eefa8a7625794739c482c573b1a2dcccc5cd2ee",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Forest",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Forest",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Forest"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Pat Morrissey",
+      "number": "48",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": "Green",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "EVG",
+        "SHM",
+        "ALA",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "DDD",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "DDM",
+        "M15",
+        "KTK",
+        "C14",
+        "DD3_EVG",
+        "DD3_GVL",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "SOI",
+        "DDR",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN"
+      ],
+      "original_text": "{G}",
+      "original_type": "Land",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "48f115f54593f2086950d52c8698e8a41f826d7c",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Forest",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Forest",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Forest"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Pat Morrissey",
+      "number": "49",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": "Green",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "EVG",
+        "SHM",
+        "ALA",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "DDD",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "DDM",
+        "M15",
+        "KTK",
+        "C14",
+        "DD3_EVG",
+        "DD3_GVL",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "SOI",
+        "DDR",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN"
+      ],
+      "original_text": "{G}",
+      "original_type": "Land",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "2ba1dcbd54a8a8c0de1e9bc1cff6bdec32680ab7",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Forest",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Forest",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Forest"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Pat Morrissey",
+      "number": "50",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": "Green",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "EVG",
+        "SHM",
+        "ALA",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "DDD",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "DDM",
+        "M15",
+        "KTK",
+        "C14",
+        "DD3_EVG",
+        "DD3_GVL",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "SOI",
+        "DDR",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN"
+      ],
+      "original_text": "{G}",
+      "original_type": "Land",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "9c8c4fde08d1d5caa392181306fbda4e2599c7f5",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Foul Familiar",
+      "layout": "normal",
+      "mana_cost": "{2}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Spirit",
+      "supertypes": null,
+      "subtypes": [
+        "Spirit"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Foul Familiar can't block.\n{B}, Pay 1 life: Return Foul Familiar to its owner's hand.",
+      "flavor": "\"Serve me, and live forever.\"\n\u2014Lim-D\u00fbl, the Necromancer",
+      "artist": "Anson Maddocks",
+      "number": "5",
+      "power": "3",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ICE",
+        "DKM",
+        "ME2"
+      ],
+      "original_text": "Foul Familiar can't black.\n{B}, Pay 1 life: Return Foul Familiar to its owner's hand.",
+      "original_type": "Creature \u2014 Spirit",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "414153f9f4b0fc6e97ec583b91ebda8558fa51e5",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "The ability can only be activated while this card is on the battlefield."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Fyndhorn Elves",
+      "layout": "normal",
+      "mana_cost": "{G}",
+      "cmc": 1,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Elf Druid",
+      "supertypes": null,
+      "subtypes": [
+        "Elf",
+        "Druid"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "{T}: Add {G} to your mana pool.",
+      "flavor": "\"Living side by side with the Elves for so long leaves me with no doubt that we serve the same goddess.\"\n\u2014Kolbj\u00f6rn, Elder Druid of the Juniper Order",
+      "artist": "Justin Hampton",
+      "number": "26",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ICE",
+        "DKM",
+        "MED",
+        "V13",
+        "VMA"
+      ],
+      "original_text": "{T}: Add {G} to your mana pool.",
+      "original_type": "Creature \u2014 Elves",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "641f133e7a7cc08b47d7922aef93eb8f0f77e4cb",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Giant Growth",
+      "layout": "normal",
+      "mana_cost": "{G}",
+      "cmc": 1,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Common",
+      "text": "Target creature gets +3/+3 until end of turn.",
+      "flavor": "\"Here in Fyndhorn, the goddess Freyalise is generous to her children.\"\n\u2014Kolbj\u00f6rn, Elder Druid of the Juniper Order",
+      "artist": "L. A. Williams",
+      "number": "27",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "5ED",
+        "ATH",
+        "6ED",
+        "BRB",
+        "pSUS",
+        "pFNM",
+        "S00",
+        "BTD",
+        "7ED",
+        "pMPR",
+        "DKM",
+        "8ED",
+        "9ED",
+        "10E",
+        "EVG",
+        "ME2",
+        "M10",
+        "ME3",
+        "DDD",
+        "DPA",
+        "M11",
+        "ME4",
+        "RTR",
+        "M14",
+        "DD3_EVG",
+        "DD3_GVL"
+      ],
+      "original_text": "Target creature gets +3/+3 until end of turn.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "3e76628a5245122218c4dee83dd65a78a91d9b90",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Giant Trap Door Spider",
+      "layout": "normal",
+      "mana_cost": "{1}{R}{G}",
+      "cmc": 3,
+      "colors": [
+        "Red",
+        "Green"
+      ],
+      "color_identity": [
+        "R",
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Spider",
+      "supertypes": null,
+      "subtypes": [
+        "Spider"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "{1}{R}{G}, {T}: Exile Giant Trap Door Spider and target creature without flying that's attacking you.",
+      "flavor": "\"So large and so quiet\u2014a combination best avoided.\"\n\u2014Disa the Restless, journal entry",
+      "artist": "Heather Hudson",
+      "number": "33",
+      "power": "2",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ICE",
+        "DKM",
+        "CST",
+        "ME2"
+      ],
+      "original_text": "{1}{R}{G}, {T}: Remove from the game Giant Trap Door Spider and target creature without flying that's attacking you.",
+      "original_type": "Creature \u2014 Spider",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "4e97e57b9d30f02c6c0a751b5dfdeb4c72d4db71",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "If Giant Trap Door Spider leaves the battlefield before its ability resolves, the ability will still resolve as normal. The targeted creature will be exiled."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "If the targeted creature leaves the battlefield (or otherwise becomes an illegal target) before the ability resolves, the ability will be countered. Giant Trap Door Spider will remain on the battlefield."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Goblin Mutant",
+      "layout": "normal",
+      "mana_cost": "{2}{R}{R}",
+      "cmc": 4,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Goblin Mutant",
+      "supertypes": null,
+      "subtypes": [
+        "Goblin",
+        "Mutant"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "Trample\nGoblin Mutant can't attack if defending player controls an untapped creature with power 3 or greater.\nGoblin Mutant can't block creatures with power 3 or greater.",
+      "flavor": "If only it had three brains, too.",
+      "artist": "Daniel Gelon",
+      "number": "12",
+      "power": "5",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ICE",
+        "ATH",
+        "DKM",
+        "MED"
+      ],
+      "original_text": "Trample\nGoblin Mutant can't attack if defending player controls an untapped creature with power 3 or greater.\nGoblin Mutant can't block creatures with power 3 or greater.",
+      "original_type": "Creature \u2014 Goblin",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "20f09ddeff1756f74d707cf57ddd9d38a2932969",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Guerrilla Tactics",
+      "layout": "normal",
+      "mana_cost": "{1}{R}",
+      "cmc": 2,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Common",
+      "text": "Guerrilla Tactics deals 2 damage to target creature or player.\nWhen a spell or ability an opponent controls causes you to discard Guerrilla Tactics, Guerrilla Tactics deals 4 damage to target creature or player.",
+      "flavor": null,
+      "artist": "Amy Weber",
+      "number": "13a",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ALL",
+        "DKM",
+        "8ED",
+        "9ED",
+        "10E"
+      ],
+      "original_text": "Guerrilla Tactics deals 2 damage to target creature or player.\nWhen a spell or ability an opponent controls causes you to discard Guerrilla Tactics from your hand, Guerrilla Tactics deals 4 damage to target creature or player.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "8d7c1f01f0e37eaf423a67309d5860564cdb3bb0",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "If it is discarded, the damage done by it is done by this card due to an ability and not by a spell."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "The second ability will trigger even on an optional discard caused by an opponent."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "Discarding as a cost to cast a spell will not trigger the ability. Only discarding as an effect will trigger the ability."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Guerrilla Tactics",
+      "layout": "normal",
+      "mana_cost": "{1}{R}",
+      "cmc": 2,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Common",
+      "text": "Guerrilla Tactics deals 2 damage to target creature or player.\nWhen a spell or ability an opponent controls causes you to discard Guerrilla Tactics, Guerrilla Tactics deals 4 damage to target creature or player.",
+      "flavor": null,
+      "artist": "Randy Asplund-Faith",
+      "number": "13b",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ALL",
+        "DKM",
+        "8ED",
+        "9ED",
+        "10E"
+      ],
+      "original_text": "Guerrilla Tactics deals 2 damage to target creature or player.\nWhen a spell or ability an opponent controls causes you to discard Guerrilla Tactics from your hand, Guerrilla Tactics deals 4 damage to target creature or player.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "f35428b20670ed0c418131d00a6686a51cf20066",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "If it is discarded, the damage done by it is done by this card due to an ability and not by a spell."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "The second ability will trigger even on an optional discard caused by an opponent."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "Discarding as a cost to cast a spell will not trigger the ability. Only discarding as an effect will trigger the ability."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Hurricane",
+      "layout": "normal",
+      "mana_cost": "{X}{G}",
+      "cmc": 1,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Uncommon",
+      "text": "Hurricane deals X damage to each creature with flying and each player.",
+      "flavor": "\"This was quite possibly the least pleasant occurrence on the entire expedition.\"\n\u2014Disa the Restless, journal entry",
+      "artist": "Cornelius Brudi",
+      "number": "28",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "5ED",
+        "POR",
+        "PO2",
+        "ATH",
+        "6ED",
+        "BRB",
+        "7ED",
+        "DKM",
+        "10E"
+      ],
+      "original_text": "Hurricane deals X damage to each creature with flying and each player.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "06a6f1e16ba733ad4bba9ef6f0be563d4b55f058",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "Whether or not a creature has flying is only checked on resolution."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Icy Manipulator",
+      "layout": "normal",
+      "mana_cost": "{4}",
+      "cmc": 4,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Uncommon",
+      "text": "{1}, {T}: Tap target artifact, creature, or land.",
+      "flavor": "\"The scavengers who first found it called it the 'Bone Crank.' Not a bad name, I'd say.\"\n\u2014Arcum Dagsson, Soldevi Machinist",
+      "artist": "Amy Weber",
+      "number": "36",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "ICE",
+        "pFNM",
+        "DKM",
+        "MRD",
+        "9ED",
+        "10E",
+        "ME4",
+        "DDH"
+      ],
+      "original_text": "{1},{T}: Tap target artifact, creature, or land.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "490a71b17b82821a083237fac98228b091839ae3",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "Tapping a card with an effect like this will never pay the cost of an ability. For example, tapping a land with this card will not put mana into a player's pool."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "Icy Manipulator can't be used to stop someone from using an ability of the permanent you plan to tap. It can be used to make a player use the ability now or to not use it."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "The ability can target a tapped card, but tapping a tapped card does nothing useful. And it will not trigger \"if the card becomes tapped\" effects."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "If you want to stop someone from attacking with a creature by using this card, you must do so before attackers are declared. You can't wait until after attackers are declared and then try to use it to make a creature stop attacking. Note that your opponent can't start declaring attackers without letting you use the Icy Manipulator."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "Tapping an attacking creature which did not tap to attack does not remove the creature from the attack or cause the creature to stop dealing damage."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Incinerate",
+      "layout": "normal",
+      "mana_cost": "{1}{R}",
+      "cmc": 2,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Common",
+      "text": "Incinerate deals 3 damage to target creature or player. A creature dealt damage this way can't be regenerated this turn.",
+      "flavor": "\"Yes, I think 'toast' is an appropriate description.\"\n\u2014Jaya Ballard, Task Mage",
+      "artist": "Mark Poole",
+      "number": "14",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pLGM",
+        "ICE",
+        "MIR",
+        "5ED",
+        "pMPR",
+        "DKM",
+        "CST",
+        "10E",
+        "ME2",
+        "DD2",
+        "DPA",
+        "M12",
+        "DD3_JVC"
+      ],
+      "original_text": "Incinerate deals 3 damage to target creature or player. A creature dealt damage this way can't be regenerated this turn.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "4c0489bd86da7a603c5b8a9ce069da3a72750ba8",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2007-07-15",
+          "text": "Regeneration abilities that would affect that creature can still be activated; they just won't do anything. The creature can't be regenerated for any reason, even if an effect other than Incinerate would deal lethal damage to it or otherwise destroy it."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Jokulhaups",
+      "layout": "normal",
+      "mana_cost": "{4}{R}{R}",
+      "cmc": 6,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Rare",
+      "text": "Destroy all artifacts, creatures, and lands. They can't be regenerated.",
+      "flavor": "\"I was shocked when I first saw the aftermath of the Yavimaya Valley disaster. The raging waters had swept away trees, bridges, and even houses. My healers had much work to do.\"\n\u2014Halvor Arenson, Kjeldoran Priest",
+      "artist": "Richard Thomas",
+      "number": "15",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ICE",
+        "5ED",
+        "6ED",
+        "DKM",
+        "MED"
+      ],
+      "original_text": "Destroy all artifacts, creatures, and lands. They can't be regenerated.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "4bca9df7016fbe16bb711a285dfea9d3d1dd6e19",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Karplusan Forest",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "R",
+        "G"
+      ],
+      "names": null,
+      "type": "Land",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Rare",
+      "text": "{T}: Add {C} to your mana pool.\n{T}: Add {R} or {G} to your mana pool. Karplusan Forest deals 1 damage to you.",
+      "flavor": null,
+      "artist": "Nicola Leonard",
+      "number": "39",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ICE",
+        "5ED",
+        "6ED",
+        "7ED",
+        "DKM",
+        "9ED",
+        "10E",
+        "C16"
+      ],
+      "original_text": "{T}: Add one colorless mana to your mana pool.\n{T}: Add {R} or {G} to your mana pool. Karplusan Forest deals 1 damage to you.",
+      "original_type": "Land",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "8ee60aba9ce2bceec8e14d1ccd85a3b89c049569",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Lava Burst",
+      "layout": "normal",
+      "mana_cost": "{X}{R}",
+      "cmc": 1,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Common",
+      "text": "Lava Burst deals X damage to target creature or player. If Lava Burst would deal damage to a creature, that damage can't be prevented or dealt instead to another creature or player.",
+      "flavor": "\"Overkill? This isn't a game of Kick-the-Ouphe!\"\n\u2014Jaya Ballard, Task Mage",
+      "artist": "Tom W\u00e4nerstrand",
+      "number": "16",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ICE",
+        "DKM",
+        "ME2"
+      ],
+      "original_text": "Lava Burst deals X damage to target creature or player. If Lava Burst would deal damage to a creature, that damage can't be prevented or dealt instead to another creature or player.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "67c99a649547ed3b3d534b9d7bd8bdda4f622a9a",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-10-01",
+          "text": "Prevention and redirection effects will have no effect on damage dealt by Lava Burst to a creature. However, they will work on damage that Lava Burst would deal to a player."
+        },
+        {
+          "date": "2008-10-01",
+          "text": "A creature dealt damage by Lava Burst may be regenerated."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Lhurgoyf",
+      "layout": "normal",
+      "mana_cost": "{2}{G}{G}",
+      "cmc": 4,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Lhurgoyf",
+      "supertypes": null,
+      "subtypes": [
+        "Lhurgoyf"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": "Lhurgoyf's power is equal to the number of creature cards in all graveyards and its toughness is equal to that number plus 1.",
+      "flavor": "\"Ach! Hans, run! It's the Lhurgoyf!\"\n\u2014Saffi Eriksdotter, last words",
+      "artist": "Pete Venters",
+      "number": "29",
+      "power": "*",
+      "toughness": "1+*",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": "black",
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ICE",
+        "5ED",
+        "BRB",
+        "DKM",
+        "8ED",
+        "CMD"
+      ],
+      "original_text": "Lhurgoyf's power is equal to the number of creature cards in all graveyards and its toughness is equal to that number plus 1.",
+      "original_type": "Creature \u2014 Lhurgoyf",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "b837af2305c10d2303ad265ec066b806346a0595",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-04-01",
+          "text": "A \"creature card\" is any card with the type creature, even if it has other types such as artifact, enchantment, or land. Older cards of type summon are also creature cards."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Lim-D\u00fbl's High Guard",
+      "layout": "normal",
+      "mana_cost": "{1}{B}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Skeleton",
+      "supertypes": null,
+      "subtypes": [
+        "Skeleton"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "First strike\n{1}{B}: Regenerate Lim-D\u00fbl's High Guard.",
+      "flavor": "\"Death does not prevent us from service to our absent master. As long as Tresserhorn stands, so shall we.\"\n\u2014Chaeska, Keeper of Tresserhorn",
+      "artist": "Anson Maddocks",
+      "number": "6a",
+      "power": "2",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ALL",
+        "DKM",
+        "ME2"
+      ],
+      "original_text": "First strike\n{1}{B}: Regenerate",
+      "original_type": "Creature \u2014 Skeleton",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "f7f0a233a6f733d14a96ea518d343e8ad89e87e1",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Lim-D\u00fbl's High Guard",
+      "layout": "normal",
+      "mana_cost": "{1}{B}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Skeleton",
+      "supertypes": null,
+      "subtypes": [
+        "Skeleton"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "First strike\n{1}{B}: Regenerate Lim-D\u00fbl's High Guard.",
+      "flavor": "\"Death does not prevent us from service to our absent master. As long as Tresserhorn stands, so shall we.\"\n\u2014Chaeska, Keeper of Tresserhorn",
+      "artist": "Anson Maddocks",
+      "number": "6b",
+      "power": "2",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ALL",
+        "DKM",
+        "ME2"
+      ],
+      "original_text": "First strike\n{1}{B}: Regenerate",
+      "original_type": "Creature \u2014 Skeleton",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "fd7252046ed084f109d626a7ad514b774a4dde81",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Mountain",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Mountain",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Mountain"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Tom W\u00e4nerstrand",
+      "number": "45",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": "Red",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "ARN",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "EVG",
+        "SHM",
+        "ALA",
+        "DD2",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "PD2",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "DDK",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_EVG",
+        "DD3_JVC",
+        "FRF",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "DDT"
+      ],
+      "original_text": "{R}",
+      "original_type": "Land",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "f00399da2020bc0d60ad97d65d8f65860a65d4b6",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Mountain",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Mountain",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Mountain"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Tom W\u00e4nerstrand",
+      "number": "46",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": "Red",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "ARN",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "EVG",
+        "SHM",
+        "ALA",
+        "DD2",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "PD2",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "DDK",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_EVG",
+        "DD3_JVC",
+        "FRF",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "DDT"
+      ],
+      "original_text": "{R}",
+      "original_type": "Land",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "5c3be8eddc35d8d5f6947feca192882819edb863",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Mountain",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Mountain",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Mountain"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Tom W\u00e4nerstrand",
+      "number": "47",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": "Red",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "ARN",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "EVG",
+        "SHM",
+        "ALA",
+        "DD2",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "PD2",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "DDK",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_EVG",
+        "DD3_JVC",
+        "FRF",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "DDT"
+      ],
+      "original_text": "{R}",
+      "original_type": "Land",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "8d0422a888cd14fccbf5da5c9b1c7cd513cdd6e3",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Necropotence",
+      "layout": "normal",
+      "mana_cost": "{B}{B}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Enchantment",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Rare",
+      "text": "Skip your draw step.\nWhenever you discard a card, exile that card from your graveyard.\nPay 1 life: Exile the top card of your library face down. Put that card into your hand at the beginning of your next end step.",
+      "flavor": null,
+      "artist": "Mark Tedin",
+      "number": "7",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": "black",
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ICE",
+        "5ED",
+        "DKM",
+        "ME2",
+        "V09",
+        "VMA",
+        "EMA",
+        "IMA"
+      ],
+      "original_text": "Skip your draw step.\nIf you would discard a card from your hand, remove that card from the game instead.\nPay 1 life: Remove the top card of your library from the game face down. At the end of your turn, put that card into your hand.",
+      "original_type": "Enchantment",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "76749e9b57540145e054c3366f132365d5bc89b7",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Banned"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Restricted"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2017-11-17",
+          "text": "If a discarded card isn't put into your graveyard (due to an effect such as that of Obstinate Baloth) or leaves your graveyard (perhaps because another effect returned it to your hand), it won't be exiled."
+        },
+        {
+          "date": "2017-11-17",
+          "text": "If you discard a card with madness and wish to cast it, Necropotence's ability won't exile that card. If you don't wish to cast it, you choose whether it ends up exiled or in your graveyard."
+        },
+        {
+          "date": "2017-11-17",
+          "text": "Necropotence's last ability creates a delayed triggered ability that will put the exiled card into your hand. That ability still triggers even if Necropotence is removed from the battlefield before your end step."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Orcish Cannoneers",
+      "layout": "normal",
+      "mana_cost": "{1}{R}{R}",
+      "cmc": 3,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Orc Warrior",
+      "supertypes": null,
+      "subtypes": [
+        "Orc",
+        "Warrior"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "{T}: Orcish Cannoneers deals 2 damage to target creature or player and 3 damage to you.",
+      "flavor": "\"It's a thankless job, and you'll probably die in an explosion. But the pay is pretty good.\"\n\u2014Toothlicker Harj, Orcish Captain",
+      "artist": "Dan Frazier",
+      "number": "17",
+      "power": "1",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ICE",
+        "DKM",
+        "ME2"
+      ],
+      "original_text": "{T}: Orcish Cannoneers deals 2 damage to target creature or player and 3 damage to you.",
+      "original_type": "Creature \u2014 Orcs",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "7cd9a8876745f47f74559ef3bac17907cef3d041",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Phantasmal Fiend",
+      "layout": "normal",
+      "mana_cost": "{3}{B}",
+      "cmc": 4,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B",
+        "U"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Illusion",
+      "supertypes": null,
+      "subtypes": [
+        "Illusion"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "{B}: Phantasmal Fiend gets +1/-1 until end of turn.\n{1}{U}: Switch Phantasmal Fiend's power and toughness until end of turn.",
+      "flavor": null,
+      "artist": "Scott Kirschner",
+      "number": "8a",
+      "power": "1",
+      "toughness": "5",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ALL",
+        "DKM",
+        "CST",
+        "ME2"
+      ],
+      "original_text": "{B}: Phantasmal Fiend gets +1/-1 until end of turn.\n{1}{U}: Switch Phantasmal Fiend's power and toughness until end of turn. Effects that would alter Phantasmal Fiend's power this turn alter its toughness instead, and vice versa.",
+      "original_type": "Creature \u2014 Phantasm",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "a4c432ad3f521b950e9cb5d61c85362abf4d1264",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2005-11-01",
+          "text": "Note that the wording \"Effects that alter the creature's power alter its toughness instead, and vice versa, this turn\" has been removed."
+        },
+        {
+          "date": "2008-10-01",
+          "text": "Effects that switch power and toughness are always applied last when determining a creature's power and toughness, even if other power/toughness-changing effects are created later in the turn. For example, if you activate Phantasmal Fiend's first ability, it will become 2/4. Then if you activate its second ability, it will become 4/2. Then if you activate its first ability again, it will become 3/3."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "Effects that switch power and toughness apply after all other effects that change power and/or toughness, regardless of which effect was created first."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "Switching a creature's power and toughness twice (or any even number of times) effectively returns the creature to the power and toughness it had before any switches."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Phantasmal Fiend",
+      "layout": "normal",
+      "mana_cost": "{3}{B}",
+      "cmc": 4,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B",
+        "U"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Illusion",
+      "supertypes": null,
+      "subtypes": [
+        "Illusion"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "{B}: Phantasmal Fiend gets +1/-1 until end of turn.\n{1}{U}: Switch Phantasmal Fiend's power and toughness until end of turn.",
+      "flavor": null,
+      "artist": "Scott Kirschner",
+      "number": "8b",
+      "power": "1",
+      "toughness": "5",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ALL",
+        "DKM",
+        "CST",
+        "ME2"
+      ],
+      "original_text": "{B}: Phantasmal Fiend gets +1/-1 until end of turn.\n{1}{U}: Switch Phantasmal Fiend's power and toughness until end of turn. Effects that would alter Phantasmal Fiend's power this turn alter its toughness instead, and vice versa.",
+      "original_type": "Creature \u2014 Phantasm",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "a4a18c1f2d9842df5ad43fb873f21dcaf735f11c",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2005-11-01",
+          "text": "Note that the wording \"Effects that alter the creature's power alter its toughness instead, and vice versa, this turn\" has been removed."
+        },
+        {
+          "date": "2008-10-01",
+          "text": "Effects that switch power and toughness are always applied last when determining a creature's power and toughness, even if other power/toughness-changing effects are created later in the turn. For example, if you activate Phantasmal Fiend's first ability, it will become 2/4. Then if you activate its second ability, it will become 4/2. Then if you activate its first ability again, it will become 3/3."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "Effects that switch power and toughness apply after all other effects that change power and/or toughness, regardless of which effect was created first."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "Switching a creature's power and toughness twice (or any even number of times) effectively returns the creature to the power and toughness it had before any switches."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Phyrexian War Beast",
+      "layout": "normal",
+      "mana_cost": "{3}",
+      "cmc": 3,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact Creature \u2014 Beast",
+      "supertypes": null,
+      "subtypes": [
+        "Beast"
+      ],
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "When Phyrexian War Beast leaves the battlefield, sacrifice a land and Phyrexian War Beast deals 1 damage to you.",
+      "flavor": "\"Deal with the spawn of Phyrexia cautiously; only with time may we control them.\"\n\u2014Arcum Dagsson,\nSoldevi Machinist",
+      "artist": "Bill Sienkiewicz",
+      "number": "37a",
+      "power": "3",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ALL",
+        "DKM",
+        "MED"
+      ],
+      "original_text": "When Phyrexian War Beast leaves play, sacrifice a land and Phyrexian War Beast deals 1 damage to you.",
+      "original_type": "Artifact Creature",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "98f6f23615b33d6efbb1787932f09f5277de25fc",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Phyrexian War Beast",
+      "layout": "normal",
+      "mana_cost": "{3}",
+      "cmc": 3,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact Creature \u2014 Beast",
+      "supertypes": null,
+      "subtypes": [
+        "Beast"
+      ],
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "When Phyrexian War Beast leaves the battlefield, sacrifice a land and Phyrexian War Beast deals 1 damage to you.",
+      "flavor": "\"Deal with the spawn of Phyrexia cautiously; only with time may we control them.\"\n\u2014Arcum Dagsson,\nSoldevi Machinist",
+      "artist": "Bill Sienkiewicz",
+      "number": "37b",
+      "power": "3",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ALL",
+        "DKM",
+        "MED"
+      ],
+      "original_text": "When Phyrexian War Beast leaves play, sacrifice a land and Phyrexian War Beast deals 1 damage to you.",
+      "original_type": "Artifact Creature",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "f3da30fdb95e5571c4dd7a6f633f269276492073",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Pillage",
+      "layout": "normal",
+      "mana_cost": "{1}{R}{R}",
+      "cmc": 3,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Uncommon",
+      "text": "Destroy target artifact or land. It can't be regenerated.",
+      "flavor": "\"Were they to reduce us to ash, we would clog their throats and sting their eyes in payment.\"\n\u2014Lovisa Coldeyes,\nBalduvian Chieftain",
+      "artist": "Richard Kane Ferguson",
+      "number": "18",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ALL",
+        "pARL",
+        "6ED",
+        "7ED",
+        "DKM",
+        "ME2",
+        "PD2"
+      ],
+      "original_text": "Destroy target artifact or land. It can't be regenerated.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "f54cd61dbc5ba8f083707a034810f404006db373",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Pyroclasm",
+      "layout": "normal",
+      "mana_cost": "{1}{R}",
+      "cmc": 2,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Uncommon",
+      "text": "Pyroclasm deals 2 damage to each creature.",
+      "flavor": "\"Leaves more room for the big ones to fight in, you know.\"\n\u2014Jaya Ballard, Task Mage",
+      "artist": "Pat Morrissey",
+      "number": "19",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ICE",
+        "POR",
+        "7ED",
+        "pMPR",
+        "DKM",
+        "8ED",
+        "9ED",
+        "10E",
+        "M10",
+        "M11",
+        "DDK",
+        "DDL",
+        "MM3"
+      ],
+      "original_text": "Pyroclasm deals 2 damage to each creature.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "29b743694615b978362f36f5dd54aa978777f065",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Shatter",
+      "layout": "normal",
+      "mana_cost": "{1}{R}",
+      "cmc": 2,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Common",
+      "text": "Destroy target artifact.",
+      "flavor": "\"Let the past be the past. Do not call up that which you cannot put down. Destroy that which destroyed us, so long ago.\"\n\u2014Sorine Relicbane, Soldevi Heretic",
+      "artist": "Bryon Wackwitz",
+      "number": "20",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "5ED",
+        "TMP",
+        "6ED",
+        "7ED",
+        "DKM",
+        "8ED",
+        "MRD",
+        "9ED",
+        "M10",
+        "SOM",
+        "KTK",
+        "TPR"
+      ],
+      "original_text": "Destroy target artifact.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "13fe474d2f876a819001ab10b2ea321791a79f9c",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "Regenerating artifacts can regenerate from this."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Soul Burn",
+      "layout": "normal",
+      "mana_cost": "{X}{2}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Common",
+      "text": "Spend only black and/or red mana on X.\nSoul Burn deals X damage to target creature or player. You gain life equal to the damage dealt, but not more than the amount of {B} spent on X, the player's life total before Soul Burn dealt damage, or the creature's toughness.",
+      "flavor": null,
+      "artist": "Rob Alexander",
+      "number": "9",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ICE",
+        "INV",
+        "DKM",
+        "CST"
+      ],
+      "original_text": "Spend only black and/or red mana on X.\nSoul Burn deals X damage to target creature or player. You gain life equal to the damage dealt, but not more than the amount of {B} spent on X, the player's life total before Soul Burn dealt damage, or the creature's toughness.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "eb0ee1e78b727df9309ca0d371bc8e0edb62ef01",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "Will give 1 life for each black mana used, but not more life than the amount of unprevented damage that is dealt."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Storm Shaman",
+      "layout": "normal",
+      "mana_cost": "{2}{R}",
+      "cmc": 3,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Cleric Shaman",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Cleric",
+        "Shaman"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "{R}: Storm Shaman gets +1/+0 until end of turn.",
+      "flavor": "\"Embrace the storm. Its voice shall echo within you, and its fire shall become your touch!\"\n\u2014Lovisa Coldeyes, Balduvian chieftain",
+      "artist": "Carol Heyer",
+      "number": "21a",
+      "power": "0",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ALL",
+        "7ED",
+        "DKM"
+      ],
+      "original_text": "{R}: Storm Shaman gets +1/+0 until end of turn.",
+      "original_type": "Creature \u2014 Cleric",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "1abdf6088b51c799b2f779f36de471411f2b7be2",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Storm Shaman",
+      "layout": "normal",
+      "mana_cost": "{2}{R}",
+      "cmc": 3,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Cleric Shaman",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Cleric",
+        "Shaman"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "{R}: Storm Shaman gets +1/+0 until end of turn.",
+      "flavor": "\"Embrace the storm. Its voice shall echo within you, and its fire shall become your touch!\"\n\u2014Lovisa Coldeyes, Balduvian chieftain",
+      "artist": "Carol Heyer",
+      "number": "21b",
+      "power": "0",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ALL",
+        "7ED",
+        "DKM"
+      ],
+      "original_text": "{R}: Storm Shaman gets +1/+0 until end of turn.",
+      "original_type": "Creature \u2014 Cleric",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "bf9750f749d70868919a77ea414b1503ffdd18d6",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Sulfurous Springs",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "B",
+        "R"
+      ],
+      "names": null,
+      "type": "Land",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Rare",
+      "text": "{T}: Add {C} to your mana pool.\n{T}: Add {B} or {R} to your mana pool. Sulfurous Springs deals 1 damage to you.",
+      "flavor": null,
+      "artist": "Phil Foglio",
+      "number": "40",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ICE",
+        "5ED",
+        "6ED",
+        "7ED",
+        "DKM",
+        "9ED",
+        "10E"
+      ],
+      "original_text": "{T}: Add one colorless mana to your mana pool.\n{T}: Add {B} or {R} to your mana pool. Sulfurous Springs deals 1 damage to you.",
+      "original_type": "Land",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "9dc83efe367d7b7a6603e4ecb42c639bdcf51fde",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Swamp",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Swamp",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Swamp"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Douglas Shuler",
+      "number": "42",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": "Black",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DDC",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "DDD",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "MBS",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "PD3",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "DDK",
+        "M14",
+        "THS",
+        "C13",
+        "DDM",
+        "MD1",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_DVD",
+        "DD3_GVL",
+        "FRF",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "DDR",
+        "KLD",
+        "C16",
+        "PCA",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN"
+      ],
+      "original_text": "{B}",
+      "original_type": "Land",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "428016b8e9721bd8d02fb00862b08e187212492d",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Swamp",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Swamp",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Swamp"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Douglas Shuler",
+      "number": "43",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": "Black",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DDC",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "DDD",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "MBS",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "PD3",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "DDK",
+        "M14",
+        "THS",
+        "C13",
+        "DDM",
+        "MD1",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_DVD",
+        "DD3_GVL",
+        "FRF",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "DDR",
+        "KLD",
+        "C16",
+        "PCA",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN"
+      ],
+      "original_text": "{B}",
+      "original_type": "Land",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "53b990ae931735da1d8ace0d5e25e0685ca99d35",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Swamp",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Swamp",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Swamp"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Douglas Shuler",
+      "number": "44",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": "Black",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DDC",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "DDD",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "MBS",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "PD3",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "DDK",
+        "M14",
+        "THS",
+        "C13",
+        "DDM",
+        "MD1",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_DVD",
+        "DD3_GVL",
+        "FRF",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "DDR",
+        "KLD",
+        "C16",
+        "PCA",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN"
+      ],
+      "original_text": "{B}",
+      "original_type": "Land",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "185f5652aca9c14ce1b38e388141bae39e16a269",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Underground River",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "U",
+        "B"
+      ],
+      "names": null,
+      "type": "Land",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Rare",
+      "text": "{T}: Add {C} to your mana pool.\n{T}: Add {U} or {B} to your mana pool. Underground River deals 1 damage to you.",
+      "flavor": null,
+      "artist": "N\u00e9N\u00e9 Thomas",
+      "number": "41",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ICE",
+        "5ED",
+        "6ED",
+        "7ED",
+        "DKM",
+        "9ED",
+        "10E",
+        "C16"
+      ],
+      "original_text": "{T}: Add one colorless mana to your mana pool.\n{T}: Add {U} or {B} to your mana pool. Underground River deals 1 damage to you.",
+      "original_type": "Land",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "46369359ff63bc8707d1590c1328c849468fda17",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Walking Wall",
+      "layout": "normal",
+      "mana_cost": "{4}",
+      "cmc": 4,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact Creature \u2014 Wall",
+      "supertypes": null,
+      "subtypes": [
+        "Wall"
+      ],
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "Defender\n{3}: Walking Wall gets +3/-1 until end of turn and can attack this turn as though it didn't have defender. Activate this ability only once each turn.",
+      "flavor": "\"The fortress is not what it seems.\"\n\u2014Arcum Dagsson, Soldevi Machinist",
+      "artist": "Anthony S. Waters",
+      "number": "38",
+      "power": "0",
+      "toughness": "6",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ICE",
+        "DKM",
+        "MED"
+      ],
+      "original_text": "(Walls can't attack.)\n{3}: Walking Wall gets +3/-1 until end of turn and may attack this turn as though it weren't a Wall. Play this ability only once each turn.",
+      "original_type": "Artifact Creature",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "5adae53c1e5f04aeda51fbdda770a9285594f7de",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Woolly Spider",
+      "layout": "normal",
+      "mana_cost": "{1}{G}{G}",
+      "cmc": 3,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Spider",
+      "supertypes": null,
+      "subtypes": [
+        "Spider"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Reach (This creature can block creatures with flying.)\nWhenever Woolly Spider blocks a creature with flying, Woolly Spider gets +0/+2 until end of turn.",
+      "flavor": "\"We need not fear the forces of the air; I've yet to see a Spider without an appetite.\"\n\u2014Taaveti of Kelsinko, Elvish Hunter",
+      "artist": "Daniel Gelon",
+      "number": "30",
+      "power": "2",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ICE",
+        "ATH",
+        "BTD",
+        "DKM",
+        "ME2"
+      ],
+      "original_text": "Woolly Spider may block as though it had flying.\nWhenever Woolly Spider blocks a creature with flying, Woolly Spider gets +0/+2 until end of turn.",
+      "original_type": "Creature \u2014 Spider",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "5c6c480df91541d964fc9312d2e8a05bc755fd08",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Yavimaya Ancients",
+      "layout": "normal",
+      "mana_cost": "{3}{G}{G}",
+      "cmc": 5,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Treefolk",
+      "supertypes": null,
+      "subtypes": [
+        "Treefolk"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "{G}: Yavimaya Ancients gets +1/-2 until end of turn.",
+      "flavor": "\"We orphans of Fyndhorn have found no welcome in this alient place.\"\n\u2014Taaveti of Kelsinko, elvish hunter",
+      "artist": "Quinton Hoover",
+      "number": "31a",
+      "power": "2",
+      "toughness": "7",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ALL",
+        "DKM",
+        "ME2"
+      ],
+      "original_text": "{G}: Yavimaya Ancients gets +1/-2 until end of turn.",
+      "original_type": "Creature \u2014 Treefolk",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "af6c9481edd4750e3003918e6c9e3c29e5c4f618",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Yavimaya Ancients",
+      "layout": "normal",
+      "mana_cost": "{3}{G}{G}",
+      "cmc": 5,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Treefolk",
+      "supertypes": null,
+      "subtypes": [
+        "Treefolk"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "{G}: Yavimaya Ancients gets +1/-2 until end of turn.",
+      "flavor": "\"We orphans of Fyndhorn have found no welcome in this alient place.\"\n\u2014Taaveti of Kelsinko, elvish hunter",
+      "artist": "Quinton Hoover",
+      "number": "31b",
+      "power": "2",
+      "toughness": "7",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ALL",
+        "DKM",
+        "ME2"
+      ],
+      "original_text": "{G}: Yavimaya Ancients gets +1/-2 until end of turn.",
+      "original_type": "Creature \u2014 Treefolk",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "cdf5984570e3e3f87feaefd8b03226f24fb62c33",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Yavimaya Ants",
+      "layout": "normal",
+      "mana_cost": "{2}{G}{G}",
+      "cmc": 4,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Insect",
+      "supertypes": null,
+      "subtypes": [
+        "Insect"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "Trample, haste\nCumulative upkeep {G}{G} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)",
+      "flavor": "\"Few natural forces are as devastating as hunger.\"\n\u2014Kaysa, Elder Druid of the Juniper Order",
+      "artist": "Pat Morrissey",
+      "number": "32",
+      "power": "5",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ALL",
+        "DKM",
+        "MED"
+      ],
+      "original_text": "Trample; haste (This creature may attack and {T} the turn it comes under your control.)\nCumulative upkeep {G}{G} (At the beginning of your upkeep, put an age counter on this creature, then sacrifice it unless you pay {G}{G} for each age counter on it.)",
+      "original_type": "Creature \u2014 Swarm",
+      "source": null,
+      "image_url": null,
+      "set": "DKM",
+      "set_name": "Deckmasters",
+      "id": "5843416e3ece83751b3c2568ae2e18b2ee81f050",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-10-01",
+          "text": "Paying cumulative upkeep is always optional. If it's not paid, the permanent with cumulative upkeep is sacrificed. Partial payments of the total cumulative upkeep cost can't be made. For example, if a permanent with \"cumulative upkeep {1}\" has three age counters on it when its cumulative upkeep ability triggers, it gets another age counter and then its controller chooses to either pay {4} or sacrifice the permanent."
+        }
+      ],
+      "foreign_names": null
+    }
+  ]
+}

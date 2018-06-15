@@ -1,0 +1,6073 @@
+{
+  "code": "pMGD",
+  "name": "Magic Game Day",
+  "type": "promo",
+  "border": "black",
+  "mkm_id": null,
+  "mkm_name": null,
+  "release_date": "2007-07-14",
+  "gatherer_code": null,
+  "magic_cards_info_code": "mgdc",
+  "booster": null,
+  "old_code": null,
+  "block": null,
+  "online_only": null,
+  "cards": [
+    {
+      "name": "Reya Dawnbringer",
+      "layout": "normal",
+      "mana_cost": "{6}{W}{W}{W}",
+      "cmc": 9,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Legendary Creature \u2014 Angel",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Angel"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Flying\nAt the beginning of your upkeep, you may return target creature card from your graveyard to the battlefield.",
+      "flavor": "\"You have not died until I consent.\"",
+      "artist": "Matthew D. Wilson",
+      "number": "1",
+      "power": "4",
+      "toughness": "6",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2007-07-14",
+      "starter": null,
+      "printings": [
+        "INV",
+        "10E",
+        "pMGD",
+        "DDC",
+        "CNS",
+        "DD3_DVD"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic The Gathering Worldwide Game Day Participation Bonus.",
+      "image_url": null,
+      "set": "pMGD",
+      "set_name": "Magic Game Day",
+      "id": "2b3cb07dfced2e3ce781c520c602d849f5d275ae",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u9ece\u660e\u4f7f\u8005\u857e\u4e9a",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u9ece\u660e\u4f7f\u8005\u857e\u4e9e",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Reya Aubevenant",
+          "language": "French"
+        },
+        {
+          "name": "Reya Morgenbringer",
+          "language": "German"
+        },
+        {
+          "name": "Reya Dawnbringer",
+          "language": "Italian"
+        },
+        {
+          "name": "\u9ece\u660e\u3092\u3082\u305f\u3089\u3059\u8005\u30ec\u30a4\u30e4",
+          "language": "Japanese"
+        },
+        {
+          "name": "Reya, Portadora da Alvorada",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0420\u0435\u044f, \u041f\u0440\u0438\u043d\u043e\u0441\u044f\u0449\u0430\u044f \u0420\u0430\u0441\u0441\u0432\u0435\u0442",
+          "language": "Russian"
+        },
+        {
+          "name": "Reya Portaalba",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Liliana's Specter",
+      "layout": "normal",
+      "mana_cost": "{1}{B}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Specter",
+      "supertypes": null,
+      "subtypes": [
+        "Specter"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Flying\nWhen Liliana's Specter enters the battlefield, each opponent discards a card.",
+      "flavor": null,
+      "artist": "Jaime Jones",
+      "number": "2",
+      "power": "2",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2010-08-14",
+      "starter": null,
+      "printings": [
+        "pMGD",
+        "M11",
+        "PC2",
+        "CNS",
+        "PCA"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "M11 Game Day participation bonus",
+      "image_url": null,
+      "set": "pMGD",
+      "set_name": "Magic Game Day",
+      "id": "8c60b61cf880f5477ef25a1c64c3aa600e235be0",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u8389\u83b2\u5a1c\u4ec6\u5e7d\u7075",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u8389\u84ee\u5a1c\u50d5\u5e7d\u9748",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Spectre de Liliana",
+          "language": "French"
+        },
+        {
+          "name": "Lilianas Specter",
+          "language": "German"
+        },
+        {
+          "name": "Spettro di Liliana",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30ea\u30ea\u30a2\u30ca\u306e\u6b7b\u970a",
+          "language": "Japanese"
+        },
+        {
+          "name": "Espectro de Liliana",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041f\u0440\u0438\u0437\u0440\u0430\u043a \u041b\u0438\u043b\u0438\u0430\u043d\u044b",
+          "language": "Russian"
+        },
+        {
+          "name": "Espectro de Liliana",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Mitotic Slime",
+      "layout": "normal",
+      "mana_cost": "{4}{G}",
+      "cmc": 5,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Ooze",
+      "supertypes": null,
+      "subtypes": [
+        "Ooze"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "When Mitotic Slime dies, create two 2/2 green Ooze creature tokens. They have \"When this creature dies, create two 1/1 green Ooze creature tokens.\"",
+      "flavor": null,
+      "artist": "Ron Spencer",
+      "number": "3",
+      "power": "4",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2010-08-14",
+      "starter": null,
+      "printings": [
+        "pMGD",
+        "M11",
+        "PC2",
+        "PCA"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "M11 Game Day prize",
+      "image_url": null,
+      "set": "pMGD",
+      "set_name": "Magic Game Day",
+      "id": "6f7fced59bfe6cded2304e7879cbc978a0b6f957",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u4e1d\u88c2\u9ecf\u83cc",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u7d72\u88c2\u9ecf\u83cc",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Boue mitotique",
+          "language": "French"
+        },
+        {
+          "name": "Mitotischer Schleim",
+          "language": "German"
+        },
+        {
+          "name": "Melma Mitotica",
+          "language": "Italian"
+        },
+        {
+          "name": "\u5206\u88c2\u3059\u308b\u30b9\u30e9\u30a4\u30e0",
+          "language": "Japanese"
+        },
+        {
+          "name": "Gosma Mit\u00f3tica",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041c\u0438\u0442\u043e\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0421\u043b\u0438\u0437\u044c",
+          "language": "Russian"
+        },
+        {
+          "name": "Fango mit\u00f3tico",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Memnite",
+      "layout": "normal",
+      "mana_cost": "{0}",
+      "cmc": 0,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact Creature \u2014 Construct",
+      "supertypes": null,
+      "subtypes": [
+        "Construct"
+      ],
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": null,
+      "flavor": "Reminders of Memnarch's reign still skirr across Mirrodin, reminiscent of his form if not his power.",
+      "artist": "rk post",
+      "number": "4",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2010",
+      "starter": null,
+      "printings": [
+        "pMGD",
+        "SOM"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Scars of Mirrodin Game Day participation bonus",
+      "image_url": null,
+      "set": "pMGD",
+      "set_name": "Magic Game Day",
+      "id": "f325ff2c8b53a11783aa19f5f3e115e198fba34a",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u8499\u7eb3\u517d",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u8499\u7d0d\u7378",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Memnite",
+          "language": "French"
+        },
+        {
+          "name": "Memnit",
+          "language": "German"
+        },
+        {
+          "name": "Memnito",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30e1\u30e0\u30ca\u30a4\u30c8",
+          "language": "Japanese"
+        },
+        {
+          "name": "Memnito",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041c\u0435\u043c\u043d\u0438\u0442",
+          "language": "Russian"
+        },
+        {
+          "name": "Memnita",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Tempered Steel",
+      "layout": "normal",
+      "mana_cost": "{1}{W}{W}",
+      "cmc": 3,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Enchantment",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Special",
+      "text": "Artifact creatures you control get +2/+2.",
+      "flavor": null,
+      "artist": "jD",
+      "number": "5",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2010",
+      "starter": null,
+      "printings": [
+        "pMGD",
+        "SOM"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Scars of Mirrodin Game Day prize",
+      "image_url": null,
+      "set": "pMGD",
+      "set_name": "Magic Game Day",
+      "id": "382190fad4da2a7b96830fa01b05e2ae8ddf85af",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u7cbe\u70bc\u94a2",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u7cbe\u934a\u92fc",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Acier tremp\u00e9",
+          "language": "French"
+        },
+        {
+          "name": "Geh\u00e4rteter Stahl",
+          "language": "German"
+        },
+        {
+          "name": "Acciaio Temprato",
+          "language": "Italian"
+        },
+        {
+          "name": "\u935b\u3048\u3089\u308c\u305f\u92fc",
+          "language": "Japanese"
+        },
+        {
+          "name": "A\u00e7o Temperado",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0417\u0430\u043a\u0430\u043b\u0435\u043d\u043d\u0430\u044f \u0421\u0442\u0430\u043b\u044c",
+          "language": "Russian"
+        },
+        {
+          "name": "Acero templado",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Treasure Mage",
+      "layout": "normal",
+      "mana_cost": "{2}{U}",
+      "cmc": 3,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Wizard",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Wizard"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "When Treasure Mage enters the battlefield, you may search your library for an artifact card with converted mana cost 6 or greater, reveal that card, and put it into your hand. If you do, shuffle your library.",
+      "flavor": null,
+      "artist": "Greg Staples",
+      "number": "6",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2011-03-05",
+      "starter": null,
+      "printings": [
+        "pMGD",
+        "MBS"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Mirrodin Besieged Game Day participation bonus",
+      "image_url": null,
+      "set": "pMGD",
+      "set_name": "Magic Game Day",
+      "id": "9f7a13b81f26a00835fa1b8947194115c43ceb1e",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2011-06-01",
+          "text": "If a card in your library has X in its mana cost, X is considered to be 0."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u5b9d\u7269\u6cd5\u5e08",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u5bf6\u7269\u6cd5\u5e2b",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Mage au tr\u00e9sor",
+          "language": "French"
+        },
+        {
+          "name": "Schatzmagier",
+          "language": "German"
+        },
+        {
+          "name": "Mago dei Tesori",
+          "language": "Italian"
+        },
+        {
+          "name": "\u5b9d\u7269\u306e\u9b54\u9053\u58eb",
+          "language": "Japanese"
+        },
+        {
+          "name": "Mago do Tesouro",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041c\u0430\u0433 \u0421\u043e\u043a\u0440\u043e\u0432\u0438\u0449",
+          "language": "Russian"
+        },
+        {
+          "name": "Mago de tesoros",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Black Sun's Zenith",
+      "layout": "normal",
+      "mana_cost": "{X}{B}{B}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Special",
+      "text": "Put X -1/-1 counters on each creature. Shuffle Black Sun's Zenith into its owner's library.",
+      "flavor": null,
+      "artist": "James Paick",
+      "number": "7",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2011-03-05",
+      "starter": null,
+      "printings": [
+        "pMGD",
+        "MBS",
+        "C14"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Mirrodin Besieged Game Day prize",
+      "image_url": null,
+      "set": "pMGD",
+      "set_name": "Magic Game Day",
+      "id": "6c9ffa9ffd2cf7e6f85c6be1713ee0c546b9f8fc",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2011-06-01",
+          "text": "If this spell is countered, none of its effects occur. In particular, it will go to the graveyard rather than to its owner's library."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u9ed1\u9633\u5f53\u7a7a",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u9ed1\u967d\u7576\u7a7a",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Z\u00e9nith de Noirsoleil",
+          "language": "French"
+        },
+        {
+          "name": "Zenit der Schwarzen Sonne",
+          "language": "German"
+        },
+        {
+          "name": "Zenit del Sole Nero",
+          "language": "Italian"
+        },
+        {
+          "name": "\u9ed2\u306e\u592a\u967d\u306e\u9802\u70b9",
+          "language": "Japanese"
+        },
+        {
+          "name": "Z\u00eanite do Sol Negro",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0417\u0435\u043d\u0438\u0442 \u0427\u0435\u0440\u043d\u043e\u0433\u043e \u0421\u043e\u043b\u043d\u0446\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Cenit del sol negro",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Myr Superion",
+      "layout": "normal",
+      "mana_cost": "{2}",
+      "cmc": 2,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact Creature \u2014 Myr",
+      "supertypes": null,
+      "subtypes": [
+        "Myr"
+      ],
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Spend only mana produced by creatures to cast Myr Superion.",
+      "flavor": null,
+      "artist": "Greg Staples",
+      "number": "8",
+      "power": "5",
+      "toughness": "6",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2011-06-11",
+      "starter": null,
+      "printings": [
+        "pMGD",
+        "NPH"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "New Phyrexia Game Day prize",
+      "image_url": null,
+      "set": "pMGD",
+      "set_name": "Magic Game Day",
+      "id": "4c105ff915c5ad58eb93e12b871b3c7cd6e47989",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2011-06-01",
+          "text": "Myr Superion can be cast only with mana produced by the abilities of one or more creatures on the battlefield (such as Alloy Myr or Priest of Urabrask in this set)."
+        },
+        {
+          "date": "2011-06-01",
+          "text": "Mana produced by abilities of creature cards not on the battlefield, such as Chancellor of the Tangle or Elvish Spirit Guide, can't be used to cast Myr Superion."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u7cbe\u58ee\u79d8\u8033",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u7cbe\u58ef\u79d8\u8033",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Superion myr",
+          "language": "French"
+        },
+        {
+          "name": "\u00dcbermyr",
+          "language": "German"
+        },
+        {
+          "name": "Myr Superion",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30de\u30a4\u30a2\u306e\u8d85\u8d8a\u7a2e",
+          "language": "Japanese"
+        },
+        {
+          "name": "Myr Superion",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0421\u0443\u043f\u0435\u0440\u0438\u043e\u043d \u041c\u0438\u044d\u0440\u043e\u0432",
+          "language": "Russian"
+        },
+        {
+          "name": "Superi\u00f3n myr",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Priest of Urabrask",
+      "layout": "normal",
+      "mana_cost": "{2}{R}",
+      "cmc": 3,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Cleric",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Cleric"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "When Priest of Urabrask enters the battlefield, add {R}{R}{R} to your mana pool.",
+      "flavor": null,
+      "artist": "Clint Cearley",
+      "number": "9",
+      "power": "2",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2011-06-11",
+      "starter": null,
+      "printings": [
+        "pMGD",
+        "NPH"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "New Phyrexia Game Day participation bonus",
+      "image_url": null,
+      "set": "pMGD",
+      "set_name": "Magic Game Day",
+      "id": "8bb1a610d476a2523fec8d12afaf652d47320d15",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2011-01-25",
+          "text": "You get the mana whether you want it or not. If you don't spend it, it will disappear at the end of the current step (or phase)."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u6d3c\u5df4\u53f8\u7267\u5e08",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u7aaa\u5df4\u53f8\u7267\u5e2b",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Pr\u00eatresse d'Urabrask",
+          "language": "French"
+        },
+        {
+          "name": "Urabrasks Priesterin",
+          "language": "German"
+        },
+        {
+          "name": "Sacerdotessa di Urabrask",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30a6\u30e9\u30d6\u30e9\u30b9\u30af\u306e\u50e7\u4fb6",
+          "language": "Japanese"
+        },
+        {
+          "name": "Sacerdote de Urabrask",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0416\u0440\u0438\u0446\u0430 \u0423\u0440\u0430\u0431\u0440\u0430\u0441\u043a\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Sacerdotisa de \u00darabrask",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Stormblood Berserker",
+      "layout": "normal",
+      "mana_cost": "{1}{R}",
+      "cmc": 2,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Berserker",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Berserker"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Bloodthirst 2 (If an opponent was dealt damage this turn, this creature enters the battlefield with two +1/+1 counters on it.)\nMenace (This creature can't be blocked except by two or more creatures.)",
+      "flavor": null,
+      "artist": "Greg Staples",
+      "number": "10",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2011-08-13",
+      "starter": null,
+      "printings": [
+        "pMGD",
+        "M12",
+        "MM2",
+        "E01"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic 2012 Game Day participation bonus",
+      "image_url": null,
+      "set": "pMGD",
+      "set_name": "Magic Game Day",
+      "id": "ecb9a0d998d65ee762bc39c2c5f3014e93ed1343",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u8165\u98ce\u72c2\u6218\u58eb",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u8165\u98a8\u72c2\u6230\u58eb",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Berserker sangorage",
+          "language": "French"
+        },
+        {
+          "name": "Sturmblut-Berserker",
+          "language": "German"
+        },
+        {
+          "name": "Berserker Sangue Tempestoso",
+          "language": "Italian"
+        },
+        {
+          "name": "\u5d50\u8840\u306e\u72c2\u6226\u58eb",
+          "language": "Japanese"
+        },
+        {
+          "name": "Amoque do Sangue Tempestuoso",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0411\u0435\u0440\u0441\u0435\u0440\u043a \u0411\u0443\u0439\u043d\u043e\u0439 \u041a\u0440\u043e\u0432\u0438",
+          "language": "Russian"
+        },
+        {
+          "name": "Berserker tormenta de sangre",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Dungrove Elder",
+      "layout": "normal",
+      "mana_cost": "{2}{G}",
+      "cmc": 3,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Treefolk",
+      "supertypes": null,
+      "subtypes": [
+        "Treefolk"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Hexproof (This creature can't be the target of spells or abilities your opponents control.)\nDungrove Elder's power and toughness are each equal to the number of Forests you control.",
+      "flavor": null,
+      "artist": "Scott Chou",
+      "number": "11",
+      "power": "*",
+      "toughness": "*",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2011-08-13",
+      "starter": null,
+      "printings": [
+        "pMGD",
+        "M12"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic 2012 Game Day prize",
+      "image_url": null,
+      "set": "pMGD",
+      "set_name": "Magic Game Day",
+      "id": "b4125e46c4b7b5e71ce852cc91f2751a1a8c1965",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2011-09-22",
+          "text": "Dungrove Elder's power and toughness are each equal to the number of lands you control with the land type Forest, not necessarily lands named Forest."
+        },
+        {
+          "date": "2011-09-22",
+          "text": "Dungrove Elder's power and toughness will change as the number of Forests you control changes."
+        },
+        {
+          "date": "2011-09-22",
+          "text": "Dungrove Elder's ability sets its power and toughness in all zones, not just the battlefield."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u4e18\u4e1b\u957f\u8001",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u4e18\u53e2\u9577\u8001",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Doyen de Brunbosquet",
+          "language": "French"
+        },
+        {
+          "name": "\u00c4ltester des Dunkelhags",
+          "language": "German"
+        },
+        {
+          "name": "Anziano di Selva Tetra",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30c0\u30f3\u30b0\u30ed\u30fc\u30d6\u306e\u9577\u8001",
+          "language": "Japanese"
+        },
+        {
+          "name": "Anci\u00e3o Bosque Pardo",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0421\u0442\u0430\u0440\u0435\u0439\u0448\u0438\u043d\u0430 \u041f\u043b\u0435\u043c\u0435\u043d\u0438 \u0414\u0430\u043d\u0433\u0440\u043e\u0432\u043e\u0432",
+          "language": "Russian"
+        },
+        {
+          "name": "Anciano de Arboleda Parda",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Diregraf Ghoul",
+      "layout": "normal",
+      "mana_cost": "{B}",
+      "cmc": 1,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Zombie",
+      "supertypes": null,
+      "subtypes": [
+        "Zombie"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Diregraf Ghoul enters the battlefield tapped.",
+      "flavor": null,
+      "artist": "Austin Hsu",
+      "number": "12",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2011-10-29",
+      "starter": null,
+      "printings": [
+        "pMGD",
+        "ISD",
+        "DDQ"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Innistrad Game Day participation bonus",
+      "image_url": null,
+      "set": "pMGD",
+      "set_name": "Magic Game Day",
+      "id": "62606cb2102c2f249eb874221486c99c44a91742",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u6218\u5893\u98df\u5c38\u9b3c",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u6230\u5893\u98df\u5c4d\u9b3c",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Goule du diregraf",
+          "language": "French"
+        },
+        {
+          "name": "D\u00fcstergrab-Ghul",
+          "language": "German"
+        },
+        {
+          "name": "Ghoul del Cimitero di Guerra",
+          "language": "Italian"
+        },
+        {
+          "name": "\u6226\u5893\u306e\u30b0\u30fc\u30eb",
+          "language": "Japanese"
+        },
+        {
+          "name": "Carni\u00e7al do Cemit\u00e9rio do Terror",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0423\u043f\u044b\u0440\u044c \u0441 \u041c\u0435\u0441\u0442\u0430 \u0420\u0435\u0437\u043d\u0438",
+          "language": "Russian"
+        },
+        {
+          "name": "Necr\u00f3faga de la tumbanefasta",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Elite Inquisitor",
+      "layout": "normal",
+      "mana_cost": "{W}{W}",
+      "cmc": 2,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Soldier",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Soldier"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "First strike, vigilance\nProtection from Vampires, from Werewolves, and from Zombies",
+      "flavor": null,
+      "artist": "Igor Kieryluk",
+      "number": "13",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2011-10-29",
+      "starter": null,
+      "printings": [
+        "pMGD",
+        "ISD"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Innistrad Game Day prize",
+      "image_url": null,
+      "set": "pMGD",
+      "set_name": "Magic Game Day",
+      "id": "1b2f0f238b243dc31e2d75555fee850e8f1e1a70",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u7cbe\u82f1\u5ba1\u5224\u5b98",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u7cbe\u82f1\u5be9\u5224\u5b98",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Inquisiteur d'\u00e9lite",
+          "language": "French"
+        },
+        {
+          "name": "Elite-Inquisitor",
+          "language": "German"
+        },
+        {
+          "name": "Inquisitore Scelto",
+          "language": "Italian"
+        },
+        {
+          "name": "\u7cbe\u92ed\u306e\u5be9\u554f\u5b98",
+          "language": "Japanese"
+        },
+        {
+          "name": "Inquisidor de Elite",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u042d\u043b\u0438\u0442\u043d\u044b\u0439 \u0418\u043d\u043a\u0432\u0438\u0437\u0438\u0442\u043e\u0440",
+          "language": "Russian"
+        },
+        {
+          "name": "Inquisidor de \u00e9lite",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Zombie Apocalypse",
+      "layout": "normal",
+      "mana_cost": "{3}{B}{B}{B}",
+      "cmc": 6,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Special",
+      "text": "Return all Zombie creature cards from your graveyard to the battlefield tapped, then destroy all Humans.",
+      "flavor": null,
+      "artist": "Volkan Baga",
+      "number": "14",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2012-02-25",
+      "starter": null,
+      "printings": [
+        "pMGD",
+        "DKA"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Dark Ascension Game Day prize",
+      "image_url": null,
+      "set": "pMGD",
+      "set_name": "Magic Game Day",
+      "id": "0d24c9b725933b2ec1be4959a386e3f8910e707f",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2011-01-22",
+          "text": "All Humans are destroyed, not just ones you control."
+        },
+        {
+          "date": "2011-01-22",
+          "text": "If a creature card in your graveyard is both a Zombie and a Human, it will be returned to the battlefield tapped, then be destroyed."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u7075\u4fd1\u672b\u65e5\u6218",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u6bad\u5c4d\u672b\u65e5\u6230",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Apocalypse des zombies",
+          "language": "French"
+        },
+        {
+          "name": "Zombie-Apokalypse",
+          "language": "German"
+        },
+        {
+          "name": "Apocalisse di Zombie",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30be\u30f3\u30d3\u306e\u9ed9\u793a\u9332",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uc880\ube44\uc758 \ubb35\uc2dc\ub85d",
+          "language": "Korean"
+        },
+        {
+          "name": "Apocalipse dos Zumbis",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0410\u043f\u043e\u043a\u0430\u043b\u0438\u043f\u0441\u0438\u0441 \u0417\u043e\u043c\u0431\u0438",
+          "language": "Russian"
+        },
+        {
+          "name": "Apocalipsis zombie",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Strangleroot Geist",
+      "layout": "normal",
+      "mana_cost": "{G}{G}",
+      "cmc": 2,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Spirit",
+      "supertypes": null,
+      "subtypes": [
+        "Spirit"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Haste\nUndying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+      "flavor": null,
+      "artist": "Erica Yang",
+      "number": "15",
+      "power": "2",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2012-02-25",
+      "starter": null,
+      "printings": [
+        "pMGD",
+        "DKA"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Dark Ascension Game Day participation bonus",
+      "image_url": null,
+      "set": "pMGD",
+      "set_name": "Magic Game Day",
+      "id": "6e9c7eaa8e3a93dea33df35ca84348488a7b3eb7",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u7f1a\u6839\u6e38\u9b42",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u7e1b\u6839\u904a\u9b42",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Geist \u00e9trangleracine",
+          "language": "French"
+        },
+        {
+          "name": "W\u00fcrgewurzelgeist",
+          "language": "German"
+        },
+        {
+          "name": "Geist dalle Radici Strangolanti",
+          "language": "Italian"
+        },
+        {
+          "name": "\u7d61\u307f\u6839\u306e\u970a",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uad50\uc0b4\ud558\ub294 \ubfcc\ub9ac\uc758 \uc2ec\ub839",
+          "language": "Korean"
+        },
+        {
+          "name": "Geist da Raiz Estrangulante",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041f\u0440\u0438\u0432\u0438\u0434\u0435\u043d\u0438\u0435 \u0423\u0434\u0443\u0448\u0430\u044e\u0449\u0438\u0445 \u041a\u043e\u0440\u043d\u0435\u0439",
+          "language": "Russian"
+        },
+        {
+          "name": "Geist ra\u00edz estranguladora",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Suture Priest",
+      "layout": "normal",
+      "mana_cost": "{1}{W}",
+      "cmc": 2,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Cleric",
+      "supertypes": null,
+      "subtypes": [
+        "Cleric"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Whenever another creature enters the battlefield under your control, you may gain 1 life.\nWhenever a creature enters the battlefield under an opponent's control, you may have that player lose 1 life.",
+      "flavor": null,
+      "artist": "Igor Kieryluk",
+      "number": "16",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2011-03-05",
+      "starter": null,
+      "printings": [
+        "pMGD",
+        "NPH"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Mirrodin Besieged Game Day",
+      "image_url": null,
+      "set": "pMGD",
+      "set_name": "Magic Game Day",
+      "id": "fe05af1616fde6819a6a17c5dcbbe71c49e2582e",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u7f1d\u7ec4\u7267\u5e08",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u7e2b\u7d44\u7267\u5e2b",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Pr\u00eatresse de suture",
+          "language": "French"
+        },
+        {
+          "name": "Naht-Priesterin",
+          "language": "German"
+        },
+        {
+          "name": "Sacerdotessa di Sutura",
+          "language": "Italian"
+        },
+        {
+          "name": "\u7e2b\u5408\u306e\u50e7\u4fb6",
+          "language": "Japanese"
+        },
+        {
+          "name": "Sacerdote da Sutura",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0416\u0440\u0438\u0446\u0430 \u0421\u0448\u0438\u0432\u0430\u043d\u0438\u044f",
+          "language": "Russian"
+        },
+        {
+          "name": "Sacerdotisa suturadora",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Pristine Talisman",
+      "layout": "normal",
+      "mana_cost": "{3}",
+      "cmc": 3,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "{T}: Add {C} to your mana pool. You gain 1 life.",
+      "flavor": "\"Tools and artisans can be destroyed, but the act of creation is inviolate.\"\n\u2014Elspeth Tirel",
+      "artist": "Matt Cavotta",
+      "number": "17",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2011-03-05",
+      "starter": null,
+      "printings": [
+        "pMGD",
+        "NPH",
+        "C13",
+        "C14",
+        "IMA"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Mirrodin Besieged Game Day",
+      "image_url": null,
+      "set": "pMGD",
+      "set_name": "Magic Game Day",
+      "id": "edf006d4c009d6bb2f172566551f21bf26f672d4",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2011-06-01",
+          "text": "Pristine Talisman has a mana ability. Its ability doesn't use the stack and can't be responded to."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u7eaf\u51c0\u9970\u7b26",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u7d14\u6de8\u98fe\u7b26",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Talisman immacul\u00e9",
+          "language": "French"
+        },
+        {
+          "name": "Makelloser Talisman",
+          "language": "German"
+        },
+        {
+          "name": "Talismano Integro",
+          "language": "Italian"
+        },
+        {
+          "name": "\u6e05\u7d14\u306e\u30bf\u30ea\u30b9\u30de\u30f3",
+          "language": "Japanese"
+        },
+        {
+          "name": "Talism\u00e3 Imaculado",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041d\u0435\u0442\u0440\u043e\u043d\u0443\u0442\u044b\u0439 \u0422\u0430\u043b\u0438\u0441\u043c\u0430\u043d",
+          "language": "Russian"
+        },
+        {
+          "name": "Talism\u00e1n pr\u00edstino",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Latch Seeker",
+      "layout": "normal",
+      "mana_cost": "{1}{U}{U}",
+      "cmc": 3,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Spirit",
+      "supertypes": null,
+      "subtypes": [
+        "Spirit"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Latch Seeker can't be blocked.",
+      "flavor": null,
+      "artist": "Eytan Zana",
+      "number": "18",
+      "power": "3",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2012-05-26",
+      "starter": null,
+      "printings": [
+        "pMGD",
+        "AVR"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Avacyn Restored Game Day participation bonus",
+      "image_url": null,
+      "set": "pMGD",
+      "set_name": "Magic Game Day",
+      "id": "3391cffebc177df877761a42cb567d84201be7f0",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u89c5\u9522\u9b42",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u8993\u932e\u9b42",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Chercheur de verrou",
+          "language": "French"
+        },
+        {
+          "name": "Riegelsucher",
+          "language": "German"
+        },
+        {
+          "name": "Cercatore di Chiavistelli",
+          "language": "Italian"
+        },
+        {
+          "name": "\u639b\u3051\u91d1\u63a2\u3057",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uac78\uc1e0 \uc0ac\ub0e5\uafbc",
+          "language": "Korean"
+        },
+        {
+          "name": "Buscador de Tranca",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0418\u0441\u043a\u0430\u0442\u0435\u043b\u044c \u0423\u043a\u0440\u044b\u0442\u0438\u0439",
+          "language": "Russian"
+        },
+        {
+          "name": "Buscador de cerrojos",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Killing Wave",
+      "layout": "normal",
+      "mana_cost": "{X}{B}",
+      "cmc": 1,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Special",
+      "text": "For each creature, its controller sacrifices it unless he or she pays X life.",
+      "flavor": null,
+      "artist": "Michael Komarck",
+      "number": "19",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2012-05-26",
+      "starter": null,
+      "printings": [
+        "pMGD",
+        "AVR"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Avacyn Restored Game Day prize",
+      "image_url": null,
+      "set": "pMGD",
+      "set_name": "Magic Game Day",
+      "id": "5e49332b7a801328a85083e2bc48dfb29f376e2a",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2012-05-01",
+          "text": "First, the active player chooses whether to pay X life for each creature he or she controls. Then each other player in turn order chooses for his or her creatures. Then each player pays life and sacrifices creatures at the same time. Players will know the decisions of players who chose before them."
+        },
+        {
+          "date": "2012-05-01",
+          "text": "A player may choose to pay life for some creatures and sacrifice the rest. It's not an all-or-nothing decision."
+        },
+        {
+          "date": "2012-05-01",
+          "text": "You can't pay more life than you have."
+        },
+        {
+          "date": "2012-05-01",
+          "text": "If you can't sacrifice a creature (perhaps because of Sigarda, Host of Herons), you can choose not to pay life and nothing will happen."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u6740\u751f\u6d6a\u6f6e",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u6bba\u751f\u6d6a\u6f6e",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Vague meurtri\u00e8re",
+          "language": "French"
+        },
+        {
+          "name": "T\u00f6tungswelle",
+          "language": "German"
+        },
+        {
+          "name": "Onda Assassina",
+          "language": "Italian"
+        },
+        {
+          "name": "\u6bba\u622e\u306e\u6ce2",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uc0b4\uc0c1\uc758 \ud30c\ub3c4",
+          "language": "Korean"
+        },
+        {
+          "name": "Onda Assassina",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0423\u0431\u0438\u0439\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u0412\u043e\u043b\u043d\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Ola asesina",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Magmaquake",
+      "layout": "normal",
+      "mana_cost": "{X}{R}{R}",
+      "cmc": 2,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Magmaquake deals X damage to each creature without flying and each planeswalker.",
+      "flavor": null,
+      "artist": "Sam Burley",
+      "number": "20",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2012-08-04",
+      "starter": null,
+      "printings": [
+        "pMGD",
+        "M13",
+        "C14",
+        "C15"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic 2013 Game Day prize",
+      "image_url": null,
+      "set": "pMGD",
+      "set_name": "Magic Game Day",
+      "id": "a0bfb6955a84b992b80d054de632fb2bcb478a97",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2012-07-01",
+          "text": "Magmaquake doesn't target any creature or planeswalker. For example, it will deal damage to a creature without flying that has hexproof."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u5ca9\u6d46\u66b4\u9707",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u5ca9\u6f3f\u66b4\u9707",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Tremblement de lave",
+          "language": "French"
+        },
+        {
+          "name": "Magmabeben",
+          "language": "German"
+        },
+        {
+          "name": "Magmamoto",
+          "language": "Italian"
+        },
+        {
+          "name": "\u6eb6\u5ca9\u9707",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ub9c8\uadf8\ub9c8 \uc9c0\uc9c4",
+          "language": "Korean"
+        },
+        {
+          "name": "Magmamoto",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041c\u0430\u0433\u043c\u0430\u0442\u0440\u044f\u0441\u0435\u043d\u0438\u0435",
+          "language": "Russian"
+        },
+        {
+          "name": "Magmamoto",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Mwonvuli Beast Tracker",
+      "layout": "normal",
+      "mana_cost": "{1}{G}{G}",
+      "cmc": 3,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Scout",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Scout"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "When Mwonvuli Beast Tracker enters the battlefield, search your library for a creature card with deathtouch, hexproof, reach, or trample and reveal it. Shuffle your library and put that card on top of it.",
+      "flavor": null,
+      "artist": "Jason A. Engle",
+      "number": "21",
+      "power": "2",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2012-08-04",
+      "starter": null,
+      "printings": [
+        "pMGD",
+        "M13"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic 2013 Game Day participation bonus",
+      "image_url": null,
+      "set": "pMGD",
+      "set_name": "Magic Game Day",
+      "id": "12a8c1f5e0a2c817a081e9cd835b73a58360086e",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2012-07-01",
+          "text": "The creature card must have one of the listed abilities, not an ability that grants one of the listed abilities to the creature. For example, you couldn't put Prized Elephant, which has \"{G}: Prized Elephant gains trample until end of turn,\" on top of your library this way."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u6728\u4e07\u5f17\u9ece\u4fa6\u730e\u624b",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u6728\u842c\u5f17\u9ece\u5075\u7375\u624b",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Traqueuse de b\u00eate de la Mw\u00f4nvouli",
+          "language": "French"
+        },
+        {
+          "name": "Mwonvuli-Bestienf\u00e4ngerin",
+          "language": "German"
+        },
+        {
+          "name": "Battipista Mwonvuli",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30e0\u30a6\u30a9\u30f3\u30f4\u30fc\u30ea\u30fc\u306e\u7363\u8a18\u3057",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ubaac\ubd88\ub9ac \uc57c\uc218\ucd94\uc801\uafbc",
+          "language": "Korean"
+        },
+        {
+          "name": "Rastreador de Feras de Mwonvuli",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041e\u0445\u043e\u0442\u043d\u0438\u0446\u0430 \u041c\u0432\u043e\u043d\u0432\u0443\u043b\u0438",
+          "language": "Russian"
+        },
+        {
+          "name": "Rastreadora de bestias de Mwonvuli",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Cryptborn Horror",
+      "layout": "normal",
+      "mana_cost": "{1}{B/R}{B/R}",
+      "cmc": 3,
+      "colors": [
+        "Black",
+        "Red"
+      ],
+      "color_identity": [
+        "B",
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Horror",
+      "supertypes": null,
+      "subtypes": [
+        "Horror"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Trample\nCryptborn Horror enters the battlefield with X +1/+1 counters on it, where X is the total life lost by your opponents this turn.",
+      "flavor": null,
+      "artist": "Nils Hamm",
+      "number": "22",
+      "power": "0",
+      "toughness": "0",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2012-10-27",
+      "starter": null,
+      "printings": [
+        "pMGD",
+        "RTR"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Return to Ravnica Game Day prize",
+      "image_url": null,
+      "set": "pMGD",
+      "set_name": "Magic Game Day",
+      "id": "ca6663619a9736ac6271712099b6771fc3ea317a",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2012-10-01",
+          "text": "Remember, damage dealt to a player causes that player to lose that much life (unless the source has infect)."
+        },
+        {
+          "date": "2012-10-01",
+          "text": "If no opponent has lost life on the turn Cryptborn Horror enters the battlefield, it will enter with no +1/+1 counters on it and be put into its owner's graveyard (unless something else is raising its toughness)."
+        },
+        {
+          "date": "2012-10-01",
+          "text": "Cryptborn Horror cares about the total life lost, not necessarily what an opponent's life total is compared to what it was at the beginning of the turn. For example, if an opponent loses 5 life and then gains 10 life on the turn Cryptborn Horror enters the battlefield, it will enter with five +1/+1 counters on it."
+        },
+        {
+          "date": "2012-10-01",
+          "text": "In multiplayer games, life lost the turn Cryptborn Horror enters the battlefield by opponents who left the game later that turn will count toward the value of X."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u7a96\u751f\u60ca\u60e7\u517d",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u7a96\u751f\u9a5a\u61fc\u7378",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Horreur n\u00e9e des cryptes",
+          "language": "French"
+        },
+        {
+          "name": "Schrecken aus der Krypta",
+          "language": "German"
+        },
+        {
+          "name": "Orrore Criptoneonato",
+          "language": "Italian"
+        },
+        {
+          "name": "\u5893\u6240\u751f\u307e\u308c\u306e\u6050\u6016",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ubb18\uc9c0\uc5d0\uc11c \ud0dc\uc5b4\ub09c \uad34\uc218",
+          "language": "Korean"
+        },
+        {
+          "name": "Horror Criptonato",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0416\u0443\u0442\u043a\u043e\u0435 \u041f\u043e\u0440\u043e\u0436\u0434\u0435\u043d\u0438\u0435 \u0421\u043a\u043b\u0435\u043f\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Horror criptonato",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Dryad Militant",
+      "layout": "normal",
+      "mana_cost": "{G/W}",
+      "cmc": 1,
+      "colors": [
+        "White",
+        "Green"
+      ],
+      "color_identity": [
+        "W",
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Dryad Soldier",
+      "supertypes": null,
+      "subtypes": [
+        "Dryad",
+        "Soldier"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "If an instant or sorcery card would be put into a graveyard from anywhere, exile it instead.",
+      "flavor": null,
+      "artist": "Ryan Pancoast",
+      "number": "23",
+      "power": "2",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2012-10-27",
+      "starter": null,
+      "printings": [
+        "pMGD",
+        "RTR"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Return to Ravnica Game Day participation bonus",
+      "image_url": null,
+      "set": "pMGD",
+      "set_name": "Magic Game Day",
+      "id": "a9afe1d7d6552fad0dad50e8abf892053e779cdf",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2012-10-01",
+          "text": "If an instant or sorcery spell destroys Dryad Militant directly (like Murder does), that instant or sorcery card will be put into its owner's graveyard. However, if an instant or sorcery card deals lethal damage to Dryad Militant, Dryad Militant will remain on the battlefield until the next time state-based actions are checked, which is after the instant or sorcery finishes resolving. The instant or sorcery will be exiled."
+        },
+        {
+          "date": "2012-10-01",
+          "text": "If an instant or sorcery card is discarded while Dryad Militant is on the battlefield, abilities that function when a card is discarded (such as madness) still work, even though that card never reaches a graveyard. In addition, spells or abilities that check the characteristics of a discarded card (such as Chandra Ablaze's first ability) can find that card in exile."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u597d\u6597\u6811\u7075",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u597d\u9b25\u6a39\u9748",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Militante dryade",
+          "language": "French"
+        },
+        {
+          "name": "Militante Dryade",
+          "language": "German"
+        },
+        {
+          "name": "Driade Militante",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30c9\u30e9\u30a4\u30a2\u30c9\u306e\u95d8\u58eb",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ud638\uc804\uc801 \ub4dc\ub77c\uc774\uc5b4\ub4dc",
+          "language": "Korean"
+        },
+        {
+          "name": "Militante Dr\u00edade",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0412\u043e\u0438\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u0414\u0440\u0438\u0430\u0434\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Dr\u00edada militante",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Firemane Avenger",
+      "layout": "normal",
+      "mana_cost": "{2}{R}{W}",
+      "cmc": 4,
+      "colors": [
+        "White",
+        "Red"
+      ],
+      "color_identity": [
+        "W",
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Angel",
+      "supertypes": null,
+      "subtypes": [
+        "Angel"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Flying\nBattalion \u2014 Whenever Firemane Avenger and at least two other creatures attack, Firemane Avenger deals 3 damage to target creature or player and you gain 3 life.",
+      "flavor": null,
+      "artist": "Ryan Barger",
+      "number": "24",
+      "power": "3",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2013-02-23",
+      "starter": null,
+      "printings": [
+        "pMGD",
+        "GTC"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Gatecrash Game Day prize",
+      "image_url": null,
+      "set": "pMGD",
+      "set_name": "Magic Game Day",
+      "id": "52cc5291e88199cea4d3ec68914245becb7d4f7d",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-01-24",
+          "text": "If the target creature or player is an illegal target when Firemane Avenger's battalion ability tries to resolve, the ability will be countered and none of its effects will happen. You won't gain life."
+        },
+        {
+          "date": "2013-01-24",
+          "text": "If Firemane Avenger's battalion ability resolves but some or all of the damage is prevented, you'll still gain 3 life."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "The three attacking creatures don't have to be attacking the same player or planeswalker."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "Once a battalion ability has triggered, it doesn't matter how many creatures are still attacking when that ability resolves."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "The effects of battalion abilities vary from card to card. Read each card carefully."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u708e\u9b03\u590d\u4ec7\u8005",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u708e\u9b03\u5fa9\u4ec7\u8005",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Vengeresse crinefeu",
+          "language": "French"
+        },
+        {
+          "name": "Feuerschweif-R\u00e4cherin",
+          "language": "German"
+        },
+        {
+          "name": "Vendicatrice Chioma di Fuoco",
+          "language": "Italian"
+        },
+        {
+          "name": "\u708e\u307e\u3068\u3044\u306e\u5831\u5fa9\u8005",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ubd88\uaf43\uac08\uae30 \uc751\uc9d5\uc790",
+          "language": "Korean"
+        },
+        {
+          "name": "Vingador Cabeleira de Fogo",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041e\u0433\u043d\u0435\u0433\u0440\u0438\u0432\u0430\u044f \u041c\u0441\u0442\u0438\u0442\u0435\u043b\u044c\u043d\u0438\u0446\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Vengadora melenafuego",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Zameck Guildmage",
+      "layout": "normal",
+      "mana_cost": "{G}{U}",
+      "cmc": 2,
+      "colors": [
+        "Blue",
+        "Green"
+      ],
+      "color_identity": [
+        "U",
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Elf Wizard",
+      "supertypes": null,
+      "subtypes": [
+        "Elf",
+        "Wizard"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "{G}{U}: This turn, each creature you control enters the battlefield with an additional +1/+1 counter on it.\n{G}{U}, Remove a +1/+1 counter from a creature you control: Draw a card.",
+      "flavor": null,
+      "artist": "Raymond Swanland",
+      "number": "25",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2013-02-23",
+      "starter": null,
+      "printings": [
+        "pMGD",
+        "GTC"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Gatecrash Game Day participation bonus",
+      "image_url": null,
+      "set": "pMGD",
+      "set_name": "Magic Game Day",
+      "id": "0ba42b952984ce236c4a92848415782e4c57d830",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-01-24",
+          "text": "Zameck Guildmage's first ability is cumulative. For example, if it resolves twice in a turn, each creature that enters the battlefield under your control that turn will do so with two +1/+1 additional counters on it."
+        },
+        {
+          "date": "2013-01-24",
+          "text": "Zameck Guildmage's first ability has no effect on creatures already on the battlefield when it resolves."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u67e5\u7f8e\u514b\u516c\u4f1a\u6cd5\u5e08",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u67e5\u7f8e\u514b\u516c\u6703\u6cd5\u5e2b",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Ghildmage de Zameck",
+          "language": "French"
+        },
+        {
+          "name": "Zameck-Gildenmagier",
+          "language": "German"
+        },
+        {
+          "name": "Mago della Gilda di Zameck",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30b6\u30fc\u30e1\u30af\u306e\u30ae\u30eb\u30c9\u9b54\u9053\u58eb",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uc790\uba55\uc758 \uae38\ub4dc \ub9c8\ub3c4\uc0ac",
+          "language": "Korean"
+        },
+        {
+          "name": "Mago de Guilda de Zameck",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041c\u0430\u0433 \u0413\u0438\u043b\u044c\u0434\u0438\u0438 \u0438\u0437 \u0417\u0430\u043c\u0435\u043a\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Mago del gremio de Zameck",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Melek, Izzet Paragon",
+      "layout": "normal",
+      "mana_cost": "{4}{U}{R}",
+      "cmc": 6,
+      "colors": [
+        "Blue",
+        "Red"
+      ],
+      "color_identity": [
+        "U",
+        "R"
+      ],
+      "names": null,
+      "type": "Legendary Creature \u2014 Weird Wizard",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Weird",
+        "Wizard"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Play with the top card of your library revealed.\nYou may cast the top card of your library if it's an instant or sorcery card.\nWhenever you cast an instant or sorcery spell from your library, copy it. You may choose new targets for the copy.",
+      "flavor": null,
+      "artist": "Johann Bodin",
+      "number": "26",
+      "power": "2",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2013-05-25",
+      "starter": null,
+      "printings": [
+        "pMGD",
+        "DGM",
+        "C15"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Dragon's Maze Game Day prize",
+      "image_url": null,
+      "set": "pMGD",
+      "set_name": "Magic Game Day",
+      "id": "87f552f9274b61dee332846fe2dc9e0745665694",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "Melek doesn't affect the timing rules associated with when you can cast the card. If it's a sorcery card, you can cast it only during your main phase when the stack is empty."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "You still pay all costs for that spell, including additional costs. You may also pay alternative costs, such as overload costs. Although you can't pay additional costs for the copy that's created, effects based on any additional costs that were paid for the original spell are copied as though those same costs were paid for the copy too. For example, if a player sacrifices a 3/3 creature to cast Fling, and you copy it, the copy of Fling will also deal 3 damage to its target."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "Melek's last ability will copy any instant or sorcery spell you cast from your library, not just one with targets."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "When the last ability resolves, it creates a copy of the spell. You control the copy. That copy is created on the stack, so it's not \"cast.\" Abilities that trigger when a player casts a spell won't trigger. The copy will then resolve like a normal spell, after players get a chance to cast spells and activate abilities."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "The copy will have the same targets as the spell it's copying unless you choose new ones. You may change any number of the targets, including all of them or none of them. If, for one of the targets, you can't choose a new legal target, then it remains unchanged (even if the current target is illegal)."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If the spell being copied is modal (that is, it says \"Choose one \u2014\" or the like), the copy will have the same mode. You can't choose a different one."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If the spell being copied has an X whose value was determined as it was cast (like Debt to the Deathless has), the copy has the same value of X."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "Instant and sorcery cards with miracle allow a player to cast a card immediately upon drawing it. If you cast a spell this way, you're casting it from your hand, not your library. Melek's ability won't trigger."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "The top card of your library isn't in your hand, so you can't suspend it, cycle it, discard it, or activate any of its activated abilities."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If the top card of your library changes while you're casting a spell or activating an ability, the new top card won't be revealed until you finish casting that spell or activating that ability."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "When playing with the top card of your library revealed, if an effect tells you to draw several cards, reveal each one before you draw it."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u4f0a\u6377\u5b88\u62a4\u8005\u6885\u5217\u514b",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u4f0a\u6377\u5b88\u8b77\u8005\u6885\u5217\u514b",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Melek, Parangon d'Izzet",
+          "language": "French"
+        },
+        {
+          "name": "Melek, Paragon der Izzet",
+          "language": "German"
+        },
+        {
+          "name": "Melek, Archetipo Izzet",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30a4\u30bc\u30c3\u30c8\u306e\u6a21\u7bc4\u3001\u30e1\u30fc\u30ec\u30af",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uc774\uc82f\uc758 \uc815\uc218 \uba5c\ub809",
+          "language": "Korean"
+        },
+        {
+          "name": "Melek, Izzet Paragon",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041c\u0435\u043b\u0435\u043a, \u042d\u0442\u0430\u043b\u043e\u043d \u0418\u0437\u0437\u0435\u0442\u043e\u0432",
+          "language": "Russian"
+        },
+        {
+          "name": "M\u00e9lek, ejemplar \u00edzzet",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Trostani's Summoner",
+      "layout": "normal",
+      "mana_cost": "{5}{G}{W}",
+      "cmc": 7,
+      "colors": [
+        "White",
+        "Green"
+      ],
+      "color_identity": [
+        "W",
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Elf Shaman",
+      "supertypes": null,
+      "subtypes": [
+        "Elf",
+        "Shaman"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "When Trostani's Summoner enters the battlefield, create a 2/2 white Knight creature token with vigilance, a 3/3 green Centaur creature token, and a 4/4 green Rhino creature token with trample.",
+      "flavor": null,
+      "artist": "Nils Hamm",
+      "number": "27",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2013-05-25",
+      "starter": null,
+      "printings": [
+        "pMGD",
+        "DGM"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Dragon's Maze Game Day participation bonus",
+      "image_url": null,
+      "set": "pMGD",
+      "set_name": "Magic Game Day",
+      "id": "3aa4de512c3ac2aab9a181c97405412ccc13eb55",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u5353\u5854\u59ae\u7684\u53ec\u5524\u5e08",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u5353\u5854\u59ae\u7684\u53ec\u559a\u5e2b",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Invocatrice de Trostani",
+          "language": "French"
+        },
+        {
+          "name": "Trostanis Beschw\u00f6rerin",
+          "language": "German"
+        },
+        {
+          "name": "Evocatrice di Trostani",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30c8\u30ed\u30b9\u30bf\u30fc\u30cb\u306e\u53ec\u559a\u58eb",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ud2b8\ub85c\uc2a4\ud0c0\ub2c8\uc758 \uc18c\ud658\uc0ac",
+          "language": "Korean"
+        },
+        {
+          "name": "Trostani's Summoner",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0412\u044b\u0437\u044b\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u0438\u0446\u0430 \u0422\u0440\u043e\u0441\u0442\u0430\u043d\u0438",
+          "language": "Russian"
+        },
+        {
+          "name": "Invocadora de Trostani",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Hive Stirrings",
+      "layout": "normal",
+      "mana_cost": "{2}{W}",
+      "cmc": 3,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Special",
+      "text": "Create two 1/1 colorless Sliver creature tokens.",
+      "flavor": null,
+      "artist": "Johann Bodin",
+      "number": "28",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2013-08-10",
+      "starter": null,
+      "printings": [
+        "pMGD",
+        "M14"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic 2014 Game Day participation bonus",
+      "image_url": null,
+      "set": "pMGD",
+      "set_name": "Magic Game Day",
+      "id": "3f2e0fa98702fc3e0a453cf3972b115018c51acf",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-07-01",
+          "text": "If you change the creature type of a Sliver you control so it's no longer a Sliver, it will no longer be affected by its own ability. Its ability will continue to affect other Sliver creatures you control."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "Abilities that Slivers grant, as well as power/toughness boosts, are cumulative. However, for some abilities, like flying, having more than one instance of the ability doesn't provide any additional benefit."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u5de2\u7a74\u9192\u751f",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u5de2\u7a74\u9192\u751f",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Fr\u00e9missements de l'essaim",
+          "language": "French"
+        },
+        {
+          "name": "Regung des Schwarms",
+          "language": "German"
+        },
+        {
+          "name": "Alveare in Agitazione",
+          "language": "Italian"
+        },
+        {
+          "name": "\u5de3\u306e\u6d3b\u6027\u5316",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uad70\ub77d\uc758 \uc694\ub3d9",
+          "language": "Korean"
+        },
+        {
+          "name": "Agita\u00e7\u00f5es na Col\u00f4nia",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041f\u0440\u043e\u0431\u0443\u0436\u0434\u0435\u043d\u0438\u0435 \u0423\u043b\u044c\u044f",
+          "language": "Russian"
+        },
+        {
+          "name": "Conmoci\u00f3n en la colmena",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Goblin Diplomats",
+      "layout": "normal",
+      "mana_cost": "{1}{R}",
+      "cmc": 2,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Goblin",
+      "supertypes": null,
+      "subtypes": [
+        "Goblin"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "{T}: Each creature attacks this turn if able.",
+      "flavor": null,
+      "artist": "Jesper Ejsing",
+      "number": "29",
+      "power": "2",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2013-08-10",
+      "starter": null,
+      "printings": [
+        "pMGD",
+        "M14",
+        "DDT"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic 2014 Game Day prize",
+      "image_url": null,
+      "set": "pMGD",
+      "set_name": "Magic Game Day",
+      "id": "60b15a19461ee048219620a6b9737b206a3d560a",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-07-01",
+          "text": "The controller of each creature still decides which player or planeswalker that creature attacks."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "Creatures that enter the battlefield (or noncreature permanents that become creatures) after the ability resolves are affected by the ability and must attack if able."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "If, during a player's declare attackers step, a creature is tapped, is affected by a spell or ability that says it can't attack, or hasn't been under that player's control continuously since the turn began (and doesn't have haste), then it doesn't attack. If there's a cost associated with having a creature attack, the player isn't forced to pay that cost, so it doesn't have to attack in that case either."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u9b3c\u602a\u5916\u4ea4\u5b98",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u9b3c\u602a\u5916\u4ea4\u5b98",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Diplomates gobelins",
+          "language": "French"
+        },
+        {
+          "name": "Goblin-Diplomaten",
+          "language": "German"
+        },
+        {
+          "name": "Diplomatici Goblin",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30b4\u30d6\u30ea\u30f3\u306e\u5916\u4ea4\u5b98",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uace0\ube14\ub9b0 \uc678\uad50\uad00",
+          "language": "Korean"
+        },
+        {
+          "name": "Diplomatas Goblins",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0413\u043e\u0431\u043b\u0438\u043d\u044b-\u0414\u0438\u043f\u043b\u043e\u043c\u0430\u0442\u044b",
+          "language": "Russian"
+        },
+        {
+          "name": "Diplom\u00e1ticos trasgos",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Phalanx Leader",
+      "layout": "normal",
+      "mana_cost": "{W}{W}",
+      "cmc": 2,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Soldier",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Soldier"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Heroic \u2014 Whenever you cast a spell that targets Phalanx Leader, put a +1/+1 counter on each creature you control.",
+      "flavor": null,
+      "artist": "Raymond Swanland",
+      "number": "30",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2013-10-19",
+      "starter": null,
+      "printings": [
+        "pMGD",
+        "THS"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Theros Game Day participation bonus",
+      "image_url": null,
+      "set": "pMGD",
+      "set_name": "Magic Game Day",
+      "id": "b3a9cad861003d9096548e9909dd77fd83ddca22",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-09-15",
+          "text": "Heroic abilities will resolve before the spell that caused them to trigger."
+        },
+        {
+          "date": "2013-09-15",
+          "text": "Heroic abilities will trigger only once per spell, even if that spell targets the creature with the heroic ability multiple times."
+        },
+        {
+          "date": "2013-09-15",
+          "text": "Heroic abilities won't trigger when a copy of a spell is created on the stack or when a spell's targets are changed to include a creature with a heroic ability."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u65b9\u9635\u5175\u56e2\u961f\u957f",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u65b9\u9663\u5175\u5718\u968a\u9577",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Chef de phalange",
+          "language": "French"
+        },
+        {
+          "name": "Phalanx-Anf\u00fchrer",
+          "language": "German"
+        },
+        {
+          "name": "Capo della Falange",
+          "language": "Italian"
+        },
+        {
+          "name": "\u5bc6\u96c6\u8ecd\u306e\u6307\u63ee\u8005",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ud314\ub791\ud06c\uc2a4 \uc9c0\ud718\uad00",
+          "language": "Korean"
+        },
+        {
+          "name": "L\u00edder da Falange",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041a\u043e\u043c\u0430\u043d\u0434\u0438\u0440 \u0424\u0430\u043b\u0430\u043d\u0433\u0438",
+          "language": "Russian"
+        },
+        {
+          "name": "L\u00edder de la Falange",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Nighthowler",
+      "layout": "normal",
+      "mana_cost": "{1}{B}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Enchantment Creature \u2014 Horror",
+      "supertypes": null,
+      "subtypes": [
+        "Horror"
+      ],
+      "types": [
+        "Enchantment",
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Bestow {2}{B}{B} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)\nNighthowler and enchanted creature each get +X/+X, where X is the number of creature cards in all graveyards.",
+      "flavor": null,
+      "artist": "Seb McKinnon",
+      "number": "31",
+      "power": "0",
+      "toughness": "0",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2013-10-19",
+      "starter": null,
+      "printings": [
+        "pMGD",
+        "THS",
+        "C15"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Theros Game Day prize",
+      "image_url": null,
+      "set": "pMGD",
+      "set_name": "Magic Game Day",
+      "id": "e240fda6d31fc331023839ad9c637e3dad26429b",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-09-15",
+          "text": "Nighthowler's last ability functions only from the battlefield. In other zones, Nighthowler is a 0/0 enchantment creature."
+        },
+        {
+          "date": "2013-09-15",
+          "text": "You don't choose whether the spell is going to be an Aura spell or not until the spell is already on the stack. Abilities that affect when you can cast a spell, such as flash, will apply to the spell after you've made this choice. For example, an effect that said you can cast creature spells as though they have flash won't allow you to cast a creature card with bestow as an Aura spell anytime you could cast an instant, but one that said you can cast Aura spells as though they have flash will."
+        },
+        {
+          "date": "2013-09-15",
+          "text": "On the stack, a spell with bestow is either a creature spell or an Aura spell. It's never both, although it's an enchantment spell in either case."
+        },
+        {
+          "date": "2013-09-15",
+          "text": "Unlike other Aura spells, an Aura spell with bestow isn't countered if its target is illegal as it begins to resolve. Rather, the effect making it an Aura spell ends, it loses enchant creature, it returns to being an enchantment creature spell, and it resolves and enters the battlefield as an enchantment creature."
+        },
+        {
+          "date": "2013-09-15",
+          "text": "Unlike other Auras, an Aura with bestow isn't put into its owner's graveyard if it becomes unattached. Rather, the effect making it an Aura ends, it loses enchant creature, and it remains on the battlefield as an enchantment creature. It can attack (and its {T} abilities can be activated, if it has any) on the turn it becomes unattached if it's been under your control continuously, even as an Aura, since your most recent turn began."
+        },
+        {
+          "date": "2013-09-15",
+          "text": "If a permanent with bestow enters the battlefield by any method other than being cast, it will be an enchantment creature. You can't choose to pay the bestow cost and have it become an Aura."
+        },
+        {
+          "date": "2013-09-15",
+          "text": "Auras attached to a creature don't become tapped when the creature becomes tapped. Except in some rare cases, an Aura with bestow remains untapped when it becomes unattached and becomes a creature."
+        },
+        {
+          "date": "2013-09-15",
+          "text": "An Aura that becomes a creature is no longer put into its owner's graveyard as a state-based action. Rather, it becomes unattached and remains on the battlefield as long as it's a creature. While it's a creature, it can't be attached to another permanent or player. An Aura that's not attached to a legal permanent or player as defined by its enchant ability and also isn't a creature will be put into its owner's graveyard as a state-based action."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u591c\u568e\u602a",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u591c\u568e\u602a",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Hurlenuit",
+          "language": "French"
+        },
+        {
+          "name": "Nachtheuler",
+          "language": "German"
+        },
+        {
+          "name": "Ululatore Notturno",
+          "language": "Italian"
+        },
+        {
+          "name": "\u591c\u306e\u5486\u54ee\u7363",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uc6b8\ubd80\uc9d6\ub294 \ubc24\uc57c\uc218",
+          "language": "Korean"
+        },
+        {
+          "name": "Uivador Noturno",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0412\u043e\u044e\u0449\u0438\u0439 \u0432 \u041d\u043e\u0447\u0438",
+          "language": "Russian"
+        },
+        {
+          "name": "Aullador nocturno",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Pain Seer",
+      "layout": "normal",
+      "mana_cost": "{1}{B}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Wizard",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Wizard"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Inspired \u2014 Whenever Pain Seer becomes untapped, reveal the top card of your library and put that card into your hand. You lose life equal to that card's converted mana cost.",
+      "flavor": null,
+      "artist": "Mark Winters",
+      "number": "32",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2014-03-01",
+      "starter": null,
+      "printings": [
+        "pMGD",
+        "BNG"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Born of the Gods Game Day prize",
+      "image_url": null,
+      "set": "pMGD",
+      "set_name": "Magic Game Day",
+      "id": "e8ab2a40a54f3c9c950f12d11f0f10fc7c5ed067",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2014-02-01",
+          "text": "If the mana cost of the revealed card includes {X}, X is considered to be 0."
+        },
+        {
+          "date": "2014-02-01",
+          "text": "If the revealed card doesn't have a mana cost (because it's a land card, for example), its converted mana cost is 0."
+        },
+        {
+          "date": "2014-02-01",
+          "text": "Inspired abilities trigger no matter how the creature becomes untapped: by the turn-based action at the beginning of the untap step or by a spell or ability."
+        },
+        {
+          "date": "2014-02-01",
+          "text": "If an inspired ability triggers during your untap step, the ability will be put on the stack at the beginning of your upkeep. If the ability creates one or more token creatures, those creatures won't be able to attack that turn (unless they gain haste)."
+        },
+        {
+          "date": "2014-02-01",
+          "text": "Inspired abilities don't trigger when the creature enters the battlefield."
+        },
+        {
+          "date": "2014-02-01",
+          "text": "If the inspired ability includes an optional cost, you decide whether to pay that cost as the ability resolves. You can do this even if the creature leaves the battlefield in response to the ability."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u82e6\u75db\u9884\u8a00\u5e08",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u82e6\u75db\u9810\u8a00\u5e2b",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Voyant de douleur",
+          "language": "French"
+        },
+        {
+          "name": "Schmerzseher",
+          "language": "German"
+        },
+        {
+          "name": "Veggente del Dolore",
+          "language": "Italian"
+        },
+        {
+          "name": "\u82e6\u75db\u306e\u4e88\u898b\u8005",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uace0\ud1b5\uc758 \uc608\uc5b8\uc790",
+          "language": "Korean"
+        },
+        {
+          "name": "Vidente da Dor",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041f\u0440\u043e\u0432\u0438\u0434\u0435\u0446 \u0411\u043e\u043b\u0438",
+          "language": "Russian"
+        },
+        {
+          "name": "Vidente del dolor",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Kiora's Follower",
+      "layout": "normal",
+      "mana_cost": "{G}{U}",
+      "cmc": 2,
+      "colors": [
+        "Blue",
+        "Green"
+      ],
+      "color_identity": [
+        "U",
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Merfolk",
+      "supertypes": null,
+      "subtypes": [
+        "Merfolk"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "{T}: Untap another target permanent.",
+      "flavor": null,
+      "artist": "Steve Prescott",
+      "number": "33",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2014-03-01",
+      "starter": null,
+      "printings": [
+        "pMGD",
+        "BNG",
+        "DDO"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Born of the Gods Game Day participation bonus",
+      "image_url": null,
+      "set": "pMGD",
+      "set_name": "Magic Game Day",
+      "id": "829d2db716fa3b72cd627aa79b6d1b7159956648",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u5947\u5965\u62c9\u7684\u8ffd\u968f\u8005",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u5947\u5967\u62c9\u7684\u8ffd\u96a8\u8005",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Fid\u00e8le de Kiora",
+          "language": "French"
+        },
+        {
+          "name": "Kioras J\u00fcnger",
+          "language": "German"
+        },
+        {
+          "name": "Seguace di Kiora",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30ad\u30aa\u30fc\u30e9\u306e\u8ffd\u968f\u8005",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ud0a4\uc624\ub77c\uc758 \ucd94\uc885\uc790",
+          "language": "Korean"
+        },
+        {
+          "name": "Seguidor de Kiora",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041f\u043e\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u041a\u0438\u043e\u0440\u044b",
+          "language": "Russian"
+        },
+        {
+          "name": "Seguidor de Kiora",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Squelching Leeches",
+      "layout": "normal",
+      "mana_cost": "{2}{B}{B}",
+      "cmc": 4,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Leech",
+      "supertypes": null,
+      "subtypes": [
+        "Leech"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Squelching Leeches's power and toughness are each equal to the number of Swamps you control.",
+      "flavor": null,
+      "artist": "Tomasz Jedruszek",
+      "number": "34",
+      "power": "*",
+      "toughness": "*",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2014-05-24",
+      "starter": null,
+      "printings": [
+        "pMGD",
+        "JOU",
+        "DDR"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Journey into Nyx Game Day participation bonus",
+      "image_url": null,
+      "set": "pMGD",
+      "set_name": "Magic Game Day",
+      "id": "36d679ab7dc4d1b1043d1e38756b54d9cddca5cd",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2014-04-26",
+          "text": "Squelching Leeches's power and toughness will change as the number of Swamps you control changes. Its ability counts all lands you control with the subtype Swamp, not just those named Swamp."
+        },
+        {
+          "date": "2014-04-26",
+          "text": "The ability that defines Squelching Leeches's power and toughness works in all zones, not just the battlefield."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u5431\u54cd\u86ed\u7fa4",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u5431\u97ff\u86ed\u7fa4",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Sangsues grouillantes",
+          "language": "French"
+        },
+        {
+          "name": "Schmatzende Egel",
+          "language": "German"
+        },
+        {
+          "name": "Sanguisughe Sguazzanti",
+          "language": "Italian"
+        },
+        {
+          "name": "\u62bc\u3057\u6f70\u3059\u30d2\u30eb",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uc9d3\ub204\ub974\ub294 \uac70\uba38\ub9ac",
+          "language": "Korean"
+        },
+        {
+          "name": "Sanguessugas Famintas",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0425\u043b\u044e\u043f\u0430\u044e\u0449\u0438\u0435 \u041f\u0438\u044f\u0432\u043a\u0438",
+          "language": "Russian"
+        },
+        {
+          "name": "Sanguijuelas viscosas",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Dictate of Kruphix",
+      "layout": "normal",
+      "mana_cost": "{1}{U}{U}",
+      "cmc": 3,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Enchantment",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Special",
+      "text": "Flash\nAt the beginning of each player's draw step, that player draws an additional card.",
+      "flavor": null,
+      "artist": "Ryan Barger",
+      "number": "35",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2014-05-24",
+      "starter": null,
+      "printings": [
+        "pMGD",
+        "JOU"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Journey into Nyx Game Day prize",
+      "image_url": null,
+      "set": "pMGD",
+      "set_name": "Magic Game Day",
+      "id": "858d560e9fb83adebcad75faef7f2ca1fb88e743",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u514b\u7f57\u82ac\u65af\u7684\u65e8\u610f",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u514b\u7f85\u82ac\u65af\u7684\u65e8\u610f",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Pr\u00e9cepte de Kruphix",
+          "language": "French"
+        },
+        {
+          "name": "Gebot des Kruphix",
+          "language": "German"
+        },
+        {
+          "name": "Dettami di Krufix",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30af\u30eb\u30d5\u30a3\u30c3\u30af\u30b9\u306e\u6307\u56f3",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ud06c\ub8e8\ud53d\uc2a4\uc758 \uaddc\uc728",
+          "language": "Korean"
+        },
+        {
+          "name": "Decreto de Crufix",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0412\u0435\u043b\u0435\u043d\u0438\u0435 \u041a\u0440\u0443\u0444\u0438\u043a\u0441\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Mandato de Krufix",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Hall of Triumph",
+      "layout": "normal",
+      "mana_cost": "{3}",
+      "cmc": 3,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Legendary Artifact",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "As Hall of Triumph enters the battlefield, choose a color.\nCreatures you control of the chosen color get +1/+1.",
+      "flavor": "Heroes act without thought of glory or reward. Accolades are a consequence, not a goal.",
+      "artist": "Chuck Lukacs",
+      "number": "36",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2014-05-24",
+      "starter": null,
+      "printings": [
+        "pMGD",
+        "JOU"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Journey into Nyx Game Day Special participation bonus",
+      "image_url": null,
+      "set": "pMGD",
+      "set_name": "Magic Game Day",
+      "id": "e7db9d2aea46e44c1bc0b7a7739b94b8419d9a21",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u51ef\u65cb\u5927\u5385",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u51f1\u65cb\u5927\u5ef3",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "M\u00e9garon du triomphe",
+          "language": "French"
+        },
+        {
+          "name": "Halle des Triumphes",
+          "language": "German"
+        },
+        {
+          "name": "Sala del Trionfo",
+          "language": "Italian"
+        },
+        {
+          "name": "\u51f1\u65cb\u306e\u9593",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uc2b9\ub9ac\uc758 \uc804\ub2f9",
+          "language": "Korean"
+        },
+        {
+          "name": "Sal\u00e3o do Triunfo",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0422\u0440\u0438\u0443\u043c\u0444\u0430\u043b\u044c\u043d\u044b\u0439 \u0417\u0430\u043b",
+          "language": "Russian"
+        },
+        {
+          "name": "Sala del triunfo",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Heir of the Wilds",
+      "layout": "normal",
+      "mana_cost": "{1}{G}",
+      "cmc": 2,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Warrior",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Warrior"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Deathtouch\nFerocious \u2014 Whenever Heir of the Wilds attacks, if you control a creature with power 4 or greater, Heir of the Wilds gets +1/+1 until end of turn.",
+      "flavor": "In the high caves of the Qal Sisma mountains, young hunters quest to hear the echoes of their fierce ancestors.",
+      "artist": "David Palumbo",
+      "number": "37",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2014-10-18",
+      "starter": null,
+      "printings": [
+        "pMGD",
+        "KTK"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Khans of Tarkir Game Day participation bonus",
+      "image_url": null,
+      "set": "pMGD",
+      "set_name": "Magic Game Day",
+      "id": "d9d90a3151980f9d67101e0a95450c7d6a150a26",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2014-09-20",
+          "text": "Heir of the Wilds has a triggered ferocious ability with an intervening \"if\" clause. That ability will check if you control a creature with power 4 or greater whenever Heir of the Wilds attacks. If you don't at that time, the ability won't trigger at all. If it triggers, the ability will also check if you control a creature with power 4 or greater as it resolves. If you don't at that time, the ability won't do anything. Note that the creature with power 4 or greater you control as the ability triggers doesn't necessarily have to be the same one you control as the ability resolves."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u86ee\u8352\u4f20\u4eba",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u883b\u8352\u50b3\u4eba",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "H\u00e9ritier des terres sauvages",
+          "language": "French"
+        },
+        {
+          "name": "Erbe der Wildnis",
+          "language": "German"
+        },
+        {
+          "name": "Erede delle Terre Selvagge",
+          "language": "Italian"
+        },
+        {
+          "name": "\u8352\u91ce\u306e\u5f8c\u7d99\u8005",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uc57c\uc0dd\uc758 \uacc4\uc2b9\uc790",
+          "language": "Korean"
+        },
+        {
+          "name": "Herdeiro do Mundo Selvagem",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041d\u0430\u0441\u043b\u0435\u0434\u043d\u0438\u043a \u0414\u0435\u0431\u0440\u0435\u0439",
+          "language": "Russian"
+        },
+        {
+          "name": "Heredero de las tierras salvajes",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Utter End",
+      "layout": "normal",
+      "mana_cost": "{2}{W}{B}",
+      "cmc": 4,
+      "colors": [
+        "White",
+        "Black"
+      ],
+      "color_identity": [
+        "W",
+        "B"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Exile target nonland permanent.",
+      "flavor": "\"I came seeking a challenge. All I found was you.\"\n\u2014Zurgo, khan of the Mardu",
+      "artist": "Jack Wang",
+      "number": "38",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2014-10-18",
+      "starter": null,
+      "printings": [
+        "pPRE",
+        "pMGD",
+        "KTK",
+        "C16"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Khans of Tarkir Game Day prize",
+      "image_url": null,
+      "set": "pMGD",
+      "set_name": "Magic Game Day",
+      "id": "14096684900549a6551a38d75bee546e8e64172c",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u5f7b\u5e95\u7ec8\u7ed3",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u5fb9\u5e95\u7d42\u7d50",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Destruction totale",
+          "language": "French"
+        },
+        {
+          "name": "Aus und vorbei",
+          "language": "German"
+        },
+        {
+          "name": "Fine Assoluta",
+          "language": "Italian"
+        },
+        {
+          "name": "\u5b8c\u5168\u306a\u308b\u7d42\u308f\u308a",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uc815\ub9d0 \ub05d\uc7a5",
+          "language": "Korean"
+        },
+        {
+          "name": "Fim Absoluto",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041e\u043a\u043e\u043d\u0447\u0430\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u041f\u043e\u0433\u0438\u0431\u0435\u043b\u044c",
+          "language": "Russian"
+        },
+        {
+          "name": "Fin absoluto",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Reclamation Sage",
+      "layout": "normal",
+      "mana_cost": "{2}{G}",
+      "cmc": 3,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Elf Shaman",
+      "supertypes": null,
+      "subtypes": [
+        "Elf",
+        "Shaman"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "When Reclamation Sage enters the battlefield, you may destroy target artifact or enchantment.",
+      "flavor": "\"What was once formed by masons, shaped by smiths, or given life by mages, I will return to the embrace of the earth.\"",
+      "artist": "Clint Cearley",
+      "number": "39",
+      "power": "2",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2014-08-09",
+      "starter": null,
+      "printings": [
+        "pMGD",
+        "M15",
+        "C14",
+        "CMA"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic 2015 Game Day participation bonus",
+      "image_url": null,
+      "set": "pMGD",
+      "set_name": "Magic Game Day",
+      "id": "705fa30bb81b663a11c39d29ce8d9ae4f134c938",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u590d\u78a7\u667a\u8005",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u5fa9\u78a7\u667a\u8005",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Sage du reboisement",
+          "language": "French"
+        },
+        {
+          "name": "Weise der Renaturierung",
+          "language": "German"
+        },
+        {
+          "name": "Saggia della Rivendicazione",
+          "language": "Italian"
+        },
+        {
+          "name": "\u518d\u5229\u7528\u306e\u8ce2\u8005",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uad50\ud654\uc758 \ud604\uc790",
+          "language": "Korean"
+        },
+        {
+          "name": "S\u00e1bio da Reivindica\u00e7\u00e3o",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0412\u043e\u0437\u0432\u0440\u0430\u0449\u0430\u044e\u0449\u0430\u044f \u043a \u0418\u0441\u0442\u043e\u043a\u0430\u043c",
+          "language": "Russian"
+        },
+        {
+          "name": "Sabia de la recuperaci\u00f3n",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Chief Engineer",
+      "layout": "normal",
+      "mana_cost": "{1}{U}",
+      "cmc": 2,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Vedalken Artificer",
+      "supertypes": null,
+      "subtypes": [
+        "Vedalken",
+        "Artificer"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Artifact spells you cast have convoke. (Your creatures can help cast those spells. Each creature you tap while casting an artifact spell pays for {1} or one mana of that creature's color.)",
+      "flavor": "An eye for detail, a mind for numbers, a soul of clockwork.",
+      "artist": "Ryan Barger",
+      "number": "40",
+      "power": "1",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2014-08-09",
+      "starter": null,
+      "printings": [
+        "pMGD",
+        "M15",
+        "C16"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic 2015 Game Day prize",
+      "image_url": null,
+      "set": "pMGD",
+      "set_name": "Magic Game Day",
+      "id": "f8da4bcce565487b58e49d7aa25810861f4d0861",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2014-07-18",
+          "text": "Multiple instances of convoke on a single spell are redundant."
+        },
+        {
+          "date": "2014-07-18",
+          "text": "The rules for convoke have changed slightly since it last appeared in an expansion. Previously, convoke reduced the cost to cast a spell. Under current rules, you tap creatures at the same time you pay the spell's costs. Tapping a creature this way is simply another way to pay."
+        },
+        {
+          "date": "2014-07-18",
+          "text": "Convoke doesn't change a spell's mana cost or converted mana cost."
+        },
+        {
+          "date": "2014-07-18",
+          "text": "When calculating a spell's total cost, include any alternative costs, additional costs, or anything else that increases or reduces the cost to cast the spell. Convoke applies after the total cost is calculated."
+        },
+        {
+          "date": "2014-07-18",
+          "text": "Because convoke isn't an alternative cost, it can be used in conjunction with alternative costs."
+        },
+        {
+          "date": "2014-07-18",
+          "text": "Tapping a multicolored creature using convoke will pay for {1} or one mana of your choice of any of that creature's colors."
+        },
+        {
+          "date": "2014-07-18",
+          "text": "When using convoke to cast a spell with {X} in its mana cost, first choose the value for X. That choice, plus any cost increases or decreases, will determine the spell's total cost. Then you can tap creatures you control to help pay that cost. For example, if you cast Chord of Calling (a spell with convoke and mana cost {X}{G}{G}{G}) and choose X to be 3, the total cost is {3}{G}{G}{G}. If you tap two green creatures and two red creatures, you'll have to pay {1}{G}."
+        },
+        {
+          "date": "2014-07-18",
+          "text": "If a creature you control has a mana ability with {T} in the cost, activating that ability while casting a spell with convoke will result in the creature being tapped when you pay the spell's costs. You won't be able to tap it again for convoke. Similarly, if you sacrifice a creature to activate a mana ability while casting a spell with convoke, that creature won't be on the battlefield when you pay the spell's costs, so you won't be able to tap it for convoke."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u603b\u5de5\u7a0b\u5e08",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u7e3d\u5de5\u7a0b\u5e2b",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Ing\u00e9nieur en chef",
+          "language": "French"
+        },
+        {
+          "name": "Oberster Ingenieur",
+          "language": "German"
+        },
+        {
+          "name": "Ingegnere Capo",
+          "language": "Italian"
+        },
+        {
+          "name": "\u4e3b\u4efb\u6280\u5e2b",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uae30\uad00\uc7a5",
+          "language": "Korean"
+        },
+        {
+          "name": "Engenheiro-chefe",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0421\u0442\u0430\u0440\u0448\u0438\u0439 \u0418\u043d\u0436\u0435\u043d\u0435\u0440",
+          "language": "Russian"
+        },
+        {
+          "name": "Ingeniero jefe",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Mardu Shadowspear",
+      "layout": "normal",
+      "mana_cost": "{B}",
+      "cmc": 1,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Warrior",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Warrior"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Whenever Mardu Shadowspear attacks, each opponent loses 1 life.\nDash {1}{B} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)",
+      "flavor": null,
+      "artist": "Dan Scott",
+      "number": "41",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2015-02-14",
+      "starter": null,
+      "printings": [
+        "pMGD",
+        "FRF"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Fate Reforged Game Day participation bonus",
+      "image_url": null,
+      "set": "pMGD",
+      "set_name": "Magic Game Day",
+      "id": "12e086061ac4fb1541253f7cb4776a50a0600962",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2014-11-24",
+          "text": "If you choose to pay the dash cost rather than the mana cost, you're still casting the spell. It goes on the stack and can be responded to and countered. You can cast a creature spell for its dash cost only when you otherwise could cast that creature spell. Most of the time, this means during your main phase when the stack is empty."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "If you pay the dash cost to cast a creature spell, that card will be returned to its owner's hand only if it's still on the battlefield when its triggered ability resolves. If it dies or goes to another zone before then, it will stay where it is."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "You don't have to attack with the creature with dash unless another ability says you do."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "If a creature enters the battlefield as a copy of or becomes a copy of a creature whose dash cost was paid, the copy won't have haste and won't be returned to its owner's hand."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u739b\u5c14\u90fd\u5f71\u77db\u5175",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u746a\u723e\u90fd\u5f71\u77db\u5175",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Ombrelance marduenne",
+          "language": "French"
+        },
+        {
+          "name": "Mardu-Schattenspeer",
+          "language": "German"
+        },
+        {
+          "name": "Lancia Oscura Mardu",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30de\u30eb\u30c9\u30a5\u306e\u5f71\u69cd",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ub9c8\ub974\ub450 \uadf8\ub9bc\uc790\ucc3d",
+          "language": "Korean"
+        },
+        {
+          "name": "Lan\u00e7a Sombria Mardu",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041a\u043e\u043f\u0435\u0439\u0449\u0438\u0446\u0430 \u0422\u0435\u043d\u0438 \u041c\u0430\u0440\u0434\u0443",
+          "language": "Russian"
+        },
+        {
+          "name": "Lanzasombr\u00eda mardu",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Supplant Form",
+      "layout": "normal",
+      "mana_cost": "{4}{U}{U}",
+      "cmc": 6,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Return target creature to its owner's hand. You create a token that's a copy of that creature.",
+      "flavor": "\"Ice can be shaped to any form, even the whisper of a memory.\"\n\u2014Mytha, Temur shaman",
+      "artist": "Mike Bierek",
+      "number": "42",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2015-02-14",
+      "starter": null,
+      "printings": [
+        "pPRE",
+        "pMGD",
+        "FRF"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Fate Reforged Game Day prize",
+      "image_url": null,
+      "set": "pMGD",
+      "set_name": "Magic Game Day",
+      "id": "561e75266b892626e2847be8b03bf5172b90a999",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2014-11-24",
+          "text": "The token copies exactly what was printed on the creature and nothing else (unless that creature was copying something else or was a token; see below). It doesn't copy whether that creature was tapped or untapped, whether it had any counters on it or Auras and/or Equipment attached to it, or any non-copy effects that changed its power, toughness, types, color, and so on."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "If you return a face-down creature to its owner's hand, the token will be a face-up colorless 2/2 creature with no name, no abilities, and no creature types. (The face-down creature card will be revealed to all players as it leaves the battlefield.)"
+        },
+        {
+          "date": "2014-11-24",
+          "text": "If the copied creature had {X} in its mana cost, X is 0."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "If the copied creature was copying something else, the token enters the battlefield as whatever that creature was copying."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "If the copied creature is a token, the token created by Supplant Form copies the original characteristics of that token as stated by the effect that put it onto the battlefield."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Any enters-the-battlefield abilities of the copied creature will trigger when the token enters the battlefield. Any \"As [this creature] enters the battlefield\" or \"[This creature] enters the battlefield with\" abilities of the copied creature will also work."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u5e7b\u5316\u66ff\u8eab",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u5e7b\u5316\u66ff\u8eab",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Substitution de forme",
+          "language": "French"
+        },
+        {
+          "name": "Austausch der Form",
+          "language": "German"
+        },
+        {
+          "name": "Soppiantare Forma",
+          "language": "Italian"
+        },
+        {
+          "name": "\u596a\u53d6\u306e\u5f62\u614b",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ub300\uccb4 \ud615\uc0c1",
+          "language": "Korean"
+        },
+        {
+          "name": "Substituir Forma",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0412\u044b\u0442\u0435\u0441\u043d\u0435\u043d\u0438\u0435 \u041e\u0431\u043b\u0438\u043a\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Suplantaci\u00f3n de forma",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Thunderbreak Regent",
+      "layout": "normal",
+      "mana_cost": "{2}{R}{R}",
+      "cmc": 4,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Dragon",
+      "supertypes": null,
+      "subtypes": [
+        "Dragon"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Flying\nWhenever a Dragon you control becomes the target of a spell or ability an opponent controls, Thunderbreak Regent deals 3 damage to that player.",
+      "flavor": "Attracting a dragon's attention may be the last mistake you make.",
+      "artist": "Jason Rainville",
+      "number": "43",
+      "power": "4",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2015-04-18",
+      "starter": null,
+      "printings": [
+        "pPRE",
+        "pMGD",
+        "DTK"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Dragons of Tarkir Game Day prize",
+      "image_url": null,
+      "set": "pMGD",
+      "set_name": "Magic Game Day",
+      "id": "fa8b7390ba539d073551e525487732d87f81eb75",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2015-02-25",
+          "text": "Thunderbreak Regent's ability will resolve before the spell or ability that caused it to trigger."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u7834\u9706\u9f99\u4faf",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u7834\u9706\u9f8d\u4faf",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "R\u00e9gente brisetonnerre",
+          "language": "French"
+        },
+        {
+          "name": "Donnerbruch-Regentin",
+          "language": "German"
+        },
+        {
+          "name": "Reggente Squarciatuono",
+          "language": "Italian"
+        },
+        {
+          "name": "\u96f7\u7834\u306e\u57f7\u653f",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ud558\ub298\uc744 \ucc22\ub294 \ucc9c\ub465\uc758 \uc12d\uc815",
+          "language": "Korean"
+        },
+        {
+          "name": "Regente do Ataque Fulminante",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0420\u0435\u0433\u0435\u043d\u0442 \u0413\u0440\u044f\u043d\u0443\u0432\u0448\u0435\u0433\u043e \u0413\u0440\u043e\u043c\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Regente tempestad desatada",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Scaleguard Sentinels",
+      "layout": "normal",
+      "mana_cost": "{G}{G}",
+      "cmc": 2,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Soldier",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Soldier"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "As an additional cost to cast Scaleguard Sentinels, you may reveal a Dragon card from your hand.\nScaleguard Sentinels enters the battlefield with a +1/+1 counter on it if you revealed a Dragon card or controlled a Dragon as you cast Scaleguard Sentinels.",
+      "flavor": null,
+      "artist": "David Gaillet",
+      "number": "44",
+      "power": "2",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2015-04-18",
+      "starter": null,
+      "printings": [
+        "pMGD",
+        "DTK"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Dragons of Tarkir Game Day participation bonus",
+      "image_url": null,
+      "set": "pMGD",
+      "set_name": "Magic Game Day",
+      "id": "7a0de8072afd8dabf03f8e960bb5496d5c8d1be4",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2015-02-25",
+          "text": "If one of these spells is copied, the controller of the copy will get the \"Dragon bonus\" only if a Dragon card was revealed as an additional cost. The copy wasn't cast, so whether you controlled a Dragon won't matter."
+        },
+        {
+          "date": "2015-02-25",
+          "text": "You can't reveal more than one Dragon card to multiply the bonus. There is also no additional benefit for both revealing a Dragon card as an additional cost and controlling a Dragon as you cast the spell."
+        },
+        {
+          "date": "2015-02-25",
+          "text": "If you don't reveal a Dragon card from your hand, you must control a Dragon as you are finished casting the spell to get the bonus. For example, if you lose control of your only Dragon while casting the spell (because, for example, you sacrificed it to activate a mana ability), you won't get the bonus."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u9cde\u536b\u54e8\u5175",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u9c57\u885b\u54e8\u5175",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Gardes d'\u00e9caille sentinelles",
+          "language": "French"
+        },
+        {
+          "name": "Gardisten der Schuppenwache",
+          "language": "German"
+        },
+        {
+          "name": "Sentinelle Guardia Scaglia",
+          "language": "Italian"
+        },
+        {
+          "name": "\u9c57\u885b\u5175\u306e\u6b69\u54e8",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ube44\ub298\uacbd\ube44\ubcd1 \ubcf4\ucd08",
+          "language": "Korean"
+        },
+        {
+          "name": "Sentinelas da Guarda Escamada",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0427\u0430\u0441\u043e\u0432\u044b\u0435 \u0427\u0435\u0448\u0443\u0439\u0447\u0430\u0442\u043e\u0439 \u0421\u0442\u0440\u0430\u0436\u0438",
+          "language": "Russian"
+        },
+        {
+          "name": "Centinelas guardiascama",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Conclave Naturalists",
+      "layout": "normal",
+      "mana_cost": "{4}{G}",
+      "cmc": 5,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Dryad",
+      "supertypes": null,
+      "subtypes": [
+        "Dryad"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "When Conclave Naturalists enters the battlefield, you may destroy target artifact or enchantment.",
+      "flavor": "\"Your swords and wards have no power here.\"",
+      "artist": "Howard Lyon",
+      "number": "45",
+      "power": "4",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2015-08-08",
+      "starter": null,
+      "printings": [
+        "pMGD",
+        "ORI"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Origins Game Day participation bonus",
+      "image_url": null,
+      "set": "pMGD",
+      "set_name": "Magic Game Day",
+      "id": "79932776252c5d6304dbc49b3b7512563c462998",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u76df\u4f1a\u5f52\u771f\u5e08",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u76df\u6703\u6b78\u771f\u5e2b",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Naturalistes du Conclave",
+          "language": "French"
+        },
+        {
+          "name": "Naturalistinnen des Konklaves",
+          "language": "German"
+        },
+        {
+          "name": "Naturaliste del Conclave",
+          "language": "Italian"
+        },
+        {
+          "name": "\u8b70\u4e8b\u4f1a\u306e\u81ea\u7136\u4e3b\u7fa9\u8005",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uad50\ub2e8\uc758 \uc790\uc5f0\uc8fc\uc758\uc790",
+          "language": "Korean"
+        },
+        {
+          "name": "Naturalistas do Conclave",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041d\u0430\u0442\u0443\u0440\u0430\u043b\u0438\u0441\u0442\u044b \u041a\u043e\u043d\u043a\u043b\u0430\u0432\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Naturalistas del C\u00f3nclave",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Languish",
+      "layout": "normal",
+      "mana_cost": "{2}{B}{B}",
+      "cmc": 4,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Special",
+      "text": "All creatures get -4/-4 until end of turn.",
+      "flavor": "Life is such a fragile thing.",
+      "artist": "Jeff Simpson",
+      "number": "46",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2015-08-08",
+      "starter": null,
+      "printings": [
+        "pPRE",
+        "pMGD",
+        "ORI",
+        "C16"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Magic Origins Game Day  prize",
+      "image_url": null,
+      "set": "pMGD",
+      "set_name": "Magic Game Day",
+      "id": "c768f2fd2374d4129ad205061b475f19d14f75be",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u8870\u840e",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u8870\u840e",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Croupissement",
+          "language": "French"
+        },
+        {
+          "name": "Siechen",
+          "language": "German"
+        },
+        {
+          "name": "Languire",
+          "language": "Italian"
+        },
+        {
+          "name": "\u8870\u6ec5",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uc1e0\ud1f4",
+          "language": "Korean"
+        },
+        {
+          "name": "Debilitar",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0423\u0433\u0430\u0441\u0430\u043d\u0438\u0435",
+          "language": "Russian"
+        },
+        {
+          "name": "Podredumbre",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Stasis Snare",
+      "layout": "normal",
+      "mana_cost": "{1}{W}{W}",
+      "cmc": 3,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Enchantment",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Special",
+      "text": "Flash (You may cast this spell any time you could cast an instant.)\nWhen Stasis Snare enters the battlefield, exile target creature an opponent controls until Stasis Snare leaves the battlefield. (That creature returns under its owner's control.)",
+      "flavor": null,
+      "artist": "Slawomir Maniak",
+      "number": "47",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2015-10-24",
+      "starter": null,
+      "printings": [
+        "pMGD",
+        "BFZ"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Battle for Zendikar Game Day participation bonus",
+      "image_url": null,
+      "set": "pMGD",
+      "set_name": "Magic Game Day",
+      "id": "1d0c391c59a95e9bb57e2b286a4c3ad2925c777e",
+      "legalities": [
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2015-08-25",
+          "text": "If Stasis Snare leaves the battlefield before its triggered ability resolves, the target creature won't be exiled."
+        },
+        {
+          "date": "2015-08-25",
+          "text": "Auras attached to the exiled creature will be put into their owners' graveyards. Equipment attached to the exiled creature will become unattached and remain on the battlefield. Any counters on the exiled creature will cease to exist."
+        },
+        {
+          "date": "2015-08-25",
+          "text": "If a creature token is exiled, it ceases to exist. It won't be returned to the battlefield."
+        },
+        {
+          "date": "2015-08-25",
+          "text": "The exiled card returns to the battlefield immediately after Stasis Snare leaves the battlefield. Nothing happens between the two events, including state-based actions."
+        },
+        {
+          "date": "2015-08-25",
+          "text": "In a multiplayer game, if Stasis Snare's owner leaves the game, the exiled card will return to the battlefield. Because the one-shot effect that returns the card isn't an ability that goes on the stack, it won't cease to exist along with the leaving player's spells and abilities on the stack."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u9759\u6001\u5708\u5957",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u975c\u614b\u5708\u5957",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Collet de stase",
+          "language": "French"
+        },
+        {
+          "name": "Schlinge des Erstarrens",
+          "language": "German"
+        },
+        {
+          "name": "Trappola Statica",
+          "language": "Italian"
+        },
+        {
+          "name": "\u505c\u6ede\u306e\u7f60",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uc815\uccb4 \uc62c\uac00\ubbf8",
+          "language": "Korean"
+        },
+        {
+          "name": "Armadilha Est\u00e1tica",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0421\u0438\u043b\u043a\u0438 \u041e\u0446\u0435\u043f\u0435\u043d\u0435\u043d\u0438\u044f",
+          "language": "Russian"
+        },
+        {
+          "name": "Trampa de estasis",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Radiant Flames",
+      "layout": "normal",
+      "mana_cost": "{2}{R}",
+      "cmc": 3,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Special",
+      "text": "Converge \u2014 Radiant Flames deals X damage to each creature, where X is the number of colors of mana spent to cast Radiant Flames.",
+      "flavor": "The fires of Zendikar are always hungry, and there is much on which they can feed.",
+      "artist": "Ryan Barger",
+      "number": "48",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2015-10-24",
+      "starter": null,
+      "printings": [
+        "pPRE",
+        "pMGD",
+        "BFZ"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Battle for Zendikar Game Day prize",
+      "image_url": null,
+      "set": "pMGD",
+      "set_name": "Magic Game Day",
+      "id": "3b695b3ec886d190198746b40b73244fd1458f3c",
+      "legalities": [
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2015-08-25",
+          "text": "The maximum number of colors of mana you can spend to cast a spell is five. Colorless is not a color. Note that the cost of a spell with converge may limit how many colors of mana you can spend."
+        },
+        {
+          "date": "2015-08-25",
+          "text": "Unless a spell or ability allows you to, you can't choose to pay more mana for a spell with a converge ability just to spend more colors of mana. Likewise, if a spell or ability reduces the amount of mana it costs you to cast a spell with converge, you can't ignore that cost reduction in order to spend more colors of mana."
+        },
+        {
+          "date": "2015-08-25",
+          "text": "If there are any alternative or additional costs to cast a spell with a converge ability, the mana spent to pay those costs will count. For example, if an effect makes sorcery spells cost {1} more to cast, you could pay {W}{U}{B}{R} to cast Radiant Flames and deal 4 damage to each creature."
+        },
+        {
+          "date": "2015-08-25",
+          "text": "If you cast a spell with converge without spending any mana to cast it (perhaps because an effect allowed you to cast it without paying its mana cost), then the number of colors spent to cast it will be zero."
+        },
+        {
+          "date": "2015-08-25",
+          "text": "If a spell with a converge ability is copied, no mana was spent to cast the copy, so the number of colors of mana spent to cast the spell will be zero. The number of colors spent to cast the original spell is not copied."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u8f89\u5149\u706b\u7130",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u8f1d\u5149\u706b\u7130",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Flammes radieuses",
+          "language": "French"
+        },
+        {
+          "name": "Strahlende Flammen",
+          "language": "German"
+        },
+        {
+          "name": "Fiamme Raggianti",
+          "language": "Italian"
+        },
+        {
+          "name": "\u5149\u8f1d\u306e\u708e",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ube5b\ub098\ub294 \ubd88\uaf43",
+          "language": "Korean"
+        },
+        {
+          "name": "Chamas Radiantes",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041b\u0443\u0447\u0438\u0441\u0442\u043e\u0435 \u041f\u043b\u0430\u043c\u044f",
+          "language": "Russian"
+        },
+        {
+          "name": "Llamas radiantes",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Immolating Glare",
+      "layout": "normal",
+      "mana_cost": "{1}{W}",
+      "cmc": 2,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Destroy target attacking creature.",
+      "flavor": "\"The sun can warm your skin or blister it, nurture your crops or wither them, light your path or blind you. She is a fickle friend, but a far worse enemy.\"\n\u2014Nazra of the Stone Havens",
+      "artist": "Ryan Alexander Lee",
+      "number": "49",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2016-02-13",
+      "starter": null,
+      "printings": [
+        "pMGD",
+        "OGW"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Oath of the Gatewatch Game Day participation bonus",
+      "image_url": null,
+      "set": "pMGD",
+      "set_name": "Magic Game Day",
+      "id": "14039ef7840fbe10d84194ab52af7c4a89f0f173",
+      "legalities": [
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u732e\u796d\u8363\u5149",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u737b\u796d\u69ae\u5149",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Regard immolateur",
+          "language": "French"
+        },
+        {
+          "name": "Verbrennendes Leuchten",
+          "language": "German"
+        },
+        {
+          "name": "Bagliore Sacrificale",
+          "language": "Italian"
+        },
+        {
+          "name": "\u947d\u706b\u306e\u8f1d\u304d",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ubd88\ud0c0\uc624\ub974\ub294 \ub208\ube5b",
+          "language": "Korean"
+        },
+        {
+          "name": "Fulgor Imolante",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0418\u0441\u043f\u0435\u043f\u0435\u043b\u044f\u044e\u0449\u0435\u0435 \u0421\u0438\u044f\u043d\u0438\u0435",
+          "language": "Russian"
+        },
+        {
+          "name": "Fulgor inmolador",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Jori En, Ruin Diver",
+      "layout": "normal",
+      "mana_cost": "{1}{U}{R}",
+      "cmc": 3,
+      "colors": [
+        "Blue",
+        "Red"
+      ],
+      "color_identity": [
+        "U",
+        "R"
+      ],
+      "names": null,
+      "type": "Legendary Creature \u2014 Merfolk Wizard",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Merfolk",
+        "Wizard"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Whenever you cast your second spell each turn, draw a card.",
+      "flavor": "\"Some relic hunters have given up exploring and gone to fight the Eldrazi. But I know our work is more important than ever. The secrets we uncover could lead to the world's salvation.\"",
+      "artist": "Matt Stewart",
+      "number": "50",
+      "power": "2",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2016-02-13",
+      "starter": null,
+      "printings": [
+        "pMGD",
+        "OGW",
+        "DDS"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Oath of the Gatewatch Game Day prize",
+      "image_url": null,
+      "set": "pMGD",
+      "set_name": "Magic Game Day",
+      "id": "ac45d2023387647b554b081747b79d4d3089a27e",
+      "legalities": [
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2016-01-22",
+          "text": "Jori En's ability can trigger only once each turn. The ability will resolve before the second spell resolves. It doesn't matter if the first spell you cast that turn has resolved, was countered, or is still on the stack."
+        },
+        {
+          "date": "2016-01-22",
+          "text": "Jori En must be on the battlefield in order for the ability to function. Notably, the ability won't trigger if Jori En is the second spell you cast in a turn."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u9057\u8ff9\u6f5c\u5e08\u88d8\u9ece\u6069",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u907a\u8de1\u6f5b\u5e2b\u88d8\u9ece\u6069",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Jori En, plongeuse des ruines",
+          "language": "French"
+        },
+        {
+          "name": "Jori En, Ruinentaucherin",
+          "language": "German"
+        },
+        {
+          "name": "Jori En, Tuffatrice delle Rovine",
+          "language": "Italian"
+        },
+        {
+          "name": "\u907a\u8de1\u6f5c\u308a\u3001\u30b8\u30e7\u30ea\u30fc\u30fb\u30a8\u30f3",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ud3d0\ud5c8\uc758 \uc7a0\uc218\ubd80 \uc870\ub9ac \uc5d4",
+          "language": "Korean"
+        },
+        {
+          "name": "Jori En, Mergulhadora das Ru\u00ednas",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0414\u0436\u043e\u0440\u0438-\u042d\u043d, \u041d\u044b\u0440\u044f\u043b\u044c\u0449\u0438\u0446\u0430 \u0432 \u0420\u0443\u0438\u043d\u0430\u0445",
+          "language": "Russian"
+        },
+        {
+          "name": "Jori En, buceadora de ruinas",
+          "language": "Spanish"
+        }
+      ]
+    }
+  ]
+}

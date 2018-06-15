@@ -1,0 +1,3675 @@
+{
+  "code": "E02",
+  "name": "Explorers of Ixalan",
+  "type": "board game deck",
+  "border": "black",
+  "mkm_id": null,
+  "mkm_name": null,
+  "release_date": "2017-11-24",
+  "gatherer_code": null,
+  "magic_cards_info_code": "e02",
+  "booster": null,
+  "old_code": null,
+  "block": null,
+  "online_only": null,
+  "cards": [
+    {
+      "name": "Beacon of Immortality",
+      "layout": "normal",
+      "mana_cost": "{5}{W}",
+      "cmc": 6,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Rare",
+      "text": "Double target player's life total. Shuffle Beacon of Immortality into its owner's library.",
+      "flavor": "The cave floods with light. A thousand rays shine forth and meld into one.",
+      "artist": "Rob Alexander",
+      "number": "1",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 439343,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "5DN",
+        "10E",
+        "E02"
+      ],
+      "original_text": "Double target player's life total. Shuffle Beacon of Immortality into its owner's library.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439343&type=card",
+      "set": "E02",
+      "set_name": "Explorers of Ixalan",
+      "id": "6b46f2195c42e078e89833bf2c35df6706656a39",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2007-02-01",
+          "text": "If you double a negative life total, you do the real math. A life total of -10 becomes -20."
+        },
+        {
+          "date": "2007-07-15",
+          "text": "Beacon of Immortality's effect counts as life gain (or life loss, if the life total was negative) for effects that trigger on or replace life gain (or life loss)."
+        },
+        {
+          "date": "2007-07-15",
+          "text": "If a Beacon is countered or doesn't resolve, it's put into its owner's graveyard, not shuffled into the library."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Day of Judgment",
+      "layout": "normal",
+      "mana_cost": "{2}{W}{W}",
+      "cmc": 4,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Rare",
+      "text": "Destroy all creatures.",
+      "flavor": null,
+      "artist": "Vincent Proce",
+      "number": "2",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 439344,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pMEI",
+        "pMPR",
+        "ZEN",
+        "M11",
+        "M12",
+        "E02"
+      ],
+      "original_text": "Destroy all creatures.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439344&type=card",
+      "set": "E02",
+      "set_name": "Explorers of Ixalan",
+      "id": "1a38fbaaadfede2cd129155b8925b3e2d954e0fb",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Path to Exile",
+      "layout": "normal",
+      "mana_cost": "{W}",
+      "cmc": 1,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Uncommon",
+      "text": "Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle their library.",
+      "flavor": null,
+      "artist": "Todd Lockwood",
+      "number": "3",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 439345,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pFNM",
+        "pWPN",
+        "CON",
+        "ARC",
+        "CMD",
+        "DDI",
+        "MMA",
+        "MD1",
+        "MM3",
+        "CMA",
+        "E02"
+      ],
+      "original_text": "Exile target creature. Its controller may search his or her library for a basic land card, put that card onto the battlefield tapped, then shuffle his or her library.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439345&type=card",
+      "set": "E02",
+      "set_name": "Explorers of Ixalan",
+      "id": "e2cdfe105a8b08935944baf2e8597cff9ecb8213",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2017-03-14",
+          "text": "If the targeted creature becomes an illegal target by the time Path to Exile would resolve, the entire spell doesn't resolve. The creature's controller won't search for a basic land card."
+        },
+        {
+          "date": "2017-03-14",
+          "text": "The controller of the exiled creature isn't required to search their library for a basic land. If that player doesn't, the player won't shuffle their library."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Shielded by Faith",
+      "layout": "normal",
+      "mana_cost": "{1}{W}{W}",
+      "cmc": 3,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Enchantment \u2014 Aura",
+      "supertypes": null,
+      "subtypes": [
+        "Aura"
+      ],
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Rare",
+      "text": "Enchant creature\nEnchanted creature has indestructible.\nWhenever a creature enters the battlefield, you may attach Shielded by Faith to that creature.",
+      "flavor": null,
+      "artist": "David Palumbo",
+      "number": "4",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 439346,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "C15",
+        "E02"
+      ],
+      "original_text": "Enchant creature\nEnchanted creature has indestructible.\nWhenever a creature enters the battlefield, you may attach Shielded by Faith to that creature.",
+      "original_type": "Enchantment \u2014 Aura",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439346&type=card",
+      "set": "E02",
+      "set_name": "Explorers of Ixalan",
+      "id": "778b13bc281bba855d1f936b619fcea415f08578",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Veteran's Reflexes",
+      "layout": "normal",
+      "mana_cost": "{W}",
+      "cmc": 1,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Common",
+      "text": "Target creature gets +1/+1 until end of turn. Untap that creature.",
+      "flavor": "\"Assume everything wants to kill you. At the very least, assume everything wants what's in your pack.\"",
+      "artist": "Scott Chou",
+      "number": "5",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 439347,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "WWK",
+        "E02"
+      ],
+      "original_text": "Target creature gets +1/+1 until end of turn. Untap that creature.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439347&type=card",
+      "set": "E02",
+      "set_name": "Explorers of Ixalan",
+      "id": "0f86e4bda736e7ae7fcb52ffb4743a4d7e367c6f",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Vow of Duty",
+      "layout": "normal",
+      "mana_cost": "{2}{W}",
+      "cmc": 3,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Enchantment \u2014 Aura",
+      "supertypes": null,
+      "subtypes": [
+        "Aura"
+      ],
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Uncommon",
+      "text": "Enchant creature\nEnchanted creature gets +2/+2, has vigilance, and can't attack you or a planeswalker you control.",
+      "flavor": "\"I prefer loyalty to be a matter of respect, not of magic. But one does what one must.\"\n\u2014Kaalia of the Vast",
+      "artist": "Wayne Reynolds",
+      "number": "6",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 439348,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "CMD",
+        "CNS",
+        "C15",
+        "CMA",
+        "E02"
+      ],
+      "original_text": "Enchant creature\nEnchanted creature gets +2/+2, has vigilance, and can't attack you or a planeswalker you control.",
+      "original_type": "Enchantment \u2014 Aura",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439348&type=card",
+      "set": "E02",
+      "set_name": "Explorers of Ixalan",
+      "id": "03f1368b35945bb42049decf160f5ff3f24e72df",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Aether Gale",
+      "layout": "normal",
+      "mana_cost": "{3}{U}{U}",
+      "cmc": 5,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Rare",
+      "text": "Return six target nonland permanents to their owners' hands.",
+      "flavor": "The militia formed up in the central plaza awaiting the onslaught, but the giants never quite made it.",
+      "artist": "Jack Wang",
+      "number": "7",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 439349,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "C14",
+        "E02"
+      ],
+      "original_text": "Return six target nonland permanents to their owners' hands.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439349&type=card",
+      "set": "E02",
+      "set_name": "Explorers of Ixalan",
+      "id": "9a208dcc247f691dc6e6a1b4ac5da9d22a5f15b7",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2014-11-07",
+          "text": "You must choose six different legal targets in order to cast Aether Gale. If some, but not all, of those targets become illegal before Aether Gale resolves, the remaining legal targets will be put into their owners' hands."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Blatant Thievery",
+      "layout": "normal",
+      "mana_cost": "{4}{U}{U}{U}",
+      "cmc": 7,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Rare",
+      "text": "For each opponent, gain control of target permanent that player controls.",
+      "flavor": "Centuries of association with the Sun Empire have taught the dinosaurs that shiny things are important.",
+      "artist": "Victor Adame Minguez",
+      "number": "8",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 439350,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ONS",
+        "C15",
+        "E02"
+      ],
+      "original_text": "For each opponent, gain control of target permanent that player controls.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439350&type=card",
+      "set": "E02",
+      "set_name": "Explorers of Ixalan",
+      "id": "261c8b6d934e37a225c900bba860097fa2355051",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "If a permanent changes controller after being targeted but before this spell resolves, you won't gain control of that permanent."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "You gain control of only one permanent from each player."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Concentrate",
+      "layout": "normal",
+      "mana_cost": "{2}{U}{U}",
+      "cmc": 4,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Uncommon",
+      "text": "Draw three cards.",
+      "flavor": "\"The treasure in my mind is greater than any worldly glory.\"",
+      "artist": "rk post",
+      "number": "9",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 439351,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ODY",
+        "8ED",
+        "PC2",
+        "C14",
+        "PCA",
+        "DDT",
+        "E02"
+      ],
+      "original_text": "Draw three cards.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439351&type=card",
+      "set": "E02",
+      "set_name": "Explorers of Ixalan",
+      "id": "820228025d1931e0e8a6e9b5bdaf46522d25c8d0",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Merfolk Sovereign",
+      "layout": "normal",
+      "mana_cost": "{1}{U}{U}",
+      "cmc": 3,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Merfolk",
+      "supertypes": null,
+      "subtypes": [
+        "Merfolk"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": "Other Merfolk creatures you control get +1/+1.\n{T}: Target Merfolk creature can't be blocked this turn.",
+      "flavor": "\"We are not an empire, and I am not a queen. But I speak with the shout of the rivers and the whisper of the clinging mist.\"",
+      "artist": "Slawomir Maniak",
+      "number": "10",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 439352,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "M10",
+        "M11",
+        "DDT",
+        "E02"
+      ],
+      "original_text": "Other Merfolk creatures you control get +1/+1.\n{T}: Target Merfolk creature can't be blocked this turn.",
+      "original_type": "Creature \u2014 Merfolk",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439352&type=card",
+      "set": "E02",
+      "set_name": "Explorers of Ixalan",
+      "id": "e2d51f443f313a7af42c1361fd5bac5acc24e403",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2009-10-01",
+          "text": "To have any effect, Merfolk Sovereign's activated ability must be activated before the declare blockers step begins. Once a Merfolk has become blocked, activating Merfolk Sovereign's ability won't change that."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Threads of Disloyalty",
+      "layout": "normal",
+      "mana_cost": "{1}{U}{U}",
+      "cmc": 3,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Enchantment \u2014 Aura",
+      "supertypes": null,
+      "subtypes": [
+        "Aura"
+      ],
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Rare",
+      "text": "Enchant creature with converted mana cost 2 or less\nYou control enchanted creature.",
+      "flavor": "\"Over time, Konda grew ever more suspicious, fearing even his most loyal allies were being manipulated by unseen hands.\"\n\u2014The History of Kamigawa",
+      "artist": "Anthony S. Waters",
+      "number": "11",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 439353,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "BOK",
+        "MPS_AKH",
+        "E02"
+      ],
+      "original_text": "Enchant creature with converted mana cost 2 or less\nYou control enchanted creature.",
+      "original_type": "Enchantment \u2014 Aura",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439353&type=card",
+      "set": "E02",
+      "set_name": "Explorers of Ixalan",
+      "id": "89565ca786524aa634d2a90df1e1612ccb499606",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2005-02-01",
+          "text": "Threads of Disloyalty can't target a creature with converted mana cost 3 or greater. If it somehow enchants a creature with converted mana cost 3 or greater, Threads of Disloyalty is put into the graveyard the next time state-based actions are checked."
+        },
+        {
+          "date": "2005-02-01",
+          "text": "Creatures on the battlefield treat {X} in their mana cost as 0 for the purposes of calculating converted mana costs."
+        },
+        {
+          "date": "2005-02-01",
+          "text": "Tokens usually have a converted mana cost of 0."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Time Warp",
+      "layout": "normal",
+      "mana_cost": "{3}{U}{U}",
+      "cmc": 5,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Target player takes an extra turn after this one.",
+      "flavor": "Just when you thought you'd survived the first wave.",
+      "artist": "Jon Foster",
+      "number": "12",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 439354,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "TMP",
+        "pJGP",
+        "S99",
+        "M10",
+        "TPR",
+        "E02"
+      ],
+      "original_text": "Target player takes an extra turn after this one.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439354&type=card",
+      "set": "E02",
+      "set_name": "Explorers of Ixalan",
+      "id": "a9b99188f445ffa7efec4de208b518b059c08a35",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "If multiple \"extra turn\" effects resolve in the same turn, take them in the reverse of the order that the effects resolved."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Unsummon",
+      "layout": "normal",
+      "mana_cost": "{U}",
+      "cmc": 1,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Common",
+      "text": "Return target creature to its owner's hand.",
+      "flavor": "Not to be. That is the answer.",
+      "artist": "Izzy",
+      "number": "13",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 439355,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED",
+        "6ED",
+        "7ED",
+        "8ED",
+        "10E",
+        "CON",
+        "M10",
+        "DPA",
+        "M11",
+        "M12",
+        "M13",
+        "HOU",
+        "E02"
+      ],
+      "original_text": "Return target creature to its owner's hand.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439355&type=card",
+      "set": "E02",
+      "set_name": "Explorers of Ixalan",
+      "id": "06bff59fdc6ece03ab071dc8826fa4e945bcc5dc",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Vow of Flight",
+      "layout": "normal",
+      "mana_cost": "{2}{U}",
+      "cmc": 3,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Enchantment \u2014 Aura",
+      "supertypes": null,
+      "subtypes": [
+        "Aura"
+      ],
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Uncommon",
+      "text": "Enchant creature\nEnchanted creature gets +2/+2, has flying, and can't attack you or a planeswalker you control.",
+      "flavor": "\"Soaring is wasted on the winged.\"\n\u2014Edric, Spymaster of Trest",
+      "artist": "Erica Yang",
+      "number": "14",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 439356,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "CMD",
+        "E02"
+      ],
+      "original_text": "Enchant creature\nEnchanted creature gets +2/+2, has flying, and can't attack you or a planeswalker you control.",
+      "original_type": "Enchantment \u2014 Aura",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439356&type=card",
+      "set": "E02",
+      "set_name": "Explorers of Ixalan",
+      "id": "3f3663da26fa2ab16680f30ddbddc8bc99b77701",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Bloodbond Vampire",
+      "layout": "normal",
+      "mana_cost": "{2}{B}{B}",
+      "cmc": 4,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Vampire Shaman Ally",
+      "supertypes": null,
+      "subtypes": [
+        "Vampire",
+        "Shaman",
+        "Ally"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "Whenever you gain life, put a +1/+1 counter on Bloodbond Vampire.",
+      "flavor": "\"Let the vampires join us. In this war, we no longer have the luxury of choosing our comrades.\"\n\u2014General Tazri, allied commander",
+      "artist": "Anna Steinbauer",
+      "number": "15",
+      "power": "3",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": 439357,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "BFZ",
+        "E02"
+      ],
+      "original_text": "Whenever you gain life, put a +1/+1 counter on Bloodbond Vampire.",
+      "original_type": "Creature \u2014 Vampire Shaman Ally",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439357&type=card",
+      "set": "E02",
+      "set_name": "Explorers of Ixalan",
+      "id": "564249e218378310be2fa1afe16440083d70e0c4",
+      "legalities": [
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2015-08-25",
+          "text": "The ability triggers just once for each life-gaining event, whether it's 1 life from Drana's Emissary or 7 life from Nissa's Renewal."
+        },
+        {
+          "date": "2015-08-25",
+          "text": "A creature with lifelink dealing combat damage is a single life-gaining event. For example, if two creatures you control with lifelink deal combat damage at the same time, the ability will trigger twice. However, if a single creature with lifelink deals combat damage to multiple creatures, players, and/or planeswalkers at the same time (perhaps because it has trample or was blocked by more than one creature), the ability will trigger only once."
+        },
+        {
+          "date": "2015-08-25",
+          "text": "In a Two-Headed Giant game, life gained by your teammate won't cause the ability to trigger, even though it causes your team's life total to increase."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Child of Night",
+      "layout": "normal",
+      "mana_cost": "{1}{B}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Vampire",
+      "supertypes": null,
+      "subtypes": [
+        "Vampire"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Lifelink (Damage dealt by this creature also causes you to gain that much life.)",
+      "flavor": "Sins that would be too gruesome in the light of day are made more pleasing in the dark of night.",
+      "artist": "Ash Wood",
+      "number": "16",
+      "power": "2",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 439358,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "M10",
+        "M11",
+        "M12",
+        "DDK",
+        "M14",
+        "M15",
+        "CN2",
+        "IMA",
+        "E02"
+      ],
+      "original_text": "Lifelink (Damage dealt by this creature also causes you to gain that much life.)",
+      "original_type": "Creature \u2014 Vampire",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439358&type=card",
+      "set": "E02",
+      "set_name": "Explorers of Ixalan",
+      "id": "57298d5c446e0ca3985a71a677636d977f062913",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Coat with Venom",
+      "layout": "normal",
+      "mana_cost": "{B}",
+      "cmc": 1,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Common",
+      "text": "Target creature gets +1/+2 and gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)",
+      "flavor": "\"Every Silumgar blade carries the blessing of our dragonlord.\"\n\u2014Xathi the Infallible",
+      "artist": "Johann Bodin",
+      "number": "17",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 439359,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "DTK",
+        "E02"
+      ],
+      "original_text": "Target creature gets +1/+2 and gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439359&type=card",
+      "set": "E02",
+      "set_name": "Explorers of Ixalan",
+      "id": "6c47547eaadf07087c861effecc56e2ef7a2c367",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Doom Blade",
+      "layout": "normal",
+      "mana_cost": "{1}{B}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Uncommon",
+      "text": "Destroy target nonblack creature.",
+      "flavor": "The void is without substance but cuts like steel.",
+      "artist": "Chippy",
+      "number": "18",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 439360,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pMPR",
+        "M10",
+        "M11",
+        "CMD",
+        "M12",
+        "M14",
+        "DDR",
+        "E01",
+        "IMA",
+        "E02"
+      ],
+      "original_text": "Destroy target nonblack creature.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439360&type=card",
+      "set": "E02",
+      "set_name": "Explorers of Ixalan",
+      "id": "19eb1488410ccb9b198b101c7c78b82ecdad3b26",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Innocent Blood",
+      "layout": "normal",
+      "mana_cost": "{B}",
+      "cmc": 1,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Common",
+      "text": "Each player sacrifices a creature.",
+      "flavor": "Zombies mourn for the living and celebrate those who will soon be given the gift of death.",
+      "artist": "Carl Critchlow",
+      "number": "19",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 439361,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ODY",
+        "HOP",
+        "EMA",
+        "DDR",
+        "E02"
+      ],
+      "original_text": "Each player sacrifices a creature.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439361&type=card",
+      "set": "E02",
+      "set_name": "Explorers of Ixalan",
+      "id": "951a476e9be9cf648842a2c3254a018388ebf34d",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2016-06-08",
+          "text": "You can cast Innocent Blood even if some (or all) players control no creatures. Those players are simply unaffected."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Necropolis Regent",
+      "layout": "normal",
+      "mana_cost": "{3}{B}{B}{B}",
+      "cmc": 6,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Vampire",
+      "supertypes": null,
+      "subtypes": [
+        "Vampire"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Flying\nWhenever a creature you control deals combat damage to a player, put that many +1/+1 counters on it.",
+      "flavor": "\"Jarad fancies himself king of the undercity, but he's merely king of rot.\"",
+      "artist": "Winona Nelson",
+      "number": "20",
+      "power": "6",
+      "toughness": "5",
+      "loyalty": null,
+      "multiverse_id": 439362,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "RTR",
+        "E02"
+      ],
+      "original_text": "Flying\nWhenever a creature you control deals combat damage to a player, put that many +1/+1 counters on it.",
+      "original_type": "Creature \u2014 Vampire",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439362&type=card",
+      "set": "E02",
+      "set_name": "Explorers of Ixalan",
+      "id": "5554809485a509de0260a8321c9b59c03b5b965e",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2012-10-01",
+          "text": "If that creature deals combat damage to a player at the same time it's dealt lethal damage (perhaps because it has trample and was blocked), it will die before the triggered ability resolves and puts +1/+1 counters on it."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Urge to Feed",
+      "layout": "normal",
+      "mana_cost": "{B}{B}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Uncommon",
+      "text": "Target creature gets -3/-3 until end of turn. You may tap any number of untapped Vampire creatures you control. If you do, put a +1/+1 counter on each of those Vampires.",
+      "flavor": null,
+      "artist": "Johann Bodin",
+      "number": "21",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 439363,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "WWK",
+        "DDK",
+        "E02"
+      ],
+      "original_text": "Target creature gets -3/-3 until end of turn. You may tap any number of untapped Vampire creatures you control. If you do, put a +1/+1 counter on each of those Vampires.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439363&type=card",
+      "set": "E02",
+      "set_name": "Explorers of Ixalan",
+      "id": "f0441b17ab19c18bf849229a1b2b633a9a287173",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2010-03-01",
+          "text": "You don't choose which untapped Vampire creatures you control to tap (if any) until Urge to Feed resolves."
+        },
+        {
+          "date": "2010-03-01",
+          "text": "If you cast Urge to Feed targeting an untapped Vampire creature you control with toughness 3, its toughness will be reduced to 0 by the -3/-3 effect. However, state-based actions aren't checked until the spell has finished resolving. You may then tap that Vampire and put a +1/+1 counter on it, raising its toughness to 1. It will remain on the battlefield."
+        },
+        {
+          "date": "2010-03-01",
+          "text": "If the targeted creature is an illegal target by the time Urge to Feed resolves, the entire spell doesn't resolve. You can't tap any Vampires."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Vampire Interloper",
+      "layout": "normal",
+      "mana_cost": "{1}{B}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Vampire Scout",
+      "supertypes": null,
+      "subtypes": [
+        "Vampire",
+        "Scout"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Flying\nVampire Interloper can't block.",
+      "flavor": "He listens to every heartbeat, deciding which one of hundreds he will stop.",
+      "artist": "James Ryman",
+      "number": "22",
+      "power": "2",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 439364,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ISD",
+        "E02"
+      ],
+      "original_text": "Flying\nVampire Interloper can't block.",
+      "original_type": "Creature \u2014 Vampire Scout",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439364&type=card",
+      "set": "E02",
+      "set_name": "Explorers of Ixalan",
+      "id": "ec42dedd6206771f134dea4d76c29aa26ade3b6e",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Vampire Nighthawk",
+      "layout": "normal",
+      "mana_cost": "{1}{B}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Vampire Shaman",
+      "supertypes": null,
+      "subtypes": [
+        "Vampire",
+        "Shaman"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "Flying, deathtouch, lifelink",
+      "flavor": null,
+      "artist": "Jason Chan",
+      "number": "23",
+      "power": "2",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": 439365,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pWPN",
+        "ZEN",
+        "CMD",
+        "M13",
+        "DDK",
+        "C13",
+        "DDP",
+        "MM3",
+        "E01",
+        "C17",
+        "E02"
+      ],
+      "original_text": "Flying\nDeathtouch (Any amount of damage this deals to a creature is enough to destroy it.)\nLifelink (Damage dealt by this creature also causes you to gain that much life.)",
+      "original_type": "Creature \u2014 Vampire Shaman",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439365&type=card",
+      "set": "E02",
+      "set_name": "Explorers of Ixalan",
+      "id": "2e6228add8aa24b0abbe6ed53ae173365d96c3c7",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Vampire Noble",
+      "layout": "normal",
+      "mana_cost": "{2}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Vampire",
+      "supertypes": null,
+      "subtypes": [
+        "Vampire"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": null,
+      "flavor": "\"No emergency is so dire that it cannot be dealt with elegantly.\"\n\u2014Olivia Voldaren",
+      "artist": "Ryan Alexander Lee",
+      "number": "24",
+      "power": "3",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 439366,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "SOI",
+        "E02"
+      ],
+      "original_text": null,
+      "original_type": "Creature \u2014 Vampire",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439366&type=card",
+      "set": "E02",
+      "set_name": "Explorers of Ixalan",
+      "id": "29940a30349eef8afbb8b228c9185fbcfb1b7410",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Aggravated Assault",
+      "layout": "normal",
+      "mana_cost": "{2}{R}",
+      "cmc": 3,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Enchantment",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Rare",
+      "text": "{3}{R}{R}: Untap all creatures you control. After this main phase, there is an additional combat phase followed by an additional main phase. Activate this ability only any time you could cast a sorcery.",
+      "flavor": null,
+      "artist": "Greg Staples",
+      "number": "25",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 439367,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ONS",
+        "MPS_AKH",
+        "E02"
+      ],
+      "original_text": "{3}{R}{R}: Untap all creatures you control. After this main phase, there is an additional combat phase followed by an additional main phase. Activate this ability only any time you could cast a sorcery.",
+      "original_type": "Enchantment",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439367&type=card",
+      "set": "E02",
+      "set_name": "Explorers of Ixalan",
+      "id": "90101c4f13c4b32dcbbf7bba65ccbf21e51ff07f",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "If you have enough mana, the ability may be activated more than once in a turn."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "You will normally use this during your post-combat main phase so you can untap any creatures that attacked."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Disaster Radius",
+      "layout": "normal",
+      "mana_cost": "{5}{R}{R}",
+      "cmc": 7,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Rare",
+      "text": "As an additional cost to cast this spell, reveal a creature card from your hand.\nDisaster Radius deals X damage to each creature your opponents control, where X is the revealed card's converted mana cost.",
+      "flavor": null,
+      "artist": "James Paick",
+      "number": "26",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 439368,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ROE",
+        "CMD",
+        "C15",
+        "E02"
+      ],
+      "original_text": "As an additional cost to cast Disaster Radius, reveal a creature card from your hand.\nDisaster Radius deals X damage to each creature your opponents control, where X is the revealed card's converted mana cost.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439368&type=card",
+      "set": "E02",
+      "set_name": "Explorers of Ixalan",
+      "id": "0759fc39e45edbeac1aac3a224b1769c3f3ebe35",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Mass Mutiny",
+      "layout": "normal",
+      "mana_cost": "{3}{R}{R}",
+      "cmc": 5,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Rare",
+      "text": "For each opponent, gain control of up to one target creature that player controls until end of turn. Untap those creatures. They gain haste until end of turn.",
+      "flavor": "\"You too, Squib?\"",
+      "artist": "Sidharth Chaturvedi",
+      "number": "27",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 439369,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "PC2",
+        "C13",
+        "PCA",
+        "E02"
+      ],
+      "original_text": "For each opponent, gain control of up to one target creature that player controls until end of turn. Untap those creatures. They gain haste until end of turn.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439369&type=card",
+      "set": "E02",
+      "set_name": "Explorers of Ixalan",
+      "id": "46825a52c854b1d38e40dee3e10c1f986d179c19",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2012-06-01",
+          "text": "The phrase \"up to one\" was inadvertently omitted from Mass Mutiny's rules text. The card has received errata to correct this."
+        },
+        {
+          "date": "2012-06-01",
+          "text": "You can cast Mass Mutiny even if an opponent doesn't control any creatures. You simply won't choose a target for that opponent."
+        },
+        {
+          "date": "2012-06-01",
+          "text": "Mass Mutiny can target untapped creatures."
+        },
+        {
+          "date": "2012-06-01",
+          "text": "Gaining control of a creature doesn't cause you to gain control of any Auras or Equipment attached to it. However, if you gain control of a creature enchanted by an Aura with totem armor and that creature would be destroyed that turn, instead the Aura will be destroyed and the creature will survive."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Rush of Adrenaline",
+      "layout": "normal",
+      "mana_cost": "{R}",
+      "cmc": 1,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Common",
+      "text": "Target creature gets +2/+1 and gains trample until end of turn.",
+      "flavor": "Scarecrows only go so far in sending the message to stay away.",
+      "artist": "Chris Rallis",
+      "number": "28",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 439370,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "SOI",
+        "E02"
+      ],
+      "original_text": "Target creature gets +2/+1 and gains trample until end of turn.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439370&type=card",
+      "set": "E02",
+      "set_name": "Explorers of Ixalan",
+      "id": "f0ebd29615a942d951f0bf05c6750b7a4a87da6c",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Shared Animosity",
+      "layout": "normal",
+      "mana_cost": "{2}{R}",
+      "cmc": 3,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Enchantment",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Rare",
+      "text": "Whenever a creature you control attacks, it gets +1/+0 until end of turn for each other attacking creature that shares a creature type with it.",
+      "flavor": "\"It is the nature of souls that they burn more brightly together than apart.\"\n\u2014Vessifrus, flamekin demagogue",
+      "artist": "Chuck Lukacs",
+      "number": "29",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 439371,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MOR",
+        "E02"
+      ],
+      "original_text": "Whenever a creature you control attacks, it gets +1/+0 until end of turn for each other attacking creature that shares a creature type with it.",
+      "original_type": "Enchantment",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439371&type=card",
+      "set": "E02",
+      "set_name": "Explorers of Ixalan",
+      "id": "bd66aa215aa82ebe450e08d443a478fe7d10ff9a",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-04-01",
+          "text": "This ability counts creatures, not creature types. For example, if you attack with five creatures \u2014 an Elf Shaman, an Elf Warrior, a Goblin Shaman, an Elemental, and a creature with all creature types \u2014 the ability will trigger five times. Those creatures will get +3/+0, +2/+0, +2/+0, +1/+0, and +4/+0, respectively."
+        },
+        {
+          "date": "2008-04-01",
+          "text": "In a Two-Headed Giant game, only creatures you control trigger the ability and get the bonus, but your teammate's attacking creatures are included in the calculation of those bonuses."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Vow of Lightning",
+      "layout": "normal",
+      "mana_cost": "{2}{R}",
+      "cmc": 3,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Enchantment \u2014 Aura",
+      "supertypes": null,
+      "subtypes": [
+        "Aura"
+      ],
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Uncommon",
+      "text": "Enchant creature\nEnchanted creature gets +2/+2, has first strike, and can't attack you or a planeswalker you control.",
+      "flavor": "\"Ruhan would never agree to such terms.\"\n\u2014Ruhan of the Fomori",
+      "artist": "Svetlin Velinov",
+      "number": "30",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 439372,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "CMD",
+        "CMA",
+        "E02"
+      ],
+      "original_text": "Enchant creature\nEnchanted creature gets +2/+2, has first strike, and can't attack you or a planeswalker you control.",
+      "original_type": "Enchantment \u2014 Aura",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439372&type=card",
+      "set": "E02",
+      "set_name": "Explorers of Ixalan",
+      "id": "ad41c2074d8b7bbcf836be4956bdb0a531dc85c5",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Borderland Ranger",
+      "layout": "normal",
+      "mana_cost": "{2}{G}",
+      "cmc": 3,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Scout",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Scout"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "When Borderland Ranger enters the battlefield, you may search your library for a basic land card, reveal it, and put it into your hand. If you do, shuffle your library.",
+      "flavor": "\"There's only one route from Kessig into Stensia. Unless you come with me.\"",
+      "artist": "Zoltan Boros",
+      "number": "31",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 439373,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "M10",
+        "AVR",
+        "E02"
+      ],
+      "original_text": "When Borderland Ranger enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.",
+      "original_type": "Creature \u2014 Human Scout",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439373&type=card",
+      "set": "E02",
+      "set_name": "Explorers of Ixalan",
+      "id": "082df3f147cc06c8be6a789eba963e5a562f741b",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Giant Growth",
+      "layout": "normal",
+      "mana_cost": "{G}",
+      "cmc": 1,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Common",
+      "text": "Target creature gets +3/+3 until end of turn.",
+      "flavor": null,
+      "artist": "Matt Cavotta",
+      "number": "32",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 439374,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "5ED",
+        "ATH",
+        "6ED",
+        "BRB",
+        "pSUS",
+        "pFNM",
+        "S00",
+        "BTD",
+        "7ED",
+        "pMPR",
+        "DKM",
+        "8ED",
+        "9ED",
+        "10E",
+        "EVG",
+        "ME2",
+        "M10",
+        "ME3",
+        "DDD",
+        "DPA",
+        "M11",
+        "ME4",
+        "RTR",
+        "M14",
+        "DD3_EVG",
+        "DD3_GVL",
+        "E02",
+        "A25"
+      ],
+      "original_text": "Target creature gets +3/+3 until end of turn.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439374&type=card",
+      "set": "E02",
+      "set_name": "Explorers of Ixalan",
+      "id": "ec8c7d62dbaf9a037e97f119f65144f0254e3c97",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Hunter's Prowess",
+      "layout": "normal",
+      "mana_cost": "{4}{G}",
+      "cmc": 5,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Rare",
+      "text": "Until end of turn, target creature gets +3/+3 and gains trample and \"Whenever this creature deals combat damage to a player, draw that many cards.\"",
+      "flavor": "To be counted among the warriors of Setessa's Leina Tower, you must not fear death, only failure.",
+      "artist": "Greg Staples",
+      "number": "33",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 439375,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "BNG",
+        "E01",
+        "C17",
+        "E02"
+      ],
+      "original_text": "Until end of turn, target creature gets +3/+3 and gains trample and \"Whenever this creature deals combat damage to a player, draw that many cards.\"",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439375&type=card",
+      "set": "E02",
+      "set_name": "Explorers of Ixalan",
+      "id": "03d17a6740c0f4611f103cf197f696bf78216499",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Prey Upon",
+      "layout": "normal",
+      "mana_cost": "{G}",
+      "cmc": 1,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Common",
+      "text": "Target creature you control fights target creature you don't control. (Each deals damage equal to its power to the other.)",
+      "flavor": "Nature exists in balance: river and jungle, sky and sea, predator and prey.",
+      "artist": "Deruchenko Alexander",
+      "number": "34",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 439376,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ISD",
+        "M13",
+        "DDL",
+        "EMN",
+        "CN2",
+        "AER",
+        "E02"
+      ],
+      "original_text": "Target creature you control fights target creature you don't control. (Each deals damage equal to its power to the other.)",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439376&type=card",
+      "set": "E02",
+      "set_name": "Explorers of Ixalan",
+      "id": "df868578956dc7a48ddd9149be36ed46ea6e0167",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2012-07-01",
+          "text": "If either or both targets are illegal when Prey Upon tries to resolve, no creature will deal or be dealt damage."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Rancor",
+      "layout": "normal",
+      "mana_cost": "{G}",
+      "cmc": 1,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Enchantment \u2014 Aura",
+      "supertypes": null,
+      "subtypes": [
+        "Aura"
+      ],
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Uncommon",
+      "text": "Enchant creature\nEnchanted creature gets +2/+0 and has trample.\nWhen Rancor is put into a graveyard from the battlefield, return Rancor to its owner's hand.",
+      "flavor": null,
+      "artist": "Kev Walker",
+      "number": "35",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 439377,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ULG",
+        "pFNM",
+        "DDD",
+        "ARC",
+        "PC2",
+        "M13",
+        "DD3_GVL",
+        "EMA",
+        "PCA",
+        "E02",
+        "A25"
+      ],
+      "original_text": "Enchant creature\nEnchanted creature gets +2/+0 and has trample.\nWhen Rancor is put into a graveyard from the battlefield, return Rancor to its owner's hand.",
+      "original_type": "Enchantment \u2014 Aura",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439377&type=card",
+      "set": "E02",
+      "set_name": "Explorers of Ixalan",
+      "id": "978f6fde052a3876021a149a2884e04c7d9c5957",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2018-03-16",
+          "text": "If the creature this Aura would enchant is an illegal target by the time Rancor tries to resolve, the Aura spell doesn't resolve. It won't enter the battlefield, so it won't be put into a graveyard from the battlefield and its ability won't trigger."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Soul of the Harvest",
+      "layout": "normal",
+      "mana_cost": "{4}{G}{G}",
+      "cmc": 6,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Elemental",
+      "supertypes": null,
+      "subtypes": [
+        "Elemental"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": "Trample\nWhenever another nontoken creature enters the battlefield under your control, you may draw a card.",
+      "flavor": "It's there when a seed sprouts, when gourds ripen on the vines, and when the reapers cut the grains under the Harvest Moon.",
+      "artist": "Eytan Zana",
+      "number": "36",
+      "power": "6",
+      "toughness": "6",
+      "loyalty": null,
+      "multiverse_id": 439378,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "AVR",
+        "C14",
+        "W16",
+        "CMA",
+        "E02"
+      ],
+      "original_text": "Trample\nWhenever another nontoken creature enters the battlefield under your control, you may draw a card.",
+      "original_type": "Creature \u2014 Elemental",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439378&type=card",
+      "set": "E02",
+      "set_name": "Explorers of Ixalan",
+      "id": "d36a2fdf3a23e13c4d5f8da5d8fd2c8fc6c38fd3",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2012-05-01",
+          "text": "A creature card that enters the battlefield as a copy of a token creature is still a nontoken creature. You'll be able to draw a card."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Vow of Wildness",
+      "layout": "normal",
+      "mana_cost": "{2}{G}",
+      "cmc": 3,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Enchantment \u2014 Aura",
+      "supertypes": null,
+      "subtypes": [
+        "Aura"
+      ],
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Uncommon",
+      "text": "Enchant creature\nEnchanted creature gets +3/+3, has trample, and can't attack you or a planeswalker you control.",
+      "flavor": "\"Savagery is the birthright of every creature that draws breath\u2014or wishes it could.\"\n\u2014Karador, Ghost Chieftain",
+      "artist": "Jim Pavelec",
+      "number": "37",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 439379,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "CMD",
+        "E02"
+      ],
+      "original_text": "Enchant creature\nEnchanted creature gets +3/+3, has trample, and can't attack you or a planeswalker you control.",
+      "original_type": "Enchantment \u2014 Aura",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439379&type=card",
+      "set": "E02",
+      "set_name": "Explorers of Ixalan",
+      "id": "6b511f9257a060ffb60389c655eeb6a16d0c58fc",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Jungle Barrier",
+      "layout": "normal",
+      "mana_cost": "{2}{G}{U}",
+      "cmc": 4,
+      "colors": [
+        "Blue",
+        "Green"
+      ],
+      "color_identity": [
+        "U",
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Plant Wall",
+      "supertypes": null,
+      "subtypes": [
+        "Plant",
+        "Wall"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "Defender (This creature can't attack.)\nWhen Jungle Barrier enters the battlefield, draw a card.",
+      "flavor": "Within silent clearings guarded by living palisades, the natural world guards its most precious secrets.",
+      "artist": "Christine Choi",
+      "number": "38",
+      "power": "2",
+      "toughness": "6",
+      "loyalty": null,
+      "multiverse_id": 439380,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "APC",
+        "IMA",
+        "E02"
+      ],
+      "original_text": "Defender\nWhen Jungle Barrier enters the battlefield, draw a card.",
+      "original_type": "Creature \u2014 Plant Wall",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439380&type=card",
+      "set": "E02",
+      "set_name": "Explorers of Ixalan",
+      "id": "7ab1db2a3b9e6e967e97e8d6765bfc2e38e43fa2",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Lightning Helix",
+      "layout": "normal",
+      "mana_cost": "{R}{W}",
+      "cmc": 2,
+      "colors": [
+        "White",
+        "Red"
+      ],
+      "color_identity": [
+        "W",
+        "R"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Uncommon",
+      "text": "Lightning Helix deals 3 damage to any target and you gain 3 life.",
+      "flavor": "Though less well-known than its army of soldiers, the Boros Legion's mage-priests are as respected by the innocent as they are hated by the ghosts of the guilty.",
+      "artist": "Kev Walker",
+      "number": "39",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 439381,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pMPR",
+        "RAV",
+        "HOP",
+        "DDH",
+        "MMA",
+        "DDN",
+        "IMA",
+        "E02"
+      ],
+      "original_text": "Lightning Helix deals 3 damage to target creature or player and you gain 3 life.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439381&type=card",
+      "set": "E02",
+      "set_name": "Explorers of Ixalan",
+      "id": "4df0dfcf409f97460fae3c5857d3af8038c321da",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2017-11-17",
+          "text": "If the chosen target is illegal when Lightning Helix tries to resolve, it won't resolve and none of its effects will happen. You won't gain 3 life."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Mortify",
+      "layout": "normal",
+      "mana_cost": "{1}{W}{B}",
+      "cmc": 3,
+      "colors": [
+        "White",
+        "Black"
+      ],
+      "color_identity": [
+        "W",
+        "B"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Uncommon",
+      "text": "Destroy target creature or enchantment.",
+      "flavor": "Many who cross Sorin's path come down with a sudden and fatal case of being-in-the-way-of-a-millennia-old-vampire.",
+      "artist": "Nils Hamm",
+      "number": "40",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 439382,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pMPR",
+        "GPT",
+        "CMD",
+        "DDK",
+        "CNS",
+        "C16",
+        "CMA",
+        "C17",
+        "E02"
+      ],
+      "original_text": "Destroy target creature or enchantment.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439382&type=card",
+      "set": "E02",
+      "set_name": "Explorers of Ixalan",
+      "id": "7aba01a50caa1786411081aa38f21b70660d77a0",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2006-02-01",
+          "text": "This spell isn't Modal. When it resolves, it will destroy the target if it's a creature or an enchantment, even if it changed from one to the other between targeting and resolution."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Zealous Persecution",
+      "layout": "normal",
+      "mana_cost": "{W}{B}",
+      "cmc": 2,
+      "colors": [
+        "White",
+        "Black"
+      ],
+      "color_identity": [
+        "W",
+        "B"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Uncommon",
+      "text": "Until end of turn, creatures you control get +1/+1 and creatures your opponents control get -1/-1.",
+      "flavor": "\"Rejoice! Your vile blood will help fulfill our righteous cause.\"",
+      "artist": "Sara Winters",
+      "number": "41",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 439383,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ARB",
+        "DDK",
+        "MD1",
+        "EMA",
+        "E02"
+      ],
+      "original_text": "Until end of turn, creatures you control get +1/+1 and creatures your opponents control get -1/-1.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439383&type=card",
+      "set": "E02",
+      "set_name": "Explorers of Ixalan",
+      "id": "5a402688e8adbea5fabd489712f771b8956a11c9",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Adaptive Automaton",
+      "layout": "normal",
+      "mana_cost": "{3}",
+      "cmc": 3,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact Creature \u2014 Construct",
+      "supertypes": null,
+      "subtypes": [
+        "Construct"
+      ],
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": "As Adaptive Automaton enters the battlefield, choose a creature type.\nAdaptive Automaton is the chosen type in addition to its other types.\nOther creatures you control of the chosen type get +1/+1.",
+      "flavor": null,
+      "artist": "Igor Kieryluk",
+      "number": "42",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 439384,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "M12",
+        "E02"
+      ],
+      "original_text": "As Adaptive Automaton enters the battlefield, choose a creature type.\nAdaptive Automaton is the chosen type in addition to its other types.\nOther creatures you control of the chosen type get +1/+1.",
+      "original_type": "Artifact Creature \u2014 Construct",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439384&type=card",
+      "set": "E02",
+      "set_name": "Explorers of Ixalan",
+      "id": "5258c97c942c2f5c0163bbc82b58f4ad047ae852",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2011-09-22",
+          "text": "The choice of creature type is made as Adaptive Automaton enters the battlefield. Players can't respond to this choice. The bonus starts applying immediately."
+        },
+        {
+          "date": "2011-09-22",
+          "text": "You must choose an existing _Magic_ creature type."
+        },
+        {
+          "date": "2011-09-22",
+          "text": "Even though Adaptive Automaton is a Construct, other Construct creatures you control won't get +1/+1 (unless you chose Construct as Adaptive Automaton entered the battlefield)."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Prismatic Lens",
+      "layout": "normal",
+      "mana_cost": "{2}",
+      "cmc": 2,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Uncommon",
+      "text": "{T}: Add {C}.\n{1}, {T}: Add one mana of any color.",
+      "flavor": "It bends not light but mana, aligning its chaotic currents into the sharp angles necessary for the mystic's purposes.",
+      "artist": "Alan Pollack",
+      "number": "43",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 439385,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "TSP",
+        "EMA",
+        "E02"
+      ],
+      "original_text": "{T}: Add {C} to your mana pool.\n{1}, {T}: Add one mana of any color to your mana pool.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439385&type=card",
+      "set": "E02",
+      "set_name": "Explorers of Ixalan",
+      "id": "f7dd9382691fb75852edbee36baa05ef3de6211e",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Quicksilver Amulet",
+      "layout": "normal",
+      "mana_cost": "{4}",
+      "cmc": 4,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Rare",
+      "text": "{4}, {T}: You may put a creature card from your hand onto the battlefield.",
+      "flavor": "Those who examine the amulet too closely have been known to become part of its ornate carvings.",
+      "artist": "Brad Rigney",
+      "number": "44",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 439386,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ULG",
+        "M12",
+        "E02"
+      ],
+      "original_text": "{4}, {T}: You may put a creature card from your hand onto the battlefield.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439386&type=card",
+      "set": "E02",
+      "set_name": "Explorers of Ixalan",
+      "id": "d1be80bb7dbc05fb2cabf7068f083219e3a5a581",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "Any 'X' in the creature's cost is treated as zero."
+        },
+        {
+          "date": "2007-05-01",
+          "text": "Putting the card onto the battlefield is optional. When the ability resolves, you can choose not to."
+        },
+        {
+          "date": "2011-09-22",
+          "text": "You don't pay any costs of that creature card, including additional costs."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Crumbling Necropolis",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "U",
+        "B",
+        "R"
+      ],
+      "names": null,
+      "type": "Land",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Uncommon",
+      "text": "Crumbling Necropolis enters the battlefield tapped.\n{T}: Add {U}, {B}, or {R}.",
+      "flavor": "It's said the spirits of the drowned dead hang their lights from the shattered figureheads.",
+      "artist": "Volkan Baga",
+      "number": "45",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 439387,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ALA",
+        "DDH",
+        "C13",
+        "C16",
+        "MM3",
+        "E01",
+        "C17",
+        "E02"
+      ],
+      "original_text": "Crumbling Necropolis enters the battlefield tapped.\n{T}: Add {U}, {B}, or {R} to your mana pool.",
+      "original_type": "Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439387&type=card",
+      "set": "E02",
+      "set_name": "Explorers of Ixalan",
+      "id": "25e1fcf920711896c60c1b52c452d42fd6e090b8",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Jungle Shrine",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "R",
+        "G",
+        "W"
+      ],
+      "names": null,
+      "type": "Land",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Uncommon",
+      "text": "Jungle Shrine enters the battlefield tapped.\n{T}: Add {R}, {G}, or {W}.",
+      "flavor": "The people of the Sun Empire worship the sun in three aspects: the creative sun, the sustaining sun, and the destructive sun.",
+      "artist": "Rob Alexander",
+      "number": "46",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 439388,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ALA",
+        "DDH",
+        "C13",
+        "C16",
+        "MM3",
+        "C17",
+        "E02"
+      ],
+      "original_text": "Jungle Shrine enters the battlefield tapped.\n{T}: Add {R}, {G}, or {W} to your mana pool.",
+      "original_type": "Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439388&type=card",
+      "set": "E02",
+      "set_name": "Explorers of Ixalan",
+      "id": "11c9d53c5a65e582ede11a1fdd2c61f195233e20",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Tainted Field",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "W",
+        "B"
+      ],
+      "names": null,
+      "type": "Land",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Uncommon",
+      "text": "{T}: Add {C}.\n{T}: Add {W} or {B}. Activate this ability only if you control a Swamp.",
+      "flavor": null,
+      "artist": "Don Hazeltine",
+      "number": "47",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 439389,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "TOR",
+        "DDK",
+        "C15",
+        "E02"
+      ],
+      "original_text": "{T}: Add {C} to your mana pool.\n{T}: Add {W} or {B} to your mana pool. Activate this ability only if you control a Swamp.",
+      "original_type": "Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439389&type=card",
+      "set": "E02",
+      "set_name": "Explorers of Ixalan",
+      "id": "61069ad749af58a6959e364c8711560cb36a04e6",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    }
+  ]
+}

@@ -1,0 +1,4404 @@
+{
+  "code": "W17",
+  "name": "Welcome Deck 2017",
+  "type": "starter",
+  "border": "black",
+  "mkm_id": null,
+  "mkm_name": null,
+  "release_date": "2017-04-15",
+  "gatherer_code": null,
+  "magic_cards_info_code": "w17",
+  "booster": null,
+  "old_code": null,
+  "block": "Amonkhet",
+  "online_only": null,
+  "cards": [
+    {
+      "name": "Divine Verdict",
+      "layout": "normal",
+      "mana_cost": "{3}{W}",
+      "cmc": 4,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Common",
+      "text": "Destroy target attacking or blocking creature.",
+      "flavor": "\"Guilty.\"",
+      "artist": "Kev Walker",
+      "number": "1",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 429890,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "M10",
+        "M13",
+        "THS",
+        "M15",
+        "ORI",
+        "W17",
+        "RIX"
+      ],
+      "original_text": "Destroy target attacking or blocking creature.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429890&type=card",
+      "set": "W17",
+      "set_name": "Welcome Deck 2017",
+      "id": "d3817115a171fd97f1a4eb5c1c0e2a237877de92",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2009-10-01",
+          "text": "An \"attacking creature\" is one that has been declared as an attacker this combat, or one that was put onto the battlefield attacking this combat. Unless that creature leaves combat, it continues to be an attacking creature through the end of combat step, even if the player it was attacking has left the game, or the planeswalker it was attacking has left combat."
+        },
+        {
+          "date": "2009-10-01",
+          "text": "A \"blocking creature\" is one that has been declared as a blocker this combat, or one that was put onto the battlefield blocking this combat. Unless that creature leaves combat, it continues to be a blocking creature through the end of combat step, even if the creature or creatures it was blocking are no longer on the battlefield or have otherwise left combat."
+        },
+        {
+          "date": "2012-07-01",
+          "text": "Destroying a blocking creature won't cause any of the creatures it was blocking to become unblocked. They won't deal combat damage to the defending player or planeswalker (unless they have trample)."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "G\u00f6ttliches Verdikt",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429920&type=card",
+          "language": "German",
+          "multiverseid": 429920
+        },
+        {
+          "name": "Veredicto divino",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429950&type=card",
+          "language": "Spanish",
+          "multiverseid": 429950
+        },
+        {
+          "name": "Verdict divin",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429980&type=card",
+          "language": "French",
+          "multiverseid": 429980
+        },
+        {
+          "name": "Verdetto Divino",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430010&type=card",
+          "language": "Italian",
+          "multiverseid": 430010
+        },
+        {
+          "name": "\u795e\u8056\u306a\u308b\u8a55\u6c7a",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430040&type=card",
+          "language": "Japanese",
+          "multiverseid": 430040
+        },
+        {
+          "name": "\uc2e0\uc758 \ud310\uacb0",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430070&type=card",
+          "language": "Korean",
+          "multiverseid": 430070
+        },
+        {
+          "name": "Veredito Divino",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430100&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 430100
+        },
+        {
+          "name": "\u0411\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u041f\u0440\u0438\u0433\u043e\u0432\u043e\u0440",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430130&type=card",
+          "language": "Russian",
+          "multiverseid": 430130
+        },
+        {
+          "name": "\u660e\u5723\u88c1\u5b9a",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430160&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 430160
+        },
+        {
+          "name": "\u660e\u8056\u88c1\u5b9a",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430190&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 430190
+        }
+      ]
+    },
+    {
+      "name": "Glory Seeker",
+      "layout": "normal",
+      "mana_cost": "{1}{W}",
+      "cmc": 2,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Soldier",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Soldier"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": null,
+      "flavor": "\"There's no contract to sign, no oath to swear. The enlistment procedure is to unsheathe your sword and point it at the enemy.\"",
+      "artist": "Matt Cavotta",
+      "number": "2",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 429891,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ONS",
+        "8ED",
+        "9ED",
+        "ROE",
+        "DDF",
+        "W17"
+      ],
+      "original_text": null,
+      "original_type": "Creature \u2014 Human Soldier",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429891&type=card",
+      "set": "W17",
+      "set_name": "Welcome Deck 2017",
+      "id": "addc1c68817dc9a90b35c82f6ef9887aac7407ec",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "Ruhmsucher",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429921&type=card",
+          "language": "German",
+          "multiverseid": 429921
+        },
+        {
+          "name": "Buscador de gloria",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429951&type=card",
+          "language": "Spanish",
+          "multiverseid": 429951
+        },
+        {
+          "name": "Chercheur de gloire",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429981&type=card",
+          "language": "French",
+          "multiverseid": 429981
+        },
+        {
+          "name": "Cacciatore di Gloria",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430011&type=card",
+          "language": "Italian",
+          "multiverseid": 430011
+        },
+        {
+          "name": "\u6804\u5149\u306e\u63a2\u6c42\u8005",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430041&type=card",
+          "language": "Japanese",
+          "multiverseid": 430041
+        },
+        {
+          "name": "\uc601\uad11\uc744 \ucd94\uad6c\ud558\ub294 \uc790",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430071&type=card",
+          "language": "Korean",
+          "multiverseid": 430071
+        },
+        {
+          "name": "Perseguidor da Gl\u00f3ria",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430101&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 430101
+        },
+        {
+          "name": "\u0418\u0441\u043a\u0430\u0442\u0435\u043b\u044c\u043d\u0438\u0446\u0430 \u0421\u043b\u0430\u0432\u044b",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430131&type=card",
+          "language": "Russian",
+          "multiverseid": 430131
+        },
+        {
+          "name": "\u8363\u8000\u8ffd\u6c42\u8005",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430161&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 430161
+        },
+        {
+          "name": "\u69ae\u8000\u8ffd\u6c42\u8005",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430191&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 430191
+        }
+      ]
+    },
+    {
+      "name": "Serra Angel",
+      "layout": "normal",
+      "mana_cost": "{3}{W}{W}",
+      "cmc": 5,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Angel",
+      "supertypes": null,
+      "subtypes": [
+        "Angel"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "Flying, vigilance",
+      "flavor": "Follow the light. In its absence, follow her.",
+      "artist": "Greg Staples",
+      "number": "3",
+      "power": "4",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": 429892,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ATH",
+        "pWOS",
+        "7ED",
+        "8ED",
+        "9ED",
+        "10E",
+        "DDC",
+        "M10",
+        "M11",
+        "ME4",
+        "CMD",
+        "M12",
+        "M13",
+        "M14",
+        "M15",
+        "DD3_DVD",
+        "ORI",
+        "V15",
+        "W16",
+        "EMA",
+        "W17",
+        "CMA",
+        "IMA",
+        "DOM"
+      ],
+      "original_text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nVigilance (Attacking doesn't cause this creature to tap.)",
+      "original_type": "Creature \u2014 Angel",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429892&type=card",
+      "set": "W17",
+      "set_name": "Welcome Deck 2017",
+      "id": "922edf945835a94f896b1bf0e1a844b090d0adc9",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "Serra-Engel",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429922&type=card",
+          "language": "German",
+          "multiverseid": 429922
+        },
+        {
+          "name": "\u00c1ngel de Serra",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429952&type=card",
+          "language": "Spanish",
+          "multiverseid": 429952
+        },
+        {
+          "name": "Ange de Serra",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429982&type=card",
+          "language": "French",
+          "multiverseid": 429982
+        },
+        {
+          "name": "Angelo di Serra",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430012&type=card",
+          "language": "Italian",
+          "multiverseid": 430012
+        },
+        {
+          "name": "\u30bb\u30e9\u306e\u5929\u4f7f",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430042&type=card",
+          "language": "Japanese",
+          "multiverseid": 430042
+        },
+        {
+          "name": "\uc138\ub77c \ucc9c\uc0ac",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430072&type=card",
+          "language": "Korean",
+          "multiverseid": 430072
+        },
+        {
+          "name": "Anjo Serra",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430102&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 430102
+        },
+        {
+          "name": "\u0410\u043d\u0433\u0435\u043b \u0421\u0435\u0440\u0440\u044b",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430132&type=card",
+          "language": "Russian",
+          "multiverseid": 430132
+        },
+        {
+          "name": "\u6492\u62c9\u5929\u4f7f",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430162&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 430162
+        },
+        {
+          "name": "\u6492\u62c9\u5929\u4f7f",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430192&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 430192
+        }
+      ]
+    },
+    {
+      "name": "Standing Troops",
+      "layout": "normal",
+      "mana_cost": "{2}{W}",
+      "cmc": 3,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Soldier",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Soldier"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Vigilance",
+      "flavor": "\"Bant sentries were called the Angel Line. They never faltered, and they were ready to die defending their position.\"\n\u2014Elspeth Tirel",
+      "artist": "Zoltan Boros",
+      "number": "4",
+      "power": "1",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": 429893,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "EXO",
+        "6ED",
+        "7ED",
+        "8ED",
+        "DDO",
+        "TPR",
+        "W17"
+      ],
+      "original_text": "Vigilance (Attacking doesn't cause this creature to tap.)",
+      "original_type": "Creature \u2014 Human Soldier",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429893&type=card",
+      "set": "W17",
+      "set_name": "Welcome Deck 2017",
+      "id": "7057b12e1dd689f3a2c822173ca28cc1da5afe91",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "Stehende Truppen",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429923&type=card",
+          "language": "German",
+          "multiverseid": 429923
+        },
+        {
+          "name": "Tropas firmes",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429953&type=card",
+          "language": "Spanish",
+          "multiverseid": 429953
+        },
+        {
+          "name": "Troupes r\u00e9guli\u00e8res",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429983&type=card",
+          "language": "French",
+          "multiverseid": 429983
+        },
+        {
+          "name": "Truppe in Difesa",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430013&type=card",
+          "language": "Italian",
+          "multiverseid": 430013
+        },
+        {
+          "name": "\u5e38\u5099\u8ecd",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430043&type=card",
+          "language": "Japanese",
+          "multiverseid": 430043
+        },
+        {
+          "name": "\uc0c1\ube44\uad70",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430073&type=card",
+          "language": "Korean",
+          "multiverseid": 430073
+        },
+        {
+          "name": "Tropas Posicionadas",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430103&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 430103
+        },
+        {
+          "name": "\u0420\u0435\u0433\u0443\u043b\u044f\u0440\u043d\u043e\u0435 \u0412\u043e\u0439\u0441\u043a\u043e",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430133&type=card",
+          "language": "Russian",
+          "multiverseid": 430133
+        },
+        {
+          "name": "\u5e38\u9a7b\u519b\u961f",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430163&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 430163
+        },
+        {
+          "name": "\u5e38\u99d0\u8ecd\u968a",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430193&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 430193
+        }
+      ]
+    },
+    {
+      "name": "Stormfront Pegasus",
+      "layout": "normal",
+      "mana_cost": "{1}{W}",
+      "cmc": 2,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Pegasus",
+      "supertypes": null,
+      "subtypes": [
+        "Pegasus"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "Flying",
+      "flavor": "Its hooves touch the earth only when a hero must rise.",
+      "artist": "rk post",
+      "number": "5",
+      "power": "2",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 429894,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "M10",
+        "M11",
+        "M12",
+        "W17"
+      ],
+      "original_text": "Flying (This creature can't be blocked except by creatures with flying or reach.)",
+      "original_type": "Creature \u2014 Pegasus",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429894&type=card",
+      "set": "W17",
+      "set_name": "Welcome Deck 2017",
+      "id": "45dd44d0468e8300098d5a0bd1b19504429bab71",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "Sturmfront-Pegasus",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429924&type=card",
+          "language": "German",
+          "multiverseid": 429924
+        },
+        {
+          "name": "Pegaso Frente de Tormenta",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429954&type=card",
+          "language": "Spanish",
+          "multiverseid": 429954
+        },
+        {
+          "name": "P\u00e9gase du front de l'orage",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429984&type=card",
+          "language": "French",
+          "multiverseid": 429984
+        },
+        {
+          "name": "Pegaso del Fronte della Tempesta",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430014&type=card",
+          "language": "Italian",
+          "multiverseid": 430014
+        },
+        {
+          "name": "\u5d50\u524d\u7dda\u306e\u30da\u30ac\u30b5\u30b9",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430044&type=card",
+          "language": "Japanese",
+          "multiverseid": 430044
+        },
+        {
+          "name": "\ud3ed\ud48d\uc804\uc120 \ud398\uac00\uc218\uc2a4",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430074&type=card",
+          "language": "Korean",
+          "multiverseid": 430074
+        },
+        {
+          "name": "P\u00e9gaso da Tempestade",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430104&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 430104
+        },
+        {
+          "name": "\u0428\u0442\u043e\u0440\u043c\u043e\u0432\u043e\u0439 \u041f\u0435\u0433\u0430\u0441",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430134&type=card",
+          "language": "Russian",
+          "multiverseid": 430134
+        },
+        {
+          "name": "\u66b4\u950b\u98de\u9a6c",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430164&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 430164
+        },
+        {
+          "name": "\u66b4\u92d2\u98db\u99ac",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430194&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 430194
+        }
+      ]
+    },
+    {
+      "name": "Victory's Herald",
+      "layout": "normal",
+      "mana_cost": "{3}{W}{W}{W}",
+      "cmc": 6,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Angel",
+      "supertypes": null,
+      "subtypes": [
+        "Angel"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": "Flying\nWhenever Victory's Herald attacks, attacking creatures gain flying and lifelink until end of turn.",
+      "flavor": null,
+      "artist": "rk post",
+      "number": "6",
+      "power": "4",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": 429895,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MBS",
+        "C15",
+        "W17"
+      ],
+      "original_text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhenever Victory's Herald attacks, attacking creatures gain flying and lifelink until end of turn. (Damage dealt by those creatures also causes you to gain that much life.)",
+      "original_type": "Creature \u2014 Angel",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429895&type=card",
+      "set": "W17",
+      "set_name": "Welcome Deck 2017",
+      "id": "d1cc334e239c65b1716c8c3fd470ad778dbea439",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2011-06-01",
+          "text": "Even though the triggered ability affects only attacking creatures, the bonuses will remain for the rest of the turn."
+        },
+        {
+          "date": "2011-06-01",
+          "text": "Victory's Herald also gains flying (which will likely be redundant) and lifelink if it's still attacking when the ability resolves."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "Botschafter des Sieges",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429925&type=card",
+          "language": "German",
+          "multiverseid": 429925
+        },
+        {
+          "name": "Heraldo de la victoria",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429955&type=card",
+          "language": "Spanish",
+          "multiverseid": 429955
+        },
+        {
+          "name": "H\u00e9raut de la Victoire",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429985&type=card",
+          "language": "French",
+          "multiverseid": 429985
+        },
+        {
+          "name": "Messaggera di Vittoria",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430015&type=card",
+          "language": "Italian",
+          "multiverseid": 430015
+        },
+        {
+          "name": "\u52dd\u5229\u306e\u4f1d\u4ee4",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430045&type=card",
+          "language": "Japanese",
+          "multiverseid": 430045
+        },
+        {
+          "name": "\uc2b9\ub9ac\uc758 \uc804\ub839",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430075&type=card",
+          "language": "Korean",
+          "multiverseid": 430075
+        },
+        {
+          "name": "Arauto da Vit\u00f3ria",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430105&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 430105
+        },
+        {
+          "name": "\u0412\u0435\u0441\u0442\u043d\u0438\u043a \u041f\u043e\u0431\u0435\u0434\u044b",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430135&type=card",
+          "language": "Russian",
+          "multiverseid": 430135
+        },
+        {
+          "name": "\u80dc\u5229\u4f20\u4ee4\u4f7f",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430165&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 430165
+        },
+        {
+          "name": "\u52dd\u5229\u50b3\u4ee4\u4f7f",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430195&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 430195
+        }
+      ]
+    },
+    {
+      "name": "Air Elemental",
+      "layout": "normal",
+      "mana_cost": "{3}{U}{U}",
+      "cmc": 5,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Elemental",
+      "supertypes": null,
+      "subtypes": [
+        "Elemental"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "Flying",
+      "flavor": "Pray that it doesn't seek the safety of your lungs.",
+      "artist": "Kev Walker",
+      "number": "7",
+      "power": "4",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": 429896,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "5ED",
+        "PO2",
+        "6ED",
+        "S99",
+        "BRB",
+        "BTD",
+        "7ED",
+        "8ED",
+        "9ED",
+        "10E",
+        "DD2",
+        "M10",
+        "DPA",
+        "ME4",
+        "DD3_JVC",
+        "W17",
+        "XLN"
+      ],
+      "original_text": "Flying (This creature can't be blocked except by creatures with flying or reach.)",
+      "original_type": "Creature \u2014 Elemental",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429896&type=card",
+      "set": "W17",
+      "set_name": "Welcome Deck 2017",
+      "id": "ee40d80fd739c6c9d2bd236d377623d2a2fe5a9e",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "Luftelementar",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429926&type=card",
+          "language": "German",
+          "multiverseid": 429926
+        },
+        {
+          "name": "Elemental de aire",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429956&type=card",
+          "language": "Spanish",
+          "multiverseid": 429956
+        },
+        {
+          "name": "\u00c9l\u00e9mental d'air",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429986&type=card",
+          "language": "French",
+          "multiverseid": 429986
+        },
+        {
+          "name": "Elementale dell'Aria",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430016&type=card",
+          "language": "Italian",
+          "multiverseid": 430016
+        },
+        {
+          "name": "\u5927\u6c17\u306e\u7cbe\u970a",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430046&type=card",
+          "language": "Japanese",
+          "multiverseid": 430046
+        },
+        {
+          "name": "\uacf5\uae30\uc758 \uc815\ub839",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430076&type=card",
+          "language": "Korean",
+          "multiverseid": 430076
+        },
+        {
+          "name": "Elemental do Ar",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430106&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 430106
+        },
+        {
+          "name": "\u042d\u043b\u0435\u043c\u0435\u043d\u0442\u0430\u043b\u044c \u0412\u043e\u0437\u0434\u0443\u0445\u0430",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430136&type=card",
+          "language": "Russian",
+          "multiverseid": 430136
+        },
+        {
+          "name": "\u5927\u6c14\u5143\u7d20",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430166&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 430166
+        },
+        {
+          "name": "\u5927\u6c23\u5143\u7d20",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430196&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 430196
+        }
+      ]
+    },
+    {
+      "name": "Coral Merfolk",
+      "layout": "normal",
+      "mana_cost": "{1}{U}",
+      "cmc": 2,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Merfolk",
+      "supertypes": null,
+      "subtypes": [
+        "Merfolk"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": null,
+      "flavor": "Merfolk are best known for their subtle magic. But those who try to fight them in their own territory quickly realize that merfolk are hardly defenseless on the field of battle.",
+      "artist": "rk post",
+      "number": "8",
+      "power": "2",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 429897,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "USG",
+        "7ED",
+        "M10",
+        "M12",
+        "M14",
+        "W17"
+      ],
+      "original_text": null,
+      "original_type": "Creature \u2014 Merfolk",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429897&type=card",
+      "set": "W17",
+      "set_name": "Welcome Deck 2017",
+      "id": "72d71536969324cbb4c0c13ec384116b79137085",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "Korallenmeervolk",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429927&type=card",
+          "language": "German",
+          "multiverseid": 429927
+        },
+        {
+          "name": "Trit\u00f3n del coral",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429957&type=card",
+          "language": "Spanish",
+          "multiverseid": 429957
+        },
+        {
+          "name": "Ondin des coraux",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429987&type=card",
+          "language": "French",
+          "multiverseid": 429987
+        },
+        {
+          "name": "Tritone Corallino",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430017&type=card",
+          "language": "Italian",
+          "multiverseid": 430017
+        },
+        {
+          "name": "\u73ca\u745a\u30de\u30fc\u30d5\u30a9\u30fc\u30af",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430047&type=card",
+          "language": "Japanese",
+          "multiverseid": 430047
+        },
+        {
+          "name": "\uc0b0\ud638\ucd08 \uc778\uc5b4",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430077&type=card",
+          "language": "Korean",
+          "multiverseid": 430077
+        },
+        {
+          "name": "Trit\u00f5es dos Corais",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430107&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 430107
+        },
+        {
+          "name": "\u041a\u043e\u0440\u0430\u043b\u043b\u043e\u0432\u044b\u0439 \u041c\u0435\u0440\u0444\u043e\u043b\u043a",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430137&type=card",
+          "language": "Russian",
+          "multiverseid": 430137
+        },
+        {
+          "name": "\u73ca\u745a\u4eba\u9c7c",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430167&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 430167
+        },
+        {
+          "name": "\u73ca\u745a\u4eba\u9b5a",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430197&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 430197
+        }
+      ]
+    },
+    {
+      "name": "Drag Under",
+      "layout": "normal",
+      "mana_cost": "{2}{U}",
+      "cmc": 3,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Common",
+      "text": "Return target creature to its owner's hand.\nDraw a card.",
+      "flavor": "Some took to their boats to escape the unfolding nightmare. The remains of their vessels now litter the shores of Nephalia.",
+      "artist": "Tianhua X",
+      "number": "9",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 429898,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "EMN",
+        "W17"
+      ],
+      "original_text": "Return target creature to its owner's hand.\nDraw a card.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429898&type=card",
+      "set": "W17",
+      "set_name": "Welcome Deck 2017",
+      "id": "acc874e8ee1303b2562689765e211f00b6ba0f8f",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2016-07-13",
+          "text": "If the targeted creature becomes an illegal target before Drag Under resolves, you won't draw a card."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "Hinunterziehen",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429928&type=card",
+          "language": "German",
+          "multiverseid": 429928
+        },
+        {
+          "name": "Arrastrar al fondo",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429958&type=card",
+          "language": "Spanish",
+          "multiverseid": 429958
+        },
+        {
+          "name": "Engloutir",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429988&type=card",
+          "language": "French",
+          "multiverseid": 429988
+        },
+        {
+          "name": "Inabissare",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430018&type=card",
+          "language": "Italian",
+          "multiverseid": 430018
+        },
+        {
+          "name": "\u5f15\u304d\u305a\u308a\u8fbc\u307f",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430048&type=card",
+          "language": "Japanese",
+          "multiverseid": 430048
+        },
+        {
+          "name": "\uc544\ub798\ub85c \ub04c\uc5b4\ub2f9\uae30\uae30",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430078&type=card",
+          "language": "Korean",
+          "multiverseid": 430078
+        },
+        {
+          "name": "Arrastar para o Fundo",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430108&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 430108
+        },
+        {
+          "name": "\u041f\u043e\u0434 \u0412\u043e\u043b\u043d\u044b",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430138&type=card",
+          "language": "Russian",
+          "multiverseid": 430138
+        },
+        {
+          "name": "\u62d6\u5165\u6c6a\u6d0b",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430168&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 430168
+        },
+        {
+          "name": "\u62d6\u5165\u6c6a\u6d0b",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430198&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 430198
+        }
+      ]
+    },
+    {
+      "name": "Inspiration",
+      "layout": "normal",
+      "mana_cost": "{3}{U}",
+      "cmc": 4,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Common",
+      "text": "Target player draws two cards.",
+      "flavor": "\"Day 31: I finally succeeded in my time reversal experiment!\n\"Day 30: I might have a problem here.\"\n\u2014Journal of the Prime Izmagnus",
+      "artist": "Izzy",
+      "number": "10",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 429899,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "VIS",
+        "6ED",
+        "S00",
+        "7ED",
+        "8ED",
+        "RTR",
+        "W17"
+      ],
+      "original_text": "Target player draws two cards.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429899&type=card",
+      "set": "W17",
+      "set_name": "Welcome Deck 2017",
+      "id": "3b5dbf6a6c80ce251ae4d9ee28297190ab791282",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "Inspiration",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429929&type=card",
+          "language": "German",
+          "multiverseid": 429929
+        },
+        {
+          "name": "Inspiraci\u00f3n",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429959&type=card",
+          "language": "Spanish",
+          "multiverseid": 429959
+        },
+        {
+          "name": "Inspiration",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429989&type=card",
+          "language": "French",
+          "multiverseid": 429989
+        },
+        {
+          "name": "Ispirazione",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430019&type=card",
+          "language": "Italian",
+          "multiverseid": 430019
+        },
+        {
+          "name": "\u970a\u611f",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430049&type=card",
+          "language": "Japanese",
+          "multiverseid": 430049
+        },
+        {
+          "name": "\uc601\uac10",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430079&type=card",
+          "language": "Korean",
+          "multiverseid": 430079
+        },
+        {
+          "name": "Inspira\u00e7\u00e3o",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430109&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 430109
+        },
+        {
+          "name": "\u0412\u0434\u043e\u0445\u043d\u043e\u0432\u0435\u043d\u0438\u0435",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430139&type=card",
+          "language": "Russian",
+          "multiverseid": 430139
+        },
+        {
+          "name": "\u7a81\u53d1\u5947\u60f3",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430169&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 430169
+        },
+        {
+          "name": "\u7a81\u767c\u5947\u60f3",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430199&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 430199
+        }
+      ]
+    },
+    {
+      "name": "Sleep Paralysis",
+      "layout": "normal",
+      "mana_cost": "{3}{U}",
+      "cmc": 4,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Enchantment \u2014 Aura",
+      "supertypes": null,
+      "subtypes": [
+        "Aura"
+      ],
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Common",
+      "text": "Enchant creature\nWhen Sleep Paralysis enters the battlefield, tap enchanted creature.\nEnchanted creature doesn't untap during its controller's untap step.",
+      "flavor": null,
+      "artist": "Josu Hernaiz",
+      "number": "11",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 429900,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "SOI",
+        "W17"
+      ],
+      "original_text": "Enchant creature\nWhen Sleep Paralysis enters the battlefield, tap enchanted creature.\nEnchanted creature doesn't untap during its controller's untap step.",
+      "original_type": "Enchantment \u2014 Aura",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429900&type=card",
+      "set": "W17",
+      "set_name": "Welcome Deck 2017",
+      "id": "d697e3366f14a2ea9a0885a4b65380cd1c67567d",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "Schlafparalyse",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429930&type=card",
+          "language": "German",
+          "multiverseid": 429930
+        },
+        {
+          "name": "Par\u00e1lisis del sue\u00f1o",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429960&type=card",
+          "language": "Spanish",
+          "multiverseid": 429960
+        },
+        {
+          "name": "Paralysie du sommeil",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429990&type=card",
+          "language": "French",
+          "multiverseid": 429990
+        },
+        {
+          "name": "Paralisi nel Sonno",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430020&type=card",
+          "language": "Italian",
+          "multiverseid": 430020
+        },
+        {
+          "name": "\u91d1\u7e1b\u308a",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430050&type=card",
+          "language": "Japanese",
+          "multiverseid": 430050
+        },
+        {
+          "name": "\uc218\uba74 \ub9c8\ube44",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430080&type=card",
+          "language": "Korean",
+          "multiverseid": 430080
+        },
+        {
+          "name": "Paralisia do Sono",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430110&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 430110
+        },
+        {
+          "name": "\u0421\u043e\u043d\u043d\u044b\u0439 \u041f\u0430\u0440\u0430\u043b\u0438\u0447",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430140&type=card",
+          "language": "Russian",
+          "multiverseid": 430140
+        },
+        {
+          "name": "\u7761\u7720\u762b\u75ea\u75c7",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430170&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 430170
+        },
+        {
+          "name": "\u7761\u7720\u7671\u7613\u75c7",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430200&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 430200
+        }
+      ]
+    },
+    {
+      "name": "Sphinx of Magosi",
+      "layout": "normal",
+      "mana_cost": "{3}{U}{U}{U}",
+      "cmc": 6,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Sphinx",
+      "supertypes": null,
+      "subtypes": [
+        "Sphinx"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": "Flying\n{2}{U}: Draw a card, then put a +1/+1 counter on Sphinx of Magosi.",
+      "flavor": "\"A riddle is nothing more than a trap for small minds, baited with the promise of understanding.\"",
+      "artist": "James Ryman",
+      "number": "12",
+      "power": "6",
+      "toughness": "6",
+      "loyalty": null,
+      "multiverse_id": 429901,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ROE",
+        "C14",
+        "W16",
+        "CN2",
+        "W17"
+      ],
+      "original_text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\n{2}{U}: Draw a card, then put a +1/+1 counter on Sphinx of Magosi.",
+      "original_type": "Creature \u2014 Sphinx",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429901&type=card",
+      "set": "W17",
+      "set_name": "Welcome Deck 2017",
+      "id": "cffede7768947673a02014a4b1471675ebf61fd7",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "Sphinx vom Magosi",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429931&type=card",
+          "language": "German",
+          "multiverseid": 429931
+        },
+        {
+          "name": "Esfinge de Magosi",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429961&type=card",
+          "language": "Spanish",
+          "multiverseid": 429961
+        },
+        {
+          "name": "Sphinx de Magosi",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429991&type=card",
+          "language": "French",
+          "multiverseid": 429991
+        },
+        {
+          "name": "Sfinge di Magosi",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430021&type=card",
+          "language": "Italian",
+          "multiverseid": 430021
+        },
+        {
+          "name": "\u30de\u30b4\u30fc\u30b7\u306e\u30b9\u30d5\u30a3\u30f3\u30af\u30b9",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430051&type=card",
+          "language": "Japanese",
+          "multiverseid": 430051
+        },
+        {
+          "name": "\ub9c8\uace0\uc2dc\uc758 \uc2a4\ud551\ud06c\uc2a4",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430081&type=card",
+          "language": "Korean",
+          "multiverseid": 430081
+        },
+        {
+          "name": "Esfinge de Magosi",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430111&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 430111
+        },
+        {
+          "name": "\u0421\u0444\u0438\u043d\u043a\u0441 \u041c\u0430\u0433\u043e\u0441\u0438",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430141&type=card",
+          "language": "Russian",
+          "multiverseid": 430141
+        },
+        {
+          "name": "\u9a6c\u683c\u897f\u53f2\u82ac\u65af",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430171&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 430171
+        },
+        {
+          "name": "\u99ac\u683c\u897f\u53f2\u82ac\u65af",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430201&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 430201
+        }
+      ]
+    },
+    {
+      "name": "Stealer of Secrets",
+      "layout": "normal",
+      "mana_cost": "{2}{U}",
+      "cmc": 3,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Rogue",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Rogue"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Whenever Stealer of Secrets deals combat damage to a player, draw a card.",
+      "flavor": "The Dimir would hire her, if only they knew where she lived. The Azorius would condemn her, if only they knew her name.",
+      "artist": "Michael C. Hayes",
+      "number": "13",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 429902,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pMEI",
+        "RTR",
+        "DDM",
+        "W17"
+      ],
+      "original_text": "Whenever Stealer of Secrets deals combat damage to a player, draw a card.",
+      "original_type": "Creature \u2014 Human Rogue",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429902&type=card",
+      "set": "W17",
+      "set_name": "Welcome Deck 2017",
+      "id": "979d4b246d210437ba9845d7b0e93e9bf49a5641",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "Geheimnisdiebin",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429932&type=card",
+          "language": "German",
+          "multiverseid": 429932
+        },
+        {
+          "name": "Ladr\u00f3n de secretos",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429962&type=card",
+          "language": "Spanish",
+          "multiverseid": 429962
+        },
+        {
+          "name": "Voleuse de secrets",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429992&type=card",
+          "language": "French",
+          "multiverseid": 429992
+        },
+        {
+          "name": "Ladra di Segreti",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430022&type=card",
+          "language": "Italian",
+          "multiverseid": 430022
+        },
+        {
+          "name": "\u79d8\u5bc6\u3092\u76d7\u3080\u8005",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430052&type=card",
+          "language": "Japanese",
+          "multiverseid": 430052
+        },
+        {
+          "name": "\ube44\ubc00\uc744 \ud6d4\uce58\ub294 \uc790",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430082&type=card",
+          "language": "Korean",
+          "multiverseid": 430082
+        },
+        {
+          "name": "Ladr\u00e3o de Segredos",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430112&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 430112
+        },
+        {
+          "name": "\u041f\u043e\u0445\u0438\u0442\u0438\u0442\u0435\u043b\u044c\u043d\u0438\u0446\u0430 \u0422\u0430\u0439\u043d",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430142&type=card",
+          "language": "Russian",
+          "multiverseid": 430142
+        },
+        {
+          "name": "\u523a\u63a2\u5ba2",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430172&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 430172
+        },
+        {
+          "name": "\u523a\u63a2\u5ba2",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430202&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 430202
+        }
+      ]
+    },
+    {
+      "name": "Tricks of the Trade",
+      "layout": "normal",
+      "mana_cost": "{3}{U}",
+      "cmc": 4,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Enchantment \u2014 Aura",
+      "supertypes": null,
+      "subtypes": [
+        "Aura"
+      ],
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Common",
+      "text": "Enchant creature\nEnchanted creature gets +2/+0 and can't be blocked.",
+      "flavor": "\"Pathetic. You might as well have protected your treasures with a paper box and some string.\"",
+      "artist": "Steven Belledin",
+      "number": "14",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 429903,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "M13",
+        "W17"
+      ],
+      "original_text": "Enchant creature\nEnchanted creature gets +2/+0 and can't be blocked.",
+      "original_type": "Enchantment \u2014 Aura",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429903&type=card",
+      "set": "W17",
+      "set_name": "Welcome Deck 2017",
+      "id": "286115a1df95e2065b1eb572eb7543a857a85c98",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "Trickreichtum",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429933&type=card",
+          "language": "German",
+          "multiverseid": 429933
+        },
+        {
+          "name": "Gajes del oficio",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429963&type=card",
+          "language": "Spanish",
+          "multiverseid": 429963
+        },
+        {
+          "name": "Ficelles du m\u00e9tier",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429993&type=card",
+          "language": "French",
+          "multiverseid": 429993
+        },
+        {
+          "name": "Trucchi del Mestiere",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430023&type=card",
+          "language": "Italian",
+          "multiverseid": 430023
+        },
+        {
+          "name": "\u5546\u58f2\u306e\u79d8\u8a23",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430053&type=card",
+          "language": "Japanese",
+          "multiverseid": 430053
+        },
+        {
+          "name": "\uae30\uc220\uacfc \uc694\ub839",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430083&type=card",
+          "language": "Korean",
+          "multiverseid": 430083
+        },
+        {
+          "name": "Truques do Of\u00edcio",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430113&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 430113
+        },
+        {
+          "name": "\u0421\u0435\u043a\u0440\u0435\u0442 \u041c\u0430\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u0430",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430143&type=card",
+          "language": "Russian",
+          "multiverseid": 430143
+        },
+        {
+          "name": "\u884c\u4e1a\u8bc0\u7a8d",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430173&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 430173
+        },
+        {
+          "name": "\u884c\u696d\u8a23\u7ac5",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430203&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 430203
+        }
+      ]
+    },
+    {
+      "name": "Bloodhunter Bat",
+      "layout": "normal",
+      "mana_cost": "{3}{B}",
+      "cmc": 4,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Bat",
+      "supertypes": null,
+      "subtypes": [
+        "Bat"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Flying\nWhen Bloodhunter Bat enters the battlefield, target player loses 2 life and you gain 2 life.",
+      "flavor": "It returns eager to share the feast of blood and gore with its ghoulish master.",
+      "artist": "Tomasz Jedruszek",
+      "number": "15",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 429904,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "M13",
+        "W17",
+        "A25"
+      ],
+      "original_text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhen Bloodhunter Bat enters the battlefield, target player loses 2 life and you gain 2 life.",
+      "original_type": "Creature \u2014 Bat",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429904&type=card",
+      "set": "W17",
+      "set_name": "Welcome Deck 2017",
+      "id": "b597ba79cd296d05f6ae90b01fa7362fcb6afb2c",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "Blutj\u00e4ger-Fledermaus",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429934&type=card",
+          "language": "German",
+          "multiverseid": 429934
+        },
+        {
+          "name": "Murci\u00e9lago cazasangre",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429964&type=card",
+          "language": "Spanish",
+          "multiverseid": 429964
+        },
+        {
+          "name": "Chauve-souris chassesang",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429994&type=card",
+          "language": "French",
+          "multiverseid": 429994
+        },
+        {
+          "name": "Pipistrello Cacciasangue",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430024&type=card",
+          "language": "Italian",
+          "multiverseid": 430024
+        },
+        {
+          "name": "\u8840\u72e9\u308a\u30b3\u30a6\u30e2\u30ea",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430054&type=card",
+          "language": "Japanese",
+          "multiverseid": 430054
+        },
+        {
+          "name": "\ud53c\ub97c \uc0ac\ub0e5\ud558\ub294 \ubc15\uc950",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430084&type=card",
+          "language": "Korean",
+          "multiverseid": 430084
+        },
+        {
+          "name": "Morcego Ca\u00e7ador de Sangue",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430114&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 430114
+        },
+        {
+          "name": "\u041d\u0435\u0442\u043e\u043f\u044b\u0440\u044c, \u041a\u0440\u043e\u0432\u0430\u0432\u044b\u0439 \u041e\u0445\u043e\u0442\u043d\u0438\u043a",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430144&type=card",
+          "language": "Russian",
+          "multiverseid": 430144
+        },
+        {
+          "name": "\u8840\u730e\u8759\u8760",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430174&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 430174
+        },
+        {
+          "name": "\u8840\u7375\u8759\u8760",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430204&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 430204
+        }
+      ]
+    },
+    {
+      "name": "Certain Death",
+      "layout": "normal",
+      "mana_cost": "{5}{B}",
+      "cmc": 6,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Common",
+      "text": "Destroy target creature. Its controller loses 2 life and you gain 2 life.",
+      "flavor": "Some spirits cling to one person, feasting on the growing fear until a final moment of all-consuming terror.",
+      "artist": "Kev Walker",
+      "number": "16",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 429905,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "EMN",
+        "W17"
+      ],
+      "original_text": "Destroy target creature. Its controller loses 2 life and you gain 2 life.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429905&type=card",
+      "set": "W17",
+      "set_name": "Welcome Deck 2017",
+      "id": "86db4fc4e01a981f88c4a2a8d61801b9cf67982e",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2016-07-13",
+          "text": "The targeted creature will have already left the battlefield before its controller loses 2 life and you gain 2 life. If it has any abilities that care about gaining or losing life, they won't apply."
+        },
+        {
+          "date": "2016-07-13",
+          "text": "If the creature becomes an illegal target for Certain Death, no player gains or loses life. If it's a legal target but isn't destroyed, most likely due to having indestructible, its controller still loses 2 life and you gain 2 life."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "Sicherer Tod",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429935&type=card",
+          "language": "German",
+          "multiverseid": 429935
+        },
+        {
+          "name": "Muerte segura",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429965&type=card",
+          "language": "Spanish",
+          "multiverseid": 429965
+        },
+        {
+          "name": "Une mort certaine",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429995&type=card",
+          "language": "French",
+          "multiverseid": 429995
+        },
+        {
+          "name": "Morte Certa",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430025&type=card",
+          "language": "Italian",
+          "multiverseid": 430025
+        },
+        {
+          "name": "\u751f\u547d\u306e\u5371\u6a5f",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430055&type=card",
+          "language": "Japanese",
+          "multiverseid": 430055
+        },
+        {
+          "name": "\ud655\uc2e4\ud55c \uc8fd\uc74c",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430085&type=card",
+          "language": "Korean",
+          "multiverseid": 430085
+        },
+        {
+          "name": "Morte Certa",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430115&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 430115
+        },
+        {
+          "name": "\u0412\u0435\u0440\u043d\u0430\u044f \u0421\u043c\u0435\u0440\u0442\u044c",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430145&type=card",
+          "language": "Russian",
+          "multiverseid": 430145
+        },
+        {
+          "name": "\u5fc5\u6b7b\u65e0\u7591",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430175&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 430175
+        },
+        {
+          "name": "\u5fc5\u6b7b\u7121\u7591",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430205&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 430205
+        }
+      ]
+    },
+    {
+      "name": "Nightmare",
+      "layout": "normal",
+      "mana_cost": "{5}{B}",
+      "cmc": 6,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Nightmare Horse",
+      "supertypes": null,
+      "subtypes": [
+        "Nightmare",
+        "Horse"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nNightmare's power and toughness are each equal to the number of Swamps you control.",
+      "flavor": "The thunder of its hooves beats dreams into despair.",
+      "artist": "Vance Kovacs",
+      "number": "17",
+      "power": "*",
+      "toughness": "*",
+      "loyalty": null,
+      "multiverse_id": 429906,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "5ED",
+        "6ED",
+        "7ED",
+        "8ED",
+        "9ED",
+        "10E",
+        "M10",
+        "M14",
+        "M15",
+        "ORI",
+        "W16",
+        "W17"
+      ],
+      "original_text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nNightmare's power and toughness are each equal to the number of Swamps you control.",
+      "original_type": "Creature \u2014 Nightmare Horse",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429906&type=card",
+      "set": "W17",
+      "set_name": "Welcome Deck 2017",
+      "id": "6656bf88bc4f5117b64e5db8b9b0efcdfda5c0b3",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-04-01",
+          "text": "If you control 0 swamps, then the Nightmare has 0 toughness and will be put into its owner's graveyard as a state-based action right before the next player gains priority."
+        },
+        {
+          "date": "2009-10-01",
+          "text": "Nightmare's power and toughness changes as the number of Swamps you control changes."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "The ability that defines Nightmare's power and toughness works everywhere, not just on the battlefield."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "Nightmare's ability counts all lands you control with the subtype Swamp, not just ones named Swamp."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "Nachtmahr",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429936&type=card",
+          "language": "German",
+          "multiverseid": 429936
+        },
+        {
+          "name": "Pesadilla",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429966&type=card",
+          "language": "Spanish",
+          "multiverseid": 429966
+        },
+        {
+          "name": "Cheval de cauchemar",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429996&type=card",
+          "language": "French",
+          "multiverseid": 429996
+        },
+        {
+          "name": "Incubo",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430026&type=card",
+          "language": "Italian",
+          "multiverseid": 430026
+        },
+        {
+          "name": "\u5922\u9b54",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430056&type=card",
+          "language": "Japanese",
+          "multiverseid": 430056
+        },
+        {
+          "name": "\ub098\uc774\ud2b8\uba54\uc5b4",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430086&type=card",
+          "language": "Korean",
+          "multiverseid": 430086
+        },
+        {
+          "name": "Pesadelo",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430116&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 430116
+        },
+        {
+          "name": "\u041a\u043e\u0448\u043c\u0430\u0440",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430146&type=card",
+          "language": "Russian",
+          "multiverseid": 430146
+        },
+        {
+          "name": "\u68a6\u9b47",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430176&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 430176
+        },
+        {
+          "name": "\u5922\u9b58",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430206&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 430206
+        }
+      ]
+    },
+    {
+      "name": "Raise Dead",
+      "layout": "normal",
+      "mana_cost": "{B}",
+      "cmc": 1,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Common",
+      "text": "Return target creature card from your graveyard to your hand.",
+      "flavor": "The earth cannot hold that which magic commands.",
+      "artist": "Carl Critchlow",
+      "number": "18",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 429907,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED",
+        "POR",
+        "PO2",
+        "6ED",
+        "S99",
+        "7ED",
+        "8ED",
+        "9ED",
+        "CN2",
+        "W17"
+      ],
+      "original_text": "Return target creature card from your graveyard to your hand.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429907&type=card",
+      "set": "W17",
+      "set_name": "Welcome Deck 2017",
+      "id": "e5ca57d1df864364da2f4a0b4f7c75a6484aa00e",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "You must show the card you bring out of the graveyard to your opponent."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "The creature being brought back is chosen on announcement and not on resolution of the spell because it is targeted."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "Auferstehung der Toten",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429937&type=card",
+          "language": "German",
+          "multiverseid": 429937
+        },
+        {
+          "name": "Alzar a los muertos",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429967&type=card",
+          "language": "Spanish",
+          "multiverseid": 429967
+        },
+        {
+          "name": "Exhumation",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429997&type=card",
+          "language": "French",
+          "multiverseid": 429997
+        },
+        {
+          "name": "Risveglio dei Morti",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430027&type=card",
+          "language": "Italian",
+          "multiverseid": 430027
+        },
+        {
+          "name": "\u6b7b\u8005\u518d\u751f",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430057&type=card",
+          "language": "Japanese",
+          "multiverseid": 430057
+        },
+        {
+          "name": "\uc2dc\uccb4\uadc0\ud658",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430087&type=card",
+          "language": "Korean",
+          "multiverseid": 430087
+        },
+        {
+          "name": "Ressuscitar Morto",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430117&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 430117
+        },
+        {
+          "name": "\u0412\u043e\u0441\u043a\u0440\u0435\u0448\u0435\u043d\u0438\u0435",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430147&type=card",
+          "language": "Russian",
+          "multiverseid": 430147
+        },
+        {
+          "name": "\u8d77\u6b7b\u56de\u751f",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430177&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 430177
+        },
+        {
+          "name": "\u8d77\u6b7b\u56de\u751f",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430207&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 430207
+        }
+      ]
+    },
+    {
+      "name": "Sengir Vampire",
+      "layout": "normal",
+      "mana_cost": "{3}{B}{B}",
+      "cmc": 5,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Vampire",
+      "supertypes": null,
+      "subtypes": [
+        "Vampire"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire.",
+      "flavor": "Empires rise and fall, but evil is eternal.",
+      "artist": "Kev Walker",
+      "number": "19",
+      "power": "4",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": 429908,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "BRB",
+        "BTD",
+        "TOR",
+        "9ED",
+        "10E",
+        "DPA",
+        "ME4",
+        "M12",
+        "DDK",
+        "M14",
+        "M15",
+        "ORI",
+        "W16",
+        "W17"
+      ],
+      "original_text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire.",
+      "original_type": "Creature \u2014 Vampire",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429908&type=card",
+      "set": "W17",
+      "set_name": "Welcome Deck 2017",
+      "id": "eb0994647fb20bc31e4fbadba9ef8ff8860eac5e",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2007-07-15",
+          "text": "If Sengir Vampire deals nonlethal damage to a creature and then a different effect or damage source causes that creature to be put into a graveyard later in the turn, Sengir Vampire's ability will trigger and it will get a +1/+1 counter."
+        },
+        {
+          "date": "2011-09-22",
+          "text": "Each time a creature is put into a graveyard from the battlefield, check whether Sengir Vampire had dealt any damage to it at any time during that turn. If so, Sengir Vampire's ability will trigger. It doesn't matter who controlled the creature or whose graveyard it was put into."
+        },
+        {
+          "date": "2011-09-22",
+          "text": "If Sengir Vampire and a creature it dealt damage to are both put into a graveyard at the same time, Sengir Vampire's ability will trigger, but it will do nothing when it resolves."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "Sengir-Vampir",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429938&type=card",
+          "language": "German",
+          "multiverseid": 429938
+        },
+        {
+          "name": "Vampiro de Sengir",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429968&type=card",
+          "language": "Spanish",
+          "multiverseid": 429968
+        },
+        {
+          "name": "Vampire sengien",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429998&type=card",
+          "language": "French",
+          "multiverseid": 429998
+        },
+        {
+          "name": "Vampiro di Sengir",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430028&type=card",
+          "language": "Italian",
+          "multiverseid": 430028
+        },
+        {
+          "name": "\u30bb\u30f3\u30ae\u30a2\u306e\u5438\u8840\u9b3c",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430058&type=card",
+          "language": "Japanese",
+          "multiverseid": 430058
+        },
+        {
+          "name": "\uc14d\uae30\ub974\uac00\uc758 \ud761\ud608\uadc0",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430088&type=card",
+          "language": "Korean",
+          "multiverseid": 430088
+        },
+        {
+          "name": "Vampiro de Sengir",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430118&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 430118
+        },
+        {
+          "name": "\u0421\u0435\u043d\u0433\u0438\u0440\u0441\u043a\u0438\u0439 \u0412\u0430\u043c\u043f\u0438\u0440",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430148&type=card",
+          "language": "Russian",
+          "multiverseid": 430148
+        },
+        {
+          "name": "\u8f9b\u683c\u6c0f\u5438\u8840\u9b3c",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430178&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 430178
+        },
+        {
+          "name": "\u8f9b\u683c\u6c0f\u5438\u8840\u9b3c",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430208&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 430208
+        }
+      ]
+    },
+    {
+      "name": "Untamed Hunger",
+      "layout": "normal",
+      "mana_cost": "{2}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Enchantment \u2014 Aura",
+      "supertypes": null,
+      "subtypes": [
+        "Aura"
+      ],
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Common",
+      "text": "Enchant creature\nEnchanted creature gets +2/+1 and has menace. (It can't be blocked except by two or more creatures.)",
+      "flavor": "\"Mindlessness is not weakness. When we are lost to hunger we are unstoppable.\"\n\u2014Drana, Kalastria bloodchief",
+      "artist": "Willian Murai",
+      "number": "20",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 429909,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "OGW",
+        "W17"
+      ],
+      "original_text": "Enchant creature\nEnchanted creature gets +2/+1 and has menace. (It can't be blocked except by two or more creatures.)",
+      "original_type": "Enchantment \u2014 Aura",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429909&type=card",
+      "set": "W17",
+      "set_name": "Welcome Deck 2017",
+      "id": "0eeab6ad98c96627c82f71386c3202adcbbbc9a1",
+      "legalities": [
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "Ungez\u00e4hmter Hunger",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429939&type=card",
+          "language": "German",
+          "multiverseid": 429939
+        },
+        {
+          "name": "Hambre desenfrenada",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429969&type=card",
+          "language": "Spanish",
+          "multiverseid": 429969
+        },
+        {
+          "name": "Faim r\u00e9calcitrante",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429999&type=card",
+          "language": "French",
+          "multiverseid": 429999
+        },
+        {
+          "name": "Fame Indomabile",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430029&type=card",
+          "language": "Italian",
+          "multiverseid": 430029
+        },
+        {
+          "name": "\u8352\u3005\u3057\u3044\u6e07\u671b",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430059&type=card",
+          "language": "Japanese",
+          "multiverseid": 430059
+        },
+        {
+          "name": "\uc57c\uc131\uc758 \uad76\uc8fc\ub9bc",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430089&type=card",
+          "language": "Korean",
+          "multiverseid": 430089
+        },
+        {
+          "name": "Fome Indomada",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430119&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 430119
+        },
+        {
+          "name": "\u041d\u0435\u043d\u0430\u0441\u044b\u0442\u043d\u044b\u0439 \u0413\u043e\u043b\u043e\u0434",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430149&type=card",
+          "language": "Russian",
+          "multiverseid": 430149
+        },
+        {
+          "name": "\u4e0d\u9a6f\u9965\u6e34",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430179&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 430179
+        },
+        {
+          "name": "\u4e0d\u99b4\u98e2\u6e34",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430209&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 430209
+        }
+      ]
+    },
+    {
+      "name": "Falkenrath Reaver",
+      "layout": "normal",
+      "mana_cost": "{1}{R}",
+      "cmc": 2,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Vampire",
+      "supertypes": null,
+      "subtypes": [
+        "Vampire"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": null,
+      "flavor": "\"Each day there are new reports of homes along Getander Pass and Hofsaddel falling to vampires of a more savage nature. I've even heard tell that Anje Falkenrath has returned. Please send whatever help you can.\"\n\u2014Sterin Gorn, letter to Thalia",
+      "artist": "Daarken",
+      "number": "21",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 429910,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "EMN",
+        "W17"
+      ],
+      "original_text": null,
+      "original_type": "Creature \u2014 Vampire",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429910&type=card",
+      "set": "W17",
+      "set_name": "Welcome Deck 2017",
+      "id": "8ceaaaf65570b3d1fc1a58dd456711a8fd7e8138",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "Falkenrath-Pl\u00fcnderin",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429940&type=card",
+          "language": "German",
+          "multiverseid": 429940
+        },
+        {
+          "name": "Desgarradora Falkenrath",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429970&type=card",
+          "language": "Spanish",
+          "multiverseid": 429970
+        },
+        {
+          "name": "Pillarde Falkenrath",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430000&type=card",
+          "language": "French",
+          "multiverseid": 430000
+        },
+        {
+          "name": "Razziatrice Falkenrath",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430030&type=card",
+          "language": "Italian",
+          "multiverseid": 430030
+        },
+        {
+          "name": "\u30d5\u30a1\u30eb\u30b1\u30f3\u30e9\u30b9\u306e\u8089\u88c2\u304d",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430060&type=card",
+          "language": "Japanese",
+          "multiverseid": 430060
+        },
+        {
+          "name": "\ud314\ucf04\ub77c\uc2a4 \uac15\ud0c8\uc790",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430090&type=card",
+          "language": "Korean",
+          "multiverseid": 430090
+        },
+        {
+          "name": "Despojadora Falkenrath",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430120&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 430120
+        },
+        {
+          "name": "\u0424\u0430\u043b\u044c\u043a\u0435\u043d\u0440\u0430\u0442\u0441\u043a\u0430\u044f \u0413\u0440\u0430\u0431\u0438\u0442\u0435\u043b\u044c\u043d\u0438\u0446\u0430",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430150&type=card",
+          "language": "Russian",
+          "multiverseid": 430150
+        },
+        {
+          "name": "\u4f10\u80af\u7eb3\u88c2\u80a2\u5175",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430180&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 430180
+        },
+        {
+          "name": "\u4f10\u80af\u7d0d\u88c2\u80a2\u5175",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430210&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 430210
+        }
+      ]
+    },
+    {
+      "name": "Shivan Dragon",
+      "layout": "normal",
+      "mana_cost": "{4}{R}{R}",
+      "cmc": 6,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Dragon",
+      "supertypes": null,
+      "subtypes": [
+        "Dragon"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\n{R}: Shivan Dragon gets +1/+0 until end of turn.",
+      "flavor": "The undisputed master of the mountains of Shiv.",
+      "artist": "Donato Giancola",
+      "number": "22",
+      "power": "5",
+      "toughness": "5",
+      "loyalty": null,
+      "multiverse_id": 429911,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "5ED",
+        "BTD",
+        "7ED",
+        "pREL",
+        "8ED",
+        "9ED",
+        "10E",
+        "DRB",
+        "M10",
+        "DPA",
+        "ME4",
+        "M14",
+        "M15",
+        "ORI",
+        "W16",
+        "W17"
+      ],
+      "original_text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\n{R}: Shivan Dragon gets +1/+0 until end of turn.",
+      "original_type": "Creature \u2014 Dragon",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429911&type=card",
+      "set": "W17",
+      "set_name": "Welcome Deck 2017",
+      "id": "a43b9fd43162cb84844ea435d7f95ea767ed7743",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "Shivan-Drache",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429941&type=card",
+          "language": "German",
+          "multiverseid": 429941
+        },
+        {
+          "name": "Drag\u00f3n shivano",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429971&type=card",
+          "language": "Spanish",
+          "multiverseid": 429971
+        },
+        {
+          "name": "Dragon shiv\u00e2n",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430001&type=card",
+          "language": "French",
+          "multiverseid": 430001
+        },
+        {
+          "name": "Drago di Shivan",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430031&type=card",
+          "language": "Italian",
+          "multiverseid": 430031
+        },
+        {
+          "name": "\u30b7\u30f4\u5c71\u306e\u30c9\u30e9\u30b4\u30f3",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430061&type=card",
+          "language": "Japanese",
+          "multiverseid": 430061
+        },
+        {
+          "name": "\uc2dc\ubc14\uc758 \uc6a9",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430091&type=card",
+          "language": "Korean",
+          "multiverseid": 430091
+        },
+        {
+          "name": "Drag\u00e3o de Shiva",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430121&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 430121
+        },
+        {
+          "name": "\u0428\u0438\u0432\u0430\u043d\u0441\u043a\u0438\u0439 \u0414\u0440\u0430\u043a\u043e\u043d",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430151&type=card",
+          "language": "Russian",
+          "multiverseid": 430151
+        },
+        {
+          "name": "\u897f\u74e6\u5de8\u9f99",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430181&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 430181
+        },
+        {
+          "name": "\u897f\u74e6\u5de8\u9f8d",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430211&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 430211
+        }
+      ]
+    },
+    {
+      "name": "Thundering Giant",
+      "layout": "normal",
+      "mana_cost": "{3}{R}{R}",
+      "cmc": 5,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Giant",
+      "supertypes": null,
+      "subtypes": [
+        "Giant"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Haste (This creature can attack and {T} as soon as it comes under your control.)",
+      "flavor": "The giant was felt a few seconds before he was seen.",
+      "artist": "Mark Zug",
+      "number": "23",
+      "power": "4",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": 429912,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "USG",
+        "BTD",
+        "10E",
+        "MMA",
+        "M15",
+        "W17"
+      ],
+      "original_text": "Haste (This creature can attack and {T} as soon as it comes under your control.)",
+      "original_type": "Creature \u2014 Giant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429912&type=card",
+      "set": "W17",
+      "set_name": "Welcome Deck 2017",
+      "id": "31b2f356d70c15ff0390eef90c284d19e14f7305",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "Donnerriese",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429942&type=card",
+          "language": "German",
+          "multiverseid": 429942
+        },
+        {
+          "name": "Gigante descomunal",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429972&type=card",
+          "language": "Spanish",
+          "multiverseid": 429972
+        },
+        {
+          "name": "G\u00e9ant fulminant",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430002&type=card",
+          "language": "French",
+          "multiverseid": 430002
+        },
+        {
+          "name": "Gigante Tonante",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430032&type=card",
+          "language": "Italian",
+          "multiverseid": 430032
+        },
+        {
+          "name": "\u8f5f\u304d\u306e\u5de8\u4eba",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430062&type=card",
+          "language": "Japanese",
+          "multiverseid": 430062
+        },
+        {
+          "name": "\ucc9c\ub465 \uac70\uc778",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430092&type=card",
+          "language": "Korean",
+          "multiverseid": 430092
+        },
+        {
+          "name": "Gigante Trovejante",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430122&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 430122
+        },
+        {
+          "name": "\u0413\u0440\u043e\u043c\u044b\u0445\u0430\u044e\u0449\u0438\u0439 \u0413\u0438\u0433\u0430\u043d\u0442",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430152&type=card",
+          "language": "Russian",
+          "multiverseid": 430152
+        },
+        {
+          "name": "\u96f7\u52a8\u5de8\u4eba",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430182&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 430182
+        },
+        {
+          "name": "\u96f7\u52d5\u5de8\u4eba",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430212&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 430212
+        }
+      ]
+    },
+    {
+      "name": "Garruk's Horde",
+      "layout": "normal",
+      "mana_cost": "{5}{G}{G}",
+      "cmc": 7,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Beast",
+      "supertypes": null,
+      "subtypes": [
+        "Beast"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": "Trample\nPlay with the top card of your library revealed.\nYou may cast the top card of your library if it's a creature card. (Do this only any time you could cast that creature card. You still pay the spell's costs.)",
+      "flavor": null,
+      "artist": "Steve Prescott",
+      "number": "24",
+      "power": "7",
+      "toughness": "7",
+      "loyalty": null,
+      "multiverse_id": 429913,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pLPA",
+        "M12",
+        "M14",
+        "W17"
+      ],
+      "original_text": "Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)\nPlay with the top card of your library revealed.\nYou may cast the top card of your library if it's a creature card. (Do this only any time you could cast that creature card. You still pay the spell's costs.)",
+      "original_type": "Creature \u2014 Beast",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429913&type=card",
+      "set": "W17",
+      "set_name": "Welcome Deck 2017",
+      "id": "0a211ff80472a3f55ef3bdd981d5bd5fb2b89ec9",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2011-09-22",
+          "text": "Normally, Garruk's Horde allows you to cast the top card of your library if it's a creature card, it's your main phase, and the stack is empty. If that creature card has flash, you'll be able to cast it at the time you could cast an instant, even on an opponent's turn."
+        },
+        {
+          "date": "2011-09-22",
+          "text": "You'll still pay all costs for that spell, including additional costs. You may also pay alternative costs."
+        },
+        {
+          "date": "2011-09-22",
+          "text": "If the top card of your library is Dryad Arbor (the only card that's both a creature and a land), you can't play it this way. Dryad Arbor can't be cast as a spell."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "The top card of your library isn't in your hand, so you can't suspend it, cycle it, discard it, or activate any of its activated abilities."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "If the top card of your library changes while you're casting a spell or activating an ability, the new top card won't be revealed until you finish casting that spell or activating that ability."
+        },
+        {
+          "date": "2013-04-15",
+          "text": "When playing with the top card of your library revealed, if an effect tells you to draw several cards, reveal each one before you draw it."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "Garruks Horde",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429943&type=card",
+          "language": "German",
+          "multiverseid": 429943
+        },
+        {
+          "name": "Horda de Garruk",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429973&type=card",
+          "language": "Spanish",
+          "multiverseid": 429973
+        },
+        {
+          "name": "Horde de Garruk",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430003&type=card",
+          "language": "French",
+          "multiverseid": 430003
+        },
+        {
+          "name": "Orda di Garruk",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430033&type=card",
+          "language": "Italian",
+          "multiverseid": 430033
+        },
+        {
+          "name": "\u30ac\u30e9\u30af\u306e\u5927\u8ecd",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430063&type=card",
+          "language": "Japanese",
+          "multiverseid": 430063
+        },
+        {
+          "name": "\uac1c\ub7ed\uc758 \uad70\ub2e8",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430093&type=card",
+          "language": "Korean",
+          "multiverseid": 430093
+        },
+        {
+          "name": "Horda de Garruk",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430123&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 430123
+        },
+        {
+          "name": "\u041e\u0440\u0434\u0430 \u0413\u0430\u0440\u0440\u0443\u043a\u0430",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430153&type=card",
+          "language": "Russian",
+          "multiverseid": 430153
+        },
+        {
+          "name": "\u8d3e\u8def\u7684\u517d\u7fa4",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430183&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 430183
+        },
+        {
+          "name": "\u8cc8\u8def\u7684\u7378\u7fa4",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430213&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 430213
+        }
+      ]
+    },
+    {
+      "name": "Oakenform",
+      "layout": "normal",
+      "mana_cost": "{2}{G}",
+      "cmc": 3,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Enchantment \u2014 Aura",
+      "supertypes": null,
+      "subtypes": [
+        "Aura"
+      ],
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Common",
+      "text": "Enchant creature\nEnchanted creature gets +3/+3.",
+      "flavor": "\"When the beast cloaks itself in the mighty oak, what good is a bow? When the oak wraps itself around the snarling beast, what good is a hatchet?\"\n\u2014Dionus, elvish archdruid",
+      "artist": "Wayne Reynolds",
+      "number": "25",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 429914,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "M10",
+        "W16",
+        "W17"
+      ],
+      "original_text": "Enchant creature\nEnchanted creature gets +3/+3.",
+      "original_type": "Enchantment \u2014 Aura",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429914&type=card",
+      "set": "W17",
+      "set_name": "Welcome Deck 2017",
+      "id": "323eda85c469cb261a16a4693ba5443a3979915f",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "Eichengestalt",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429944&type=card",
+          "language": "German",
+          "multiverseid": 429944
+        },
+        {
+          "name": "Forma de roble",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429974&type=card",
+          "language": "Spanish",
+          "multiverseid": 429974
+        },
+        {
+          "name": "Forme du ch\u00eane",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430004&type=card",
+          "language": "French",
+          "multiverseid": 430004
+        },
+        {
+          "name": "Forma di Quercia",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430034&type=card",
+          "language": "Italian",
+          "multiverseid": 430034
+        },
+        {
+          "name": "\u6a2b\u5909\u5316",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430064&type=card",
+          "language": "Japanese",
+          "multiverseid": 430064
+        },
+        {
+          "name": "\uc2e0\ub85d\uc758 \ud615\uc0c1",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430094&type=card",
+          "language": "Korean",
+          "multiverseid": 430094
+        },
+        {
+          "name": "Carvalhoforme",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430124&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 430124
+        },
+        {
+          "name": "\u0414\u0443\u0431\u043e\u0432\u044b\u0439 \u041e\u0431\u043b\u0438\u043a",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430154&type=card",
+          "language": "Russian",
+          "multiverseid": 430154
+        },
+        {
+          "name": "\u6a61\u6811\u5f62\u4f53",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430184&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 430184
+        },
+        {
+          "name": "\u6a61\u6a39\u5f62\u9ad4",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430214&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 430214
+        }
+      ]
+    },
+    {
+      "name": "Rabid Bite",
+      "layout": "normal",
+      "mana_cost": "{1}{G}",
+      "cmc": 2,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Common",
+      "text": "Target creature you control deals damage equal to its power to target creature you don't control.",
+      "flavor": "\"You should have seen the look on both their faces.\"\n\u2014Morkamp, Lambholt innkeeper",
+      "artist": "Karl Kopinski",
+      "number": "26",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 429915,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "SOI",
+        "W17"
+      ],
+      "original_text": "Target creature you control deals damage equal to its power to target creature you don't control.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429915&type=card",
+      "set": "W17",
+      "set_name": "Welcome Deck 2017",
+      "id": "eb5f652d7d8b53f4888f95dccdfeb00a712eb244",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2016-04-08",
+          "text": "If either creature is an illegal target as Rabid Bite tries to resolve, the creature you control won't deal damage."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "Tollw\u00fctiger Biss",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429945&type=card",
+          "language": "German",
+          "multiverseid": 429945
+        },
+        {
+          "name": "Mordisco rabioso",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429975&type=card",
+          "language": "Spanish",
+          "multiverseid": 429975
+        },
+        {
+          "name": "Morsure enrag\u00e9e",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430005&type=card",
+          "language": "French",
+          "multiverseid": 430005
+        },
+        {
+          "name": "Morso Rabbioso",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430035&type=card",
+          "language": "Italian",
+          "multiverseid": 430035
+        },
+        {
+          "name": "\u72c2\u6c17\u306e\u4e00\u54ac\u307f",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430065&type=card",
+          "language": "Japanese",
+          "multiverseid": 430065
+        },
+        {
+          "name": "\ub9f9\ub82c\ud55c \ubb3c\uc5b4\ub72f\uae30",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430095&type=card",
+          "language": "Korean",
+          "multiverseid": 430095
+        },
+        {
+          "name": "Mordida R\u00e1bica",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430125&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 430125
+        },
+        {
+          "name": "\u0411\u0435\u0448\u0435\u043d\u044b\u0439 \u0423\u043a\u0443\u0441",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430155&type=card",
+          "language": "Russian",
+          "multiverseid": 430155
+        },
+        {
+          "name": "\u72c2\u75be\u5543\u54ac",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430185&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 430185
+        },
+        {
+          "name": "\u72c2\u75be\u5543\u54ac",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430215&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 430215
+        }
+      ]
+    },
+    {
+      "name": "Rootwalla",
+      "layout": "normal",
+      "mana_cost": "{2}{G}",
+      "cmc": 3,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Lizard",
+      "supertypes": null,
+      "subtypes": [
+        "Lizard"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "{1}{G}: Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn.",
+      "flavor": "They make terrible pets . . . unless you don't like your other pets.",
+      "artist": "Roger Raupp",
+      "number": "27",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 429916,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "TMP",
+        "9ED",
+        "10E",
+        "M14",
+        "TPR",
+        "W17"
+      ],
+      "original_text": "{1}{G}: Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn.",
+      "original_type": "Creature \u2014 Lizard",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429916&type=card",
+      "set": "W17",
+      "set_name": "Welcome Deck 2017",
+      "id": "5d2f1eb3d86ffec5de515ce9266723bbdbbf0321",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2006-02-01",
+          "text": "If this card's ability is activated by one player, then another player takes control of it on the same turn, the second player can't activate its ability that turn."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "Wurzeleidechse",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429946&type=card",
+          "language": "German",
+          "multiverseid": 429946
+        },
+        {
+          "name": "Raizguana",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429976&type=card",
+          "language": "Spanish",
+          "multiverseid": 429976
+        },
+        {
+          "name": "Agame des souches",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430006&type=card",
+          "language": "French",
+          "multiverseid": 430006
+        },
+        {
+          "name": "Lucertola delle Radici",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430036&type=card",
+          "language": "Italian",
+          "multiverseid": 430036
+        },
+        {
+          "name": "\u30eb\u30fc\u30c8\u30ef\u30e9",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430066&type=card",
+          "language": "Japanese",
+          "multiverseid": 430066
+        },
+        {
+          "name": "\ub8e8\ud2b8\uc648\ub77c",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430096&type=card",
+          "language": "Korean",
+          "multiverseid": 430096
+        },
+        {
+          "name": "Rizowalla",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430126&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 430126
+        },
+        {
+          "name": "\u0420\u0443\u0442\u0432\u0430\u043b\u043b\u0430",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430156&type=card",
+          "language": "Russian",
+          "multiverseid": 430156
+        },
+        {
+          "name": "\u841d\u7279\u74e6\u62c9",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430186&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 430186
+        },
+        {
+          "name": "\u863f\u7279\u74e6\u62c9",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430216&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 430216
+        }
+      ]
+    },
+    {
+      "name": "Stalking Tiger",
+      "layout": "normal",
+      "mana_cost": "{3}{G}",
+      "cmc": 4,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Cat",
+      "supertypes": null,
+      "subtypes": [
+        "Cat"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Stalking Tiger can't be blocked by more than one creature.",
+      "flavor": "In the Jamuraan jungles, there is often no separating beauty from danger.",
+      "artist": "Terese Nielsen",
+      "number": "28",
+      "power": "3",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": 429917,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MIR",
+        "POR",
+        "6ED",
+        "PTK",
+        "10E",
+        "W17"
+      ],
+      "original_text": "Stalking Tiger can't be blocked by more than one creature.",
+      "original_type": "Creature \u2014 Cat",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429917&type=card",
+      "set": "W17",
+      "set_name": "Welcome Deck 2017",
+      "id": "44615c07b9b0417beed6dc5518e992a70b80f36f",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "Schleichender Tiger",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429947&type=card",
+          "language": "German",
+          "multiverseid": 429947
+        },
+        {
+          "name": "Tigre al acecho",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429977&type=card",
+          "language": "Spanish",
+          "multiverseid": 429977
+        },
+        {
+          "name": "Tigre en chasse",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430007&type=card",
+          "language": "French",
+          "multiverseid": 430007
+        },
+        {
+          "name": "Tigre in Agguato",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430037&type=card",
+          "language": "Italian",
+          "multiverseid": 430037
+        },
+        {
+          "name": "\u5fcd\u3073\u5bc4\u308b\u864e",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430067&type=card",
+          "language": "Japanese",
+          "multiverseid": 430067
+        },
+        {
+          "name": "\ucd94\uc801\ud558\ub294 \ud638\ub791\uc774",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430097&type=card",
+          "language": "Korean",
+          "multiverseid": 430097
+        },
+        {
+          "name": "Tigre Ca\u00e7ador",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430127&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 430127
+        },
+        {
+          "name": "\u041a\u0440\u0430\u0434\u0443\u0449\u0438\u0439\u0441\u044f \u0422\u0438\u0433\u0440",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430157&type=card",
+          "language": "Russian",
+          "multiverseid": 430157
+        },
+        {
+          "name": "\u6f5c\u884c\u4e4b\u864e",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430187&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 430187
+        },
+        {
+          "name": "\u6f5b\u884c\u4e4b\u864e",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430217&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 430217
+        }
+      ]
+    },
+    {
+      "name": "Stampeding Rhino",
+      "layout": "normal",
+      "mana_cost": "{4}{G}",
+      "cmc": 5,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Rhino",
+      "supertypes": null,
+      "subtypes": [
+        "Rhino"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)",
+      "flavor": "The quickest way to get through the jungle is to agitate a rhino and run in its wake.",
+      "artist": "Steven Belledin",
+      "number": "29",
+      "power": "4",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": 429918,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "M10",
+        "M12",
+        "W17"
+      ],
+      "original_text": "Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)",
+      "original_type": "Creature \u2014 Rhino",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429918&type=card",
+      "set": "W17",
+      "set_name": "Welcome Deck 2017",
+      "id": "2f5e4641e7f6b6b9de45e45507cae988bca1a7a7",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "Zertrampelndes Nashorn",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429948&type=card",
+          "language": "German",
+          "multiverseid": 429948
+        },
+        {
+          "name": "Rinoceronte en estampida",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429978&type=card",
+          "language": "Spanish",
+          "multiverseid": 429978
+        },
+        {
+          "name": "Ru\u00e9e de rhinoc\u00e9ros",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430008&type=card",
+          "language": "French",
+          "multiverseid": 430008
+        },
+        {
+          "name": "Rinoceronte in Fuga",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430038&type=card",
+          "language": "Italian",
+          "multiverseid": 430038
+        },
+        {
+          "name": "\u66b4\u8d70\u3059\u308b\u30b5\u30a4",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430068&type=card",
+          "language": "Japanese",
+          "multiverseid": 430068
+        },
+        {
+          "name": "\ub2ec\ub824\ub4dc\ub294 \ucf54\ubfd4\uc18c",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430098&type=card",
+          "language": "Korean",
+          "multiverseid": 430098
+        },
+        {
+          "name": "Rinoceronte Desembestado",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430128&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 430128
+        },
+        {
+          "name": "\u041c\u0447\u0430\u0449\u0438\u0439\u0441\u044f \u041d\u043e\u0441\u043e\u0440\u043e\u0433",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430158&type=card",
+          "language": "Russian",
+          "multiverseid": 430158
+        },
+        {
+          "name": "\u72c2\u5954\u7280\u725b",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430188&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 430188
+        },
+        {
+          "name": "\u72c2\u5954\u7280\u725b",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430218&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 430218
+        }
+      ]
+    },
+    {
+      "name": "Wing Snare",
+      "layout": "normal",
+      "mana_cost": "{2}{G}",
+      "cmc": 3,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Uncommon",
+      "text": "Destroy target creature with flying.",
+      "flavor": "\"We are the hands of the great trees, reaching out to ensnare what threatens their branches.\"\n\u2014Elvish hunter",
+      "artist": "Daren Bader",
+      "number": "30",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 429919,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ULG",
+        "7ED",
+        "8ED",
+        "W17"
+      ],
+      "original_text": "Destroy target creature with flying.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429919&type=card",
+      "set": "W17",
+      "set_name": "Welcome Deck 2017",
+      "id": "aa5358e11c37b31e09fe3550d3cbaf07e2e8e769",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "Fl\u00fcgelschlinge",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429949&type=card",
+          "language": "German",
+          "multiverseid": 429949
+        },
+        {
+          "name": "Trampa de alas",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429979&type=card",
+          "language": "Spanish",
+          "multiverseid": 429979
+        },
+        {
+          "name": "Collet a\u00e9rien",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430009&type=card",
+          "language": "French",
+          "multiverseid": 430009
+        },
+        {
+          "name": "Trappola per Alati",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430039&type=card",
+          "language": "Italian",
+          "multiverseid": 430039
+        },
+        {
+          "name": "\u7ffc\u308f\u306a",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430069&type=card",
+          "language": "Japanese",
+          "multiverseid": 430069
+        },
+        {
+          "name": "\ub0a0\uac1c \uc62c\uac00\ubbf8",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430099&type=card",
+          "language": "Korean",
+          "multiverseid": 430099
+        },
+        {
+          "name": "Armadilha A\u00e9rea",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430129&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 430129
+        },
+        {
+          "name": "\u0421\u0438\u043b\u043a\u0438 \u0434\u043b\u044f \u041a\u0440\u044b\u043b\u044c\u0435\u0432",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430159&type=card",
+          "language": "Russian",
+          "multiverseid": 430159
+        },
+        {
+          "name": "\u6355\u9e1f\u7f51",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430189&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 430189
+        },
+        {
+          "name": "\u6355\u9ce5\u7db2",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=430219&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 430219
+        }
+      ]
+    }
+  ]
+}

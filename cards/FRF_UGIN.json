@@ -1,0 +1,4288 @@
+{
+  "code": "FRF_UGIN",
+  "name": "Ugin's Fate promos",
+  "type": "promo",
+  "border": "black",
+  "mkm_id": 1587,
+  "mkm_name": "Ugin's Fate Promos",
+  "release_date": "2015-01-17",
+  "gatherer_code": null,
+  "magic_cards_info_code": "ugin",
+  "booster": null,
+  "old_code": null,
+  "block": null,
+  "online_only": null,
+  "cards": [
+    {
+      "name": "Ugin, the Spirit Dragon",
+      "layout": "normal",
+      "mana_cost": "{8}",
+      "cmc": 8,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Legendary Planeswalker \u2014 Ugin",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Ugin"
+      ],
+      "types": [
+        "Planeswalker"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "+2: Ugin, the Spirit Dragon deals 3 damage to any target.\n\u2212X: Exile each permanent with converted mana cost X or less that's one or more colors.\n\u221210: You gain 7 life, draw seven cards, then put up to seven permanent cards from your hand onto the battlefield.",
+      "flavor": null,
+      "artist": "Chris Rahn",
+      "number": "1",
+      "power": null,
+      "toughness": null,
+      "loyalty": 7,
+      "multiverse_id": 394086,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "FRF_UGIN",
+        "FRF"
+      ],
+      "original_text": "+2: Ugin, the Spirit Dragon deals 3 damage to target creature or player.\n\u2212X: Exile each permanent with converted mana cost X or less that's one or more colors.\n\u221210: You gain 7 life, draw seven cards, then put up to seven permanent cards from your hand onto the battlefield.",
+      "original_type": "Planeswalker \u2014 Ugin",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394086&type=card",
+      "set": "FRF_UGIN",
+      "set_name": "Ugin's Fate promos",
+      "id": "942b355efad6f857bfc92730978a4db29f7d35f0",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2014-11-24",
+          "text": "If you choose to put permanent cards with morph onto the battlefield with the third ability, you must put them onto the battlefield face up."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Ugin, the Spirit Dragon is not a Dragon card; that is, he doesn't have the creature type Dragon. Spells and abilities that refer to Dragon cards or Dragons don't apply to Ugin."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u7075\u9f99\u4e4c\u91d1",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394112&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 394112
+        },
+        {
+          "name": "\u9748\u9f8d\u70cf\u91d1",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394138&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 394138
+        },
+        {
+          "name": "Ugin der Geisterdrache",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394164&type=card",
+          "language": "German",
+          "multiverseid": 394164
+        },
+        {
+          "name": "Ugin, le dragon-esprit",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394190&type=card",
+          "language": "French",
+          "multiverseid": 394190
+        },
+        {
+          "name": "Ugin, lo Spirito Drago",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394216&type=card",
+          "language": "Italian",
+          "multiverseid": 394216
+        },
+        {
+          "name": "\u7cbe\u970a\u9f8d\u3001\u30a6\u30ae\u30f3",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394242&type=card",
+          "language": "Japanese",
+          "multiverseid": 394242
+        },
+        {
+          "name": "\uc2e0\ub839 \uc6a9 \uc6b0\uc9c4",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394268&type=card",
+          "language": "Korean",
+          "multiverseid": 394268
+        },
+        {
+          "name": "Ugin, o Drag\u00e3o Esp\u00edrito",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394294&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 394294
+        },
+        {
+          "name": "\u0423\u0434\u0436\u0438\u043d, \u0414\u0443\u0445 \u0414\u0440\u0430\u043a\u043e\u043d\u0430",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394320&type=card",
+          "language": "Russian",
+          "multiverseid": 394320
+        },
+        {
+          "name": "Ugin, el drag\u00f3n esp\u00edritu",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394346&type=card",
+          "language": "Spanish",
+          "multiverseid": 394346
+        }
+      ]
+    },
+    {
+      "name": "Mastery of the Unseen",
+      "layout": "normal",
+      "mana_cost": "{1}{W}",
+      "cmc": 2,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Enchantment",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Rare",
+      "text": "Whenever a permanent you control is turned face up, you gain 1 life for each creature you control.\n{3}{W}: Manifest the top card of your library. (Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)",
+      "flavor": null,
+      "artist": "Daniel Ljunggren",
+      "number": "19",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 394079,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pPRE",
+        "FRF_UGIN",
+        "FRF"
+      ],
+      "original_text": "Whenever a permanent you control is turned face up, you gain 1 life for each creature you control.\n{3}{W}: Manifest the top card of your library. (Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)",
+      "original_type": "Enchantment",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394079&type=card",
+      "set": "FRF_UGIN",
+      "set_name": "Ugin's Fate promos",
+      "id": "6067ff9d574d511fabadac6297344ff3bc1e544a",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2014-11-24",
+          "text": "The face-down permanent is a 2/2 creature with no name, mana cost, creature types, or abilities. It's colorless and has a converted mana cost of 0. Other effects that apply to the permanent can still grant or change any of these characteristics."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Any time you have priority, you may turn a manifested creature face up by revealing that it's a creature card (ignoring any copy effects or type-changing effects that might be applying to it) and paying its mana cost. This is a special action. It doesn't use the stack and can't be responded to."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "If a manifested creature would have morph if it were face up, you may also turn it face up by paying its morph cost."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Unlike a face-down creature that was cast using the morph ability, a manifested creature may still be turned face up after it loses its abilities if it's a creature card."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Because the permanent is on the battlefield both before and after it's turned face up, turning a permanent face up doesn't cause any enters-the-battlefield abilities to trigger."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Because face-down creatures don't have names, they can't have the same name as any other creature, even another face-down creature."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "A permanent that turns face up or face down changes characteristics but is otherwise the same permanent. Spells and abilities that were targeting that permanent, as well as Auras and Equipment that were attached to the permanent, aren't affected."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Turning a permanent face up or face down doesn't change whether that permanent is tapped or untapped."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "At any time, you can look at a face-down permanent you control. You can't look at face-down permanents you don't control unless an effect allows you to or instructs you to."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "If a face-down permanent you control leaves the battlefield, you must reveal it. You must also reveal all face-down spells and permanents you control if you leave the game or if the game ends."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "You must ensure that your face-down spells and permanents can easily be differentiated from each other. You're not allowed to mix up the cards that represent them on the battlefield in order to confuse other players. The order they entered the battlefield should remain clear. Common methods for indicating this include using markers or dice, or simply placing them in order on the battlefield. You must also track how each became face down (manifested, cast face down using the morph ability, and so on)."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "There are no cards in the Fate Reforged set that would turn a face-down instant or sorcery card on the battlefield face up, but some older cards can try to do this. If something tries to turn a face-down instant or sorcery card on the battlefield face up, reveal that card to show all players it's an instant or sorcery card. The permanent remains on the battlefield face down. Abilities that trigger when a permanent turns face up won't trigger, because even though you revealed the card, it never turned face up."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Some older Magic sets feature double-faced cards, which have a Magic card face on each side rather than a Magic card face on one side and a Magic card back on the other. The rules for double-faced cards are changing slightly to account for the possibility that they are manifested. If a double-faced card is manifested, it will be put onto the battlefield face down. While face down, it can't transform. If the front face of the card is a creature card, you can turn it face up by paying its mana cost. If you do, its front face will be up. A double-faced permanent on the battlefield still can't be turned face down."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u6d88\u5f62\u5947\u6280",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394105&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 394105
+        },
+        {
+          "name": "\u6d88\u5f62\u5947\u6280",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394131&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 394131
+        },
+        {
+          "name": "Beherrschung des Unsichtbaren",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394157&type=card",
+          "language": "German",
+          "multiverseid": 394157
+        },
+        {
+          "name": "Ma\u00eetrise de l'inapparence",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394183&type=card",
+          "language": "French",
+          "multiverseid": 394183
+        },
+        {
+          "name": "Dominio dell'Invisibile",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394209&type=card",
+          "language": "Italian",
+          "multiverseid": 394209
+        },
+        {
+          "name": "\u898b\u3048\u3056\u308b\u3082\u306e\u306e\u719f\u9054",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394235&type=card",
+          "language": "Japanese",
+          "multiverseid": 394235
+        },
+        {
+          "name": "\uc228\uaca8\uc9c4 \uc790\ub4e4\uc758 \ube44\uc220",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394261&type=card",
+          "language": "Korean",
+          "multiverseid": 394261
+        },
+        {
+          "name": "Dom\u00ednio do Invis\u00edvel",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394287&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 394287
+        },
+        {
+          "name": "\u041c\u0430\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043e \u041d\u0435\u0432\u0438\u0434\u0438\u043c\u044b\u0445",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394313&type=card",
+          "language": "Russian",
+          "multiverseid": 394313
+        },
+        {
+          "name": "Maestr\u00eda de lo oculto",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394339&type=card",
+          "language": "Spanish",
+          "multiverseid": 394339
+        }
+      ]
+    },
+    {
+      "name": "Smite the Monstrous",
+      "layout": "normal",
+      "mana_cost": "{3}{W}",
+      "cmc": 4,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Common",
+      "text": "Destroy target creature with power 4 or greater.",
+      "flavor": "The changing of a single moment in Tarkir's past altered its future, rewriting its history.",
+      "artist": "Greg Staples",
+      "number": "24",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 394083,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ISD",
+        "DDL",
+        "KTK",
+        "FRF_UGIN",
+        "BFZ"
+      ],
+      "original_text": "Destroy target creature with power 4 or greater.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394083&type=card",
+      "set": "FRF_UGIN",
+      "set_name": "Ugin's Fate promos",
+      "id": "aae3b7af260a2a6ed6032a43c8bce08d347d696e",
+      "legalities": [
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u51fb\u706d\u6076\u7269",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394109&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 394109
+        },
+        {
+          "name": "\u64ca\u6ec5\u60e1\u7269",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394135&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 394135
+        },
+        {
+          "name": "Die Monster erschlagen",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394161&type=card",
+          "language": "German",
+          "multiverseid": 394161
+        },
+        {
+          "name": "Pourfendre le monstrueux",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394187&type=card",
+          "language": "French",
+          "multiverseid": 394187
+        },
+        {
+          "name": "Punire i Mostruosi",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394213&type=card",
+          "language": "Italian",
+          "multiverseid": 394213
+        },
+        {
+          "name": "\u5927\u7269\u6f70\u3057",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394239&type=card",
+          "language": "Japanese",
+          "multiverseid": 394239
+        },
+        {
+          "name": "\uad34\ubb3c\uc758 \uaca9\ud30c",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394265&type=card",
+          "language": "Korean",
+          "multiverseid": 394265
+        },
+        {
+          "name": "Golpear o Monstruoso",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394291&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 394291
+        },
+        {
+          "name": "\u0421\u0440\u0430\u0437\u0438\u0442\u044c \u0427\u0443\u0434\u043e\u0432\u0438\u0449\u0435",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394317&type=card",
+          "language": "Russian",
+          "multiverseid": 394317
+        },
+        {
+          "name": "Abatir al monstruo",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394343&type=card",
+          "language": "Spanish",
+          "multiverseid": 394343
+        }
+      ]
+    },
+    {
+      "name": "Soul Summons",
+      "layout": "normal",
+      "mana_cost": "{1}{W}",
+      "cmc": 2,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Common",
+      "text": "Manifest the top card of your library. (Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)",
+      "flavor": "Ugin's magic reaches beyond the dragons. The clans have adapted it for war.",
+      "artist": "Johann Bodin",
+      "number": "26",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 394084,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "FRF_UGIN",
+        "FRF"
+      ],
+      "original_text": "Manifest the top card of your library. (Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394084&type=card",
+      "set": "FRF_UGIN",
+      "set_name": "Ugin's Fate promos",
+      "id": "8672ad2dbb71903e45140a216d66f572e273e047",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2014-11-24",
+          "text": "The face-down permanent is a 2/2 creature with no name, mana cost, creature types, or abilities. It's colorless and has a converted mana cost of 0. Other effects that apply to the permanent can still grant or change any of these characteristics."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Any time you have priority, you may turn a manifested creature face up by revealing that it's a creature card (ignoring any copy effects or type-changing effects that might be applying to it) and paying its mana cost. This is a special action. It doesn't use the stack and can't be responded to."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "If a manifested creature would have morph if it were face up, you may also turn it face up by paying its morph cost."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Unlike a face-down creature that was cast using the morph ability, a manifested creature may still be turned face up after it loses its abilities if it's a creature card."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Because the permanent is on the battlefield both before and after it's turned face up, turning a permanent face up doesn't cause any enters-the-battlefield abilities to trigger."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Because face-down creatures don't have names, they can't have the same name as any other creature, even another face-down creature."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "A permanent that turns face up or face down changes characteristics but is otherwise the same permanent. Spells and abilities that were targeting that permanent, as well as Auras and Equipment that were attached to the permanent, aren't affected."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Turning a permanent face up or face down doesn't change whether that permanent is tapped or untapped."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "At any time, you can look at a face-down permanent you control. You can't look at face-down permanents you don't control unless an effect allows you to or instructs you to."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "If a face-down permanent you control leaves the battlefield, you must reveal it. You must also reveal all face-down spells and permanents you control if you leave the game or if the game ends."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "You must ensure that your face-down spells and permanents can easily be differentiated from each other. You're not allowed to mix up the cards that represent them on the battlefield in order to confuse other players. The order they entered the battlefield should remain clear. Common methods for indicating this include using markers or dice, or simply placing them in order on the battlefield. You must also track how each became face down (manifested, cast face down using the morph ability, and so on)."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "There are no cards in the Fate Reforged set that would turn a face-down instant or sorcery card on the battlefield face up, but some older cards can try to do this. If something tries to turn a face-down instant or sorcery card on the battlefield face up, reveal that card to show all players it's an instant or sorcery card. The permanent remains on the battlefield face down. Abilities that trigger when a permanent turns face up won't trigger, because even though you revealed the card, it never turned face up."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Some older Magic sets feature double-faced cards, which have a Magic card face on each side rather than a Magic card face on one side and a Magic card back on the other. The rules for double-faced cards are changing slightly to account for the possibility that they are manifested. If a double-faced card is manifested, it will be put onto the battlefield face down. While face down, it can't transform. If the front face of the card is a creature card, you can turn it face up by paying its mana cost. If you do, its front face will be up. A double-faced permanent on the battlefield still can't be turned face down."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u5524\u9b42\u672f",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394110&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 394110
+        },
+        {
+          "name": "\u559a\u9b42\u8853",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394136&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 394136
+        },
+        {
+          "name": "Seelenbeschw\u00f6rung",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394162&type=card",
+          "language": "German",
+          "multiverseid": 394162
+        },
+        {
+          "name": "Recrutement d'\u00e2me",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394188&type=card",
+          "language": "French",
+          "multiverseid": 394188
+        },
+        {
+          "name": "Evocazioni Spirituali",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394214&type=card",
+          "language": "Italian",
+          "multiverseid": 394214
+        },
+        {
+          "name": "\u9b42\u306e\u53ec\u559a",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394240&type=card",
+          "language": "Japanese",
+          "multiverseid": 394240
+        },
+        {
+          "name": "\uc601\ud63c \uc18c\ud658",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394266&type=card",
+          "language": "Korean",
+          "multiverseid": 394266
+        },
+        {
+          "name": "Evoca\u00e7\u00e3o das Almas",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394292&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 394292
+        },
+        {
+          "name": "\u041f\u0440\u0438\u0437\u044b\u0432 \u0414\u0443\u0448\u0438",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394318&type=card",
+          "language": "Russian",
+          "multiverseid": 394318
+        },
+        {
+          "name": "Invocaciones de alma",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394344&type=card",
+          "language": "Spanish",
+          "multiverseid": 394344
+        }
+      ]
+    },
+    {
+      "name": "Watcher of the Roost",
+      "layout": "normal",
+      "mana_cost": "{2}{W}",
+      "cmc": 3,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Bird Soldier",
+      "supertypes": null,
+      "subtypes": [
+        "Bird",
+        "Soldier"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "Flying\nMorph\u2014Reveal a white card in your hand. (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Watcher of the Roost is turned face up, you gain 2 life.",
+      "flavor": null,
+      "artist": "Jack Wang",
+      "number": "30",
+      "power": "2",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 394088,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "KTK",
+        "FRF_UGIN"
+      ],
+      "original_text": "Flying\nMorph\u2014Reveal a white card in your hand. (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Watcher of the Roost is turned face up, you gain 2 life.",
+      "original_type": "Creature \u2014 Bird Soldier",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394088&type=card",
+      "set": "FRF_UGIN",
+      "set_name": "Ugin's Fate promos",
+      "id": "bfc18ef0310f184183c29a5144e0ed1f1bd2472d",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2014-09-20",
+          "text": "Morph lets you cast a card face down by paying {3}, and lets you turn the face-down permanent face up any time you have priority by paying its morph cost."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "The face-down spell has no mana cost and has a converted mana cost of 0. When you cast a face-down spell, put it on the stack face down so no other player knows what it is, and pay {3}. This is an alternative cost."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "When the spell resolves, it enters the battlefield as a 2/2 creature with no name, mana cost, creature types, or abilities. It's colorless and has a converted mana cost of 0. Other effects that apply to the creature can still grant it any of these characteristics."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "Any time you have priority, you may turn the face-down creature face up by revealing what its morph cost is and paying that cost. This is a special action. It doesn't use the stack and can't be responded to. Only a face-down permanent can be turned face up this way; a face-down spell cannot."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "Because the permanent is on the battlefield both before and after it's turned face up, turning a permanent face up doesn't cause any enters-the-battlefield abilities to trigger."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "A permanent that turns face up or face down changes characteristics but is otherwise the same permanent. Spells and abilities that were targeting that permanent, as well as Auras and Equipment that were attached to the permanent, aren't affected."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "At any time, you can look at a face-down spell or permanent you control. You can't look at face-down spells or permanents you don't control unless an effect instructs you to do so."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "You must ensure that your face-down spells and permanents can easily be differentiated from each other. You're not allowed to mix up the cards that represent them on the battlefield in order to confuse other players. The order they entered the battlefield should remain clear. Common methods for doing this include using markers or dice, or simply placing them in order on the battlefield."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "If a face-down permanent leaves the battlefield, you must reveal it. You must also reveal all face-down spells and permanents you control if you leave the game or if the game ends."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u773a\u5de2\u770b\u5b88",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394114&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 394114
+        },
+        {
+          "name": "\u773a\u5de2\u770b\u5b88",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394140&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 394140
+        },
+        {
+          "name": "W\u00e4chter des Sp\u00e4hnests",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394166&type=card",
+          "language": "German",
+          "multiverseid": 394166
+        },
+        {
+          "name": "Gardien du perchoir",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394192&type=card",
+          "language": "French",
+          "multiverseid": 394192
+        },
+        {
+          "name": "Guardiano del Trespolo",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394218&type=card",
+          "language": "Italian",
+          "multiverseid": 394218
+        },
+        {
+          "name": "\u4f11\u606f\u5730\u306e\u898b\u5f35\u308a",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394244&type=card",
+          "language": "Japanese",
+          "multiverseid": 394244
+        },
+        {
+          "name": "\ub465\uc9c0 \ud30c\uc218\uafbc",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394270&type=card",
+          "language": "Korean",
+          "multiverseid": 394270
+        },
+        {
+          "name": "Vigia do Poleiro",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394296&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 394296
+        },
+        {
+          "name": "\u0414\u043e\u0437\u043e\u0440\u043d\u044b\u0439 \u041d\u0430\u0441\u0435\u0441\u0442\u0430",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394322&type=card",
+          "language": "Russian",
+          "multiverseid": 394322
+        },
+        {
+          "name": "Vigilante del nido",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394348&type=card",
+          "language": "Spanish",
+          "multiverseid": 394348
+        }
+      ]
+    },
+    {
+      "name": "Jeskai Infiltrator",
+      "layout": "normal",
+      "mana_cost": "{2}{U}",
+      "cmc": 3,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Monk",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Monk"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": "Jeskai Infiltrator can't be blocked as long as you control no other creatures.\nWhen Jeskai Infiltrator deals combat damage to a player, exile it and the top card of your library in a face-down pile, shuffle that pile, then manifest those cards. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)",
+      "flavor": null,
+      "artist": "Cynthia Sheppard",
+      "number": "36",
+      "power": "2",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": 394078,
+      "variations": null,
+      "watermark": "Jeskai",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pPRE",
+        "FRF_UGIN",
+        "FRF"
+      ],
+      "original_text": "Jeskai Infiltrator can't be blocked as long as you control no other creatures.\nWhen Jeskai Infiltrator deals combat damage to a player, exile it and the top card of your library in a face-down pile, shuffle that pile, then manifest those cards. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)",
+      "original_type": "Creature \u2014 Human Monk",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394078&type=card",
+      "set": "FRF_UGIN",
+      "set_name": "Ugin's Fate promos",
+      "id": "dd087a703196ba85157c8b50bdddf1e68e1cb8b1",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2014-11-24",
+          "text": "The pile is shuffled to disguise from your opponents which manifested creature is which. After you manifest the cards, you can look at them."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "If Jeskai Infiltrator isn't on the battlefield as its triggered ability resolves, you'll manifest just the top card of your library."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "A card's owner is public information at all times. If the two cards you exile are owned by different players (perhaps because you gained control of a Jeskai Infiltrator owned by your opponent), which card is which is no longer hidden from your opponent. That player will know which face-down creature they own."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "If you manifest a card owned by an opponent and you leave the game, that card is exiled."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "The face-down permanent is a 2/2 creature with no name, mana cost, creature types, or abilities. It's colorless and has a converted mana cost of 0. Other effects that apply to the permanent can still grant or change any of these characteristics."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Any time you have priority, you may turn a manifested creature face up by revealing that it's a creature card (ignoring any copy effects or type-changing effects that might be applying to it) and paying its mana cost. This is a special action. It doesn't use the stack and can't be responded to."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "If a manifested creature would have morph if it were face up, you may also turn it face up by paying its morph cost."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Unlike a face-down creature that was cast using the morph ability, a manifested creature may still be turned face up after it loses its abilities if it's a creature card."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Because the permanent is on the battlefield both before and after it's turned face up, turning a permanent face up doesn't cause any enters-the-battlefield abilities to trigger."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Because face-down creatures don't have names, they can't have the same name as any other creature, even another face-down creature."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "A permanent that turns face up or face down changes characteristics but is otherwise the same permanent. Spells and abilities that were targeting that permanent, as well as Auras and Equipment that were attached to the permanent, aren't affected."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Turning a permanent face up or face down doesn't change whether that permanent is tapped or untapped."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "At any time, you can look at a face-down permanent you control. You can't look at face-down permanents you don't control unless an effect allows you to or instructs you to."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "If a face-down permanent you control leaves the battlefield, you must reveal it. You must also reveal all face-down spells and permanents you control if you leave the game or if the game ends."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "You must ensure that your face-down spells and permanents can easily be differentiated from each other. You're not allowed to mix up the cards that represent them on the battlefield in order to confuse other players. The order they entered the battlefield should remain clear. Common methods for indicating this include using markers or dice, or simply placing them in order on the battlefield. You must also track how each became face down (manifested, cast face down using the morph ability, and so on)."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "There are no cards in the Fate Reforged set that would turn a face-down instant or sorcery card on the battlefield face up, but some older cards can try to do this. If something tries to turn a face-down instant or sorcery card on the battlefield face up, reveal that card to show all players it's an instant or sorcery card. The permanent remains on the battlefield face down. Abilities that trigger when a permanent turns face up won't trigger, because even though you revealed the card, it never turned face up."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Some older Magic sets feature double-faced cards, which have a Magic card face on each side rather than a Magic card face on one side and a Magic card back on the other. The rules for double-faced cards are changing slightly to account for the possibility that they are manifested. If a double-faced card is manifested, it will be put onto the battlefield face down. While face down, it can't transform. If the front face of the card is a creature card, you can turn it face up by paying its mana cost. If you do, its front face will be up. A double-faced permanent on the battlefield still can't be turned face down."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u6d01\u65af\u51ef\u6e17\u900f\u8005",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394104&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 394104
+        },
+        {
+          "name": "\u6f54\u65af\u51f1\u6ef2\u900f\u8005",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394130&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 394130
+        },
+        {
+          "name": "Jeskai-Infiltratorin",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394156&type=card",
+          "language": "German",
+          "multiverseid": 394156
+        },
+        {
+          "name": "Infiltratrice jeska\u00ef",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394182&type=card",
+          "language": "French",
+          "multiverseid": 394182
+        },
+        {
+          "name": "Infiltrata Jeskai",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394208&type=card",
+          "language": "Italian",
+          "multiverseid": 394208
+        },
+        {
+          "name": "\u30b8\u30a7\u30b9\u30ab\u30a4\u306e\u6d78\u900f\u8005",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394234&type=card",
+          "language": "Japanese",
+          "multiverseid": 394234
+        },
+        {
+          "name": "\uc81c\uc2a4\uce74\uc774 \uce68\ud22c\uc6d0",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394260&type=card",
+          "language": "Korean",
+          "multiverseid": 394260
+        },
+        {
+          "name": "Infiltradora Jeskai",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394286&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 394286
+        },
+        {
+          "name": "\u0414\u0436\u0435\u0441\u043a\u0430\u0439\u0441\u043a\u0438\u0439 \u0428\u043f\u0438\u043e\u043d",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394312&type=card",
+          "language": "Russian",
+          "multiverseid": 394312
+        },
+        {
+          "name": "Esp\u00eda jeskai",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394338&type=card",
+          "language": "Spanish",
+          "multiverseid": 394338
+        }
+      ]
+    },
+    {
+      "name": "Reality Shift",
+      "layout": "normal",
+      "mana_cost": "{1}{U}",
+      "cmc": 2,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Uncommon",
+      "text": "Exile target creature. Its controller manifests the top card of their library. (That player puts the top card of their library onto the battlefield face down as a 2/2 creature. If it's a creature card, it can be turned face up any time for its mana cost.)",
+      "flavor": null,
+      "artist": "Howard Lyon",
+      "number": "46",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 394081,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "FRF_UGIN",
+        "FRF",
+        "C17"
+      ],
+      "original_text": "Exile target creature. Its controller manifests the top card of his or her library. (That player puts the top card of his or her library onto the battlefield face down as a 2/2 creature. If it's a creature card, it can be turned face up any time for its mana cost.)",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394081&type=card",
+      "set": "FRF_UGIN",
+      "set_name": "Ugin's Fate promos",
+      "id": "cd726f98a087c7fb162d43ad463cc952cce6e6d7",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2014-11-24",
+          "text": "The face-down permanent is a 2/2 creature with no name, mana cost, creature types, or abilities. It's colorless and has a converted mana cost of 0. Other effects that apply to the permanent can still grant or change any of these characteristics."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Any time you have priority, you may turn a manifested creature face up by revealing that it's a creature card (ignoring any copy effects or type-changing effects that might be applying to it) and paying its mana cost. This is a special action. It doesn't use the stack and can't be responded to."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "If a manifested creature would have morph if it were face up, you may also turn it face up by paying its morph cost."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Unlike a face-down creature that was cast using the morph ability, a manifested creature may still be turned face up after it loses its abilities if it's a creature card."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Because the permanent is on the battlefield both before and after it's turned face up, turning a permanent face up doesn't cause any enters-the-battlefield abilities to trigger."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Because face-down creatures don't have names, they can't have the same name as any other creature, even another face-down creature."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "A permanent that turns face up or face down changes characteristics but is otherwise the same permanent. Spells and abilities that were targeting that permanent, as well as Auras and Equipment that were attached to the permanent, aren't affected."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Turning a permanent face up or face down doesn't change whether that permanent is tapped or untapped."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "At any time, you can look at a face-down permanent you control. You can't look at face-down permanents you don't control unless an effect allows you to or instructs you to."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "If a face-down permanent you control leaves the battlefield, you must reveal it. You must also reveal all face-down spells and permanents you control if you leave the game or if the game ends."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "You must ensure that your face-down spells and permanents can easily be differentiated from each other. You're not allowed to mix up the cards that represent them on the battlefield in order to confuse other players. The order they entered the battlefield should remain clear. Common methods for indicating this include using markers or dice, or simply placing them in order on the battlefield. You must also track how each became face down (manifested, cast face down using the morph ability, and so on)."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "There are no cards in the Fate Reforged set that would turn a face-down instant or sorcery card on the battlefield face up, but some older cards can try to do this. If something tries to turn a face-down instant or sorcery card on the battlefield face up, reveal that card to show all players it's an instant or sorcery card. The permanent remains on the battlefield face down. Abilities that trigger when a permanent turns face up won't trigger, because even though you revealed the card, it never turned face up."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Some older Magic sets feature double-faced cards, which have a Magic card face on each side rather than a Magic card face on one side and a Magic card back on the other. The rules for double-faced cards are changing slightly to account for the possibility that they are manifested. If a double-faced card is manifested, it will be put onto the battlefield face down. While face down, it can't transform. If the front face of the card is a creature card, you can turn it face up by paying its mana cost. If you do, its front face will be up. A double-faced permanent on the battlefield still can't be turned face down."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u5b9e\u754c\u53d8\u5316",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394107&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 394107
+        },
+        {
+          "name": "\u5be6\u754c\u8b8a\u5316",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394133&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 394133
+        },
+        {
+          "name": "Realit\u00e4tsverschiebung",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394159&type=card",
+          "language": "German",
+          "multiverseid": 394159
+        },
+        {
+          "name": "Bouleversement de r\u00e9alit\u00e9",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394185&type=card",
+          "language": "French",
+          "multiverseid": 394185
+        },
+        {
+          "name": "Mutamento della Realt\u00e0",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394211&type=card",
+          "language": "Italian",
+          "multiverseid": 394211
+        },
+        {
+          "name": "\u73fe\u5b9f\u5909\u5bb9",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394237&type=card",
+          "language": "Japanese",
+          "multiverseid": 394237
+        },
+        {
+          "name": "\ud604\uc2e4 \uc870\uc791",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394263&type=card",
+          "language": "Korean",
+          "multiverseid": 394263
+        },
+        {
+          "name": "Desvio de Realidade",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394289&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 394289
+        },
+        {
+          "name": "\u0421\u0434\u0432\u0438\u0433 \u0420\u0435\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394315&type=card",
+          "language": "Russian",
+          "multiverseid": 394315
+        },
+        {
+          "name": "Cambio de realidad",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394341&type=card",
+          "language": "Spanish",
+          "multiverseid": 394341
+        }
+      ]
+    },
+    {
+      "name": "Mystic of the Hidden Way",
+      "layout": "normal",
+      "mana_cost": "{4}{U}",
+      "cmc": 5,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Monk",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Monk"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Mystic of the Hidden Way can't be blocked.\nMorph {2}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+      "flavor": "\"There are many different paths. The Great Teacher reveals them all.\"",
+      "artist": "Ryan Alexander Lee",
+      "number": "48",
+      "power": "3",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 394080,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "KTK",
+        "FRF_UGIN",
+        "A25"
+      ],
+      "original_text": "Mystic of the Hidden Way can't be blocked.\nMorph {2}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+      "original_type": "Creature \u2014 Human Monk",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394080&type=card",
+      "set": "FRF_UGIN",
+      "set_name": "Ugin's Fate promos",
+      "id": "cf0ae60f3268fd32336a41a24e3fa9237c7d2b60",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2014-09-20",
+          "text": "Morph lets you cast a card face down by paying {3}, and lets you turn the face-down permanent face up any time you have priority by paying its morph cost."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "The face-down spell has no mana cost and has a converted mana cost of 0. When you cast a face-down spell, put it on the stack face down so no other player knows what it is, and pay {3}. This is an alternative cost."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "When the spell resolves, it enters the battlefield as a 2/2 creature with no name, mana cost, creature types, or abilities. It's colorless and has a converted mana cost of 0. Other effects that apply to the creature can still grant it any of these characteristics."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "Any time you have priority, you may turn the face-down creature face up by revealing what its morph cost is and paying that cost. This is a special action. It doesn't use the stack and can't be responded to. Only a face-down permanent can be turned face up this way; a face-down spell cannot."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "Because the permanent is on the battlefield both before and after it's turned face up, turning a permanent face up doesn't cause any enters-the-battlefield abilities to trigger."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "A permanent that turns face up or face down changes characteristics but is otherwise the same permanent. Spells and abilities that were targeting that permanent, as well as Auras and Equipment that were attached to the permanent, aren't affected."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "At any time, you can look at a face-down spell or permanent you control. You can't look at face-down spells or permanents you don't control unless an effect instructs you to do so."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "You must ensure that your face-down spells and permanents can easily be differentiated from each other. You're not allowed to mix up the cards that represent them on the battlefield in order to confuse other players. The order they entered the battlefield should remain clear. Common methods for doing this include using markers or dice, or simply placing them in order on the battlefield."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "If a face-down permanent leaves the battlefield, you must reveal it. You must also reveal all face-down spells and permanents you control if you leave the game or if the game ends."
+        },
+        {
+          "date": "2018-03-16",
+          "text": "If a face-down Mystic of the Hidden Way is blocked and then turned face up, it stays blocked."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u9690\u5b97\u79d8\u6559\u5f92",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394106&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 394106
+        },
+        {
+          "name": "\u96b1\u5b97\u79d8\u6559\u5f92",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394132&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 394132
+        },
+        {
+          "name": "Mystiker des Verborgenen Weges",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394158&type=card",
+          "language": "German",
+          "multiverseid": 394158
+        },
+        {
+          "name": "Mystique de la Voie secr\u00e8te",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394184&type=card",
+          "language": "French",
+          "multiverseid": 394184
+        },
+        {
+          "name": "Mistico della Via Nascosta",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394210&type=card",
+          "language": "Italian",
+          "multiverseid": 394210
+        },
+        {
+          "name": "\u96a0\u9053\u306e\u795e\u79d8\u5bb6",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394236&type=card",
+          "language": "Japanese",
+          "multiverseid": 394236
+        },
+        {
+          "name": "\uc228\uaca8\uc9c4 \uae38\uc758 \uc2e0\ube44\uc8fc\uc758\uc790",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394262&type=card",
+          "language": "Korean",
+          "multiverseid": 394262
+        },
+        {
+          "name": "M\u00edstico do Caminho Oculto",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394288&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 394288
+        },
+        {
+          "name": "\u041c\u0438\u0441\u0442\u0438\u043a \u0422\u0430\u0439\u043d\u043e\u0433\u043e \u041f\u0443\u0442\u0438",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394314&type=card",
+          "language": "Russian",
+          "multiverseid": 394314
+        },
+        {
+          "name": "M\u00edstico de la sabidur\u00eda oculta",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394340&type=card",
+          "language": "Spanish",
+          "multiverseid": 394340
+        }
+      ]
+    },
+    {
+      "name": "Write into Being",
+      "layout": "normal",
+      "mana_cost": "{2}{U}",
+      "cmc": 3,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Common",
+      "text": "Look at the top two cards of your library. Manifest one of those cards, then put the other on the top or bottom of your library. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)",
+      "flavor": null,
+      "artist": "Yeong-Hao Han",
+      "number": "59",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 394090,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "FRF_UGIN",
+        "FRF"
+      ],
+      "original_text": "Look at the top two cards of your library. Manifest one of those cards, then put the other on the top or bottom of your library. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394090&type=card",
+      "set": "FRF_UGIN",
+      "set_name": "Ugin's Fate promos",
+      "id": "f6e417c3497290a837dc89045b3c75daaaa33b90",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2014-11-24",
+          "text": "Other players won't know whether the card you manifest is the top card or second card of that library."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "If you're playing with the top card of your library revealed, you'll manifest one of the cards, then the other one will be revealed, then you can choose to put that card on the bottom of your library or leave it on top."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u58a8\u5199\u6210\u771f",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394116&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 394116
+        },
+        {
+          "name": "\u58a8\u5beb\u6210\u771f",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394142&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 394142
+        },
+        {
+          "name": "Ins Leben rufen",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394168&type=card",
+          "language": "German",
+          "multiverseid": 394168
+        },
+        {
+          "name": "Consigner \u00e0 l'existence",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394194&type=card",
+          "language": "French",
+          "multiverseid": 394194
+        },
+        {
+          "name": "Origine dalla Scrittura",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394220&type=card",
+          "language": "Italian",
+          "multiverseid": 394220
+        },
+        {
+          "name": "\u5b9f\u5728\u3078\u306e\u66f8\u304d\u8fbc\u307f",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394246&type=card",
+          "language": "Japanese",
+          "multiverseid": 394246
+        },
+        {
+          "name": "\uc874\uc7ac\ub85c \uc0c8\uaca8\uc9c0\ub2e4",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394272&type=card",
+          "language": "Korean",
+          "multiverseid": 394272
+        },
+        {
+          "name": "Escrever Exist\u00eancia",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394298&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 394298
+        },
+        {
+          "name": "\u0421\u0434\u0435\u043b\u0430\u0442\u044c \u042f\u0432\u044c\u044e",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394324&type=card",
+          "language": "Russian",
+          "multiverseid": 394324
+        },
+        {
+          "name": "Escribir el ser",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394350&type=card",
+          "language": "Spanish",
+          "multiverseid": 394350
+        }
+      ]
+    },
+    {
+      "name": "Debilitating Injury",
+      "layout": "normal",
+      "mana_cost": "{1}{B}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Enchantment \u2014 Aura",
+      "supertypes": null,
+      "subtypes": [
+        "Aura"
+      ],
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Common",
+      "text": "Enchant creature\nEnchanted creature gets -2/-2.",
+      "flavor": "Weakness exists within all who are not dragons.",
+      "artist": "Slawomir Maniak",
+      "number": "68",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 394070,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "KTK",
+        "FRF_UGIN"
+      ],
+      "original_text": "Enchant creature\nEnchanted creature gets -2/-2.",
+      "original_type": "Enchantment \u2014 Aura",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394070&type=card",
+      "set": "FRF_UGIN",
+      "set_name": "Ugin's Fate promos",
+      "id": "25133ba82117a792f8852b92ce421578562e58c3",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u865a\u5f31\u521b\u4f24",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394096&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 394096
+        },
+        {
+          "name": "\u865b\u5f31\u5275\u50b7",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394122&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 394122
+        },
+        {
+          "name": "Hinderliche Verletzung",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394148&type=card",
+          "language": "German",
+          "multiverseid": 394148
+        },
+        {
+          "name": "Blessure incapacitante",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394174&type=card",
+          "language": "French",
+          "multiverseid": 394174
+        },
+        {
+          "name": "Ferita Debilitante",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394200&type=card",
+          "language": "Italian",
+          "multiverseid": 394200
+        },
+        {
+          "name": "\u6d88\u8017\u3059\u308b\u8ca0\u50b7",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394226&type=card",
+          "language": "Japanese",
+          "multiverseid": 394226
+        },
+        {
+          "name": "\uc1e0\uc57d\ud574\uc9c0\ub294 \ubd80\uc0c1",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394252&type=card",
+          "language": "Korean",
+          "multiverseid": 394252
+        },
+        {
+          "name": "Ferimento Debilitante",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394278&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 394278
+        },
+        {
+          "name": "\u041e\u0441\u043b\u0430\u0431\u043b\u044f\u044e\u0449\u0430\u044f \u0420\u0430\u043d\u0430",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394304&type=card",
+          "language": "Russian",
+          "multiverseid": 394304
+        },
+        {
+          "name": "Herida debilitadora",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394330&type=card",
+          "language": "Spanish",
+          "multiverseid": 394330
+        }
+      ]
+    },
+    {
+      "name": "Grim Haruspex",
+      "layout": "normal",
+      "mana_cost": "{2}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Wizard",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Wizard"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": "Morph {B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhenever another nontoken creature you control dies, draw a card.",
+      "flavor": "\"Your enemies may be cowardly, my lord, but one should never call them gutless.\"",
+      "artist": "Seb McKinnon",
+      "number": "73",
+      "power": "3",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 394075,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pPRE",
+        "KTK",
+        "FRF_UGIN"
+      ],
+      "original_text": "Morph {B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhenever another nontoken creature you control dies, draw a card.",
+      "original_type": "Creature \u2014 Human Wizard",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394075&type=card",
+      "set": "FRF_UGIN",
+      "set_name": "Ugin's Fate promos",
+      "id": "198cb6e39e36c69503ccc83051dfaa96511f13c1",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2014-09-20",
+          "text": "Morph lets you cast a card face down by paying {3}, and lets you turn the face-down permanent face up any time you have priority by paying its morph cost."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "The face-down spell has no mana cost and has a converted mana cost of 0. When you cast a face-down spell, put it on the stack face down so no other player knows what it is, and pay {3}. This is an alternative cost."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "When the spell resolves, it enters the battlefield as a 2/2 creature with no name, mana cost, creature types, or abilities. It's colorless and has a converted mana cost of 0. Other effects that apply to the creature can still grant it any of these characteristics."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "Any time you have priority, you may turn the face-down creature face up by revealing what its morph cost is and paying that cost. This is a special action. It doesn't use the stack and can't be responded to. Only a face-down permanent can be turned face up this way; a face-down spell cannot."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "Because the permanent is on the battlefield both before and after it's turned face up, turning a permanent face up doesn't cause any enters-the-battlefield abilities to trigger."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "A permanent that turns face up or face down changes characteristics but is otherwise the same permanent. Spells and abilities that were targeting that permanent, as well as Auras and Equipment that were attached to the permanent, aren't affected."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "At any time, you can look at a face-down spell or permanent you control. You can't look at face-down spells or permanents you don't control unless an effect instructs you to do so."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "You must ensure that your face-down spells and permanents can easily be differentiated from each other. You're not allowed to mix up the cards that represent them on the battlefield in order to confuse other players. The order they entered the battlefield should remain clear. Common methods for doing this include using markers or dice, or simply placing them in order on the battlefield."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "If a face-down permanent leaves the battlefield, you must reveal it. You must also reveal all face-down spells and permanents you control if you leave the game or if the game ends."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u9634\u68ee\u80a0\u5360\u5e08",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394101&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 394101
+        },
+        {
+          "name": "\u9670\u68ee\u8178\u5360\u5e2b",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394127&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 394127
+        },
+        {
+          "name": "Grimmige Haruspex",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394153&type=card",
+          "language": "German",
+          "multiverseid": 394153
+        },
+        {
+          "name": "Aruspice sinistre",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394179&type=card",
+          "language": "French",
+          "multiverseid": 394179
+        },
+        {
+          "name": "Aruspice Macabra",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394205&type=card",
+          "language": "Italian",
+          "multiverseid": 394205
+        },
+        {
+          "name": "\u4e0d\u6c17\u5473\u306a\u8178\u535c\u5e2b",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394231&type=card",
+          "language": "Japanese",
+          "multiverseid": 394231
+        },
+        {
+          "name": "\ub054\ucc0d\ud55c \ucc3d\uc790 \uc810\uc7c1\uc774",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394257&type=card",
+          "language": "Korean",
+          "multiverseid": 394257
+        },
+        {
+          "name": "Ar\u00faspice Sinistra",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394283&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 394283
+        },
+        {
+          "name": "\u0411\u0435\u0437\u0436\u0430\u043b\u043e\u0441\u0442\u043d\u0430\u044f \u0413\u0430\u0434\u0430\u0442\u0435\u043b\u044c\u043d\u0438\u0446\u0430",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394309&type=card",
+          "language": "Russian",
+          "multiverseid": 394309
+        },
+        {
+          "name": "Ar\u00faspice siniestra",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394335&type=card",
+          "language": "Spanish",
+          "multiverseid": 394335
+        }
+      ]
+    },
+    {
+      "name": "Sultai Emissary",
+      "layout": "normal",
+      "mana_cost": "{1}{B}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Zombie Warrior",
+      "supertypes": null,
+      "subtypes": [
+        "Zombie",
+        "Warrior"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "When Sultai Emissary dies, manifest the top card of your library. (Put that card onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)",
+      "flavor": "To the Sultai, Ugin's power was just one more resource to be exploited.",
+      "artist": "Mathias Kollros",
+      "number": "85",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 394085,
+      "variations": null,
+      "watermark": "Sultai",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "FRF_UGIN",
+        "FRF"
+      ],
+      "original_text": "When Sultai Emissary dies, manifest the top card of your library. (Put that card onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)",
+      "original_type": "Creature \u2014 Zombie Warrior",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394085&type=card",
+      "set": "FRF_UGIN",
+      "set_name": "Ugin's Fate promos",
+      "id": "5bfd76073cfdbdbf4375a3f9589b6ad9f04ad0b0",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2014-11-24",
+          "text": "The face-down permanent is a 2/2 creature with no name, mana cost, creature types, or abilities. It's colorless and has a converted mana cost of 0. Other effects that apply to the permanent can still grant or change any of these characteristics."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Any time you have priority, you may turn a manifested creature face up by revealing that it's a creature card (ignoring any copy effects or type-changing effects that might be applying to it) and paying its mana cost. This is a special action. It doesn't use the stack and can't be responded to."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "If a manifested creature would have morph if it were face up, you may also turn it face up by paying its morph cost."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Unlike a face-down creature that was cast using the morph ability, a manifested creature may still be turned face up after it loses its abilities if it's a creature card."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Because the permanent is on the battlefield both before and after it's turned face up, turning a permanent face up doesn't cause any enters-the-battlefield abilities to trigger."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Because face-down creatures don't have names, they can't have the same name as any other creature, even another face-down creature."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "A permanent that turns face up or face down changes characteristics but is otherwise the same permanent. Spells and abilities that were targeting that permanent, as well as Auras and Equipment that were attached to the permanent, aren't affected."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Turning a permanent face up or face down doesn't change whether that permanent is tapped or untapped."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "At any time, you can look at a face-down permanent you control. You can't look at face-down permanents you don't control unless an effect allows you to or instructs you to."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "If a face-down permanent you control leaves the battlefield, you must reveal it. You must also reveal all face-down spells and permanents you control if you leave the game or if the game ends."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "You must ensure that your face-down spells and permanents can easily be differentiated from each other. You're not allowed to mix up the cards that represent them on the battlefield in order to confuse other players. The order they entered the battlefield should remain clear. Common methods for indicating this include using markers or dice, or simply placing them in order on the battlefield. You must also track how each became face down (manifested, cast face down using the morph ability, and so on)."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "There are no cards in the Fate Reforged set that would turn a face-down instant or sorcery card on the battlefield face up, but some older cards can try to do this. If something tries to turn a face-down instant or sorcery card on the battlefield face up, reveal that card to show all players it's an instant or sorcery card. The permanent remains on the battlefield face down. Abilities that trigger when a permanent turns face up won't trigger, because even though you revealed the card, it never turned face up."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Some older Magic sets feature double-faced cards, which have a Magic card face on each side rather than a Magic card face on one side and a Magic card back on the other. The rules for double-faced cards are changing slightly to account for the possibility that they are manifested. If a double-faced card is manifested, it will be put onto the battlefield face down. While face down, it can't transform. If the front face of the card is a creature card, you can turn it face up by paying its mana cost. If you do, its front face will be up. A double-faced permanent on the battlefield still can't be turned face down."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u82cf\u52d2\u53f0\u5bc6\u4f7f",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394111&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 394111
+        },
+        {
+          "name": "\u8607\u52d2\u53f0\u5bc6\u4f7f",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394137&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 394137
+        },
+        {
+          "name": "Gesandter der Sultai",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394163&type=card",
+          "language": "German",
+          "multiverseid": 394163
+        },
+        {
+          "name": "\u00c9missaire de Sulta\u00ef",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394189&type=card",
+          "language": "French",
+          "multiverseid": 394189
+        },
+        {
+          "name": "Emissario Sultai",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394215&type=card",
+          "language": "Italian",
+          "multiverseid": 394215
+        },
+        {
+          "name": "\u30b9\u30a5\u30eb\u30bf\u30a4\u306e\u4f7f\u8005",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394241&type=card",
+          "language": "Japanese",
+          "multiverseid": 394241
+        },
+        {
+          "name": "\uc220\ud0c0\uc774 \uc0ac\uc808",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394267&type=card",
+          "language": "Korean",
+          "multiverseid": 394267
+        },
+        {
+          "name": "Emiss\u00e1rio Sultai",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394293&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 394293
+        },
+        {
+          "name": "\u0421\u0443\u043b\u0442\u0430\u0439\u0441\u043a\u0438\u0439 \u041f\u043e\u0441\u043b\u0430\u043d\u043d\u0438\u043a",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394319&type=card",
+          "language": "Russian",
+          "multiverseid": 394319
+        },
+        {
+          "name": "Emisario sultai",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394345&type=card",
+          "language": "Spanish",
+          "multiverseid": 394345
+        }
+      ]
+    },
+    {
+      "name": "Ruthless Ripper",
+      "layout": "normal",
+      "mana_cost": "{B}",
+      "cmc": 1,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Assassin",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Assassin"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "Deathtouch\nMorph\u2014Reveal a black card in your hand. (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Ruthless Ripper is turned face up, target player loses 2 life.",
+      "flavor": null,
+      "artist": "Clint Cearley",
+      "number": "88",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 394082,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "KTK",
+        "FRF_UGIN",
+        "A25"
+      ],
+      "original_text": "Deathtouch\nMorph\u2014Reveal a black card in your hand. (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Ruthless Ripper is turned face up, target player loses 2 life.",
+      "original_type": "Creature \u2014 Human Assassin",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394082&type=card",
+      "set": "FRF_UGIN",
+      "set_name": "Ugin's Fate promos",
+      "id": "394011c6947a89442f9e8e5e3debbc8fd935707c",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2014-09-20",
+          "text": "Morph lets you cast a card face down by paying {3}, and lets you turn the face-down permanent face up any time you have priority by paying its morph cost."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "The face-down spell has no mana cost and has a converted mana cost of 0. When you cast a face-down spell, put it on the stack face down so no other player knows what it is, and pay {3}. This is an alternative cost."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "When the spell resolves, it enters the battlefield as a 2/2 creature with no name, mana cost, creature types, or abilities. It's colorless and has a converted mana cost of 0. Other effects that apply to the creature can still grant it any of these characteristics."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "Any time you have priority, you may turn the face-down creature face up by revealing what its morph cost is and paying that cost. This is a special action. It doesn't use the stack and can't be responded to. Only a face-down permanent can be turned face up this way; a face-down spell cannot."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "Because the permanent is on the battlefield both before and after it's turned face up, turning a permanent face up doesn't cause any enters-the-battlefield abilities to trigger."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "A permanent that turns face up or face down changes characteristics but is otherwise the same permanent. Spells and abilities that were targeting that permanent, as well as Auras and Equipment that were attached to the permanent, aren't affected."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "At any time, you can look at a face-down spell or permanent you control. You can't look at face-down spells or permanents you don't control unless an effect instructs you to do so."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "You must ensure that your face-down spells and permanents can easily be differentiated from each other. You're not allowed to mix up the cards that represent them on the battlefield in order to confuse other players. The order they entered the battlefield should remain clear. Common methods for doing this include using markers or dice, or simply placing them in order on the battlefield."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "If a face-down permanent leaves the battlefield, you must reveal it. You must also reveal all face-down spells and permanents you control if you leave the game or if the game ends."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u65e0\u60c5\u593a\u9b42\u5ba2",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394108&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 394108
+        },
+        {
+          "name": "\u7121\u60c5\u596a\u9b42\u5ba2",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394134&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 394134
+        },
+        {
+          "name": "Unbarmherzige Schlitzerin",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394160&type=card",
+          "language": "German",
+          "multiverseid": 394160
+        },
+        {
+          "name": "\u00c9ventreuse impitoyable",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394186&type=card",
+          "language": "French",
+          "multiverseid": 394186
+        },
+        {
+          "name": "Squartatrice Spietata",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394212&type=card",
+          "language": "Italian",
+          "multiverseid": 394212
+        },
+        {
+          "name": "\u7121\u60c5\u306a\u5207\u308a\u88c2\u304d\u9b54",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394238&type=card",
+          "language": "Japanese",
+          "multiverseid": 394238
+        },
+        {
+          "name": "\ubb34\uc790\ube44\ud55c \uc0b4\uc778\uad11",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394264&type=card",
+          "language": "Korean",
+          "multiverseid": 394264
+        },
+        {
+          "name": "Estripadora Impiedosa",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394290&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 394290
+        },
+        {
+          "name": "\u0411\u0435\u0437\u0436\u0430\u043b\u043e\u0441\u0442\u043d\u0430\u044f \u041f\u043e\u0442\u0440\u043e\u0448\u0438\u0442\u0435\u043b\u044c\u043d\u0438\u0446\u0430",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394316&type=card",
+          "language": "Russian",
+          "multiverseid": 394316
+        },
+        {
+          "name": "Desgarradora despiadada",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394342&type=card",
+          "language": "Spanish",
+          "multiverseid": 394342
+        }
+      ]
+    },
+    {
+      "name": "Ainok Tracker",
+      "layout": "normal",
+      "mana_cost": "{5}{R}",
+      "cmc": 6,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Hound Scout",
+      "supertypes": null,
+      "subtypes": [
+        "Hound",
+        "Scout"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "First strike\nMorph {4}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+      "flavor": "\"The ainok are wild dogs, not fit to join us around the fire.\"\n\u2014Surrak, the Hunt Caller",
+      "artist": "Evan Shipard",
+      "number": "96",
+      "power": "3",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": 394065,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "KTK",
+        "FRF_UGIN"
+      ],
+      "original_text": "First strike\nMorph {4}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+      "original_type": "Creature \u2014 Hound Scout",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394065&type=card",
+      "set": "FRF_UGIN",
+      "set_name": "Ugin's Fate promos",
+      "id": "a74395af6519efcef41490c3f5d2cebd71902809",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2014-09-20",
+          "text": "Morph lets you cast a card face down by paying {3}, and lets you turn the face-down permanent face up any time you have priority by paying its morph cost."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "The face-down spell has no mana cost and has a converted mana cost of 0. When you cast a face-down spell, put it on the stack face down so no other player knows what it is, and pay {3}. This is an alternative cost."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "When the spell resolves, it enters the battlefield as a 2/2 creature with no name, mana cost, creature types, or abilities. It's colorless and has a converted mana cost of 0. Other effects that apply to the creature can still grant it any of these characteristics."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "Any time you have priority, you may turn the face-down creature face up by revealing what its morph cost is and paying that cost. This is a special action. It doesn't use the stack and can't be responded to. Only a face-down permanent can be turned face up this way; a face-down spell cannot."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "Because the permanent is on the battlefield both before and after it's turned face up, turning a permanent face up doesn't cause any enters-the-battlefield abilities to trigger."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "A permanent that turns face up or face down changes characteristics but is otherwise the same permanent. Spells and abilities that were targeting that permanent, as well as Auras and Equipment that were attached to the permanent, aren't affected."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "At any time, you can look at a face-down spell or permanent you control. You can't look at face-down spells or permanents you don't control unless an effect instructs you to do so."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "You must ensure that your face-down spells and permanents can easily be differentiated from each other. You're not allowed to mix up the cards that represent them on the battlefield in order to confuse other players. The order they entered the battlefield should remain clear. Common methods for doing this include using markers or dice, or simply placing them in order on the battlefield."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "If a face-down permanent leaves the battlefield, you must reveal it. You must also reveal all face-down spells and permanents you control if you leave the game or if the game ends."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u4fa6\u730e\u72ac\u4eba",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394091&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 394091
+        },
+        {
+          "name": "\u5075\u7375\u72ac\u4eba",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394117&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 394117
+        },
+        {
+          "name": "Ainok-Spurensucher",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394143&type=card",
+          "language": "German",
+          "multiverseid": 394143
+        },
+        {
+          "name": "Traqueur a\u00efnok",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394169&type=card",
+          "language": "French",
+          "multiverseid": 394169
+        },
+        {
+          "name": "Ainok Battipista",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394195&type=card",
+          "language": "Italian",
+          "multiverseid": 394195
+        },
+        {
+          "name": "\u30a2\u30a4\u30ce\u30af\u306e\u8db3\u8de1\u8ffd\u3044",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394221&type=card",
+          "language": "Japanese",
+          "multiverseid": 394221
+        },
+        {
+          "name": "\uc544\uc774\ub179 \ucd94\uc801\uafbc",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394247&type=card",
+          "language": "Korean",
+          "multiverseid": 394247
+        },
+        {
+          "name": "Rastreador Ainok",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394273&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 394273
+        },
+        {
+          "name": "\u0410\u0438\u043d\u043e\u043a-\u0421\u043b\u0435\u0434\u043e\u043f\u044b\u0442",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394299&type=card",
+          "language": "Russian",
+          "multiverseid": 394299
+        },
+        {
+          "name": "Rastreador ainok",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394325&type=card",
+          "language": "Spanish",
+          "multiverseid": 394325
+        }
+      ]
+    },
+    {
+      "name": "Arc Lightning",
+      "layout": "normal",
+      "mana_cost": "{2}{R}",
+      "cmc": 3,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Uncommon",
+      "text": "Arc Lightning deals 3 damage divided as you choose among one, two, or three targets.",
+      "flavor": "Lightning burns the dragon's path.",
+      "artist": "Seb McKinnon",
+      "number": "97",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 394068,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pARL",
+        "USG",
+        "BRB",
+        "HOP",
+        "KTK",
+        "FRF_UGIN"
+      ],
+      "original_text": "Arc Lightning deals 3 damage divided as you choose among one, two, or three target creatures and/or players.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394068&type=card",
+      "set": "FRF_UGIN",
+      "set_name": "Ugin's Fate promos",
+      "id": "063ecd6ee969dc81c82ec67f24af705be031fffd",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2014-09-20",
+          "text": "You choose how many targets Arc Lightning has and how the damage is divided as you cast the spell. Each target must receive at least 1 damage."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "If some of the creatures are illegal targets as Arc Lightning tries to resolve, the original division of damage still applies but no damage is dealt to the illegal targets. If all targets are illegal, Arc Lightning doesn't resolve."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u5f27\u72b6\u95ea\u7535",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394094&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 394094
+        },
+        {
+          "name": "\u5f27\u72c0\u9583\u96fb",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394120&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 394120
+        },
+        {
+          "name": "Lichtbogen",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394146&type=card",
+          "language": "German",
+          "multiverseid": 394146
+        },
+        {
+          "name": "Arc \u00e9lectrique",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394172&type=card",
+          "language": "French",
+          "multiverseid": 394172
+        },
+        {
+          "name": "Fulmine ad Arco",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394198&type=card",
+          "language": "Italian",
+          "multiverseid": 394198
+        },
+        {
+          "name": "\u5f27\u72b6\u306e\u7a32\u59bb",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394224&type=card",
+          "language": "Japanese",
+          "multiverseid": 394224
+        },
+        {
+          "name": "\uc544\ud06c \ubc29\uc804",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394250&type=card",
+          "language": "Korean",
+          "multiverseid": 394250
+        },
+        {
+          "name": "Raio Voltaico",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394276&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 394276
+        },
+        {
+          "name": "\u0414\u0443\u0433\u043e\u0432\u0430\u044f \u041c\u043e\u043b\u043d\u0438\u044f",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394302&type=card",
+          "language": "Russian",
+          "multiverseid": 394302
+        },
+        {
+          "name": "Rel\u00e1mpago arco",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394328&type=card",
+          "language": "Spanish",
+          "multiverseid": 394328
+        }
+      ]
+    },
+    {
+      "name": "Fierce Invocation",
+      "layout": "normal",
+      "mana_cost": "{4}{R}",
+      "cmc": 5,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Common",
+      "text": "Manifest the top card of your library, then put two +1/+1 counters on it. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)",
+      "flavor": "Anger can empower those who embrace it.",
+      "artist": "Tyler Jacobson",
+      "number": "98",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 394072,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "FRF_UGIN",
+        "FRF"
+      ],
+      "original_text": "Manifest the top card of your library, then put two +1/+1 counters on it. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394072&type=card",
+      "set": "FRF_UGIN",
+      "set_name": "Ugin's Fate promos",
+      "id": "40ad22de617724ec3d85cb7bddd27b378a588e7d",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2014-11-24",
+          "text": "The face-down permanent is a 2/2 creature with no name, mana cost, creature types, or abilities. It's colorless and has a converted mana cost of 0. Other effects that apply to the permanent can still grant or change any of these characteristics."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Any time you have priority, you may turn a manifested creature face up by revealing that it's a creature card (ignoring any copy effects or type-changing effects that might be applying to it) and paying its mana cost. This is a special action. It doesn't use the stack and can't be responded to."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "If a manifested creature would have morph if it were face up, you may also turn it face up by paying its morph cost."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Unlike a face-down creature that was cast using the morph ability, a manifested creature may still be turned face up after it loses its abilities if it's a creature card."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Because the permanent is on the battlefield both before and after it's turned face up, turning a permanent face up doesn't cause any enters-the-battlefield abilities to trigger."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Because face-down creatures don't have names, they can't have the same name as any other creature, even another face-down creature."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "A permanent that turns face up or face down changes characteristics but is otherwise the same permanent. Spells and abilities that were targeting that permanent, as well as Auras and Equipment that were attached to the permanent, aren't affected."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Turning a permanent face up or face down doesn't change whether that permanent is tapped or untapped."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "At any time, you can look at a face-down permanent you control. You can't look at face-down permanents you don't control unless an effect allows you to or instructs you to."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "If a face-down permanent you control leaves the battlefield, you must reveal it. You must also reveal all face-down spells and permanents you control if you leave the game or if the game ends."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "You must ensure that your face-down spells and permanents can easily be differentiated from each other. You're not allowed to mix up the cards that represent them on the battlefield in order to confuse other players. The order they entered the battlefield should remain clear. Common methods for indicating this include using markers or dice, or simply placing them in order on the battlefield. You must also track how each became face down (manifested, cast face down using the morph ability, and so on)."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "There are no cards in the Fate Reforged set that would turn a face-down instant or sorcery card on the battlefield face up, but some older cards can try to do this. If something tries to turn a face-down instant or sorcery card on the battlefield face up, reveal that card to show all players it's an instant or sorcery card. The permanent remains on the battlefield face down. Abilities that trigger when a permanent turns face up won't trigger, because even though you revealed the card, it never turned face up."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Some older Magic sets feature double-faced cards, which have a Magic card face on each side rather than a Magic card face on one side and a Magic card back on the other. The rules for double-faced cards are changing slightly to account for the possibility that they are manifested. If a double-faced card is manifested, it will be put onto the battlefield face down. While face down, it can't transform. If the front face of the card is a creature card, you can turn it face up by paying its mana cost. If you do, its front face will be up. A double-faced permanent on the battlefield still can't be turned face down."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u72c2\u70ed\u795d\u613f",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394098&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 394098
+        },
+        {
+          "name": "\u72c2\u71b1\u795d\u9858",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394124&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 394124
+        },
+        {
+          "name": "W\u00fctende Anrufung",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394150&type=card",
+          "language": "German",
+          "multiverseid": 394150
+        },
+        {
+          "name": "Invocation violente",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394176&type=card",
+          "language": "French",
+          "multiverseid": 394176
+        },
+        {
+          "name": "Invocazione Violenta",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394202&type=card",
+          "language": "Italian",
+          "multiverseid": 394202
+        },
+        {
+          "name": "\u6fc0\u60c5\u306e\u767a\u52d5",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394228&type=card",
+          "language": "Japanese",
+          "multiverseid": 394228
+        },
+        {
+          "name": "\uaca9\ub82c\ud55c \ubd80\ub984",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394254&type=card",
+          "language": "Korean",
+          "multiverseid": 394254
+        },
+        {
+          "name": "Invoca\u00e7\u00e3o Furiosa",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394280&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 394280
+        },
+        {
+          "name": "\u041f\u044b\u043b\u043a\u043e\u0435 \u0417\u0430\u043a\u043b\u044f\u0442\u044c\u0435",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394306&type=card",
+          "language": "Russian",
+          "multiverseid": 394306
+        },
+        {
+          "name": "Invocaci\u00f3n fiera",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394332&type=card",
+          "language": "Spanish",
+          "multiverseid": 394332
+        }
+      ]
+    },
+    {
+      "name": "Jeering Instigator",
+      "layout": "normal",
+      "mana_cost": "{1}{R}",
+      "cmc": 2,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Goblin Rogue",
+      "supertypes": null,
+      "subtypes": [
+        "Goblin",
+        "Rogue"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": "Morph {2}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Jeering Instigator is turned face up, if it's your turn, gain control of another target creature until end of turn. Untap that creature. It gains haste until end of turn.",
+      "flavor": null,
+      "artist": "Willian Murai",
+      "number": "113",
+      "power": "2",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 394077,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pPRE",
+        "KTK",
+        "FRF_UGIN"
+      ],
+      "original_text": "Morph {2}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Jeering Instigator is turned face up, if it's your turn, gain control of another target creature until end of turn. Untap that creature. It gains haste until end of turn.",
+      "original_type": "Creature \u2014 Goblin Rogue",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394077&type=card",
+      "set": "FRF_UGIN",
+      "set_name": "Ugin's Fate promos",
+      "id": "daac7090b1168adf3b1e83a21736a99eac2f7f95",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2014-09-20",
+          "text": "Jeering Instigator's last ability can target any creature, even one that's untapped or one you already control."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "Gaining control of a creature doesn't cause you to gain control of any Auras or Equipment attached to that creature."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "Morph lets you cast a card face down by paying {3}, and lets you turn the face-down permanent face up any time you have priority by paying its morph cost."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "The face-down spell has no mana cost and has a converted mana cost of 0. When you cast a face-down spell, put it on the stack face down so no other player knows what it is, and pay {3}. This is an alternative cost."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "When the spell resolves, it enters the battlefield as a 2/2 creature with no name, mana cost, creature types, or abilities. It's colorless and has a converted mana cost of 0. Other effects that apply to the creature can still grant it any of these characteristics."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "Any time you have priority, you may turn the face-down creature face up by revealing what its morph cost is and paying that cost. This is a special action. It doesn't use the stack and can't be responded to. Only a face-down permanent can be turned face up this way; a face-down spell cannot."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "Because the permanent is on the battlefield both before and after it's turned face up, turning a permanent face up doesn't cause any enters-the-battlefield abilities to trigger."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "A permanent that turns face up or face down changes characteristics but is otherwise the same permanent. Spells and abilities that were targeting that permanent, as well as Auras and Equipment that were attached to the permanent, aren't affected."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "At any time, you can look at a face-down spell or permanent you control. You can't look at face-down spells or permanents you don't control unless an effect instructs you to do so."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "You must ensure that your face-down spells and permanents can easily be differentiated from each other. You're not allowed to mix up the cards that represent them on the battlefield in order to confuse other players. The order they entered the battlefield should remain clear. Common methods for doing this include using markers or dice, or simply placing them in order on the battlefield."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "If a face-down permanent leaves the battlefield, you must reveal it. You must also reveal all face-down spells and permanents you control if you leave the game or if the game ends."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u5632\u8bbd\u717d\u52a8\u8005",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394103&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 394103
+        },
+        {
+          "name": "\u5632\u8af7\u717d\u52d5\u8005",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394129&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 394129
+        },
+        {
+          "name": "Spottender Aufhetzer",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394155&type=card",
+          "language": "German",
+          "multiverseid": 394155
+        },
+        {
+          "name": "Instigateur de moqueries",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394181&type=card",
+          "language": "French",
+          "multiverseid": 394181
+        },
+        {
+          "name": "Istigatore Sbeffeggiante",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394207&type=card",
+          "language": "Italian",
+          "multiverseid": 394207
+        },
+        {
+          "name": "\u5632\u308b\u6247\u52d5\u8005",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394233&type=card",
+          "language": "Japanese",
+          "multiverseid": 394233
+        },
+        {
+          "name": "\uc57c\uc720\ud558\ub294 \uc120\ub3d9\uac00",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394259&type=card",
+          "language": "Korean",
+          "multiverseid": 394259
+        },
+        {
+          "name": "Instigador Zombeteiro",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394285&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 394285
+        },
+        {
+          "name": "\u042f\u0437\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u041f\u043e\u0434\u0441\u0442\u0440\u0435\u043a\u0430\u0442\u0435\u043b\u044c",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394311&type=card",
+          "language": "Russian",
+          "multiverseid": 394311
+        },
+        {
+          "name": "Instigador de la mofa",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394337&type=card",
+          "language": "Spanish",
+          "multiverseid": 394337
+        }
+      ]
+    },
+    {
+      "name": "Arashin War Beast",
+      "layout": "normal",
+      "mana_cost": "{5}{G}{G}",
+      "cmc": 7,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Beast",
+      "supertypes": null,
+      "subtypes": [
+        "Beast"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "Whenever Arashin War Beast deals combat damage to one or more blocking creatures, manifest the top card of your library. (Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)",
+      "flavor": null,
+      "artist": "Eric Deschamps",
+      "number": "123",
+      "power": "6",
+      "toughness": "6",
+      "loyalty": null,
+      "multiverse_id": 394067,
+      "variations": null,
+      "watermark": "Temur",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "FRF_UGIN",
+        "FRF"
+      ],
+      "original_text": "Whenever Arashin War Beast deals combat damage to one or more blocking creatures, manifest the top card of your library. (Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)",
+      "original_type": "Creature \u2014 Beast",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394067&type=card",
+      "set": "FRF_UGIN",
+      "set_name": "Ugin's Fate promos",
+      "id": "80df1373c38862c05f25d4bab65c4c90d15e27fe",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2014-11-24",
+          "text": "Arashin War Beast's ability will trigger only once per combat damage step, no matter how many creatures are blocking it."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "The face-down permanent is a 2/2 creature with no name, mana cost, creature types, or abilities. It's colorless and has a converted mana cost of 0. Other effects that apply to the permanent can still grant or change any of these characteristics."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Any time you have priority, you may turn a manifested creature face up by revealing that it's a creature card (ignoring any copy effects or type-changing effects that might be applying to it) and paying its mana cost. This is a special action. It doesn't use the stack and can't be responded to."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "If a manifested creature would have morph if it were face up, you may also turn it face up by paying its morph cost."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Unlike a face-down creature that was cast using the morph ability, a manifested creature may still be turned face up after it loses its abilities if it's a creature card."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Because the permanent is on the battlefield both before and after it's turned face up, turning a permanent face up doesn't cause any enters-the-battlefield abilities to trigger."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Because face-down creatures don't have names, they can't have the same name as any other creature, even another face-down creature."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "A permanent that turns face up or face down changes characteristics but is otherwise the same permanent. Spells and abilities that were targeting that permanent, as well as Auras and Equipment that were attached to the permanent, aren't affected."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Turning a permanent face up or face down doesn't change whether that permanent is tapped or untapped."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "At any time, you can look at a face-down permanent you control. You can't look at face-down permanents you don't control unless an effect allows you to or instructs you to."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "If a face-down permanent you control leaves the battlefield, you must reveal it. You must also reveal all face-down spells and permanents you control if you leave the game or if the game ends."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "You must ensure that your face-down spells and permanents can easily be differentiated from each other. You're not allowed to mix up the cards that represent them on the battlefield in order to confuse other players. The order they entered the battlefield should remain clear. Common methods for indicating this include using markers or dice, or simply placing them in order on the battlefield. You must also track how each became face down (manifested, cast face down using the morph ability, and so on)."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "There are no cards in the Fate Reforged set that would turn a face-down instant or sorcery card on the battlefield face up, but some older cards can try to do this. If something tries to turn a face-down instant or sorcery card on the battlefield face up, reveal that card to show all players it's an instant or sorcery card. The permanent remains on the battlefield face down. Abilities that trigger when a permanent turns face up won't trigger, because even though you revealed the card, it never turned face up."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Some older Magic sets feature double-faced cards, which have a Magic card face on each side rather than a Magic card face on one side and a Magic card back on the other. The rules for double-faced cards are changing slightly to account for the possibility that they are manifested. If a double-faced card is manifested, it will be put onto the battlefield face down. While face down, it can't transform. If the front face of the card is a creature card, you can turn it face up by paying its mana cost. If you do, its front face will be up. A double-faced permanent on the battlefield still can't be turned face down."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u963f\u62c9\u8f9b\u6218\u4e89\u517d",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394093&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 394093
+        },
+        {
+          "name": "\u963f\u62c9\u8f9b\u6230\u722d\u7378",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394119&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 394119
+        },
+        {
+          "name": "Arashin-Kriegsbestie",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394145&type=card",
+          "language": "German",
+          "multiverseid": 394145
+        },
+        {
+          "name": "B\u00eate de guerre d'Arashin",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394171&type=card",
+          "language": "French",
+          "multiverseid": 394171
+        },
+        {
+          "name": "Bestia da Guerra di Arashin",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394197&type=card",
+          "language": "Italian",
+          "multiverseid": 394197
+        },
+        {
+          "name": "\u30a2\u30e9\u30b7\u30f3\u306e\u8ecd\u7363",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394223&type=card",
+          "language": "Japanese",
+          "multiverseid": 394223
+        },
+        {
+          "name": "\uc544\ub77c\uc2e0 \uc804\uc7c1 \uc57c\uc218",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394249&type=card",
+          "language": "Korean",
+          "multiverseid": 394249
+        },
+        {
+          "name": "Fera de Guerra Arashin",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394275&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 394275
+        },
+        {
+          "name": "\u0410\u0440\u0430\u0448\u0438\u043d\u0441\u043a\u0438\u0439 \u0411\u043e\u0435\u0432\u043e\u0439 \u0417\u0432\u0435\u0440\u044c",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394301&type=card",
+          "language": "Russian",
+          "multiverseid": 394301
+        },
+        {
+          "name": "Bestia de guerra de Arashin",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394327&type=card",
+          "language": "Spanish",
+          "multiverseid": 394327
+        }
+      ]
+    },
+    {
+      "name": "Formless Nurturing",
+      "layout": "normal",
+      "mana_cost": "{3}{G}",
+      "cmc": 4,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Common",
+      "text": "Manifest the top card of your library, then put a +1/+1 counter on it. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)",
+      "flavor": null,
+      "artist": "Cliff Childs",
+      "number": "129",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 394073,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "FRF_UGIN",
+        "FRF"
+      ],
+      "original_text": "Manifest the top card of your library, then put a +1/+1 counter on it. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394073&type=card",
+      "set": "FRF_UGIN",
+      "set_name": "Ugin's Fate promos",
+      "id": "e07728140558b2282b24a080b57f5961066d87c2",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2014-11-24",
+          "text": "The face-down permanent is a 2/2 creature with no name, mana cost, creature types, or abilities. It's colorless and has a converted mana cost of 0. Other effects that apply to the permanent can still grant or change any of these characteristics."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Any time you have priority, you may turn a manifested creature face up by revealing that it's a creature card (ignoring any copy effects or type-changing effects that might be applying to it) and paying its mana cost. This is a special action. It doesn't use the stack and can't be responded to."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "If a manifested creature would have morph if it were face up, you may also turn it face up by paying its morph cost."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Unlike a face-down creature that was cast using the morph ability, a manifested creature may still be turned face up after it loses its abilities if it's a creature card."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Because the permanent is on the battlefield both before and after it's turned face up, turning a permanent face up doesn't cause any enters-the-battlefield abilities to trigger."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Because face-down creatures don't have names, they can't have the same name as any other creature, even another face-down creature."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "A permanent that turns face up or face down changes characteristics but is otherwise the same permanent. Spells and abilities that were targeting that permanent, as well as Auras and Equipment that were attached to the permanent, aren't affected."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Turning a permanent face up or face down doesn't change whether that permanent is tapped or untapped."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "At any time, you can look at a face-down permanent you control. You can't look at face-down permanents you don't control unless an effect allows you to or instructs you to."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "If a face-down permanent you control leaves the battlefield, you must reveal it. You must also reveal all face-down spells and permanents you control if you leave the game or if the game ends."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "You must ensure that your face-down spells and permanents can easily be differentiated from each other. You're not allowed to mix up the cards that represent them on the battlefield in order to confuse other players. The order they entered the battlefield should remain clear. Common methods for indicating this include using markers or dice, or simply placing them in order on the battlefield. You must also track how each became face down (manifested, cast face down using the morph ability, and so on)."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "There are no cards in the Fate Reforged set that would turn a face-down instant or sorcery card on the battlefield face up, but some older cards can try to do this. If something tries to turn a face-down instant or sorcery card on the battlefield face up, reveal that card to show all players it's an instant or sorcery card. The permanent remains on the battlefield face down. Abilities that trigger when a permanent turns face up won't trigger, because even though you revealed the card, it never turned face up."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Some older Magic sets feature double-faced cards, which have a Magic card face on each side rather than a Magic card face on one side and a Magic card back on the other. The rules for double-faced cards are changing slightly to account for the possibility that they are manifested. If a double-faced card is manifested, it will be put onto the battlefield face down. While face down, it can't transform. If the front face of the card is a creature card, you can turn it face up by paying its mana cost. If you do, its front face will be up. A double-faced permanent on the battlefield still can't be turned face down."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u65e0\u5f62\u6ecb\u517b",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394099&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 394099
+        },
+        {
+          "name": "\u7121\u5f62\u6ecb\u990a",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394125&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 394125
+        },
+        {
+          "name": "Gestaltlose Aufzucht",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394151&type=card",
+          "language": "German",
+          "multiverseid": 394151
+        },
+        {
+          "name": "Nourrissage sans forme",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394177&type=card",
+          "language": "French",
+          "multiverseid": 394177
+        },
+        {
+          "name": "Nutrimento Amorfo",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394203&type=card",
+          "language": "Italian",
+          "multiverseid": 394203
+        },
+        {
+          "name": "\u7121\u5f62\u306e\u80b2\u6210",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394229&type=card",
+          "language": "Japanese",
+          "multiverseid": 394229
+        },
+        {
+          "name": "\ubb34\ud615\uc758 \ubcf4\uc0b4\ud54c",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394255&type=card",
+          "language": "Korean",
+          "multiverseid": 394255
+        },
+        {
+          "name": "Nutri\u00e7\u00e3o Desforme",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394281&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 394281
+        },
+        {
+          "name": "\u0411\u0435\u0441\u0444\u043e\u0440\u043c\u0435\u043d\u043d\u043e\u0435 \u0412\u0437\u0440\u0430\u0449\u0438\u0432\u0430\u043d\u0438\u0435",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394307&type=card",
+          "language": "Russian",
+          "multiverseid": 394307
+        },
+        {
+          "name": "P\u00e1bulo informe",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394333&type=card",
+          "language": "Spanish",
+          "multiverseid": 394333
+        }
+      ]
+    },
+    {
+      "name": "Dragonscale Boon",
+      "layout": "normal",
+      "mana_cost": "{3}{G}",
+      "cmc": 4,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Common",
+      "text": "Put two +1/+1 counters on target creature and untap it.",
+      "flavor": "Only those who have proved themselves worthy are granted a dragon's scale.",
+      "artist": "Mark Winters",
+      "number": "131",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 394071,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "KTK",
+        "FRF_UGIN"
+      ],
+      "original_text": "Put two +1/+1 counters on target creature and untap it.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394071&type=card",
+      "set": "FRF_UGIN",
+      "set_name": "Ugin's Fate promos",
+      "id": "d4ceb04f1fb742e7431809128e50f851c4ac0074",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2014-09-20",
+          "text": "Dragonscale Boon can target any creature, including one that's already untapped."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u9f99\u9cde\u6069\u6cfd",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394097&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 394097
+        },
+        {
+          "name": "\u9f8d\u9c57\u6069\u6fa4",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394123&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 394123
+        },
+        {
+          "name": "Gunst der Drachenschuppe",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394149&type=card",
+          "language": "German",
+          "multiverseid": 394149
+        },
+        {
+          "name": "Faveur d'\u00e9cailledragon",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394175&type=card",
+          "language": "French",
+          "multiverseid": 394175
+        },
+        {
+          "name": "Dono della Scaglia di Drago",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394201&type=card",
+          "language": "Italian",
+          "multiverseid": 394201
+        },
+        {
+          "name": "\u9f8d\u9c57\u306e\u52a0\u8b77",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394227&type=card",
+          "language": "Japanese",
+          "multiverseid": 394227
+        },
+        {
+          "name": "\uc6a9\ube44\ub298\uc758 \uc740\ud61c",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394253&type=card",
+          "language": "Korean",
+          "multiverseid": 394253
+        },
+        {
+          "name": "D\u00e1diva da Escama do Drag\u00e3o",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394279&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 394279
+        },
+        {
+          "name": "\u0414\u0430\u0440 \u0414\u0440\u0430\u043a\u043e\u043d\u044c\u0435\u0439 \u0427\u0435\u0448\u0443\u0438",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394305&type=card",
+          "language": "Russian",
+          "multiverseid": 394305
+        },
+        {
+          "name": "Bendici\u00f3n escamadrag\u00f3n",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394331&type=card",
+          "language": "Spanish",
+          "multiverseid": 394331
+        }
+      ]
+    },
+    {
+      "name": "Wildcall",
+      "layout": "normal",
+      "mana_cost": "{X}{G}{G}",
+      "cmc": 2,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Rare",
+      "text": "Manifest the top card of your library, then put X +1/+1 counters on it. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)",
+      "flavor": "A howl on the wind hides many dangers.",
+      "artist": "Adam Paquette",
+      "number": "146",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 394089,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pPRE",
+        "FRF_UGIN",
+        "FRF"
+      ],
+      "original_text": "Manifest the top card of your library, then put X +1/+1 counters on it. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394089&type=card",
+      "set": "FRF_UGIN",
+      "set_name": "Ugin's Fate promos",
+      "id": "9e42cf06196b4e35384a4706a911b7db7113be74",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2014-11-24",
+          "text": "If you choose 0 for X, you'll just manifest the top card of your library."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "The face-down permanent is a 2/2 creature with no name, mana cost, creature types, or abilities. It's colorless and has a converted mana cost of 0. Other effects that apply to the permanent can still grant or change any of these characteristics."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Any time you have priority, you may turn a manifested creature face up by revealing that it's a creature card (ignoring any copy effects or type-changing effects that might be applying to it) and paying its mana cost. This is a special action. It doesn't use the stack and can't be responded to."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "If a manifested creature would have morph if it were face up, you may also turn it face up by paying its morph cost."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Unlike a face-down creature that was cast using the morph ability, a manifested creature may still be turned face up after it loses its abilities if it's a creature card."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Because the permanent is on the battlefield both before and after it's turned face up, turning a permanent face up doesn't cause any enters-the-battlefield abilities to trigger."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Because face-down creatures don't have names, they can't have the same name as any other creature, even another face-down creature."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "A permanent that turns face up or face down changes characteristics but is otherwise the same permanent. Spells and abilities that were targeting that permanent, as well as Auras and Equipment that were attached to the permanent, aren't affected."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Turning a permanent face up or face down doesn't change whether that permanent is tapped or untapped."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "At any time, you can look at a face-down permanent you control. You can't look at face-down permanents you don't control unless an effect allows you to or instructs you to."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "If a face-down permanent you control leaves the battlefield, you must reveal it. You must also reveal all face-down spells and permanents you control if you leave the game or if the game ends."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "You must ensure that your face-down spells and permanents can easily be differentiated from each other. You're not allowed to mix up the cards that represent them on the battlefield in order to confuse other players. The order they entered the battlefield should remain clear. Common methods for indicating this include using markers or dice, or simply placing them in order on the battlefield. You must also track how each became face down (manifested, cast face down using the morph ability, and so on)."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "There are no cards in the Fate Reforged set that would turn a face-down instant or sorcery card on the battlefield face up, but some older cards can try to do this. If something tries to turn a face-down instant or sorcery card on the battlefield face up, reveal that card to show all players it's an instant or sorcery card. The permanent remains on the battlefield face down. Abilities that trigger when a permanent turns face up won't trigger, because even though you revealed the card, it never turned face up."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "Some older Magic sets feature double-faced cards, which have a Magic card face on each side rather than a Magic card face on one side and a Magic card back on the other. The rules for double-faced cards are changing slightly to account for the possibility that they are manifested. If a double-faced card is manifested, it will be put onto the battlefield face down. While face down, it can't transform. If the front face of the card is a creature card, you can turn it face up by paying its mana cost. If you do, its front face will be up. A double-faced permanent on the battlefield still can't be turned face down."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u8352\u91ce\u547c\u5524",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394115&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 394115
+        },
+        {
+          "name": "\u8352\u91ce\u547c\u559a",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394141&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 394141
+        },
+        {
+          "name": "Wildruf",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394167&type=card",
+          "language": "German",
+          "multiverseid": 394167
+        },
+        {
+          "name": "Appel sauvage",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394193&type=card",
+          "language": "French",
+          "multiverseid": 394193
+        },
+        {
+          "name": "Richiamo Selvaggio",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394219&type=card",
+          "language": "Italian",
+          "multiverseid": 394219
+        },
+        {
+          "name": "\u91ce\u751f\u547c\u3073",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394245&type=card",
+          "language": "Japanese",
+          "multiverseid": 394245
+        },
+        {
+          "name": "\uc57c\uc0dd\uc758 \ubd80\ub984",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394271&type=card",
+          "language": "Korean",
+          "multiverseid": 394271
+        },
+        {
+          "name": "Chamado Selvagem",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394297&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 394297
+        },
+        {
+          "name": "\u0414\u0438\u043a\u0438\u0439 \u0417\u043e\u0432",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394323&type=card",
+          "language": "Russian",
+          "multiverseid": 394323
+        },
+        {
+          "name": "Llamada salvaje",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394349&type=card",
+          "language": "Spanish",
+          "multiverseid": 394349
+        }
+      ]
+    },
+    {
+      "name": "Hewed Stone Retainers",
+      "layout": "normal",
+      "mana_cost": "{3}",
+      "cmc": 3,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact Creature \u2014 Golem",
+      "supertypes": null,
+      "subtypes": [
+        "Golem"
+      ],
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "Cast this spell only if you've cast another spell this turn.",
+      "flavor": "\"Their origins are shrouded in mystery. I believe they are the protectors of the lost secrets of our world.\"\n\u2014Jilaya, Temur whisperer",
+      "artist": "David Seguin",
+      "number": "161",
+      "power": "4",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": 394076,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "FRF_UGIN",
+        "FRF"
+      ],
+      "original_text": "Cast Hewed Stone Retainers only if you've cast another spell this turn.",
+      "original_type": "Artifact Creature \u2014 Golem",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394076&type=card",
+      "set": "FRF_UGIN",
+      "set_name": "Ugin's Fate promos",
+      "id": "bb7f708f345c8c391f1640da21be6babb2e5f073",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2014-11-24",
+          "text": "It doesn't matter whether the other spell resolved. It could have been countered or, if you've somehow cast Hewed Stone Retainers as though it had flash, it could still be on the stack."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u77f3\u96d5\u4f8d\u4ece",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394102&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 394102
+        },
+        {
+          "name": "\u77f3\u96d5\u4f8d\u5f9e",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394128&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 394128
+        },
+        {
+          "name": "Steinerne Gefolgsm\u00e4nner",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394154&type=card",
+          "language": "German",
+          "multiverseid": 394154
+        },
+        {
+          "name": "Serviteurs de pierre taill\u00e9e",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394180&type=card",
+          "language": "French",
+          "multiverseid": 394180
+        },
+        {
+          "name": "Seguaci Scolpiti nella Pietra",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394206&type=card",
+          "language": "Italian",
+          "multiverseid": 394206
+        },
+        {
+          "name": "\u5207\u308a\u51fa\u3057\u305f\u77f3\u306e\u5f93\u8005",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394232&type=card",
+          "language": "Japanese",
+          "multiverseid": 394232
+        },
+        {
+          "name": "\ub0a1\uc740 \ub3cc \ud558\uc218\uc778",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394258&type=card",
+          "language": "Korean",
+          "multiverseid": 394258
+        },
+        {
+          "name": "Criados Entalhados em Pedra",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394284&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 394284
+        },
+        {
+          "name": "\u0412\u044b\u0441\u0435\u0447\u0435\u043d\u043d\u044b\u0435 \u0438\u0437 \u041a\u0430\u043c\u043d\u044f \u0421\u043b\u0443\u0436\u0438\u0442\u0435\u043b\u0438",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394310&type=card",
+          "language": "Russian",
+          "multiverseid": 394310
+        },
+        {
+          "name": "Servidores de piedra tallada",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394336&type=card",
+          "language": "Spanish",
+          "multiverseid": 394336
+        }
+      ]
+    },
+    {
+      "name": "Ugin's Construct",
+      "layout": "normal",
+      "mana_cost": "{4}",
+      "cmc": 4,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact Creature \u2014 Construct",
+      "supertypes": null,
+      "subtypes": [
+        "Construct"
+      ],
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "When Ugin's Construct enters the battlefield, sacrifice a permanent that's one or more colors.",
+      "flavor": "While trapping the Eldrazi on Zendikar, Ugin learned little from Sorin, but he gleaned the rudiments of lithomancy from Nahiri.",
+      "artist": "Peter Mohrbacher",
+      "number": "164",
+      "power": "4",
+      "toughness": "5",
+      "loyalty": null,
+      "multiverse_id": 394087,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "FRF_UGIN",
+        "FRF"
+      ],
+      "original_text": "When Ugin's Construct enters the battlefield, sacrifice a permanent that's one or more colors.",
+      "original_type": "Artifact Creature \u2014 Construct",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394087&type=card",
+      "set": "FRF_UGIN",
+      "set_name": "Ugin's Fate promos",
+      "id": "0ff7b0cd3fedec026d9ad66e0c3cd5ae7c71d976",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2014-11-24",
+          "text": "If you control only colorless permanents as the ability resolves (for example, basic lands and face-down permanents), you won't sacrifice anything."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u4e4c\u91d1\u7ec4\u6784\u4f53",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394113&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 394113
+        },
+        {
+          "name": "\u70cf\u91d1\u7d44\u69cb\u9ad4",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394139&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 394139
+        },
+        {
+          "name": "Ugins Konstrukt",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394165&type=card",
+          "language": "German",
+          "multiverseid": 394165
+        },
+        {
+          "name": "Construction d'Ugin",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394191&type=card",
+          "language": "French",
+          "multiverseid": 394191
+        },
+        {
+          "name": "Costrutto di Ugin",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394217&type=card",
+          "language": "Italian",
+          "multiverseid": 394217
+        },
+        {
+          "name": "\u30a6\u30ae\u30f3\u306e\u69cb\u7bc9\u7269",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394243&type=card",
+          "language": "Japanese",
+          "multiverseid": 394243
+        },
+        {
+          "name": "\uc6b0\uc9c4\uc758 \uae30\uacc4",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394269&type=card",
+          "language": "Korean",
+          "multiverseid": 394269
+        },
+        {
+          "name": "Constructo de Ugin",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394295&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 394295
+        },
+        {
+          "name": "\u041a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0446\u0438\u044f \u0423\u0434\u0436\u0438\u043d\u0430",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394321&type=card",
+          "language": "Russian",
+          "multiverseid": 394321
+        },
+        {
+          "name": "Constructo de Ugin",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394347&type=card",
+          "language": "Spanish",
+          "multiverseid": 394347
+        }
+      ]
+    },
+    {
+      "name": "Altar of the Brood",
+      "layout": "normal",
+      "mana_cost": "{1}",
+      "cmc": 1,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Rare",
+      "text": "Whenever another permanent enters the battlefield under your control, each opponent puts the top card of their library into their graveyard.",
+      "flavor": "Supplicants offer flesh and silver, flowers and blood. The altar takes what it will, eyes gleaming with unspoken promises.",
+      "artist": "Erica Yang",
+      "number": "216",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 394066,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "KTK",
+        "FRF_UGIN"
+      ],
+      "original_text": "Whenever another permanent enters the battlefield under your control, each opponent puts the top card of his or her library into his or her graveyard.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394066&type=card",
+      "set": "FRF_UGIN",
+      "set_name": "Ugin's Fate promos",
+      "id": "8bed3dbfc2eb3ed2c1d44121dd94c1c6d1a498ff",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2014-09-20",
+          "text": "If Altar of the Brood enters the battlefield under your control at the same time as other permanents, its ability will trigger for each of those permanents."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u65cf\u7fa4\u796d\u575b",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394092&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 394092
+        },
+        {
+          "name": "\u65cf\u7fa4\u796d\u58c7",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394118&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 394118
+        },
+        {
+          "name": "Altar der Brut",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394144&type=card",
+          "language": "German",
+          "multiverseid": 394144
+        },
+        {
+          "name": "Autel de la Couv\u00e9e",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394170&type=card",
+          "language": "French",
+          "multiverseid": 394170
+        },
+        {
+          "name": "Altare della Nidiata",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394196&type=card",
+          "language": "Italian",
+          "multiverseid": 394196
+        },
+        {
+          "name": "\u7fa4\u306e\u796d\u58c7",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394222&type=card",
+          "language": "Japanese",
+          "multiverseid": 394222
+        },
+        {
+          "name": "\uad70\ub77d\uc758 \uc81c\ub2e8",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394248&type=card",
+          "language": "Korean",
+          "multiverseid": 394248
+        },
+        {
+          "name": "Altar da Linhagem",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394274&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 394274
+        },
+        {
+          "name": "\u0410\u043b\u0442\u0430\u0440\u044c \u0412\u044b\u0432\u043e\u0434\u043a\u0430",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394300&type=card",
+          "language": "Russian",
+          "multiverseid": 394300
+        },
+        {
+          "name": "Altar de la progenie",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394326&type=card",
+          "language": "Spanish",
+          "multiverseid": 394326
+        }
+      ]
+    },
+    {
+      "name": "Briber's Purse",
+      "layout": "normal",
+      "mana_cost": "{X}",
+      "cmc": 0,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Uncommon",
+      "text": "Briber's Purse enters the battlefield with X gem counters on it.\n{1}, {T}, Remove a gem counter from Briber's Purse: Target creature can't attack or block this turn.",
+      "flavor": "The bigger the hand, the higher the price.",
+      "artist": "Steve Argyle",
+      "number": "217",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 394069,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "KTK",
+        "FRF_UGIN"
+      ],
+      "original_text": "Briber's Purse enters the battlefield with X gem counters on it.\n{1}, {T}, Remove a gem counter from Briber's Purse: Target creature can't attack or block this turn.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394069&type=card",
+      "set": "FRF_UGIN",
+      "set_name": "Ugin's Fate promos",
+      "id": "5222bf192a9d83d4d9e2e9aaf926701a3e9da66b",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2014-09-20",
+          "text": "Activating the ability targeting a creature that's already attacking or blocking won't remove it from combat or affect that attack or block."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "If Briber's Purse has no gem counters on it, it remains on the battlefield, although you can't activate its last ability."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u884c\u8d3f\u8005\u94b1\u5305",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394095&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 394095
+        },
+        {
+          "name": "\u884c\u8cc4\u8005\u9322\u5305",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394121&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 394121
+        },
+        {
+          "name": "Geldbeutel des Bestechers",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394147&type=card",
+          "language": "German",
+          "multiverseid": 394147
+        },
+        {
+          "name": "Bourse du corrupteur",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394173&type=card",
+          "language": "French",
+          "multiverseid": 394173
+        },
+        {
+          "name": "Borsa del Corruttore",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394199&type=card",
+          "language": "Italian",
+          "multiverseid": 394199
+        },
+        {
+          "name": "\u8d08\u8cc4\u8005\u306e\u8ca1\u5e03",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394225&type=card",
+          "language": "Japanese",
+          "multiverseid": 394225
+        },
+        {
+          "name": "\ub1cc\ubb3c \uc8fc\uba38\ub2c8",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394251&type=card",
+          "language": "Korean",
+          "multiverseid": 394251
+        },
+        {
+          "name": "Bolsa do Subornador",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394277&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 394277
+        },
+        {
+          "name": "\u041a\u043e\u0448\u0435\u043b\u044c \u0441\u043e \u0412\u0437\u044f\u0442\u043a\u043e\u0439",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394303&type=card",
+          "language": "Russian",
+          "multiverseid": 394303
+        },
+        {
+          "name": "Bolsa del sobornador",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394329&type=card",
+          "language": "Spanish",
+          "multiverseid": 394329
+        }
+      ]
+    },
+    {
+      "name": "Ghostfire Blade",
+      "layout": "normal",
+      "mana_cost": "{1}",
+      "cmc": 1,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact \u2014 Equipment",
+      "supertypes": null,
+      "subtypes": [
+        "Equipment"
+      ],
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Rare",
+      "text": "Equipped creature gets +2/+2.\nEquip {3}\nGhostfire Blade's equip ability costs {2} less to activate if it targets a colorless creature.",
+      "flavor": "If you fear the dragon's fire, you are unworthy to wield it.",
+      "artist": "Cyril Van Der Haegen",
+      "number": "220",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 394074,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "KTK",
+        "FRF_UGIN"
+      ],
+      "original_text": "Equipped creature gets +2/+2.\nEquip {3}\nGhostfire Blade's equip ability costs {2} less to activate if it targets a colorless creature.",
+      "original_type": "Artifact \u2014 Equipment",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394074&type=card",
+      "set": "FRF_UGIN",
+      "set_name": "Ugin's Fate promos",
+      "id": "40d56fb2c356508881b8b4743000bb066f11e549",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2014-09-20",
+          "text": "Face-down creatures and most artifact creatures are colorless."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u7075\u706b\u5251",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394100&type=card",
+          "language": "Chinese Simplified",
+          "multiverseid": 394100
+        },
+        {
+          "name": "\u9748\u706b\u528d",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394126&type=card",
+          "language": "Chinese Traditional",
+          "multiverseid": 394126
+        },
+        {
+          "name": "Geisterfeuerklinge",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394152&type=card",
+          "language": "German",
+          "multiverseid": 394152
+        },
+        {
+          "name": "Lame d'ectofeu",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394178&type=card",
+          "language": "French",
+          "multiverseid": 394178
+        },
+        {
+          "name": "Lama di Fuoco Spettrale",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394204&type=card",
+          "language": "Italian",
+          "multiverseid": 394204
+        },
+        {
+          "name": "\u5e7d\u970a\u706b\u306e\u5203",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394230&type=card",
+          "language": "Japanese",
+          "multiverseid": 394230
+        },
+        {
+          "name": "\uc720\ub839\ubd88\uaf43 \uac80",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394256&type=card",
+          "language": "Korean",
+          "multiverseid": 394256
+        },
+        {
+          "name": "L\u00e2mina de Lumespectro",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394282&type=card",
+          "language": "Portuguese (Brazil)",
+          "multiverseid": 394282
+        },
+        {
+          "name": "\u041a\u043b\u0438\u043d\u043e\u043a \u041f\u0440\u0438\u0437\u0440\u0430\u0447\u043d\u043e\u0433\u043e \u041f\u043b\u0430\u043c\u0435\u043d\u0438",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394308&type=card",
+          "language": "Russian",
+          "multiverseid": 394308
+        },
+        {
+          "name": "Espada de fuego fantasmal",
+          "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=394334&type=card",
+          "language": "Spanish",
+          "multiverseid": 394334
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "code": "pWOS",
+  "name": "Wizards of the Coast Online Store",
+  "type": "promo",
+  "border": "black",
+  "mkm_id": null,
+  "mkm_name": null,
+  "release_date": "1999-09-04",
+  "gatherer_code": null,
+  "magic_cards_info_code": "wotc",
+  "booster": null,
+  "old_code": null,
+  "block": null,
+  "online_only": null,
+  "cards": [
+    {
+      "name": "Serra Angel",
+      "layout": "normal",
+      "mana_cost": "{3}{W}{W}",
+      "cmc": 5,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Angel",
+      "supertypes": null,
+      "subtypes": [
+        "Angel"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nVigilance (Attacking doesn't cause this creature to tap.)",
+      "flavor": "Born with wings of light and a sword of faith, this heavenly incarnation embodies both fury and purity.",
+      "artist": "Douglas Shuler",
+      "number": "1",
+      "power": "4",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "1999-09-04",
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ATH",
+        "pWOS",
+        "7ED",
+        "8ED",
+        "9ED",
+        "10E",
+        "DDC",
+        "M10",
+        "M11",
+        "ME4",
+        "CMD",
+        "M12",
+        "M13",
+        "M14",
+        "M15",
+        "DD3_DVD",
+        "ORI",
+        "V15",
+        "W16",
+        "EMA",
+        "W17",
+        "CMA",
+        "IMA"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Wizards of the Coast Online Store purchase bonus.",
+      "image_url": null,
+      "set": "pWOS",
+      "set_name": "Wizards of the Coast Online Store",
+      "id": "5a6eae4516d959275513c28024c6567944c9a2a0",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u6492\u62c9\u5929\u4f7f",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u6492\u62c9\u5929\u4f7f",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Ange de Serra",
+          "language": "French"
+        },
+        {
+          "name": "Serra-Engel",
+          "language": "German"
+        },
+        {
+          "name": "Angelo di Serra",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30bb\u30e9\u306e\u5929\u4f7f",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uc138\ub77c \ucc9c\uc0ac",
+          "language": "Korean"
+        },
+        {
+          "name": "Anjo Serra",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0410\u043d\u0433\u0435\u043b \u0421\u0435\u0440\u0440\u044b",
+          "language": "Russian"
+        },
+        {
+          "name": "\u00c1ngel de Serra",
+          "language": "Spanish"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6949 @@
+{
+  "code": "DDD",
+  "name": "Duel Decks: Garruk vs. Liliana",
+  "type": "duel deck",
+  "border": "black",
+  "mkm_id": 115,
+  "mkm_name": "Duel Decks: Garruk vs. Liliana",
+  "release_date": "2009-10-30",
+  "gatherer_code": null,
+  "magic_cards_info_code": "gvl",
+  "booster": null,
+  "old_code": null,
+  "block": null,
+  "online_only": null,
+  "cards": [
+    {
+      "name": "Garruk Wildspeaker",
+      "layout": "normal",
+      "mana_cost": "{2}{G}{G}",
+      "cmc": 4,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Legendary Planeswalker \u2014 Garruk",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Garruk"
+      ],
+      "types": [
+        "Planeswalker"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "+1: Untap two target lands.\n\u22121: Create a 3/3 green Beast creature token.\n\u22124: Creatures you control get +3/+3 and gain trample until end of turn.",
+      "flavor": null,
+      "artist": "Terese Nielsen",
+      "number": "1",
+      "power": null,
+      "toughness": null,
+      "loyalty": 3,
+      "multiverse_id": 201347,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pMEI",
+        "LRW",
+        "M10",
+        "DDD",
+        "M11",
+        "CMD",
+        "DD3_GVL"
+      ],
+      "original_text": "+1: Untap two target lands.\n-1: Put a 3/3 green Beast creature token onto the battlefield.\n-4: Creatures you control get +3/+3 and gain trample until end of turn.",
+      "original_type": "Planeswalker \u2014 Garruk",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201347&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "55a668cd42ab41060dddbee7ea040662b9938dc7",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2009-10-01",
+          "text": "The first ability can target any two lands. They don't have to be tapped."
+        },
+        {
+          "date": "2009-10-01",
+          "text": "The third ability affects only creatures you control at the time it resolves. It won't affect creatures that come under your control later in the turn."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Basking Rootwalla",
+      "layout": "normal",
+      "mana_cost": "{G}",
+      "cmc": 1,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Lizard",
+      "supertypes": null,
+      "subtypes": [
+        "Lizard"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "{1}{G}: Basking Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn.\nMadness {0} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",
+      "flavor": null,
+      "artist": "Heather Hudson",
+      "number": "2",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 201836,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pFNM",
+        "TOR",
+        "DDD",
+        "VMA",
+        "DD3_GVL"
+      ],
+      "original_text": "{1}{G}: Basking Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn.\nMadness {0} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)",
+      "original_type": "Creature \u2014 Lizard",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201836&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "a21d7a53d203f77e9f0f0915c5b5d426c007262a",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2006-02-01",
+          "text": "If this card's ability is activated by one player, then another player takes control of it on the same turn, the second player can't activate its ability that turn."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Albino Troll",
+      "layout": "normal",
+      "mana_cost": "{1}{G}",
+      "cmc": 2,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Troll",
+      "supertypes": null,
+      "subtypes": [
+        "Troll"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "Echo {1}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\n{1}{G}: Regenerate Albino Troll.",
+      "flavor": null,
+      "artist": "Paolo Parente",
+      "number": "3",
+      "power": "3",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": 201781,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "USG",
+        "pFNM",
+        "DDD",
+        "DD3_GVL"
+      ],
+      "original_text": "Echo {1}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\n{1}{G}: Regenerate Albino Troll.",
+      "original_type": "Creature \u2014 Troll",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201781&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "47f2dc98f6bacc047a2f617b8219961247e81d00",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Vine Trellis",
+      "layout": "normal",
+      "mana_cost": "{1}{G}",
+      "cmc": 2,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Plant Wall",
+      "supertypes": null,
+      "subtypes": [
+        "Plant",
+        "Wall"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Defender (This creature can't attack.)\n{T}: Add {G}.",
+      "flavor": "Nature twists knots stronger than any rope.",
+      "artist": "DiTerlizzi",
+      "number": "4",
+      "power": "0",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": 201845,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MMQ",
+        "8ED",
+        "DDD",
+        "DD3_GVL"
+      ],
+      "original_text": "Defender\n{T}: Add {G} to your mana pool.",
+      "original_type": "Creature \u2014 Plant Wall",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201845&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "499e384dce06b21efcf9b473c442076d53a669c6",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Wild Mongrel",
+      "layout": "normal",
+      "mana_cost": "{1}{G}",
+      "cmc": 2,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Hound",
+      "supertypes": null,
+      "subtypes": [
+        "Hound"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Discard a card: Wild Mongrel gets +1/+1 and becomes the color of your choice until end of turn.",
+      "flavor": "It teaches you to play dead.",
+      "artist": "Anthony S. Waters",
+      "number": "5",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 201826,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pFNM",
+        "ODY",
+        "DDD",
+        "VMA",
+        "DD3_GVL"
+      ],
+      "original_text": "Discard a card: Wild Mongrel gets +1/+1 and becomes the color of your choice until end of turn.",
+      "original_type": "Creature \u2014 Hound",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201826&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "e6d2b91750eb81a324f286c5d9de9835a278c8bc",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Wirewood Savage",
+      "layout": "normal",
+      "mana_cost": "{2}{G}",
+      "cmc": 3,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Elf",
+      "supertypes": null,
+      "subtypes": [
+        "Elf"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Whenever a Beast enters the battlefield, you may draw a card.",
+      "flavor": "\"She is truly Wirewood's child now.\"\n\u2014Elvish refugee",
+      "artist": "DiTerlizzi",
+      "number": "6",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 201830,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ONS",
+        "DDD",
+        "DD3_GVL"
+      ],
+      "original_text": "Whenever a Beast enters the battlefield, you may draw a card.",
+      "original_type": "Creature \u2014 Elf",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201830&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "861d667111dcf4ebc52a246dca46d82cebcee4aa",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Blastoderm",
+      "layout": "normal",
+      "mana_cost": "{2}{G}{G}",
+      "cmc": 4,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Beast",
+      "supertypes": null,
+      "subtypes": [
+        "Beast"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Shroud (This creature can't be the target of spells or abilities.)\nFading 3 (This creature enters the battlefield with three fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)",
+      "flavor": null,
+      "artist": "Nils Hamm",
+      "number": "7",
+      "power": "5",
+      "toughness": "5",
+      "loyalty": null,
+      "multiverse_id": 201831,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pFNM",
+        "NMS",
+        "DDD",
+        "VMA",
+        "DD3_GVL"
+      ],
+      "original_text": "Shroud (This creature can't be the target of spells or abilities.)\nFading 3 (This creature enters the battlefield with three fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)",
+      "original_type": "Creature \u2014 Beast",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201831&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "bb73845c362ef94099c83be395a49e16a67737ba",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Ravenous Baloth",
+      "layout": "normal",
+      "mana_cost": "{2}{G}{G}",
+      "cmc": 4,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Beast",
+      "supertypes": null,
+      "subtypes": [
+        "Beast"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": "Sacrifice a Beast: You gain 4 life.",
+      "flavor": "\"All we know about the Krosan Forest we have learned from those few who made it out alive.\"\n\u2014Elvish refugee",
+      "artist": "Arnie Swekel",
+      "number": "8",
+      "power": "4",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": 201882,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pJGP",
+        "ONS",
+        "DDD",
+        "C13",
+        "DD3_GVL"
+      ],
+      "original_text": "Sacrifice a Beast: You gain 4 life.",
+      "original_type": "Creature \u2014 Beast",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201882&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "61ec7385b610126164c5cf2e77496c72e3dfed89",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Stampeding Wildebeests",
+      "layout": "normal",
+      "mana_cost": "{2}{G}{G}",
+      "cmc": 4,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Antelope Beast",
+      "supertypes": null,
+      "subtypes": [
+        "Antelope",
+        "Beast"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)\nAt the beginning of your upkeep, return a green creature you control to its owner's hand.",
+      "flavor": "The most violent and destructive storms in Femeref occur on cloudless days.",
+      "artist": "Randy Gallegos",
+      "number": "9",
+      "power": "5",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": 201881,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "VIS",
+        "10E",
+        "DDD",
+        "DD3_GVL"
+      ],
+      "original_text": "Trample\nAt the beginning of your upkeep, return a green creature you control to its owner's hand.",
+      "original_type": "Creature \u2014 Antelope Beast",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201881&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "ec1834e061b53e73ea3bd1aefb660eadae3fee07",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "The ability that returns a creature doesn't target anything. You can return a creature with shroud or protection from green, for example. You don't decide which creature to return until the ability resolves. If you control no other green creatures, you must return Stampeding Wildebeests itself."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "You choose a creature and return it all during resolution of the triggered ability. This means that if you have two Wildebeests, there is no way to end up returning only one creature."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Indrik Stomphowler",
+      "layout": "normal",
+      "mana_cost": "{4}{G}",
+      "cmc": 5,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Beast",
+      "supertypes": null,
+      "subtypes": [
+        "Beast"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "When Indrik Stomphowler enters the battlefield, destroy target artifact or enchantment.",
+      "flavor": "An indrik's howl has destructive power much subtler than that of its crushing foot.",
+      "artist": "Carl Critchlow",
+      "number": "10",
+      "power": "4",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": 201834,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "DIS",
+        "DDD",
+        "DD3_GVL",
+        "C15",
+        "CMA"
+      ],
+      "original_text": "When Indrik Stomphowler enters the battlefield, destroy target artifact or enchantment.",
+      "original_type": "Creature \u2014 Beast",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201834&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "0377647063421c6c4773bbbc4d5719085d1c29c3",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Krosan Tusker",
+      "layout": "normal",
+      "mana_cost": "{5}{G}{G}",
+      "cmc": 7,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Boar Beast",
+      "supertypes": null,
+      "subtypes": [
+        "Boar",
+        "Beast"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Cycling {2}{G} ({2}{G}, Discard this card: Draw a card.)\nWhen you cycle Krosan Tusker, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle your library. (Do this before you draw.)",
+      "flavor": null,
+      "artist": "Kev Walker",
+      "number": "11",
+      "power": "6",
+      "toughness": "5",
+      "loyalty": null,
+      "multiverse_id": 201829,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pFNM",
+        "ONS",
+        "DDD",
+        "ARC",
+        "CMD",
+        "DDL",
+        "C13",
+        "VMA",
+        "DD3_GVL",
+        "A25",
+        "DDU"
+      ],
+      "original_text": "Cycling {2}{G} ({2}{G}, Discard this card: Draw a card.)\nWhen you cycle Krosan Tusker, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle your library.",
+      "original_type": "Creature \u2014 Boar Beast",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201829&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "ee1acb96c91eeafa99065eb905c1289df282ccc3",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-10-01",
+          "text": "Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not."
+        },
+        {
+          "date": "2008-10-01",
+          "text": "When you cycle this card, first the cycling ability goes on the stack, then the triggered ability goes on the stack on top of it. The triggered ability will resolve before you draw a card from the cycling ability."
+        },
+        {
+          "date": "2008-10-01",
+          "text": "The cycling ability and the triggered ability are separate. If the triggered ability doesn't resolve (due to being countered with Stifle, for example, or if all its targets have become illegal), the cycling ability will still resolve and you'll draw a card."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Plated Slagwurm",
+      "layout": "normal",
+      "mana_cost": "{4}{G}{G}{G}",
+      "cmc": 7,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Wurm",
+      "supertypes": null,
+      "subtypes": [
+        "Wurm"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": "Hexproof (This creature can't be the target of spells or abilities your opponents control.)",
+      "flavor": "Beneath the Tangle, the wurm tunnels stretch . . . wide as a stone's throw, long as forever, deep as you dare.",
+      "artist": "Justin Sweet",
+      "number": "12",
+      "power": "8",
+      "toughness": "8",
+      "loyalty": null,
+      "multiverse_id": 201835,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MRD",
+        "DDD",
+        "DD3_GVL"
+      ],
+      "original_text": "Plated Slagwurm can't be the target of spells or abilities your opponents control.",
+      "original_type": "Creature \u2014 Wurm",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201835&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "f99b6393e318bcd4796937dd4861336bbee9525e",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Genju of the Cedars",
+      "layout": "normal",
+      "mana_cost": "{G}",
+      "cmc": 1,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Enchantment \u2014 Aura",
+      "supertypes": null,
+      "subtypes": [
+        "Aura"
+      ],
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Uncommon",
+      "text": "Enchant Forest\n{2}: Enchanted Forest becomes a 4/4 green Spirit creature until end of turn. It's still a land.\nWhen enchanted Forest is put into a graveyard, you may return Genju of the Cedars from your graveyard to your hand.",
+      "flavor": null,
+      "artist": "Arnie Swekel",
+      "number": "13",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 201792,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "BOK",
+        "DDD",
+        "DD3_GVL"
+      ],
+      "original_text": "Enchant Forest\n{2}: Enchanted Forest becomes a 4/4 green Spirit creature until end of turn. It's still a land.\nWhen enchanted Forest is put into a graveyard, you may return Genju of the Cedars from your graveyard to your hand.",
+      "original_type": "Enchantment \u2014 Aura",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201792&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "eacb0346ab870fbd003cc17b400be22396b1c49c",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-08-01",
+          "text": "A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of their most recent turn. It doesn't matter how long the permanent has been a creature."
+        },
+        {
+          "date": "2009-10-01",
+          "text": "Activating the ability that turns it into a creature while it's already a creature will override any effects that set its power and/or toughness to a specific number. However, any effect that raises or lowers power and/or toughness (such as the effect created by Giant Growth, Glorious Anthem, or a +1/+1 counter) will continue to apply."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Giant Growth",
+      "layout": "normal",
+      "mana_cost": "{G}",
+      "cmc": 1,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Common",
+      "text": "Target creature gets +3/+3 until end of turn.",
+      "flavor": null,
+      "artist": "Matt Cavotta",
+      "number": "14",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 201839,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "5ED",
+        "ATH",
+        "6ED",
+        "BRB",
+        "pSUS",
+        "pFNM",
+        "S00",
+        "BTD",
+        "7ED",
+        "pMPR",
+        "DKM",
+        "8ED",
+        "9ED",
+        "10E",
+        "EVG",
+        "ME2",
+        "M10",
+        "ME3",
+        "DDD",
+        "DPA",
+        "M11",
+        "ME4",
+        "RTR",
+        "M14",
+        "DD3_EVG",
+        "DD3_GVL",
+        "E02",
+        "A25"
+      ],
+      "original_text": "Target creature gets +3/+3 until end of turn.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201839&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "30a083542f58a45fd3c48734c111032caac981d7",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Rancor",
+      "layout": "normal",
+      "mana_cost": "{G}",
+      "cmc": 1,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Enchantment \u2014 Aura",
+      "supertypes": null,
+      "subtypes": [
+        "Aura"
+      ],
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Common",
+      "text": "Enchant creature\nEnchanted creature gets +2/+0 and has trample.\nWhen Rancor is put into a graveyard from the battlefield, return Rancor to its owner's hand.",
+      "flavor": "Hatred outlives the hateful.",
+      "artist": "Kev Walker",
+      "number": "15",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 201838,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ULG",
+        "pFNM",
+        "DDD",
+        "ARC",
+        "PC2",
+        "M13",
+        "DD3_GVL",
+        "EMA",
+        "PCA",
+        "E02",
+        "A25"
+      ],
+      "original_text": "Enchant creature\nEnchanted creature gets +2/+0 and has trample.\nWhen Rancor is put into a graveyard from the battlefield, return Rancor to its owner's hand.",
+      "original_type": "Enchantment \u2014 Aura",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201838&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "0ed8106882501ca9b678c1f7aa63a8e057216ccb",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2018-03-16",
+          "text": "If the creature this Aura would enchant is an illegal target by the time Rancor tries to resolve, the Aura spell doesn't resolve. It won't enter the battlefield, so it won't be put into a graveyard from the battlefield and its ability won't trigger."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Lignify",
+      "layout": "normal",
+      "mana_cost": "{1}{G}",
+      "cmc": 2,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Tribal Enchantment \u2014 Treefolk Aura",
+      "supertypes": null,
+      "subtypes": [
+        "Treefolk",
+        "Aura"
+      ],
+      "types": [
+        "Tribal",
+        "Enchantment"
+      ],
+      "rarity": "Common",
+      "text": "Enchant creature\nEnchanted creature is a Treefolk with base power and toughness 0/4 and loses all abilities.",
+      "flavor": "Bulgo paused, puzzled. What was that rustling sound, and why did he feel so stiff? And how could his feet be so thirsty?",
+      "artist": "Jesper Ejsing",
+      "number": "16",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 201837,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LRW",
+        "DDD",
+        "DD3_GVL"
+      ],
+      "original_text": "Enchant creature\nEnchanted creature is a 0/4 Treefolk with no abilities.",
+      "original_type": "Tribal Enchantment \u2014 Treefolk Aura",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201837&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "014d5a7aeac4a85cfee4e3811969d0de6118a5cf",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2007-10-01",
+          "text": "Lignify overwrites characteristic-defining abilities that specify the enchanted creature's power or toughness (such as the one Dauntless Dourbark has) or that specify its creature types (such as changeling does)."
+        },
+        {
+          "date": "2007-10-01",
+          "text": "Lignify will overwrite static abilities that come from the creature itself (such as the one on Verduran Enchantress) because Lignify causes the creature to lose that ability before it gets a chance to apply."
+        },
+        {
+          "date": "2007-10-01",
+          "text": "Lignify overwrites previous effects that changed the enchanted creature's creature types. Any such effects that apply after Lignify enters the battlefield will work normally."
+        },
+        {
+          "date": "2007-10-01",
+          "text": "Lignify causes the enchanted creature to lose all abilities it had at the time it became enchanted. Any abilities granted to the creature after Lignify entered the battlefield will work normally."
+        },
+        {
+          "date": "2007-10-01",
+          "text": "If a previous effect switched the creature's power and toughness, that effect still applies (though it will apply to the creature's new power and toughness)."
+        },
+        {
+          "date": "2007-10-01",
+          "text": "If the enchanted creature has a characteristic-defining ability that specifies its color, that ability will still have its effect because it's applied before the creature loses the ability."
+        },
+        {
+          "date": "2007-10-01",
+          "text": "If Lignify leaves the battlefield, the creature goes back to being what it was before. Any effects that applied while the Lignify was on the battlefield, such as Giant Growth or Lace with Moonglove, will continue to apply."
+        },
+        {
+          "date": "2009-10-01",
+          "text": "Lignify will overwrite any previous effects that set the enchanted creature's power or toughness (such as Serendib Sorcerer does). Any such effects that apply after Lignify entered the battlefield will work normally."
+        },
+        {
+          "date": "2009-10-01",
+          "text": "Lignify will not overwrite effects such as those from Glorious Anthem, counters, or Giant Growth that change the enchanted creature's power or toughness without setting it to a specific value. Apply such effects after applying Lignify."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Nature's Lore",
+      "layout": "normal",
+      "mana_cost": "{1}{G}",
+      "cmc": 2,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Common",
+      "text": "Search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.",
+      "flavor": "Nature's secrets can be read on every tree, every branch, every leaf.",
+      "artist": "Terese Nielsen",
+      "number": "17",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 201840,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ICE",
+        "5ED",
+        "POR",
+        "PO2",
+        "S99",
+        "MED",
+        "DDD",
+        "VMA",
+        "DD3_GVL"
+      ],
+      "original_text": "Search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201840&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "e5b548ad3320e8e7e9ce9f7b15b0636703a3172e",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "Because the \"search\" requires you to find a card with certain characteristics, you don't have to find the card if you don't want to."
+        },
+        {
+          "date": "2008-08-01",
+          "text": "You can find any card with the land type Forest, including Snow-covered Forest or non-Basic lands like Tropical Island, Murmuring Bosk, or Stomping Ground. You can even find a card that is a land in addition to other types, such as Dryad Arbor."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Elephant Guide",
+      "layout": "normal",
+      "mana_cost": "{2}{G}",
+      "cmc": 3,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Enchantment \u2014 Aura",
+      "supertypes": null,
+      "subtypes": [
+        "Aura"
+      ],
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Uncommon",
+      "text": "Enchant creature\nEnchanted creature gets +3/+3.\nWhen enchanted creature dies, create a 3/3 green Elephant creature token.",
+      "flavor": "Nature's strength outlives the strong.",
+      "artist": "Jim Nelson",
+      "number": "18",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 201832,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "JUD",
+        "DDD",
+        "CNS",
+        "VMA",
+        "DD3_GVL",
+        "EMA"
+      ],
+      "original_text": "Enchant creature\nEnchanted creature gets +3/+3.\nWhen enchanted creature is put into a graveyard, put a 3/3 green Elephant creature token onto the battlefield.",
+      "original_type": "Enchantment \u2014 Aura",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201832&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "a83f66e2bc821b0eadf61d681e3f96ba34ea0818",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2016-06-08",
+          "text": "If Elephant Guide enchants an opponent's creature, you get the Elephant when that creature dies."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Invigorate",
+      "layout": "normal",
+      "mana_cost": "{2}{G}",
+      "cmc": 3,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Common",
+      "text": "If you control a Forest, rather than pay this spell's mana cost, you may have an opponent gain 3 life.\nTarget creature gets +4/+4 until end of turn.",
+      "flavor": null,
+      "artist": "Dan Frazier",
+      "number": "19",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 202261,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MMQ",
+        "DDD",
+        "CMD",
+        "DD3_GVL",
+        "EMA",
+        "A25"
+      ],
+      "original_text": "If you control a Forest, rather than pay Invigorate's mana cost, you may have an opponent gain 3 life.\nTarget creature gets +4/+4 until end of turn.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=202261&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "89622139bd9e8a550d6db96e2911f125232c58a5",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2016-06-08",
+          "text": "If another effect causes Invigorate to cost more, you must pay that additional cost even if you pay its alternative cost."
+        },
+        {
+          "date": "2016-06-08",
+          "text": "If an effect says that an opponent can't gain life, you can't have that player gain life to pay Invigorate's alternative cost. If an effect instead replaces life gain, such as that of Sulfuric Vortex, you may choose to pay the cost even though the cost's action is replaced with nothing."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Serrated Arrows",
+      "layout": "normal",
+      "mana_cost": "{4}",
+      "cmc": 4,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Common",
+      "text": "Serrated Arrows enters the battlefield with three arrowhead counters on it.\nAt the beginning of your upkeep, if there are no arrowhead counters on Serrated Arrows, sacrifice it.\n{T}, Remove an arrowhead counter from Serrated Arrows: Put a -1/-1 counter on target creature.",
+      "flavor": null,
+      "artist": "John Avon",
+      "number": "20",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 202280,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "HML",
+        "ATH",
+        "pFNM",
+        "TSB",
+        "DDD",
+        "DD3_GVL"
+      ],
+      "original_text": "Serrated Arrows enters the battlefield with three arrowhead counters on it.\nAt the beginning of your upkeep, if there are no arrowhead counters on Serrated Arrows, sacrifice it.\n{T}, Remove an arrowhead counter from Serrated Arrows: Put a -1/-1 counter on target creature.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=202280&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "88c8a241ca9521f1210529127b32bac9d075df0e",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-08-01",
+          "text": "The upkeep trigger checks the number of counters at the start of upkeep, and only goes on the stack if there are no arrowhead counters at that time. It will check again on resolution, and will do nothing if you've somehow manage to get a new arrowhead counter on the Arrows."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Harmonize",
+      "layout": "normal",
+      "mana_cost": "{2}{G}{G}",
+      "cmc": 4,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Uncommon",
+      "text": "Draw three cards.",
+      "flavor": "\"Words lie. People lie. The land tells the truth.\"",
+      "artist": "Paul Lee",
+      "number": "21",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 201817,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pMPR",
+        "PLC",
+        "EVG",
+        "DDD",
+        "ARC",
+        "CMD",
+        "C13",
+        "DD3_EVG",
+        "DD3_GVL",
+        "EMA",
+        "MM3",
+        "DDS",
+        "C17"
+      ],
+      "original_text": "Draw three cards.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201817&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "30d2a9d59c67d202dfd1f24aeefe4ebeea524876",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2007-02-01",
+          "text": "This is the timeshifted version of Concentrate."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Rude Awakening",
+      "layout": "normal",
+      "mana_cost": "{4}{G}",
+      "cmc": 5,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Rare",
+      "text": "Choose one \u2014\n\u2022 Untap all lands you control.\n\u2022 Until end of turn, lands you control become 2/2 creatures that are still lands.\nEntwine {2}{G} (Choose both if you pay the entwine cost.)",
+      "flavor": null,
+      "artist": "Ittoku",
+      "number": "22",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 202281,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "5DN",
+        "DDD",
+        "MMA",
+        "DD3_GVL"
+      ],
+      "original_text": "Choose one \u2014 Untap all lands you control; or until end of turn, lands you control become 2/2 creatures that are still lands.\nEntwine {2}{G} (Choose both if you pay the entwine cost.)",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=202281&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "225151286e2f34a15fea245b62a31c4098ce8ea9",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-08-01",
+          "text": "A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of their most recent turn. It doesn't matter how long the permanent has been a creature."
+        },
+        {
+          "date": "2013-06-07",
+          "text": "Lands that enter the battlefield or otehrwise come under your control after Rude Awakening resolves won't be affected."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Beast Attack",
+      "layout": "normal",
+      "mana_cost": "{2}{G}{G}{G}",
+      "cmc": 5,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Uncommon",
+      "text": "Create a 4/4 green Beast creature token.\nFlashback {2}{G}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+      "flavor": null,
+      "artist": "Ciruelo",
+      "number": "23",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 201824,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ODY",
+        "DDD",
+        "DD3_GVL",
+        "DDS"
+      ],
+      "original_text": "Put a 4/4 green Beast creature token onto the battlefield.\nFlashback {2}{G}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201824&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "440b9fec58a1729646e719328ae7af46158c41a7",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Overrun",
+      "layout": "normal",
+      "mana_cost": "{2}{G}{G}{G}",
+      "cmc": 5,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Uncommon",
+      "text": "Creatures you control get +3/+3 and gain trample until end of turn.",
+      "flavor": "Nature doesn't walk.",
+      "artist": "Carl Critchlow",
+      "number": "24",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 201779,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "TMP",
+        "ATH",
+        "ODY",
+        "10E",
+        "M10",
+        "DDD",
+        "DPA",
+        "M12",
+        "PC2",
+        "C14",
+        "DD3_GVL",
+        "TPR",
+        "C15",
+        "CN2",
+        "PCA",
+        "CMA"
+      ],
+      "original_text": "Creatures you control get +3/+3 and gain trample until end of turn.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201779&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "ac9c2f73e25159714b036c75f7b9e785fe93230f",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2009-10-01",
+          "text": "Overrun affects only creatures you control at the time it resolves. It won't affect creatures that come under your control later in the turn."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Windstorm",
+      "layout": "normal",
+      "mana_cost": "{X}{G}",
+      "cmc": 1,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Uncommon",
+      "text": "Windstorm deals X damage to each creature with flying.",
+      "flavor": "\"We don't like interlopers and thieves cluttering our skies.\"\n\u2014Dionus, elvish archdruid",
+      "artist": "Rob Alexander",
+      "number": "25",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 201780,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "M10",
+        "DDD",
+        "M14",
+        "KTK",
+        "DD3_GVL"
+      ],
+      "original_text": "Windstorm deals X damage to each creature with flying.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201780&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "5701b751c71f68345c1f89033579548fd203222c",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Slippery Karst",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Land",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Common",
+      "text": "Slippery Karst enters the battlefield tapped.\n{T}: Add {G}.\nCycling {2} ({2}, Discard this card: Draw a card.)",
+      "flavor": null,
+      "artist": "Stephen Daniele",
+      "number": "26",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 201784,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "USG",
+        "ATH",
+        "BRB",
+        "BTD",
+        "DDD",
+        "C13",
+        "C14",
+        "DD3_GVL",
+        "C15",
+        "CMA"
+      ],
+      "original_text": "Slippery Karst enters the battlefield tapped.\n{T}: Add {G} to your mana pool.\nCycling {2} ({2}, Discard this card: Draw a card.)",
+      "original_type": "Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201784&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "90b66b99106afa74dab6a2e05bde7cf92a923ad5",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-10-01",
+          "text": "Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Treetop Village",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Land",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Uncommon",
+      "text": "Treetop Village enters the battlefield tapped.\n{T}: Add {G}.\n{1}{G}: Treetop Village becomes a 3/3 green Ape creature with trample until end of turn. It's still a land. (If it would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to the player or planeswalker it's attacking.)",
+      "flavor": null,
+      "artist": "Rob Alexander",
+      "number": "27",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 202279,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ULG",
+        "pFNM",
+        "10E",
+        "pSUM",
+        "DDD",
+        "DDG",
+        "DD3_GVL",
+        "DDR",
+        "DDU"
+      ],
+      "original_text": "Treetop Village enters the battlefield tapped.\n{T}: Add {G} to your mana pool.\n{1}{G}: Treetop Village becomes a 3/3 green Ape creature with trample until end of turn. It's still a land.",
+      "original_type": "Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=202279&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "ce8e9cb96ebac8787a4caaa5314bbef5f0d2b09d",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-08-01",
+          "text": "A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of their most recent turn. It doesn't matter how long the permanent has been a creature."
+        },
+        {
+          "date": "2009-10-01",
+          "text": "Activating the ability that turns it into a creature while it's already a creature will override any effects that set its power and/or toughness to a specific number. However, any effect that raises or lowers power and/or toughness (such as the effect created by Giant Growth, Glorious Anthem, or a +1/+1 counter) will continue to apply."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Forest",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Forest",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Forest"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Rob Alexander",
+      "number": "28",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 204966,
+      "variations": [
+        204965,
+        204964,
+        204967
+      ],
+      "watermark": "Green",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "EVG",
+        "SHM",
+        "ALA",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "DDD",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "DDM",
+        "M15",
+        "KTK",
+        "C14",
+        "DD3_EVG",
+        "DD3_GVL",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "SOI",
+        "DDR",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "UST",
+        "RIX",
+        "DDU",
+        "DOM"
+      ],
+      "original_text": "G",
+      "original_type": "Basic Land \u2014 Forest",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=204966&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "40eff88b0710d3a4b94ac575d796f86b6a111c43",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Forest",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Forest",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Forest"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Glen Angus",
+      "number": "29",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 204965,
+      "variations": [
+        204966,
+        204964,
+        204967
+      ],
+      "watermark": "Green",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "EVG",
+        "SHM",
+        "ALA",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "DDD",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "DDM",
+        "M15",
+        "KTK",
+        "C14",
+        "DD3_EVG",
+        "DD3_GVL",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "SOI",
+        "DDR",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "UST",
+        "RIX",
+        "DDU",
+        "DOM"
+      ],
+      "original_text": "G",
+      "original_type": "Basic Land \u2014 Forest",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=204965&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "815a6a98ac158d99592655440f9d9e07af7f0bb9",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Forest",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Forest",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Forest"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Steven Belledin",
+      "number": "30",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 204967,
+      "variations": [
+        204965,
+        204966,
+        204964
+      ],
+      "watermark": "Green",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "EVG",
+        "SHM",
+        "ALA",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "DDD",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "DDM",
+        "M15",
+        "KTK",
+        "C14",
+        "DD3_EVG",
+        "DD3_GVL",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "SOI",
+        "DDR",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "UST",
+        "RIX",
+        "DDU",
+        "DOM"
+      ],
+      "original_text": "G",
+      "original_type": "Basic Land \u2014 Forest",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=204967&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "d3156c8de2189d0aa209dc78098fa16b9ea8c90a",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Forest",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Forest",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Forest"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Jim Nelson",
+      "number": "31",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 204964,
+      "variations": [
+        204965,
+        204966,
+        204967
+      ],
+      "watermark": "Green",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "EVG",
+        "SHM",
+        "ALA",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "DDD",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "DDM",
+        "M15",
+        "KTK",
+        "C14",
+        "DD3_EVG",
+        "DD3_GVL",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "SOI",
+        "DDR",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "UST",
+        "RIX",
+        "DDU",
+        "DOM"
+      ],
+      "original_text": "G",
+      "original_type": "Basic Land \u2014 Forest",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=204964&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "e46252d1d7e1e9fd9c3d4412ce536a83af0adec7",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Liliana Vess",
+      "layout": "normal",
+      "mana_cost": "{3}{B}{B}",
+      "cmc": 5,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Legendary Planeswalker \u2014 Liliana",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Liliana"
+      ],
+      "types": [
+        "Planeswalker"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "+1: Target player discards a card.\n\u22122: Search your library for a card, then shuffle your library and put that card on top of it.\n\u22128: Put all creature cards from all graveyards onto the battlefield under your control.",
+      "flavor": null,
+      "artist": "Terese Nielsen",
+      "number": "32",
+      "power": null,
+      "toughness": null,
+      "loyalty": 5,
+      "multiverse_id": 201348,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pMEI",
+        "LRW",
+        "M10",
+        "DDD",
+        "M11",
+        "M15",
+        "DD3_GVL"
+      ],
+      "original_text": "+1: Target player discards a card.\n-2: Search your library for a card, then shuffle your library and put that card on top of it.\n-8: Put all creature cards in all graveyards onto the battlefield under your control.",
+      "original_type": "Planeswalker \u2014 Liliana",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201348&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "fbc6cc2496b601e94b1d19e5b71966c548ec2ca7",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2009-10-01",
+          "text": "A \"creature card\" is any card with the type creature, even if it has other types such as artifact, enchantment, or land. Older cards of type summon are also creature cards."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Deathgreeter",
+      "layout": "normal",
+      "mana_cost": "{B}",
+      "cmc": 1,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Shaman",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Shaman"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Whenever another creature dies, you may gain 1 life.",
+      "flavor": "\"The bones of allies grant wisdom. The bones of enemies grant strength. The bones of dragons grant life eternal.\"",
+      "artist": "Dominick Domingo",
+      "number": "33",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 202143,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ALA",
+        "DDD",
+        "DD3_GVL"
+      ],
+      "original_text": "Whenever another creature is put into a graveyard from the battlefield, you may gain 1 life.",
+      "original_type": "Creature \u2014 Human Shaman",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=202143&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "35f2728876a0230ec21a085c5849216abd49d59f",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Ghost-Lit Stalker",
+      "layout": "normal",
+      "mana_cost": "{B}",
+      "cmc": 1,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Spirit",
+      "supertypes": null,
+      "subtypes": [
+        "Spirit"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "{4}{B}, {T}: Target player discards two cards. Activate this ability only any time you could cast a sorcery.\nChannel \u2014 {5}{B}{B}, Discard Ghost-Lit Stalker: Target player discards four cards. Activate this ability only any time you could cast a sorcery.",
+      "flavor": null,
+      "artist": "Hideaki Takamura",
+      "number": "34",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 202274,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "SOK",
+        "DDD",
+        "DD3_GVL"
+      ],
+      "original_text": "{4}{B}, {T}: Target player discards two cards. Activate this ability only any time you could cast a sorcery.\nChannel \u2014 {5}{B}{B}, Discard Ghost-Lit Stalker: Target player discards four cards. Activate this ability only any time you could cast a sorcery.",
+      "original_type": "Creature \u2014 Spirit",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=202274&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "937c1364160af7746895d81f449f0fa68c760d7f",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Vampire Bats",
+      "layout": "normal",
+      "mana_cost": "{B}",
+      "cmc": 1,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Bat",
+      "supertypes": null,
+      "subtypes": [
+        "Bat"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\n{B}: Vampire Bats gets +1/+0 until end of turn. Activate this ability no more than twice each turn.",
+      "flavor": null,
+      "artist": "Chippy",
+      "number": "35",
+      "power": "0",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 202276,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEG",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED",
+        "10E",
+        "DDD",
+        "DD3_GVL"
+      ],
+      "original_text": "Flying\n{B}: Vampire Bats gets +1/+0 until end of turn. Activate this ability no more than twice each turn.",
+      "original_type": "Creature \u2014 Bat",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=202276&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "ebf6aa506c289a74abe329ff9c77dfee09329a84",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Drudge Skeletons",
+      "layout": "normal",
+      "mana_cost": "{1}{B}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Skeleton",
+      "supertypes": null,
+      "subtypes": [
+        "Skeleton"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "{B}: Regenerate Drudge Skeletons. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)",
+      "flavor": "\"The dead make good soldiers. They can't disobey orders, never surrender, and don't stop fighting when a random body part falls off.\"\n\u2014Nevinyrral, Necromancer's Handbook",
+      "artist": "Daarken",
+      "number": "36",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 202275,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "5ED",
+        "6ED",
+        "S00",
+        "7ED",
+        "8ED",
+        "9ED",
+        "10E",
+        "M10",
+        "DDD",
+        "DPA",
+        "DD3_GVL"
+      ],
+      "original_text": "{B}: Regenerate Drudge Skeletons.",
+      "original_type": "Creature \u2014 Skeleton",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=202275&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "05efb550e43bf35f3931553b7912d274b6275976",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Ravenous Rats",
+      "layout": "normal",
+      "mana_cost": "{1}{B}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Rat",
+      "supertypes": null,
+      "subtypes": [
+        "Rat"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "When Ravenous Rats enters the battlefield, target opponent discards a card.",
+      "flavor": "Nothing is sacred to rats. Everything is simply another meal.",
+      "artist": "Carl Critchlow",
+      "number": "37",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 201791,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "PO2",
+        "UDS",
+        "S99",
+        "INV",
+        "8ED",
+        "9ED",
+        "10E",
+        "DDD",
+        "DPA",
+        "M13",
+        "DDJ",
+        "DD3_GVL"
+      ],
+      "original_text": "When Ravenous Rats enters the battlefield, target opponent discards a card.",
+      "original_type": "Creature \u2014 Rat",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201791&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "3af676f165b87d501c80d0b7cc1f95e7c14030cc",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Fleshbag Marauder",
+      "layout": "normal",
+      "mana_cost": "{2}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Zombie Warrior",
+      "supertypes": null,
+      "subtypes": [
+        "Zombie",
+        "Warrior"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "When Fleshbag Marauder enters the battlefield, each player sacrifices a creature.",
+      "flavor": "Grixis is a world where the only things found in abundance are death and decay. Corpses, whole or in part, are the standard currency among necromancers and demons.",
+      "artist": "Pete Venters",
+      "number": "38",
+      "power": "3",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 202144,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ALA",
+        "DDD",
+        "CMD",
+        "DDN",
+        "DD3_GVL",
+        "ORI",
+        "CN2"
+      ],
+      "original_text": "When Fleshbag Marauder enters the battlefield, each player sacrifices a creature.",
+      "original_type": "Creature \u2014 Zombie Warrior",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=202144&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "7dbd2eb6ac23ef80cf0a1e46f62a5d213ceb0f75",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-10-01",
+          "text": "When the ability resolves, you may sacrifice Fleshbag Marauder itself. If you control no other creatures, you'll have to sacrifice Fleshbag Marauder."
+        },
+        {
+          "date": "2015-06-22",
+          "text": "As Fleshbag Marauder's ability resolves, first you choose a creature to sacrifice, then each other player in turn order chooses a creature to sacrifice, then all those creatures are sacrificed simultaneously."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Phyrexian Rager",
+      "layout": "normal",
+      "mana_cost": "{2}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Horror",
+      "supertypes": null,
+      "subtypes": [
+        "Horror"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "When Phyrexian Rager enters the battlefield, you draw a card and you lose 1 life.",
+      "flavor": "It takes no prisoners, but it keeps the choicest bits for Phyrexia.",
+      "artist": "Mark Tedin",
+      "number": "39",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 201790,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pMEI",
+        "APC",
+        "10E",
+        "DDD",
+        "MBS",
+        "DD3_GVL",
+        "C15",
+        "EMA",
+        "CMA",
+        "IMA"
+      ],
+      "original_text": "When Phyrexian Rager enters the battlefield, you draw a card and you lose 1 life.",
+      "original_type": "Creature \u2014 Horror",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201790&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "af6c734e32a65231bf131a7ba267482fce5b38d4",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Urborg Syphon-Mage",
+      "layout": "normal",
+      "mana_cost": "{2}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Spellshaper",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Spellshaper"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "{2}{B}, {T}, Discard a card: Each other player loses 2 life. You gain life equal to the life lost this way.",
+      "flavor": "\"I have become a gourmet of sorts. Each soul has its own distinctive flavor. The art is in inviting the right company to the feast.\"",
+      "artist": "Greg Staples",
+      "number": "40",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 202146,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "TSP",
+        "DDD",
+        "ARC",
+        "DD3_GVL"
+      ],
+      "original_text": "{2}{B}, {T}, Discard a card: Each other player loses 2 life. You gain life equal to the life lost this way.",
+      "original_type": "Creature \u2014 Human Spellshaper",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=202146&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "f158deec65215bea7af6eec3c0ffee9fc1b7fdec",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Wall of Bone",
+      "layout": "normal",
+      "mana_cost": "{2}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Skeleton Wall",
+      "supertypes": null,
+      "subtypes": [
+        "Skeleton",
+        "Wall"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "Defender (This creature can't attack.)\n{B}: Regenerate Wall of Bone. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)",
+      "flavor": "\"Graveyards are sacrilege! A waste of perfectly good bones.\"\n\u2014Keren-Dur, necromancer lord",
+      "artist": "Jaime Jones",
+      "number": "41",
+      "power": "1",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": 202277,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED",
+        "7ED",
+        "M10",
+        "DDD",
+        "DD3_GVL"
+      ],
+      "original_text": "Defender\n{B}: Regenerate Wall of Bone.",
+      "original_type": "Creature \u2014 Skeleton Wall",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=202277&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "7b400f026207145b6da05d53306be300fbd237f1",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Faerie Macabre",
+      "layout": "normal",
+      "mana_cost": "{1}{B}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Faerie Rogue",
+      "supertypes": null,
+      "subtypes": [
+        "Faerie",
+        "Rogue"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Flying\nDiscard Faerie Macabre: Exile up to two target cards from graveyards.",
+      "flavor": "The line between dream and death is gauzy and fragile. She leads those too near it from one side to the other.",
+      "artist": "rk post",
+      "number": "42",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 201822,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "SHM",
+        "DDD",
+        "MMA",
+        "DD3_GVL"
+      ],
+      "original_text": "Flying\nDiscard Faerie Macabre: Exile up to two target cards from graveyards.",
+      "original_type": "Creature \u2014 Faerie Rogue",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201822&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "b97fe3ee16f13fbf781179b75bbb2eb62d610ab4",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-05-01",
+          "text": "Faerie Macabre's second ability can be activated only while it's in your hand. You can do this any time you could cast an instant."
+        },
+        {
+          "date": "2008-05-01",
+          "text": "The targeted cards may be in the same graveyard or in different graveyards."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Howling Banshee",
+      "layout": "normal",
+      "mana_cost": "{2}{B}{B}",
+      "cmc": 4,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Spirit",
+      "supertypes": null,
+      "subtypes": [
+        "Spirit"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "Flying\nWhen Howling Banshee enters the battlefield, each player loses 3 life.",
+      "flavor": "Villagers cloaked the town in magical silence, but their ears still bled.",
+      "artist": "Andrew Robinson",
+      "number": "43",
+      "power": "3",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": 202148,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "M10",
+        "DDD",
+        "M11",
+        "DD3_GVL"
+      ],
+      "original_text": "Flying\nWhen Howling Banshee enters the battlefield, each player loses 3 life.",
+      "original_type": "Creature \u2014 Spirit",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=202148&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "b5f141973969e406b99af209d9f5280bab0a9f8a",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Keening Banshee",
+      "layout": "normal",
+      "mana_cost": "{2}{B}{B}",
+      "cmc": 4,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Spirit",
+      "supertypes": null,
+      "subtypes": [
+        "Spirit"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "Flying\nWhen Keening Banshee enters the battlefield, target creature gets -2/-2 until end of turn.",
+      "flavor": "Her cold wail echoes in the alleys and under-eaves, finding the unfortunate and turning their blood to ice.",
+      "artist": "Robert Bliss",
+      "number": "44",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 201796,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "RAV",
+        "DDD",
+        "DD3_GVL"
+      ],
+      "original_text": "Flying\nWhen Keening Banshee enters the battlefield, target creature gets -2/-2 until end of turn.",
+      "original_type": "Creature \u2014 Spirit",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201796&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "29fcc4adbfc479f424512a5a0960f3bc82f11188",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Twisted Abomination",
+      "layout": "normal",
+      "mana_cost": "{5}{B}",
+      "cmc": 6,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Zombie Mutant",
+      "supertypes": null,
+      "subtypes": [
+        "Zombie",
+        "Mutant"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "{B}: Regenerate Twisted Abomination.\nSwampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle your library.)",
+      "flavor": null,
+      "artist": "Daren Bader",
+      "number": "45",
+      "power": "5",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": 201813,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "SCG",
+        "TSB",
+        "DDD",
+        "ARC",
+        "PD3",
+        "CNS",
+        "DD3_GVL",
+        "EMA",
+        "A25"
+      ],
+      "original_text": "{B}: Regenerate Twisted Abomination.\nSwampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, and put it into your hand. Then shuffle your library.)",
+      "original_type": "Creature \u2014 Zombie Mutant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201813&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "71c79f5a4a7025d9f514d34683fb638ba09a608a",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2016-06-08",
+          "text": "Unlike the normal cycling ability, Swampcycling doesn't allow you to draw a card. Instead, it lets you search your library for a Swamp card. After you find a Swamp card in your library, you reveal it, put it into your hand, then shuffle your library."
+        },
+        {
+          "date": "2016-06-08",
+          "text": "Swampcycling is a form of cycling. Any ability that triggers on a card being cycled also triggers on Swampcycling this card. Any ability that stops a cycling ability from being activated also stops Swampcycling from being activated."
+        },
+        {
+          "date": "2016-06-08",
+          "text": "Swampcycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with Swampcycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not."
+        },
+        {
+          "date": "2016-06-08",
+          "text": "You can choose to find any card with the Swamp land type, including nonbasic lands. You can also choose not to find a card, even if there is a Swamp card in your library."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Skeletal Vampire",
+      "layout": "normal",
+      "mana_cost": "{4}{B}{B}",
+      "cmc": 6,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Vampire Skeleton",
+      "supertypes": null,
+      "subtypes": [
+        "Vampire",
+        "Skeleton"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": "Flying\nWhen Skeletal Vampire enters the battlefield, create two 1/1 black Bat creature tokens with flying.\n{3}{B}{B}, Sacrifice a Bat: Create two 1/1 black Bat creature tokens with flying.\nSacrifice a Bat: Regenerate Skeletal Vampire.",
+      "flavor": null,
+      "artist": "Wayne Reynolds",
+      "number": "46",
+      "power": "3",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": 201809,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "GPT",
+        "DDD",
+        "MMA",
+        "DD3_GVL",
+        "C17"
+      ],
+      "original_text": "Flying\nWhen Skeletal Vampire enters the battlefield, put two 1/1 black Bat creature tokens onto the battlefield.\n{3}{B}{B}, Sacrifice a Bat: Put two 1/1 black Bat creature tokens with flying onto the battlefield.\nSacrifice a Bat: Regenerate Skeletal Vampire.",
+      "original_type": "Creature \u2014 Vampire Skeleton",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201809&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "c3a14de4b80d82950d369fa1ef541dcff0140927",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2006-02-01",
+          "text": "You may pay the cost of Skeletal Vampire's activated abilities by sacrificing any Bat, not just a Bat token it created."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Genju of the Fens",
+      "layout": "normal",
+      "mana_cost": "{B}",
+      "cmc": 1,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Enchantment \u2014 Aura",
+      "supertypes": null,
+      "subtypes": [
+        "Aura"
+      ],
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Uncommon",
+      "text": "Enchant Swamp\n{2}: Until end of turn, enchanted Swamp becomes a 2/2 black Spirit creature with \"{B}: This creature gets +1/+1 until end of turn.\" It's still a land.\nWhen enchanted Swamp is put into a graveyard, you may return Genju of the Fens from your graveyard to your hand.",
+      "flavor": null,
+      "artist": "Tsutomu Kawade",
+      "number": "47",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 201793,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "BOK",
+        "DDD",
+        "DD3_GVL"
+      ],
+      "original_text": "Enchant Swamp\n{2}: Until end of turn, enchanted Swamp becomes a 2/2 black Spirit creature with \"{B}: This creature gets +1/+1 until end of turn.\" It's still a land.\nWhen enchanted Swamp is put into a graveyard, you may return Genju of the Fens from your graveyard to your hand.",
+      "original_type": "Enchantment \u2014 Aura",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201793&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "ff783f9f07dc32966052661a3b3fad733f3c5f68",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-08-01",
+          "text": "A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of their most recent turn. It doesn't matter how long the permanent has been a creature."
+        },
+        {
+          "date": "2009-10-01",
+          "text": "Activating the ability that turns it into a creature while it's already a creature will override any effects that set its power and/or toughness to a specific number. However, any effect that raises or lowers power and/or toughness (such as the effect created by Giant Growth, Glorious Anthem, or a +1/+1 counter) will continue to apply."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Bad Moon",
+      "layout": "normal",
+      "mana_cost": "{1}{B}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Enchantment",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Rare",
+      "text": "Black creatures get +1/+1.",
+      "flavor": null,
+      "artist": "Gary Leach",
+      "number": "48",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 201820,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "5ED",
+        "TSB",
+        "DDD",
+        "C14",
+        "DD3_GVL"
+      ],
+      "original_text": "Black creatures get +1/+1.",
+      "original_type": "Enchantment",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201820&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "249f0c3b93320087cd2579dc5d0d22e04aa373dd",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Sign in Blood",
+      "layout": "normal",
+      "mana_cost": "{B}{B}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Common",
+      "text": "Target player draws two cards and loses 2 life.",
+      "flavor": "\"You know I accept only one currency here, and yet you have sought me out. Why now do you hesitate?\"\n\u2014Xathrid demon",
+      "artist": "Howard Lyon",
+      "number": "49",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 201801,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pMPR",
+        "M10",
+        "DDD",
+        "ARC",
+        "M11",
+        "CMD",
+        "M13",
+        "M15",
+        "C14",
+        "DD3_GVL",
+        "MM2"
+      ],
+      "original_text": "Target player draws two cards and loses 2 life.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201801&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "aa5c470b9cc2603e62998578e46f98f72d69a806",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Vicious Hunger",
+      "layout": "normal",
+      "mana_cost": "{B}{B}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Common",
+      "text": "Vicious Hunger deals 2 damage to target creature and you gain 2 life.",
+      "flavor": "Only the most ravenous soul feeds on the health of the weak.",
+      "artist": "Massimilano Frezzato",
+      "number": "50",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 202262,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "NMS",
+        "8ED",
+        "DDD",
+        "DD3_GVL"
+      ],
+      "original_text": "Vicious Hunger deals 2 damage to target creature and you gain 2 life.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=202262&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "cbdc6ad0017ecfaff31bc42e2d11a6447a6be47a",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Ichor Slick",
+      "layout": "normal",
+      "mana_cost": "{2}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Common",
+      "text": "Target creature gets -3/-3 until end of turn.\nCycling {2} ({2}, Discard this card: Draw a card.)\nMadness {3}{B} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",
+      "flavor": null,
+      "artist": "Zoltan Boros & Gabor Szikszai",
+      "number": "51",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 202145,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "FUT",
+        "DDD",
+        "DD3_GVL"
+      ],
+      "original_text": "Target creature gets -3/-3 until end of turn.\nCycling {2} ({2}, Discard this card: Draw a card.)\nMadness {3}{B} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=202145&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "6c5850df38db58f0ffcec6876f40b5961a666261",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2007-05-01",
+          "text": "If you cycle Ichor Slick, you may cast it for its madness cost. You choose whether or not to cast it with madness before you draw a card from the cycling effect."
+        },
+        {
+          "date": "2008-10-01",
+          "text": "Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Hideous End",
+      "layout": "normal",
+      "mana_cost": "{1}{B}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Common",
+      "text": "Destroy target nonblack creature. Its controller loses 2 life.",
+      "flavor": "\"A little dark magic won't stop me. The worse the curse, the better the prize.\"\n\u2014Radavi, Joraga relic hunter, last words",
+      "artist": "Zoltan Boros & Gabor Szikszai",
+      "number": "52",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 202147,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "HOP",
+        "ZEN",
+        "DDD",
+        "DDE",
+        "DD3_GVL",
+        "DDR"
+      ],
+      "original_text": "Destroy target nonblack creature. Its controller loses 2 life.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=202147&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "2876b488d1c29b2074047f04d0f4fb1febb875e6",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2009-10-01",
+          "text": "If the targeted creature is an illegal target by the time Hideous End resolves, the entire spell doesn't resolve. No one loses life."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Snuff Out",
+      "layout": "normal",
+      "mana_cost": "{3}{B}",
+      "cmc": 4,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Common",
+      "text": "If you control a Swamp, you may pay 4 life rather than pay this spell's mana cost.\nDestroy target nonblack creature. It can't be regenerated.",
+      "flavor": "\"The bigger they are, the faster they rot.\"",
+      "artist": "Steve Argyle",
+      "number": "53",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 201794,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MMQ",
+        "DDD",
+        "DD3_GVL"
+      ],
+      "original_text": "If you control a Swamp, you may pay 4 life rather than pay Snuff Out's mana cost.\nDestroy target nonblack creature. It can't be regenerated.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201794&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "edc5e2697c017605f38475d3c4ab9b506b191ea8",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Tendrils of Corruption",
+      "layout": "normal",
+      "mana_cost": "{3}{B}",
+      "cmc": 4,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Common",
+      "text": "Tendrils of Corruption deals X damage to target creature and you gain X life, where X is the number of Swamps you control.",
+      "flavor": "Darkness doesn't always send its minions to do its dirty work.",
+      "artist": "Vance Kovacs",
+      "number": "54",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 201812,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "TSP",
+        "M10",
+        "DDD",
+        "DDE",
+        "C14",
+        "DD3_GVL",
+        "DDR"
+      ],
+      "original_text": "Tendrils of Corruption deals X damage to target creature and you gain X life, where X is the number of Swamps you control.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201812&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "b3c44dbdccce618c8b8e01ba83a509f31962f2db",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2009-10-01",
+          "text": "The amount of life you gain is equal to the number of Swamps you control, not the amount of damage Tendrils of Corruption deals (in case some of it is prevented)."
+        },
+        {
+          "date": "2009-10-01",
+          "text": "If the targeted creature is an illegal target by the time Tendrils of Corruption would resolve, the entire spell doesn't resolve. You won't gain any life."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Mutilate",
+      "layout": "normal",
+      "mana_cost": "{2}{B}{B}",
+      "cmc": 4,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Rare",
+      "text": "All creatures get -1/-1 until end of turn for each Swamp you control.",
+      "flavor": "Liliana developed a fondness for the moment when roaring becomes squealing.",
+      "artist": "Zoltan Boros & Gabor Szikszai",
+      "number": "55",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 201819,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "TOR",
+        "DDD",
+        "M13",
+        "C14",
+        "DD3_GVL"
+      ],
+      "original_text": "All creatures get -1/-1 until end of turn for each Swamp you control.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201819&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "a95e1d3ba8aac995f603eaf6fb696b877a7b2aa3",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2012-07-01",
+          "text": "The effect is based on the number of Swamps you control when Mutilate resolves. Only creatures on the battlefield at that time will be affected. The effect won't change later in the turn, even if the number of Swamps you control changes."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Rise from the Grave",
+      "layout": "normal",
+      "mana_cost": "{4}{B}",
+      "cmc": 5,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Uncommon",
+      "text": "Put target creature card from a graveyard onto the battlefield under your control. That creature is a black Zombie in addition to its other colors and types.",
+      "flavor": "\"Death is no excuse for disobedience.\"\n\u2014Liliana Vess",
+      "artist": "Vance Kovacs",
+      "number": "56",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 201800,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pWPN",
+        "M10",
+        "DDD",
+        "M11",
+        "CMD",
+        "M13",
+        "DD3_GVL",
+        "C15",
+        "EMN",
+        "CMA"
+      ],
+      "original_text": "Put target creature card in a graveyard onto the battlefield under your control. That creature is a black Zombie in addition to its other colors and types.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201800&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "a49f5ab21e2c84b73e5d805714f28eb5737398c7",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2009-10-01",
+          "text": "Rise from the Grave doesn't overwrite any previous colors or types. Rather, it adds another color and another subtype."
+        },
+        {
+          "date": "2009-10-01",
+          "text": "If the targeted creature is normally colorless, it will simply become black. It won't be both black and colorless."
+        },
+        {
+          "date": "2009-10-01",
+          "text": "A later effect that changes the affected creature's colors will overwrite that part of Rise from the Grave effect; the creature will be just the new color. The same is true about an effect that changes the affected creature's types or subtypes."
+        },
+        {
+          "date": "2009-10-01",
+          "text": "A \"creature card\" is any card with the type creature, even if it has other types such as artifact, enchantment, or land. Older cards of type summon are also creature cards."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Corrupt",
+      "layout": "normal",
+      "mana_cost": "{5}{B}",
+      "cmc": 6,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Uncommon",
+      "text": "Corrupt deals damage to any target equal to the number of Swamps you control. You gain life equal to the damage dealt this way.",
+      "flavor": "There are things beneath the murk for whom the bog is a stew, a thin broth in need of meat.",
+      "artist": "Dave Allsop",
+      "number": "57",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 201821,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pMEI",
+        "USG",
+        "7ED",
+        "pMPR",
+        "SHM",
+        "DDC",
+        "DDD",
+        "M11",
+        "M14",
+        "DD3_DVD",
+        "DD3_GVL"
+      ],
+      "original_text": "Corrupt deals damage equal to the number of Swamps you control to target creature or player. You gain life equal to the damage dealt this way.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201821&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "50266029ef6ccbcc746654aaa18017de0eb67d33",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "The swamps are counted on resolution."
+        },
+        {
+          "date": "2010-08-15",
+          "text": "The life you gain is equal to the damage dealt by Corrupt, not necessarily to the number of Swamps you control (if some or all of the damage is prevented, for example)."
+        },
+        {
+          "date": "2010-08-15",
+          "text": "The amount of damage dealt to a creature is not bounded by its toughness, and the amount of damage dealt to a player is not bounded by that player's life total. For example, if Corrupt deals 6 damage to a 2/2 creature, you'll gain 6 life."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "Corrupt counts any land you control with the subtype Swamp, not just ones named Swamp."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Enslave",
+      "layout": "normal",
+      "mana_cost": "{4}{B}{B}",
+      "cmc": 6,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Enchantment \u2014 Aura",
+      "supertypes": null,
+      "subtypes": [
+        "Aura"
+      ],
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Uncommon",
+      "text": "Enchant creature\nYou control enchanted creature.\nAt the beginning of your upkeep, enchanted creature deals 1 damage to its owner.",
+      "flavor": null,
+      "artist": "Zoltan Boros & Gabor Szikszai",
+      "number": "58",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 201816,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "PLC",
+        "DDD",
+        "NPH",
+        "DD3_GVL"
+      ],
+      "original_text": "Enchant creature\nYou control enchanted creature.\nAt the beginning of your upkeep, enchanted creature deals 1 damage to its owner.",
+      "original_type": "Enchantment \u2014 Aura",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201816&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "d06a7c71beeaf69fe54ea75917772c4bb55b7c39",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2007-02-01",
+          "text": "The owner of a card is the player who started the game with that card in their deck. If the card didn't start the game in a deck, its owner is the player who brought the card into the game, via Living Wish or a similar effect."
+        },
+        {
+          "date": "2009-10-01",
+          "text": "A token's owner is the player under whose control it entered the battlefield."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Polluted Mire",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Land",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Common",
+      "text": "Polluted Mire enters the battlefield tapped.\n{T}: Add {B}.\nCycling {2} ({2}, Discard this card: Draw a card.)",
+      "flavor": null,
+      "artist": "Stephen Daniele",
+      "number": "59",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 201782,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "USG",
+        "ATH",
+        "BRB",
+        "BTD",
+        "DDD",
+        "PD3",
+        "C14",
+        "DD3_GVL",
+        "C15",
+        "CMA"
+      ],
+      "original_text": "Polluted Mire enters the battlefield tapped.\n{T}: Add {B} to your mana pool.\nCycling {2} ({2}, Discard this card: Draw a card.)",
+      "original_type": "Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201782&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "16cca2843de773a33215b74d2f6318fff2299870",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-10-01",
+          "text": "Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Swamp",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Swamp",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Swamp"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Stephan Martiniere",
+      "number": "60",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 204970,
+      "variations": [
+        204968,
+        204971,
+        204969
+      ],
+      "watermark": "Black",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DDC",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "DDD",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "MBS",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "PD3",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "DDK",
+        "M14",
+        "THS",
+        "C13",
+        "DDM",
+        "MD1",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_DVD",
+        "DD3_GVL",
+        "FRF",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "DDR",
+        "KLD",
+        "C16",
+        "PCA",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "UST",
+        "RIX",
+        "DOM"
+      ],
+      "original_text": "B",
+      "original_type": "Basic Land \u2014 Swamp",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=204970&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "6b198501be5cd0a46e4eac7e639dc921145f999d",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Swamp",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Swamp",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Swamp"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Christopher Moeller",
+      "number": "61",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 204969,
+      "variations": [
+        204970,
+        204968,
+        204971
+      ],
+      "watermark": "Black",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DDC",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "DDD",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "MBS",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "PD3",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "DDK",
+        "M14",
+        "THS",
+        "C13",
+        "DDM",
+        "MD1",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_DVD",
+        "DD3_GVL",
+        "FRF",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "DDR",
+        "KLD",
+        "C16",
+        "PCA",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "UST",
+        "RIX",
+        "DOM"
+      ],
+      "original_text": "B",
+      "original_type": "Basic Land \u2014 Swamp",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=204969&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "9effb61cf3913f9f937b1e98c167f6b1e850d4d2",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Swamp",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Swamp",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Swamp"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Anthony S. Waters",
+      "number": "62",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 204968,
+      "variations": [
+        204970,
+        204971,
+        204969
+      ],
+      "watermark": "Black",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DDC",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "DDD",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "MBS",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "PD3",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "DDK",
+        "M14",
+        "THS",
+        "C13",
+        "DDM",
+        "MD1",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_DVD",
+        "DD3_GVL",
+        "FRF",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "DDR",
+        "KLD",
+        "C16",
+        "PCA",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "UST",
+        "RIX",
+        "DOM"
+      ],
+      "original_text": "B",
+      "original_type": "Basic Land \u2014 Swamp",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=204968&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "4b080c54f110c3f670b0ff44a8ddaabb04544732",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Swamp",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Swamp",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Swamp"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Richard Wright",
+      "number": "63",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 204971,
+      "variations": [
+        204970,
+        204968,
+        204969
+      ],
+      "watermark": "Black",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DDC",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "DDD",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "MBS",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "PD3",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "DDK",
+        "M14",
+        "THS",
+        "C13",
+        "DDM",
+        "MD1",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_DVD",
+        "DD3_GVL",
+        "FRF",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "DDR",
+        "KLD",
+        "C16",
+        "PCA",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "UST",
+        "RIX",
+        "DOM"
+      ],
+      "original_text": "B",
+      "original_type": "Basic Land \u2014 Swamp",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=204971&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "d82594e6d2507247def4f8aa55e31303b61c9a9c",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Beast",
+      "layout": "token",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Creature \u2014 Beast",
+      "supertypes": null,
+      "subtypes": [
+        "Beast"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": null,
+      "flavor": null,
+      "artist": "John Donahue",
+      "number": "T1",
+      "power": "4",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": 201842,
+      "variations": [
+        201844
+      ],
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "DDD"
+      ],
+      "original_text": null,
+      "original_type": "Creature \u2014 Beast",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201842&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "0de29c80e632561e58077cf87c624bb1d65eb07b",
+      "legalities": null,
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Beast",
+      "layout": "token",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Creature \u2014 Beast",
+      "supertypes": null,
+      "subtypes": [
+        "Beast"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": null,
+      "flavor": null,
+      "artist": "Steve Prescott",
+      "number": "T2",
+      "power": "4",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": 201844,
+      "variations": [
+        201842
+      ],
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "DDD"
+      ],
+      "original_text": null,
+      "original_type": "Creature \u2014 Beast",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201844&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "8c8a310816340dd6b923f84e2c5e5edfd8d3f9ca",
+      "legalities": null,
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Elephant",
+      "layout": "token",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Creature \u2014 Elephant",
+      "supertypes": null,
+      "subtypes": [
+        "Elephant"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": null,
+      "flavor": null,
+      "artist": "Arnie Swekel",
+      "number": "T3",
+      "power": "3",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": 201843,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "DDD"
+      ],
+      "original_text": null,
+      "original_type": "Creature \u2014 Elephant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201843&type=card",
+      "set": "DDD",
+      "set_name": "Duel Decks: Garruk vs. Liliana",
+      "id": "3302ed869163a047a516800c42a29d1dff9b7a14",
+      "legalities": null,
+      "rulings": null,
+      "foreign_names": null
+    }
+  ]
+}

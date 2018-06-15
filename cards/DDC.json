@@ -1,0 +1,6909 @@
+{
+  "code": "DDC",
+  "name": "Duel Decks: Divine vs. Demonic",
+  "type": "duel deck",
+  "border": "black",
+  "mkm_id": 107,
+  "mkm_name": "Duel Decks: Divine vs. Demonic",
+  "release_date": "2009-04-10",
+  "gatherer_code": null,
+  "magic_cards_info_code": "dvd",
+  "booster": null,
+  "old_code": null,
+  "block": null,
+  "online_only": null,
+  "cards": [
+    {
+      "name": "Akroma, Angel of Wrath",
+      "layout": "normal",
+      "mana_cost": "{5}{W}{W}{W}",
+      "cmc": 8,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Legendary Creature \u2014 Angel",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Angel"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Flying, first strike, vigilance, trample, haste, protection from black and from red",
+      "flavor": "\"Wrath is no vice when inflicted upon the deserving.\"",
+      "artist": "Chippy",
+      "number": "1",
+      "power": "6",
+      "toughness": "6",
+      "loyalty": null,
+      "multiverse_id": 193871,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LGN",
+        "TSB",
+        "DDC",
+        "DD3_DVD",
+        "V15",
+        "A25"
+      ],
+      "original_text": "Flying, first strike, vigilance, trample, haste, protection from black and from red",
+      "original_type": "Legendary Creature \u2014 Angel",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=193871&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "736bad736ee92a1e71d3ecc649baaee289338be5",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2018-03-16",
+          "text": "The \"legend rule\" cares about legendary permanents with the exact same English name. You can control Akroma, Angel of Wrath and Akroma, Angel of Fury at the same time."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Icatian Priest",
+      "layout": "normal",
+      "mana_cost": "{W}",
+      "cmc": 1,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Cleric",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Cleric"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "{1}{W}{W}: Target creature gets +1/+1 until end of turn.",
+      "flavor": "Grelden knelt and felt the cool, dry hand of the priest on his brow. Hours later, when his wits returned, he was covered in his enemies' blood on the field of victory.",
+      "artist": "Stephen Tappin",
+      "number": "2",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 196996,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "FEM",
+        "10E",
+        "DDC",
+        "DD3_DVD"
+      ],
+      "original_text": "{1}{W}{W}: Target creature gets +1/+1 until end of turn.",
+      "original_type": "Creature \u2014 Human Cleric",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=196996&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "e9b958786d0d964ca1700cd38222ef6185b19df8",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Angelic Page",
+      "layout": "normal",
+      "mana_cost": "{1}{W}",
+      "cmc": 2,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Angel Spirit",
+      "supertypes": null,
+      "subtypes": [
+        "Angel",
+        "Spirit"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Flying\n{T}: Target attacking or blocking creature gets +1/+1 until end of turn.",
+      "flavor": "If only every message were as perfect as its bearer.",
+      "artist": "Marc Fishman",
+      "number": "3",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 197009,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "USG",
+        "BRB",
+        "7ED",
+        "8ED",
+        "DDC",
+        "DD3_DVD",
+        "A25"
+      ],
+      "original_text": "Flying\n{T}: Target attacking or blocking creature gets +1/+1 until end of turn.",
+      "original_type": "Creature \u2014 Angel Spirit",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197009&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "6891dec3243ff6eefb3ac83ec831c65edf72d4e4",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Charging Paladin",
+      "layout": "normal",
+      "mana_cost": "{2}{W}",
+      "cmc": 3,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Knight",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Knight"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Whenever Charging Paladin attacks, it gets +0/+3 until end of turn.",
+      "flavor": "\"Hope shall be the blade that severs our bonds.\"",
+      "artist": "Ciruelo",
+      "number": "4",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 197021,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "POR",
+        "EXO",
+        "S99",
+        "DDC",
+        "DD3_DVD",
+        "TPR"
+      ],
+      "original_text": "Whenever Charging Paladin attacks, it gets +0/+3 until end of turn.",
+      "original_type": "Creature \u2014 Human Knight",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197021&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "aa44fed5a31f61d8af4b9482a98b4a7a7baac595",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Venerable Monk",
+      "layout": "normal",
+      "mana_cost": "{2}{W}",
+      "cmc": 3,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Monk Cleric",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Monk",
+        "Cleric"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "When Venerable Monk enters the battlefield, you gain 2 life.",
+      "flavor": "Age wears the flesh but galvanizes the soul.",
+      "artist": "D. Alexander Gregory",
+      "number": "5",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 197002,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "POR",
+        "STH",
+        "6ED",
+        "S99",
+        "S00",
+        "7ED",
+        "8ED",
+        "9ED",
+        "10E",
+        "DDC",
+        "DD3_DVD"
+      ],
+      "original_text": "When Venerable Monk comes into play, you gain 2 life.",
+      "original_type": "Creature \u2014 Human Monk Cleric",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197002&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "76186ee53e0d46659b1b7f8a3ef69b2a40cce723",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Angelic Protector",
+      "layout": "normal",
+      "mana_cost": "{3}{W}",
+      "cmc": 4,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Angel",
+      "supertypes": null,
+      "subtypes": [
+        "Angel"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "Flying\nWhenever Angelic Protector becomes the target of a spell or ability, Angelic Protector gets +0/+3 until end of turn.",
+      "flavor": "\"My family sheltered in her light, the dark was content to wait.\"\n\u2014Crovax",
+      "artist": "DiTerlizzi",
+      "number": "6",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 197035,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "TMP",
+        "DDC",
+        "DD3_DVD",
+        "TPR"
+      ],
+      "original_text": "Flying\nWhenever Angelic Protector becomes the target of a spell or ability, Angelic Protector gets +0/+3 until end of turn.",
+      "original_type": "Creature \u2014 Angel",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197035&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "831c708c3fdbeae233fd45d743648395bedeca0b",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2009-10-01",
+          "text": "The ability triggers when Angelic Protector is chosen as a target for a spell or ability. The Protectors ability will be put on the stack above that spell or ability, and so resolve first."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Serra Advocate",
+      "layout": "normal",
+      "mana_cost": "{3}{W}",
+      "cmc": 4,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Angel",
+      "supertypes": null,
+      "subtypes": [
+        "Angel"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "Flying\n{T}: Target attacking or blocking creature gets +2/+2 until end of turn.",
+      "flavor": "An angel's blessing prepares a soldier for war better than a thousand military drills.",
+      "artist": "Matthew D. Wilson",
+      "number": "7",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 197006,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "UDS",
+        "7ED",
+        "DDC",
+        "DD3_DVD"
+      ],
+      "original_text": "Flying\n{T}: Target attacking or blocking creature gets +2/+2 until end of turn.",
+      "original_type": "Creature \u2014 Angel",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197006&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "142d82702ea3e28cf019fd7c08f3a93d75694da7",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Sustainer of the Realm",
+      "layout": "normal",
+      "mana_cost": "{2}{W}{W}",
+      "cmc": 4,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Angel",
+      "supertypes": null,
+      "subtypes": [
+        "Angel"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "Flying\nWhenever Sustainer of the Realm blocks, it gets +0/+2 until end of turn.",
+      "flavor": "You may break her shield, but you'll never break her spirit.",
+      "artist": "Mark Zug",
+      "number": "8",
+      "power": "2",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": 197007,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ULG",
+        "7ED",
+        "DDC",
+        "DD3_DVD",
+        "IMA"
+      ],
+      "original_text": "Flying\nWhenever Sustainer of the Realm blocks, it gets +0/+2 until end of turn.",
+      "original_type": "Creature \u2014 Angel",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197007&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "5d16cfdf4ade76325a76ad057fc6e58c11263d4c",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "It gets the bonus only once, not once per creature it blocks."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Angel of Mercy",
+      "layout": "normal",
+      "mana_cost": "{4}{W}",
+      "cmc": 5,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Angel",
+      "supertypes": null,
+      "subtypes": [
+        "Angel"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "Flying\nWhen Angel of Mercy enters the battlefield, you gain 3 life.",
+      "flavor": "Every tear shed is a drop of immortality.",
+      "artist": "Volkan Baga",
+      "number": "9",
+      "power": "3",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": 196990,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "PO2",
+        "S99",
+        "INV",
+        "8ED",
+        "9ED",
+        "10E",
+        "DDC",
+        "DD3_DVD",
+        "IMA"
+      ],
+      "original_text": "Flying\nWhen Angel of Mercy comes into play, you gain 3 life.",
+      "original_type": "Creature \u2014 Angel",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=196990&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "8ac13a70f9b169f337945b864b22aa5ce304c248",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Serra Angel",
+      "layout": "normal",
+      "mana_cost": "{3}{W}{W}",
+      "cmc": 5,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Angel",
+      "supertypes": null,
+      "subtypes": [
+        "Angel"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": "Flying, vigilance",
+      "flavor": "Her sword sings more beautifully than any choir.",
+      "artist": "Greg Staples",
+      "number": "10",
+      "power": "4",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": 196999,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ATH",
+        "pWOS",
+        "7ED",
+        "8ED",
+        "9ED",
+        "10E",
+        "DDC",
+        "M10",
+        "M11",
+        "ME4",
+        "CMD",
+        "M12",
+        "M13",
+        "M14",
+        "M15",
+        "DD3_DVD",
+        "ORI",
+        "V15",
+        "W16",
+        "EMA",
+        "W17",
+        "CMA",
+        "IMA",
+        "DOM"
+      ],
+      "original_text": "Flying, vigilance",
+      "original_type": "Creature \u2014 Angel",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=196999&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "94efcc73a980a3dd41be2f403d4de286ccec88e2",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Twilight Shepherd",
+      "layout": "normal",
+      "mana_cost": "{3}{W}{W}{W}",
+      "cmc": 6,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Angel",
+      "supertypes": null,
+      "subtypes": [
+        "Angel"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": "Flying, vigilance\nWhen Twilight Shepherd enters the battlefield, return to your hand all cards in your graveyard that were put there from the battlefield this turn.\nPersist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)",
+      "flavor": null,
+      "artist": "Jason Chan",
+      "number": "11",
+      "power": "5",
+      "toughness": "5",
+      "loyalty": null,
+      "multiverse_id": 197034,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "SHM",
+        "DDC",
+        "C14",
+        "DD3_DVD"
+      ],
+      "original_text": "Flying, vigilance\nWhen Twilight Shepherd comes into play, return to your hand all cards in your graveyard put there from play this turn.\nPersist (When this creature is put into a graveyard from play, if it had no -1/-1 counters on it, return it to play under its owner's control with a -1/-1 counter on it.)",
+      "original_type": "Creature \u2014 Angel",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197034&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "a55ee3ee755410360cc4a977cdba840a07c9f606",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-06-07",
+          "text": "If a creature with persist stops being a creature, persist will still work."
+        },
+        {
+          "date": "2013-06-07",
+          "text": "The persist ability triggers when the permanent is put into a graveyard. Its last known information (that is, how the creature last existed on the battlefield) is used to determine whether it had a -1/-1 counter on it."
+        },
+        {
+          "date": "2013-06-07",
+          "text": "If a permanent has multiple instances of persist, they'll each trigger separately, but the redundant instances will have no effect. If one instance returns the card to the battlefield, the next to resolve will do nothing."
+        },
+        {
+          "date": "2013-06-07",
+          "text": "If a token with no -1/-1 counters on it has persist, the ability will trigger when the token is put into the graveyard. However, the token will cease to exist and can't return to the battlefield."
+        },
+        {
+          "date": "2013-06-07",
+          "text": "When a permanent with persist returns to the battlefield, it's a new object with no memory of or connection to its previous existence."
+        },
+        {
+          "date": "2013-06-07",
+          "text": "If multiple creatures with persist are put into the graveyard at the same time (due to combat damage or a spell that destroys all creatures, for example), the active player (the player whose turn it is) puts all of their persist triggers on the stack in any order, then each other player in turn order does the same. The last trigger put on the stack is the first one that resolves. That means that in a two-player game, the nonactive player's persist creatures will return to the battlefield first, then the active player's persist creatures do the same. The creatures return to the battlefield one at a time."
+        },
+        {
+          "date": "2013-06-07",
+          "text": "If a creature with persist that has +1/+1 counters on it receives enough -1/-1 counters to cause it to be destroyed by lethal damage or put into its owner's graveyard for having 0 or less toughness, persist won't trigger and the card won't return to the battlefield. That's because persist checks the creature's existence just before it leaves the battlefield, and it still has all those counters on it at that point."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Luminous Angel",
+      "layout": "normal",
+      "mana_cost": "{4}{W}{W}{W}",
+      "cmc": 7,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Angel",
+      "supertypes": null,
+      "subtypes": [
+        "Angel"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": "Flying\nAt the beginning of your upkeep, you may create a 1/1 white Spirit creature token with flying.",
+      "flavor": "\"The spread of evil's destruction shall always be matched by the rise of the noble fallen.\"",
+      "artist": "Jason Chan",
+      "number": "12",
+      "power": "4",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": 193872,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MRD",
+        "DDC",
+        "DD3_DVD"
+      ],
+      "original_text": "Flying\nAt the beginning of your upkeep, you may put a 1/1 white Spirit creature token with flying into play.",
+      "original_type": "Creature \u2014 Angel",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=193872&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "1100cde670cba51a048b72d68fd27033334b9386",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Reya Dawnbringer",
+      "layout": "normal",
+      "mana_cost": "{6}{W}{W}{W}",
+      "cmc": 9,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Legendary Creature \u2014 Angel",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Angel"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": "Flying\nAt the beginning of your upkeep, you may return target creature card from your graveyard to the battlefield.",
+      "flavor": "\"You have not died until I consent.\"",
+      "artist": "Matthew D. Wilson",
+      "number": "13",
+      "power": "4",
+      "toughness": "6",
+      "loyalty": null,
+      "multiverse_id": 196998,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "INV",
+        "10E",
+        "pMGD",
+        "DDC",
+        "CNS",
+        "DD3_DVD"
+      ],
+      "original_text": "Flying\nAt the beginning of your upkeep, you may return target creature card from your graveyard to play.",
+      "original_type": "Legendary Creature \u2014 Angel",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=196998&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "92e9918f3a6a8d5507c3fb1a8c1d39f29108525b",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Healing Salve",
+      "layout": "normal",
+      "mana_cost": "{W}",
+      "cmc": 1,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Common",
+      "text": "Choose one \u2014\n\u2022 Target player gains 3 life.\n\u2022 Prevent the next 3 damage that would be dealt to any target this turn.",
+      "flavor": null,
+      "artist": "Greg & Tim Hildebrandt",
+      "number": "14",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 197011,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "RQS",
+        "MIR",
+        "ITP",
+        "5ED",
+        "USG",
+        "6ED",
+        "BRB",
+        "7ED",
+        "8ED",
+        "DDC",
+        "ME4",
+        "DD3_DVD"
+      ],
+      "original_text": "Choose one \u2014 Target player gains 3 life; or prevent the next 3 damage that would be dealt to target creature or player this turn.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197011&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "6a119d7c69c3e1998ac1ad7072b241b9da063c92",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Angelsong",
+      "layout": "normal",
+      "mana_cost": "{1}{W}",
+      "cmc": 2,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Common",
+      "text": "Prevent all combat damage that would be dealt this turn.\nCycling {2} ({2}, Discard this card: Draw a card.)",
+      "flavor": "Clash of sword and cry of beast fall mute when angels sound the call to prayer.",
+      "artist": "Sal Villagran",
+      "number": "15",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 197014,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ALA",
+        "DDC",
+        "DD3_DVD"
+      ],
+      "original_text": "Prevent all combat damage that would be dealt this turn.\nCycling {2} ({2}, Discard this card: Draw a card.)",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197014&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "47bfe926826812ed4efa0e2d87af39cc90f7c4e3",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-10-01",
+          "text": "Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Otherworldly Journey",
+      "layout": "normal",
+      "mana_cost": "{1}{W}",
+      "cmc": 2,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Instant \u2014 Arcane",
+      "supertypes": null,
+      "subtypes": [
+        "Arcane"
+      ],
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Uncommon",
+      "text": "Exile target creature. At the beginning of the next end step, return that card to the battlefield under its owner's control with a +1/+1 counter on it.",
+      "flavor": "\"The landscape shimmered and I felt a chill breeze. When my vision cleared, I found myself alone among the corpses of my fallen friends.\"\n\u2014Journal found in Numai",
+      "artist": "Vance Kovacs",
+      "number": "16",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 197017,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "CHK",
+        "DDC",
+        "MMA",
+        "DD3_DVD",
+        "MM2"
+      ],
+      "original_text": "Remove target creature from the game. At end of turn, return that card to play under its owner's control with a +1/+1 counter on it.",
+      "original_type": "Instant \u2014 Arcane",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197017&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "942d8d62caca3eed67341804fa3dcb721ae68f70",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-12-01",
+          "text": "The creature comes back onto the battlefield as a new creature, with one +1/+1 counter on it (plus any other counters that it would normally enter the battlefield with)."
+        },
+        {
+          "date": "2005-08-01",
+          "text": "Any Aura attached to the creature is put into its owner's graveyard as a state-based action. Equipment attached to the creature become unattached but remain on the battlefield."
+        },
+        {
+          "date": "2005-08-01",
+          "text": "If Otherworldly Journey is cast during an end step, the creature won't return until the beginning of the next end step."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Pacifism",
+      "layout": "normal",
+      "mana_cost": "{1}{W}",
+      "cmc": 2,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Enchantment \u2014 Aura",
+      "supertypes": null,
+      "subtypes": [
+        "Aura"
+      ],
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Common",
+      "text": "Enchant creature\nEnchanted creature can't attack or block.",
+      "flavor": "Even those born to battle could only lay their blades at Akroma's feet.",
+      "artist": "Matthew D. Wilson",
+      "number": "17",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 196997,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MIR",
+        "TMP",
+        "USG",
+        "ATH",
+        "6ED",
+        "BRB",
+        "7ED",
+        "ONS",
+        "8ED",
+        "9ED",
+        "10E",
+        "DDC",
+        "M10",
+        "M11",
+        "M12",
+        "M13",
+        "M14",
+        "DD3_DVD",
+        "DTK",
+        "TPR",
+        "EMA",
+        "A25"
+      ],
+      "original_text": "Enchant creature\nEnchanted creature can't attack or block.",
+      "original_type": "Enchantment \u2014 Aura",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=196997&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "37379c9c90ab696a10514d196a3c618dc45a7712",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Serra's Boon",
+      "layout": "normal",
+      "mana_cost": "{2}{W}",
+      "cmc": 3,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Enchantment \u2014 Aura",
+      "supertypes": null,
+      "subtypes": [
+        "Aura"
+      ],
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Uncommon",
+      "text": "Enchant creature\nEnchanted creature gets +1/+2 as long as it's white. Otherwise, it gets -2/-1.",
+      "flavor": "\"The light of an angel's glance is warm, but her fixed stare blinds and burns.\"\n\u2014Calexis, deacon of the New Order of Serra",
+      "artist": "Steven Belledin",
+      "number": "18",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 197032,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "PLC",
+        "DDC",
+        "DD3_DVD"
+      ],
+      "original_text": "Enchant creature\nEnchanted creature gets +1/+2 as long as it's white. Otherwise, it gets -2/-1.",
+      "original_type": "Enchantment \u2014 Aura",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197032&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "5bf103c513593c28754ef0b2ba667ee165d6cbda",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Angelic Benediction",
+      "layout": "normal",
+      "mana_cost": "{3}{W}",
+      "cmc": 4,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Enchantment",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Uncommon",
+      "text": "Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)\nWhenever a creature you control attacks alone, you may tap target creature.",
+      "flavor": "\"Even in single combat, I am never alone.\"\n\u2014Rafiq of the Many",
+      "artist": "Michael Komarck",
+      "number": "19",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 197013,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ALA",
+        "DDC",
+        "M13",
+        "DD3_DVD"
+      ],
+      "original_text": "Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)\nWhenever a creature you control attacks alone, you may tap target creature.",
+      "original_type": "Enchantment",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197013&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "59828d1e8d14e1d9bb3fe80076d71a2335072c79",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-10-01",
+          "text": "If you declare exactly one creature as an attacker, each exalted ability on each permanent you control (including, perhaps, the attacking creature itself) will trigger. The bonuses are given to the attacking creature, not to the permanent with exalted. Ultimately, the attacking creature will wind up with +1/+1 for each of your exalted abilities."
+        },
+        {
+          "date": "2008-10-01",
+          "text": "If you attack with multiple creatures, but then all but one are removed from combat, your exalted abilities won't trigger."
+        },
+        {
+          "date": "2008-10-01",
+          "text": "Some effects put creatures onto the battlefield attacking. Since those creatures were never declared as attackers, they're ignored by exalted abilities. They won't cause exalted abilities to trigger. If any exalted abilities have already triggered (because exactly one creature was declared as an attacker), those abilities will resolve as normal even though there may now be multiple attackers."
+        },
+        {
+          "date": "2008-10-01",
+          "text": "Exalted abilities will resolve before blockers are declared."
+        },
+        {
+          "date": "2008-10-01",
+          "text": "Exalted bonuses last until end of turn. If an effect creates an additional combat phase during your turn, a creature that attacked alone during the first combat phase will still have its exalted bonuses in that new phase. If a creature attacks alone during the second combat phase, all your exalted abilities will trigger again."
+        },
+        {
+          "date": "2008-10-01",
+          "text": "In a Two-Headed Giant game, a creature \"attacks alone\" if it's the only creature declared as an attacker by your entire team. If you control that attacking creature, your exalted abilities will trigger but your teammate's exalted abilities won't."
+        },
+        {
+          "date": "2012-07-01",
+          "text": "The creature you target with the last ability will become tapped before blockers are declared."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Faith's Fetters",
+      "layout": "normal",
+      "mana_cost": "{3}{W}",
+      "cmc": 4,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Enchantment \u2014 Aura",
+      "supertypes": null,
+      "subtypes": [
+        "Aura"
+      ],
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Common",
+      "text": "Enchant permanent\nWhen Faith's Fetters enters the battlefield, you gain 4 life.\nEnchanted permanent's activated abilities can't be activated unless they're mana abilities. If enchanted permanent is a creature, it can't attack or block.",
+      "flavor": null,
+      "artist": "Brian Despain",
+      "number": "20",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 193869,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "RAV",
+        "DDC",
+        "DD3_DVD",
+        "C15",
+        "EMA"
+      ],
+      "original_text": "Enchant permanent\nWhen Faith's Fetters comes into play, you gain 4 life.\nEnchanted permanent's activated abilities can't be played unless they're mana abilities. If enchanted permanent is a creature, it can't attack or block.",
+      "original_type": "Enchantment \u2014 Aura",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=193869&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "96cca26f3a4f60ad148a33028e16577b8c31516f",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2016-06-08",
+          "text": "Faith's Fetters doesn't stop static abilities, triggered abilities, or mana abilities from working. A mana ability is an ability that produces mana, not an ability that costs mana."
+        },
+        {
+          "date": "2016-06-08",
+          "text": "Activated abilities contain a colon. They're generally written \"[Cost]: [Effect].\" Some keywords are activated abilities and will have colons in their reminder text."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Serra's Embrace",
+      "layout": "normal",
+      "mana_cost": "{2}{W}{W}",
+      "cmc": 4,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Enchantment \u2014 Aura",
+      "supertypes": null,
+      "subtypes": [
+        "Aura"
+      ],
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Uncommon",
+      "text": "Enchant creature\nEnchanted creature gets +2/+2 and has flying and vigilance.",
+      "flavor": "The touch of Serra's angels bears hopes aloft and empowers noble causes.",
+      "artist": "Zoltan Boros & Gabor Szikszai",
+      "number": "21",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 197000,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "USG",
+        "7ED",
+        "10E",
+        "DDC",
+        "DD3_DVD"
+      ],
+      "original_text": "Enchant creature\nEnchanted creature gets +2/+2 and has flying and vigilance.",
+      "original_type": "Enchantment \u2014 Aura",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197000&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "9b4cb8fe63a6e5f53d9e23c87a1355ad8db596ed",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Righteous Cause",
+      "layout": "normal",
+      "mana_cost": "{3}{W}{W}",
+      "cmc": 5,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Enchantment",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Uncommon",
+      "text": "Whenever a creature attacks, you gain 1 life.",
+      "flavor": "\"Until the world unites in vengeful fury and Phage is destroyed, I will not stay my hand.\"\n\u2014Akroma, angelic avenger",
+      "artist": "Scott M. Fischer",
+      "number": "22",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 197030,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ONS",
+        "DDC",
+        "CMD",
+        "DD3_DVD",
+        "CMA"
+      ],
+      "original_text": "Whenever a creature attacks, you gain 1 life.",
+      "original_type": "Enchantment",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197030&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "58e0703bf5769b38da96f572e88a214f5727dc0b",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Angel's Feather",
+      "layout": "normal",
+      "mana_cost": "{2}",
+      "cmc": 2,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Uncommon",
+      "text": "Whenever a player casts a white spell, you may gain 1 life.",
+      "flavor": "If taken, it cuts the hand that clutches it. If given, it heals the hand that holds it.",
+      "artist": "Alan Pollack",
+      "number": "23",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 196991,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "DST",
+        "9ED",
+        "10E",
+        "DDC",
+        "M10",
+        "M11",
+        "M12",
+        "DD3_DVD"
+      ],
+      "original_text": "Whenever a player plays a white spell, you may gain 1 life.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=196991&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "339906d8aa11ba76358a2aedd0e47151753e47d8",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2009-10-01",
+          "text": "The ability triggers whenever any player, not just you, casts a white spell."
+        },
+        {
+          "date": "2009-10-01",
+          "text": "If a player casts a white spell, Angel's Feather's ability triggers and is put on the stack on top of that spell. Angel's Feather's ability will resolve (causing you to gain 1 life) before the spell does."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Marble Diamond",
+      "layout": "normal",
+      "mana_cost": "{2}",
+      "cmc": 2,
+      "colors": null,
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Uncommon",
+      "text": "Marble Diamond enters the battlefield tapped.\n{T}: Add {W}.",
+      "flavor": null,
+      "artist": "David Martin",
+      "number": "24",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 197005,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MIR",
+        "6ED",
+        "7ED",
+        "DDC",
+        "C14",
+        "DD3_DVD"
+      ],
+      "original_text": "Marble Diamond comes into play tapped.\n{T}: Add {W} to your mana pool.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197005&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "6488662828a787d42f1f506e4d324e496282bcf7",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Secluded Steppe",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Land",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Common",
+      "text": "Secluded Steppe enters the battlefield tapped.\n{T}: Add {W}.\nCycling {W} ({W}, Discard this card: Draw a card.)",
+      "flavor": null,
+      "artist": "Heather Hudson",
+      "number": "25",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 197031,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ONS",
+        "DDC",
+        "ARC",
+        "CMD",
+        "C13",
+        "VMA",
+        "C14",
+        "DD3_DVD",
+        "DDO",
+        "C15",
+        "CMA",
+        "C17"
+      ],
+      "original_text": "Secluded Steppe comes into play tapped.\n{T}: Add {W} to your mana pool.\nCycling {W} ({W}, Discard this card: Draw a card.)",
+      "original_type": "Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197031&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "14319fc5fee9f2772bac42207e2646e51a3c5d3a",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-10-01",
+          "text": "Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Plains",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Plains",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Plains"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Rob Alexander",
+      "number": "26",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 197254,
+      "variations": [
+        197256,
+        197253,
+        197255
+      ],
+      "watermark": "White",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "pPRE",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "INV",
+        "7ED",
+        "ODY",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DDC",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "ARC",
+        "M11",
+        "DDF",
+        "SOM",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "RTR",
+        "DDK",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "MD1",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_DVD",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "UST",
+        "RIX",
+        "DOM"
+      ],
+      "original_text": "W",
+      "original_type": "Basic Land \u2014 Plains",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197254&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "696a951c66ad907f7916ec2fe445c7895c01f25a",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Plains",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Plains",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Plains"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Rob Alexander",
+      "number": "27",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 197256,
+      "variations": [
+        197253,
+        197255,
+        197254
+      ],
+      "watermark": "White",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "pPRE",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "INV",
+        "7ED",
+        "ODY",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DDC",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "ARC",
+        "M11",
+        "DDF",
+        "SOM",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "RTR",
+        "DDK",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "MD1",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_DVD",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "UST",
+        "RIX",
+        "DOM"
+      ],
+      "original_text": "W",
+      "original_type": "Basic Land \u2014 Plains",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197256&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "1c1067d30cd1397298bbeb8775d7d2e428817090",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Plains",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Plains",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Plains"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Rob Alexander",
+      "number": "28",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 197255,
+      "variations": [
+        197256,
+        197253,
+        197254
+      ],
+      "watermark": "White",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "pPRE",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "INV",
+        "7ED",
+        "ODY",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DDC",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "ARC",
+        "M11",
+        "DDF",
+        "SOM",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "RTR",
+        "DDK",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "MD1",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_DVD",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "UST",
+        "RIX",
+        "DOM"
+      ],
+      "original_text": "W",
+      "original_type": "Basic Land \u2014 Plains",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197255&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "41d70f58c3acd943e3c9339a1a55286e62c150a3",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Plains",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Plains",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Plains"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Rob Alexander",
+      "number": "29",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 197253,
+      "variations": [
+        197256,
+        197255,
+        197254
+      ],
+      "watermark": "White",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "pPRE",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "INV",
+        "7ED",
+        "ODY",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DDC",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "ARC",
+        "M11",
+        "DDF",
+        "SOM",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "RTR",
+        "DDK",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "MD1",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_DVD",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "UST",
+        "RIX",
+        "DOM"
+      ],
+      "original_text": "W",
+      "original_type": "Basic Land \u2014 Plains",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197253&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "f6afed42592824bf9f94e4aeba076190685999fd",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Lord of the Pit",
+      "layout": "normal",
+      "mana_cost": "{4}{B}{B}{B}",
+      "cmc": 7,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Demon",
+      "supertypes": null,
+      "subtypes": [
+        "Demon"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Flying, trample\nAt the beginning of your upkeep, sacrifice a creature other than Lord of the Pit. If you can't, Lord of the Pit deals 7 damage to you.",
+      "flavor": "\"My summoning begins your debt, planeswalker.\"",
+      "artist": "Chippy",
+      "number": "30",
+      "power": "7",
+      "toughness": "7",
+      "loyalty": null,
+      "multiverse_id": 193868,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "5ED",
+        "10E",
+        "DDC",
+        "DD3_DVD",
+        "IMA"
+      ],
+      "original_text": "Flying, trample\nAt the beginning of your upkeep, sacrifice a creature other than Lord of the Pit. If you can't, Lord of the Pit deals 7 damage to you.",
+      "original_type": "Creature \u2014 Demon",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=193868&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "661e5de1875539fe317cf792c1f46bb35815b493",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2017-11-17",
+          "text": "If you control any other creatures as Lord of the Pit's triggered ability resolves, you must sacrifice one. You can't choose to be dealt 7 damage instead."
+        },
+        {
+          "date": "2017-11-17",
+          "text": "If Lord of the Pit has gained lifelink, being dealt 7 damage by it doesn't cause your life total to change, even though you gain and lose life. If your life total is less than 7, you won't lose the game."
+        },
+        {
+          "date": "2017-11-17",
+          "text": "If you have two Lords of the Pit, you can sacrifice them to each other."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Abyssal Gatekeeper",
+      "layout": "normal",
+      "mana_cost": "{1}{B}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Horror",
+      "supertypes": null,
+      "subtypes": [
+        "Horror"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "When Abyssal Gatekeeper dies, each player sacrifices a creature.",
+      "flavor": "\"There are two ways for me to pass this gate. One involves you remaining conscious.\"\n\u2014Gerrard of the Weatherlight",
+      "artist": "Mark Tedin",
+      "number": "31",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 197037,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "WTH",
+        "DDC",
+        "DD3_DVD"
+      ],
+      "original_text": "When Abyssal Gatekeeper is put into a graveyard from play, each player sacrifices a creature.",
+      "original_type": "Creature \u2014 Horror",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197037&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "786575d70ae58dd133d126bc95bc092868acae3e",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "The \"sacrifice a creature\" effect is not targeted. It can affect creatures with protection from black, for example."
+        },
+        {
+          "date": "2008-04-01",
+          "text": "The player whose turn it is chooses a creature to sacrifice, then each other player in turn order chooses a creature to sacrifice, then all chosen creatures are sacrificed at the same time."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Foul Imp",
+      "layout": "normal",
+      "mana_cost": "{B}{B}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Imp",
+      "supertypes": null,
+      "subtypes": [
+        "Imp"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Flying\nWhen Foul Imp enters the battlefield, you lose 2 life.",
+      "flavor": "The imp, unaware of its own odor, paused to catch its breath . . . and promptly died.",
+      "artist": "Kev Walker",
+      "number": "32",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 197012,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "STH",
+        "7ED",
+        "9ED",
+        "DDC",
+        "DD3_DVD",
+        "DDR"
+      ],
+      "original_text": "Flying\nWhen Foul Imp comes into play, you lose 2 life.",
+      "original_type": "Creature \u2014 Imp",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197012&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "29a933d37dbfedf6f04462da33bca64ca4a2f1c3",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "You can cast this if you have less than 2 life, since the life is lost as an effect and not a payment."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Daggerclaw Imp",
+      "layout": "normal",
+      "mana_cost": "{2}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Imp",
+      "supertypes": null,
+      "subtypes": [
+        "Imp"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "Flying\nDaggerclaw Imp can't block.",
+      "flavor": "The Simic use the claws as scalpels, while the Rakdos use them for tattooing and torture. The Gruul use them to pick their teeth after lunching on the rest of the carcass.",
+      "artist": "Pete Venters",
+      "number": "33",
+      "power": "3",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 197022,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "GPT",
+        "DDC",
+        "DD3_DVD",
+        "MM2"
+      ],
+      "original_text": "Flying\nDaggerclaw Imp can't block.",
+      "original_type": "Creature \u2014 Imp",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197022&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "06cabc398a9c6692be12cfe3125e98256afe2a21",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Dusk Imp",
+      "layout": "normal",
+      "mana_cost": "{2}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Imp",
+      "supertypes": null,
+      "subtypes": [
+        "Imp"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Flying",
+      "flavor": "Imps are just intelligent enough to have an understanding of cruelty.",
+      "artist": "Pete Venters",
+      "number": "34",
+      "power": "2",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 196995,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ODY",
+        "8ED",
+        "10E",
+        "DDC",
+        "DPA",
+        "DD3_DVD"
+      ],
+      "original_text": "Flying",
+      "original_type": "Creature \u2014 Imp",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=196995&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "f1eac53a71a7d49ec1377814f9ef146a17a14f8f",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Overeager Apprentice",
+      "layout": "normal",
+      "mana_cost": "{2}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Minion",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Minion"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Discard a card, Sacrifice Overeager Apprentice: Add {B}{B}{B}.",
+      "flavor": "Slow and steady may not always win the race, but at least it doesn't end up splattered on the walls.",
+      "artist": "Ray Lago",
+      "number": "35",
+      "power": "1",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 197028,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ODY",
+        "DDC",
+        "DD3_DVD"
+      ],
+      "original_text": "Discard a card, Sacrifice Overeager Apprentice: Add {B}{B}{B} to your mana pool.",
+      "original_type": "Creature \u2014 Human Minion",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197028&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "c3ddf952bf74c4a1c66802bfd7c16100ed1c1d1f",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Stinkweed Imp",
+      "layout": "normal",
+      "mana_cost": "{2}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Imp",
+      "supertypes": null,
+      "subtypes": [
+        "Imp"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Flying\nWhenever Stinkweed Imp deals combat damage to a creature, destroy that creature.\nDredge 5 (If you would draw a card, instead you may put exactly five cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)",
+      "flavor": null,
+      "artist": "Nils Hamm",
+      "number": "36",
+      "power": "1",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 193870,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "RAV",
+        "DDC",
+        "DDJ",
+        "MMA",
+        "DD3_DVD"
+      ],
+      "original_text": "Flying\nWhenever Stinkweed Imp deals combat damage to a creature, destroy that creature.\nDredge 5 (If you would draw a card, instead you may put exactly five cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)",
+      "original_type": "Creature \u2014 Imp",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=193870&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "b85ba9741027cb4da4e3dd0d8af2e282b429ff4f",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-06-07",
+          "text": "Dredge lets you replace any card draw, not just the one during your draw step."
+        },
+        {
+          "date": "2013-06-07",
+          "text": "Once you decide to replace a draw using a card's dredge ability, that card can't be removed from your graveyard \"in response.\" (Replacement effects don't use the stack.)"
+        },
+        {
+          "date": "2013-06-07",
+          "text": "You can't use dredge unless you're going to draw a card and the card with dredge is already in your graveyard."
+        },
+        {
+          "date": "2013-06-07",
+          "text": "Notably, Stinkweed Imp's ability isn't deathtouch. It's a triggered ability that triggers only on combat damage."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Soot Imp",
+      "layout": "normal",
+      "mana_cost": "{1}{B}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Imp",
+      "supertypes": null,
+      "subtypes": [
+        "Imp"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "Flying\nWhenever a player casts a nonblack spell, that player loses 1 life.",
+      "flavor": "\"If one gets in your chimney, you're going to need a long wick and a barrel of bangstuff to get it out.\"\n\u2014Hob Heddil",
+      "artist": "Jesper Ejsing",
+      "number": "37",
+      "power": "1",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 197020,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "EVE",
+        "DDC",
+        "DD3_DVD"
+      ],
+      "original_text": "Flying\nWhenever a player plays a nonblack spell, that player loses 1 life.",
+      "original_type": "Creature \u2014 Imp",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197020&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "656355c43fcbea3d825aabdb769c3adea1b0a73e",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-08-01",
+          "text": "This ability affects all players, including you."
+        },
+        {
+          "date": "2008-08-01",
+          "text": "A hybrid spell that's black and another color is *not* a nonblack spell. Since it's black, it can't be nonblack!"
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Demon's Jester",
+      "layout": "normal",
+      "mana_cost": "{3}{B}",
+      "cmc": 4,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Imp",
+      "supertypes": null,
+      "subtypes": [
+        "Imp"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Flying\nHellbent \u2014 Demon's Jester gets +2/+1 as long as you have no cards in hand.",
+      "flavor": "They knock 'em dead, with or without the punch line.",
+      "artist": "Pete Venters",
+      "number": "38",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 197018,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "DIS",
+        "DDC",
+        "DD3_DVD"
+      ],
+      "original_text": "Flying\nHellbent \u2014 Demon's Jester gets +2/+1 as long as you have no cards in hand.",
+      "original_type": "Creature \u2014 Imp",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197018&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "5b663868cf451568cc7baa0397114d5600fa50cb",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Souldrinker",
+      "layout": "normal",
+      "mana_cost": "{3}{B}",
+      "cmc": 4,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Spirit",
+      "supertypes": null,
+      "subtypes": [
+        "Spirit"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "Pay 3 life: Put a +1/+1 counter on Souldrinker.",
+      "flavor": "Don't drink and thrive.",
+      "artist": "Dermot Power",
+      "number": "39",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 197036,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "TMP",
+        "DDC",
+        "DD3_DVD"
+      ],
+      "original_text": "Pay 3 life: Put a +1/+1 counter on Souldrinker.",
+      "original_type": "Creature \u2014 Spirit",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197036&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "ae385e8c269deb086746b9363a90d0c89a226dbd",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Abyssal Specter",
+      "layout": "normal",
+      "mana_cost": "{2}{B}{B}",
+      "cmc": 4,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Specter",
+      "supertypes": null,
+      "subtypes": [
+        "Specter"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "Flying\nWhenever Abyssal Specter deals damage to a player, that player discards a card.",
+      "flavor": "To gaze under its hood is to invite death.",
+      "artist": "Michael Sutfin",
+      "number": "40",
+      "power": "2",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": 197008,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ICE",
+        "5ED",
+        "6ED",
+        "BRB",
+        "7ED",
+        "DKM",
+        "8ED",
+        "DDC",
+        "DPA",
+        "DD3_DVD",
+        "MM3"
+      ],
+      "original_text": "Flying\nWhenever Abyssal Specter deals damage to a player, that player discards a card.",
+      "original_type": "Creature \u2014 Specter",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197008&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "53398a59065a0b30cb669e983eaa28acd94e2471",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Cackling Imp",
+      "layout": "normal",
+      "mana_cost": "{2}{B}{B}",
+      "cmc": 4,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Imp",
+      "supertypes": null,
+      "subtypes": [
+        "Imp"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Flying\n{T}: Target player loses 1 life.",
+      "flavor": "Its laughter drives needles through your mind.",
+      "artist": "Matt Thompson",
+      "number": "41",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 197003,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "5DN",
+        "DDC",
+        "DD3_DVD"
+      ],
+      "original_text": "Flying\n{T}: Target player loses 1 life.",
+      "original_type": "Creature \u2014 Imp",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197003&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "86108289e46022c6781c6ff26f3ff208c6f1a0ca",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Fallen Angel",
+      "layout": "normal",
+      "mana_cost": "{3}{B}{B}",
+      "cmc": 5,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Angel",
+      "supertypes": null,
+      "subtypes": [
+        "Angel"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": "Flying\nSacrifice a creature: Fallen Angel gets +2/+1 until end of turn.",
+      "flavor": "\"Why do you weep for the dead? I rejoice, for they have died for me.\"",
+      "artist": "Matthew D. Wilson",
+      "number": "42",
+      "power": "3",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": 197010,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEG",
+        "CHR",
+        "5ED",
+        "6ED",
+        "BTD",
+        "7ED",
+        "8ED",
+        "DDC",
+        "CMD",
+        "DD3_DVD",
+        "CMA",
+        "A25"
+      ],
+      "original_text": "Flying\nSacrifice a creature: Fallen Angel gets +2/+1 until end of turn.",
+      "original_type": "Creature \u2014 Angel",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197010&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "99a013ceaa3ebcbfd790fedba184d3364561603f",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "Can sacrifice itself."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Reiver Demon",
+      "layout": "normal",
+      "mana_cost": "{4}{B}{B}{B}{B}",
+      "cmc": 8,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Demon",
+      "supertypes": null,
+      "subtypes": [
+        "Demon"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": "Flying\nWhen Reiver Demon enters the battlefield, if you cast it from your hand, destroy all nonartifact, nonblack creatures. They can't be regenerated.",
+      "flavor": null,
+      "artist": "Brom",
+      "number": "43",
+      "power": "6",
+      "toughness": "6",
+      "loyalty": null,
+      "multiverse_id": 197027,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MRD",
+        "DDC",
+        "CMD",
+        "DD3_DVD",
+        "CMA"
+      ],
+      "original_text": "Flying\nWhen Reiver Demon comes into play, if you played it from your hand, destroy all nonartifact, nonblack creatures. They can't be regenerated.",
+      "original_type": "Creature \u2014 Demon",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197027&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "38131832a42b774b81138092ffcf02c7d56814ae",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-09-20",
+          "text": "If a creature (such as Clone) enters the battlefield as a copy of this creature, the copy's \"enters-the-battlefield\" ability will still trigger as long as you cast that creature spell from your hand."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Kuro, Pitlord",
+      "layout": "normal",
+      "mana_cost": "{6}{B}{B}{B}",
+      "cmc": 9,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Legendary Creature \u2014 Demon Spirit",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Demon",
+        "Spirit"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": "At the beginning of your upkeep, sacrifice Kuro, Pitlord unless you pay {B}{B}{B}{B}.\nPay 1 life: Target creature gets -1/-1 until end of turn.",
+      "flavor": null,
+      "artist": "Jon Foster",
+      "number": "44",
+      "power": "9",
+      "toughness": "9",
+      "loyalty": null,
+      "multiverse_id": 197015,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "CHK",
+        "DDC",
+        "DD3_DVD"
+      ],
+      "original_text": "At the beginning of your upkeep, sacrifice Kuro, Pitlord unless you pay {B}{B}{B}{B}.\nPay 1 life: Target creature gets -1/-1 until end of turn.",
+      "original_type": "Legendary Creature \u2014 Demon Spirit",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197015&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "4a15ee230b4ce5712dd796706a543cc2489e3441",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Dark Ritual",
+      "layout": "normal",
+      "mana_cost": "{B}",
+      "cmc": 1,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Common",
+      "text": "Add {B}{B}{B}.",
+      "flavor": "\"Leshrac, my liege, grant me the power I am due.\"\n\u2014Lim-D\u00fbl, the Necromancer",
+      "artist": "Clint Langley",
+      "number": "45",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 197019,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "MIR",
+        "ITP",
+        "5ED",
+        "TMP",
+        "pJGP",
+        "USG",
+        "MMQ",
+        "BRB",
+        "BTD",
+        "DKM",
+        "CST",
+        "DDC",
+        "HOP",
+        "DDE",
+        "ME4",
+        "V13",
+        "VMA",
+        "DD3_DVD",
+        "TPR",
+        "MPS_AKH",
+        "A25"
+      ],
+      "original_text": "Add {B}{B}{B} to your mana pool.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197019&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "94b95f5d37a4dce5e057404afce95b3d7f5809a4",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Duress",
+      "layout": "normal",
+      "mana_cost": "{B}",
+      "cmc": 1,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Common",
+      "text": "Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.",
+      "flavor": "\"Change your mind, or I'll change it for you.\"",
+      "artist": "Steven Belledin",
+      "number": "46",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 197004,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pMEI",
+        "pARL",
+        "USG",
+        "pFNM",
+        "7ED",
+        "DDC",
+        "M10",
+        "M11",
+        "PD3",
+        "M13",
+        "M14",
+        "MD1",
+        "DD3_DVD",
+        "DTK",
+        "EMA",
+        "XLN",
+        "IMA"
+      ],
+      "original_text": "Target opponent reveals his or her hand. You choose a noncreature, nonland card from it. That player discards that card.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197004&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "6e48c9bc47412da98566234586a6b2740833d44c",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Unholy Strength",
+      "layout": "normal",
+      "mana_cost": "{B}",
+      "cmc": 1,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Enchantment \u2014 Aura",
+      "supertypes": null,
+      "subtypes": [
+        "Aura"
+      ],
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Common",
+      "text": "Enchant creature\nEnchanted creature gets +2/+1.",
+      "flavor": "Such power grows the body as it shrinks the soul.",
+      "artist": "Terese Nielsen",
+      "number": "47",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 197001,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "5ED",
+        "ATH",
+        "7ED",
+        "8ED",
+        "9ED",
+        "10E",
+        "DDC",
+        "M10",
+        "DPA",
+        "M11",
+        "DD3_DVD"
+      ],
+      "original_text": "Enchant creature\nEnchanted creature gets +2/+1.",
+      "original_type": "Enchantment \u2014 Aura",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197001&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "db6833748681cc896af0b44c65bf4c827e4ba046",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Cruel Edict",
+      "layout": "normal",
+      "mana_cost": "{1}{B}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Uncommon",
+      "text": "Target opponent sacrifices a creature.",
+      "flavor": "\"Choose your next words carefully. They will be your last.\"\n\u2014Phage the Untouchable",
+      "artist": "Michael Sutfin",
+      "number": "48",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 196993,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "PO2",
+        "pMPR",
+        "9ED",
+        "10E",
+        "DDC",
+        "DD3_DVD"
+      ],
+      "original_text": "Target opponent sacrifices a creature.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=196993&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "a2555db92f6d6cc10c09be19692a948a59f1de5b",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Demonic Tutor",
+      "layout": "normal",
+      "mana_cost": "{1}{B}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Uncommon",
+      "text": "Search your library for a card and put that card into your hand. Then shuffle your library.",
+      "flavor": "Liliana learned the secrets she sought, but at a price that was etched on her fate.",
+      "artist": "Scott Chou",
+      "number": "49",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 193867,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "pJGP",
+        "DDC",
+        "ME4",
+        "VMA",
+        "DD3_DVD"
+      ],
+      "original_text": "Search your library for a card and put that card into your hand. Then shuffle your library.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=193867&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "15e96f7b03eb47dbcc5f0dcae27ad8c28c658de9",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Banned"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Restricted"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "You pick a card on resolution."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "You don't reveal the card to your opponent."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "This card is put directly into your hand. It is not drawn."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Dark Banishing",
+      "layout": "normal",
+      "mana_cost": "{2}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Common",
+      "text": "Destroy target nonblack creature. It can't be regenerated.",
+      "flavor": "\"Ha, banishment? Be merciful, say 'death,'\nFor exile hath more terror in his look,\nMuch more than death.\"\n\u2014William Shakespeare, Romeo and Juliet",
+      "artist": "Dermot Power",
+      "number": "50",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 197023,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ICE",
+        "MIR",
+        "TMP",
+        "7ED",
+        "DKM",
+        "8ED",
+        "9ED",
+        "CST",
+        "ME2",
+        "DDC",
+        "DD3_DVD",
+        "TPR"
+      ],
+      "original_text": "Destroy target nonblack creature. It can't be regenerated.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197023&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "4b895346ce167fef948ab2c403db894a191cdfcf",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Oni Possession",
+      "layout": "normal",
+      "mana_cost": "{2}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Enchantment \u2014 Aura",
+      "supertypes": null,
+      "subtypes": [
+        "Aura"
+      ],
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Uncommon",
+      "text": "Enchant creature\nAt the beginning of your upkeep, sacrifice a creature.\nEnchanted creature gets +3/+3 and has trample.\nEnchanted creature is a Demon Spirit.",
+      "flavor": null,
+      "artist": "Aleksi Briclot",
+      "number": "51",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 197016,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "CHK",
+        "DDC",
+        "DD3_DVD"
+      ],
+      "original_text": "Enchant creature\nAt the beginning of your upkeep, sacrifice a creature.\nEnchanted creature gets +3/+3 and has trample.\nEnchanted creature is a Demon Spirit.",
+      "original_type": "Enchantment \u2014 Aura",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197016&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "9fa6f7056d1e7fd0043db8a5f3c74d030c919e70",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Barter in Blood",
+      "layout": "normal",
+      "mana_cost": "{2}{B}{B}",
+      "cmc": 4,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Uncommon",
+      "text": "Each player sacrifices two creatures.",
+      "flavor": "\"In the game of conquest, who cares about the pawns if the king yet reigns?\"\n\u2014Geth, keeper of the Vault",
+      "artist": "Paolo Parente",
+      "number": "52",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 197025,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MRD",
+        "DDC",
+        "AVR",
+        "DD3_DVD",
+        "C15",
+        "DDQ",
+        "CMA"
+      ],
+      "original_text": "Each player sacrifices two creatures.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197025&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "ebf8e180e5f2c27b88285ce391268549a7253181",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2012-05-01",
+          "text": "The active player chooses which creatures will be sacrificed first, then each other player in turn order does the same. Then all creatures are sacrificed simultaneously."
+        },
+        {
+          "date": "2012-05-01",
+          "text": "If a player controls only one creature, that creature is sacrificed."
+        },
+        {
+          "date": "2012-05-01",
+          "text": "Barter in Blood doesn't target any creatures and may be cast even if a player controls fewer than two creatures."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Breeding Pit",
+      "layout": "normal",
+      "mana_cost": "{3}{B}",
+      "cmc": 4,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Enchantment",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Uncommon",
+      "text": "At the beginning of your upkeep, sacrifice Breeding Pit unless you pay {B}{B}.\nAt the beginning of your end step, create a 0/1 black Thrull creature token.",
+      "flavor": "The thrulls bred at a terrifying pace. In the end, they overwhelmed the Order of the Ebon Hand.",
+      "artist": "Adrian Smith",
+      "number": "53",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 197024,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "FEM",
+        "5ED",
+        "MED",
+        "DDC",
+        "DD3_DVD"
+      ],
+      "original_text": "At the beginning of your upkeep, sacrifice Breeding Pit unless you pay {B}{B}.\nAt the end of your turn, put a 0/1 black Thrull creature token into play.",
+      "original_type": "Enchantment",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197024&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "a22f2e11a0be80a6e79f1b0bebcb7b59f730dc8a",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "Breeding Pit must actually be on the battlefield at the beginning of the endstep in order for you to get a Thrull. The getting of the Thrull is not part of paying the upkeep, it is part of having the card on the battlefield."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Promise of Power",
+      "layout": "normal",
+      "mana_cost": "{2}{B}{B}{B}",
+      "cmc": 5,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Rare",
+      "text": "Choose one \u2014\n\u2022 You draw five cards and you lose 5 life.\n\u2022 Create an X/X black Demon creature token with flying, where X is the number of cards in your hand.\nEntwine {4} (Choose both if you pay the entwine cost.)",
+      "flavor": null,
+      "artist": "Kev Walker",
+      "number": "54",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 197026,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MRD",
+        "DDC",
+        "C14",
+        "DD3_DVD"
+      ],
+      "original_text": "Choose one \u2014 You draw five cards and you lose 5 life; or put a black Demon creature token with flying into play with power and toughness each equal to the number of cards in your hand as the token comes into play.\nEntwine {4} (Choose both if you pay the entwine cost.)",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197026&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "b36546aa87841bbfe46083fc991e9dbc10dc0b75",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "The power/toughness of the token is set when this spell resolves."
+        },
+        {
+          "date": "2004-12-01",
+          "text": "The power and toughness of the Demon token are set when Promise of Power resolves. They're unaffected if the number of cards in your hand changes later."
+        },
+        {
+          "date": "2004-12-01",
+          "text": "If you pay the entwine cost, you draw five cards, then lose five life, then put the Demon token onto the battlefield. The five cards you draw count toward the Demon's power and toughness."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Corrupt",
+      "layout": "normal",
+      "mana_cost": "{5}{B}",
+      "cmc": 6,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Uncommon",
+      "text": "Corrupt deals damage to any target equal to the number of Swamps you control. You gain life equal to the damage dealt this way.",
+      "flavor": "There are things beneath the murk for whom the bog is a stew, a thin broth in need of meat.",
+      "artist": "Dave Allsop",
+      "number": "55",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 197033,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pMEI",
+        "USG",
+        "7ED",
+        "pMPR",
+        "SHM",
+        "DDC",
+        "DDD",
+        "M11",
+        "M14",
+        "DD3_DVD",
+        "DD3_GVL"
+      ],
+      "original_text": "Corrupt deals damage equal to the number of Swamps you control to target creature or player. You gain life equal to the damage dealt this way.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197033&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "261855c92df37aeaa43c0f25ddd523e7a2c6e562",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "The swamps are counted on resolution."
+        },
+        {
+          "date": "2010-08-15",
+          "text": "The life you gain is equal to the damage dealt by Corrupt, not necessarily to the number of Swamps you control (if some or all of the damage is prevented, for example)."
+        },
+        {
+          "date": "2010-08-15",
+          "text": "The amount of damage dealt to a creature is not bounded by its toughness, and the amount of damage dealt to a player is not bounded by that player's life total. For example, if Corrupt deals 6 damage to a 2/2 creature, you'll gain 6 life."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "Corrupt counts any land you control with the subtype Swamp, not just ones named Swamp."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Consume Spirit",
+      "layout": "normal",
+      "mana_cost": "{X}{1}{B}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Uncommon",
+      "text": "Spend only black mana on X.\nConsume Spirit deals X damage to any target and you gain X life.",
+      "flavor": "\"Your blood, your marrow, your spirit\u2014all are mine.\"\n\u2014Mayvar, minion of Geth",
+      "artist": "Matt Thompson",
+      "number": "56",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 196992,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pMEI",
+        "MRD",
+        "9ED",
+        "10E",
+        "DDC",
+        "M10",
+        "HOP",
+        "DPA",
+        "M12",
+        "DD3_DVD"
+      ],
+      "original_text": "Spend only black mana on X.\nConsume Spirit deals X damage to target creature or player and you gain X life.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=196992&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "b412a35f474b44996dc74cf7040f204a38a48e1d",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2009-10-01",
+          "text": "The amount of life you gain is equal to the number chosen for X, not the amount of damage Consume Spirit deals (in case some of it is prevented)."
+        },
+        {
+          "date": "2009-10-01",
+          "text": "If the targeted permanent or player is an illegal target by the time Consume Spirit would resolve, the entire spell doesn't resolve. You won't gain any life."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Demon's Horn",
+      "layout": "normal",
+      "mana_cost": "{2}",
+      "cmc": 2,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Uncommon",
+      "text": "Whenever a player casts a black spell, you may gain 1 life.",
+      "flavor": "Its curve mimics the twists of life and death.",
+      "artist": "Alan Pollack",
+      "number": "57",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 196994,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "DST",
+        "9ED",
+        "10E",
+        "DDC",
+        "M10",
+        "DPA",
+        "M11",
+        "M12",
+        "DD3_DVD"
+      ],
+      "original_text": "Whenever a player plays a black spell, you may gain 1 life.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=196994&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "5a2a2ffc81910adcb0344c02ce6fb932a49a3ac2",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2009-10-01",
+          "text": "The ability triggers whenever any player, not just you, casts a black spell."
+        },
+        {
+          "date": "2009-10-01",
+          "text": "If a player casts a black spell, Demon's Horn's ability triggers and is put on the stack on top of that spell. Demon's Horn's ability will resolve (causing you to gain 1 life) before the spell does."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Barren Moor",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Land",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Common",
+      "text": "Barren Moor enters the battlefield tapped.\n{T}: Add {B}.\nCycling {B} ({B}, Discard this card: Draw a card.)",
+      "flavor": null,
+      "artist": "Heather Hudson",
+      "number": "58",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 197029,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ONS",
+        "DDC",
+        "ARC",
+        "CMD",
+        "DDJ",
+        "C13",
+        "VMA",
+        "C14",
+        "DD3_DVD",
+        "C15",
+        "CMA"
+      ],
+      "original_text": "Barren Moor comes into play tapped.\n{T}: Add {B} to your mana pool.\nCycling {B} ({B}, Discard this card: Draw a card.)",
+      "original_type": "Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197029&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "057a1d772600c819047886992600f98ec9531d17",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-10-01",
+          "text": "Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Swamp",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Swamp",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Swamp"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Mark Tedin",
+      "number": "59",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 197257,
+      "variations": [
+        197260,
+        197258,
+        197259
+      ],
+      "watermark": "Black",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DDC",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "DDD",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "MBS",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "PD3",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "DDK",
+        "M14",
+        "THS",
+        "C13",
+        "DDM",
+        "MD1",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_DVD",
+        "DD3_GVL",
+        "FRF",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "DDR",
+        "KLD",
+        "C16",
+        "PCA",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "UST",
+        "RIX",
+        "DOM"
+      ],
+      "original_text": "B",
+      "original_type": "Basic Land \u2014 Swamp",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197257&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "0becd4e6f67838e454b538397ff9c532bf455178",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Swamp",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Swamp",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Swamp"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Mark Tedin",
+      "number": "60",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 197258,
+      "variations": [
+        197257,
+        197260,
+        197259
+      ],
+      "watermark": "Black",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DDC",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "DDD",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "MBS",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "PD3",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "DDK",
+        "M14",
+        "THS",
+        "C13",
+        "DDM",
+        "MD1",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_DVD",
+        "DD3_GVL",
+        "FRF",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "DDR",
+        "KLD",
+        "C16",
+        "PCA",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "UST",
+        "RIX",
+        "DOM"
+      ],
+      "original_text": "B",
+      "original_type": "Basic Land \u2014 Swamp",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197258&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "9f6ace82997a17c4bb6d4c945c4cd1670dc3c761",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Swamp",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Swamp",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Swamp"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "John Avon",
+      "number": "61",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 197259,
+      "variations": [
+        197257,
+        197260,
+        197258
+      ],
+      "watermark": "Black",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DDC",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "DDD",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "MBS",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "PD3",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "DDK",
+        "M14",
+        "THS",
+        "C13",
+        "DDM",
+        "MD1",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_DVD",
+        "DD3_GVL",
+        "FRF",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "DDR",
+        "KLD",
+        "C16",
+        "PCA",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "UST",
+        "RIX",
+        "DOM"
+      ],
+      "original_text": "B",
+      "original_type": "Basic Land \u2014 Swamp",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197259&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "de7258e58a94ff08b945322908dd02dd680ea6f3",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Swamp",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Swamp",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Swamp"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Vance Kovacs",
+      "number": "62",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 197260,
+      "variations": [
+        197257,
+        197258,
+        197259
+      ],
+      "watermark": "Black",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DDC",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "DDD",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "MBS",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "PD3",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "DDK",
+        "M14",
+        "THS",
+        "C13",
+        "DDM",
+        "MD1",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_DVD",
+        "DD3_GVL",
+        "FRF",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "DDR",
+        "KLD",
+        "C16",
+        "PCA",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "UST",
+        "RIX",
+        "DOM"
+      ],
+      "original_text": "B",
+      "original_type": "Basic Land \u2014 Swamp",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197260&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "26b17c3f3d2e8da6a939288bbb0e433819380f14",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Spirit",
+      "layout": "token",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Creature \u2014 Spirit",
+      "supertypes": null,
+      "subtypes": [
+        "Spirit"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Flying",
+      "flavor": null,
+      "artist": "Luca Zontini",
+      "number": "T1",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 197937,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "DDC",
+        "DDQ"
+      ],
+      "original_text": "Flying",
+      "original_type": "Creature \u2014 Spirit",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197937&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "326d2c2701fed646abb276a1735d5fa4181b6c4a",
+      "legalities": null,
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Demon",
+      "layout": "token",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Creature \u2014 Demon",
+      "supertypes": null,
+      "subtypes": [
+        "Demon"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Flying",
+      "flavor": null,
+      "artist": "Pete Venters",
+      "number": "T2",
+      "power": "*",
+      "toughness": "*",
+      "loyalty": null,
+      "multiverse_id": 197936,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "DDC",
+        "DDR"
+      ],
+      "original_text": "Flying",
+      "original_type": "Creature \u2014 Demon",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197936&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "ec9c5dcac328f75847883710f7088f2717f24795",
+      "legalities": null,
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Thrull",
+      "layout": "token",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Creature \u2014 Thrull",
+      "supertypes": null,
+      "subtypes": [
+        "Thrull"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": null,
+      "flavor": null,
+      "artist": "V\u00e9ronique Meignaud",
+      "number": "T3",
+      "power": "0",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 197261,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "DDC"
+      ],
+      "original_text": null,
+      "original_type": "Creature \u2014 Thrull",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197261&type=card",
+      "set": "DDC",
+      "set_name": "Duel Decks: Divine vs. Demonic",
+      "id": "08a2970050adab2e6ea262c558296e90f3bfb5b8",
+      "legalities": null,
+      "rulings": null,
+      "foreign_names": null
+    }
+  ]
+}

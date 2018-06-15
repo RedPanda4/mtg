@@ -1,0 +1,1470 @@
+{
+  "code": "CM1",
+  "name": "Commander's Arsenal",
+  "type": "commander",
+  "border": "black",
+  "mkm_id": 1418,
+  "mkm_name": "Commander's Arsenal",
+  "release_date": "2012-11-02",
+  "gatherer_code": null,
+  "magic_cards_info_code": "cma",
+  "booster": null,
+  "old_code": "CMA",
+  "block": null,
+  "online_only": null,
+  "cards": [
+    {
+      "name": "Chaos Warp",
+      "layout": "normal",
+      "mana_cost": "{2}{R}",
+      "cmc": 3,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Rare",
+      "text": "The owner of target permanent shuffles it into their library, then reveals the top card of their library. If it's a permanent card, they put it onto the battlefield.",
+      "flavor": null,
+      "artist": "Trevor Claxton",
+      "number": "1",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 338441,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "CMD",
+        "CM1",
+        "VMA",
+        "C14",
+        "C16",
+        "C17"
+      ],
+      "original_text": "The owner of target permanent shuffles it into his or her library, then reveals the top card of his or her library. If it's a permanent card, he or she puts it onto the battlefield.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338441&type=card",
+      "set": "CM1",
+      "set_name": "Commander's Arsenal",
+      "id": "c538bd18755007f490056c60cae7b68a5dd3e0e7",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2011-09-22",
+          "text": "The owner of a token is the player under whose control the token was put onto the battlefield. If a token is shuffled into a player's library this way, that player shuffles before revealing the top card of that library."
+        },
+        {
+          "date": "2011-09-22",
+          "text": "If the permanent is an illegal target by the time Chaos Warp tries to resolve, it won't resolve and none of its effects will occur. No library will be shuffled and no card will be revealed."
+        },
+        {
+          "date": "2011-09-22",
+          "text": "A permanent card is a card with one or more of the following card types: artifact, creature, enchantment, land, or planeswalker."
+        },
+        {
+          "date": "2011-09-22",
+          "text": "If the revealed card is a permanent card but can't enter the battlefield (perhaps because it's an Aura with nothing to enchant), it remains on top of that library."
+        },
+        {
+          "date": "2011-09-22",
+          "text": "If the revealed card is not a permanent card, it remains on top of that library."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Command Tower",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Land",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Common",
+      "text": "{T}: Add one mana of any color in your commander's color identity.",
+      "flavor": "When defeat is near and guidance is scarce, all eyes look in one direction.",
+      "artist": "Adam Paquette",
+      "number": "2",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 338442,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pJGP",
+        "CMD",
+        "CM1",
+        "C13",
+        "C15",
+        "C16",
+        "CMA",
+        "C17"
+      ],
+      "original_text": "{T}: Add to your mana pool one mana of any color in your commander's color identity.",
+      "original_type": "Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338442&type=card",
+      "set": "CM1",
+      "set_name": "Commander's Arsenal",
+      "id": "2090dd46a156a4b64b3da7465f687ebd71a6a3f7",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2011-09-22",
+          "text": "The color identity of your commander is set before the game begins and doesn't change during the game, even your commander is in a hidden zone (like the hand or library) or an effect changes your commander's color."
+        },
+        {
+          "date": "2011-09-22",
+          "text": "If your commander is a card like Kozilek, Butcher of Truth that has no colors in its color identity, Command Tower's ability produces no mana."
+        },
+        {
+          "date": "2011-09-22",
+          "text": "In formats other than Commander, Command Tower's ability produces no mana."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Decree of Pain",
+      "layout": "normal",
+      "mana_cost": "{6}{B}{B}",
+      "cmc": 8,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Rare",
+      "text": "Destroy all creatures. They can't be regenerated. Draw a card for each creature destroyed this way.\nCycling {3}{B}{B} ({3}{B}{B}, Discard this card: Draw a card.)\nWhen you cycle Decree of Pain, all creatures get -2/-2 until end of turn.",
+      "flavor": null,
+      "artist": "Mathias Kollros",
+      "number": "3",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 338453,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "SCG",
+        "CM1",
+        "C13",
+        "C17"
+      ],
+      "original_text": "Destroy all creatures. They can't be regenerated. Draw a card for each creature destroyed this way.\nCycling {3}{B}{B} ({3}{B}{B}, Discard this card: Draw a card.)\nWhen you cycle Decree of Pain, all creatures get -2/-2 until end of turn.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338453&type=card",
+      "set": "CM1",
+      "set_name": "Commander's Arsenal",
+      "id": "0a2d01f44f11806b2077b25974dcc7f953d202bb",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-10-01",
+          "text": "Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not."
+        },
+        {
+          "date": "2008-10-01",
+          "text": "When you cycle this card, first the cycling ability goes on the stack, then the triggered ability goes on the stack on top of it. The triggered ability will resolve before you draw a card from the cycling ability."
+        },
+        {
+          "date": "2008-10-01",
+          "text": "The cycling ability and the triggered ability are separate. If the triggered ability doesn't resolve (due to being countered with Stifle, for example, or if all its targets have become illegal), the cycling ability will still resolve and you'll draw a card."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Desertion",
+      "layout": "normal",
+      "mana_cost": "{3}{U}{U}",
+      "cmc": 5,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Rare",
+      "text": "Counter target spell. If an artifact or creature spell is countered this way, put that card onto the battlefield under your control instead of into its owner's graveyard.",
+      "flavor": "First the insult, then the injury.",
+      "artist": "Richard Kane Ferguson",
+      "number": "4",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 338454,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "VIS",
+        "6ED",
+        "CM1",
+        "CN2"
+      ],
+      "original_text": "Counter target spell. If an artifact or creature spell is countered this way, put that card onto the battlefield under your control instead of into its owner's graveyard.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338454&type=card",
+      "set": "CM1",
+      "set_name": "Commander's Arsenal",
+      "id": "fdd3dfe9f659508d12b676a7f312255811528458",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "The card is put onto the battlefield, but any effects that check if the original card was \"cast from your hand\" will not trigger or otherwise consider the card to have been cast from your hand. The card was put onto the battlefield by the effect of Desertion instead."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "This spell includes a replacement effect. If the target is an artifact or creature, it never goes to the graveyard."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "If the spell is not countered (because the spell it targets can't be countered), then this card's ability does not put the card onto the battlefield. The spell continues to resolve as normal."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Diaochan, Artful Beauty",
+      "layout": "normal",
+      "mana_cost": "{3}{R}",
+      "cmc": 4,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Legendary Creature \u2014 Human Advisor",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Human",
+        "Advisor"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": "{T}: Destroy target creature of your choice, then destroy target creature of an opponent's choice. Activate this ability only during your turn, before attackers are declared.",
+      "flavor": null,
+      "artist": "Miao Aili",
+      "number": "5",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 338449,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "PTK",
+        "CM1"
+      ],
+      "original_text": "{T}: Destroy target creature of your choice, then destroy target creature of an opponent's choice. Activate this ability only during your turn, before attackers are declared.",
+      "original_type": "Legendary Creature \u2014 Human Advisor",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338449&type=card",
+      "set": "CM1",
+      "set_name": "Commander's Arsenal",
+      "id": "0f601ffba3d37635ed9ad2dbdefeebde45e8dccd",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-09-20",
+          "text": "If a turn has multiple combat phases, the ability can only be activated before the beginning of the declare attackers step of the first combat phase in that turn."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Dragonlair Spider",
+      "layout": "normal",
+      "mana_cost": "{2}{R}{R}{G}{G}",
+      "cmc": 6,
+      "colors": [
+        "Red",
+        "Green"
+      ],
+      "color_identity": [
+        "R",
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Spider",
+      "supertypes": null,
+      "subtypes": [
+        "Spider"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": "Reach\nWhenever an opponent casts a spell, create a 1/1 green Insect creature token.",
+      "flavor": "Swarms thrive in its nest, feeding on leathery bits of discarded wing.",
+      "artist": "Carl Critchlow",
+      "number": "6",
+      "power": "5",
+      "toughness": "6",
+      "loyalty": null,
+      "multiverse_id": 338446,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "PC2",
+        "CM1",
+        "CN2",
+        "PCA"
+      ],
+      "original_text": "Reach\nWhenever an opponent casts a spell, put a 1/1 green Insect creature token onto the battlefield.",
+      "original_type": "Creature \u2014 Spider",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338446&type=card",
+      "set": "CM1",
+      "set_name": "Commander's Arsenal",
+      "id": "0cdccbf886c3f92226cb84ede152c96504805de0",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2012-06-01",
+          "text": "The triggered ability will resolve and the Insect will be created before the spell that caused it to trigger resolves."
+        },
+        {
+          "date": "2012-06-01",
+          "text": "The triggered ability won't be affected if the spell that caused it to trigger is countered."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Duplicant",
+      "layout": "normal",
+      "mana_cost": "{6}",
+      "cmc": 6,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact Creature \u2014 Shapeshifter",
+      "supertypes": null,
+      "subtypes": [
+        "Shapeshifter"
+      ],
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": "Imprint \u2014 When Duplicant enters the battlefield, you may exile target nontoken creature.\nAs long as a card exiled with Duplicant is a creature card, Duplicant has the power, toughness, and creature types of the last creature card exiled with Duplicant. It's still a Shapeshifter.",
+      "flavor": null,
+      "artist": "Marco Nelor",
+      "number": "7",
+      "power": "2",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": 338451,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MRD",
+        "ARC",
+        "CM1",
+        "EMA",
+        "MPS"
+      ],
+      "original_text": "Imprint \u2014 When Duplicant enters the battlefield, you may exile target nontoken creature.\nAs long as the exiled card is a creature card, Duplicant has that card's power, toughness, and creature types. It's still a Shapeshifter.",
+      "original_type": "Artifact Creature \u2014 Shapeshifter",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338451&type=card",
+      "set": "CM1",
+      "set_name": "Commander's Arsenal",
+      "id": "efd1254460c50e2a479582a1cd387eccc6c16dcc",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2016-06-08",
+          "text": "If no creature card is imprinted on Duplicant, it has its normal power, toughness, and creature type."
+        },
+        {
+          "date": "2016-06-08",
+          "text": "Duplicant's base power and toughness change to the imprinted card's power and toughness. Counters and other effects that modify Duplicant's power and toughness still apply."
+        },
+        {
+          "date": "2016-06-08",
+          "text": "Abilities that define a creature's power and toughness apply while that card is in exile, but abilities that add or subtract from it don't. For example, the ability of Battle Squadron applies to determine Duplicant's power and toughness, but the ability of Werebear doesn't. Duplicant's power and toughness are constantly updated if the exiled card's power and/or toughness change."
+        },
+        {
+          "date": "2016-06-08",
+          "text": "Duplicant keeps all creature types it had when the card was imprinted, including any types that Duplicant had gained."
+        },
+        {
+          "date": "2016-07-13",
+          "text": "If a melded permanent is exiled by Duplicant's triggered ability, that ability's controller chooses the relative timestamp of the two meld cards. Duplicant looks at the information of the one with the later timestamp."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Edric, Spymaster of Trest",
+      "layout": "normal",
+      "mana_cost": "{1}{G}{U}",
+      "cmc": 3,
+      "colors": [
+        "Blue",
+        "Green"
+      ],
+      "color_identity": [
+        "U",
+        "G"
+      ],
+      "names": null,
+      "type": "Legendary Creature \u2014 Elf Rogue",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Elf",
+        "Rogue"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": "Whenever a creature deals combat damage to one of your opponents, its controller may draw a card.",
+      "flavor": "\"I am not at liberty to reveal my sources, but I can assure you, the price on your head is high.\"",
+      "artist": "Volkan Baga",
+      "number": "8",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 338443,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "CMD",
+        "CM1",
+        "CNS",
+        "VMA",
+        "C16"
+      ],
+      "original_text": "Whenever a creature deals combat damage to one of your opponents, its controller may draw a card.",
+      "original_type": "Legendary Creature \u2014 Elf Rogue",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338443&type=card",
+      "set": "CM1",
+      "set_name": "Commander's Arsenal",
+      "id": "44b326a1525461da0b0da15656361764f12804b2",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2011-09-22",
+          "text": "A creature controlled by an opponent that deals combat damage to another opponent will cause Edric's ability to trigger. The creature's controller chooses whether to draw a card."
+        },
+        {
+          "date": "2011-09-22",
+          "text": "When a creature you control deals combat damage to one of your opponents, you may draw a card."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Kaalia of the Vast",
+      "layout": "normal",
+      "mana_cost": "{1}{R}{W}{B}",
+      "cmc": 4,
+      "colors": [
+        "White",
+        "Black",
+        "Red"
+      ],
+      "color_identity": [
+        "W",
+        "B",
+        "R"
+      ],
+      "names": null,
+      "type": "Legendary Creature \u2014 Human Cleric",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Human",
+        "Cleric"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Flying\nWhenever Kaalia of the Vast attacks an opponent, you may put an Angel, Demon, or Dragon creature card from your hand onto the battlefield tapped and attacking that opponent.",
+      "flavor": "\"I'll have my revenge if I have to call on every force from above and below.\"",
+      "artist": "Michael Komarck",
+      "number": "9",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 338444,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "CMD",
+        "CM1",
+        "CMA"
+      ],
+      "original_text": "Flying\nWhenever Kaalia of the Vast attacks an opponent, you may put an Angel, Demon, or Dragon creature card from your hand onto the battlefield tapped and attacking that opponent.",
+      "original_type": "Legendary Creature \u2014 Human Cleric",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338444&type=card",
+      "set": "CM1",
+      "set_name": "Commander's Arsenal",
+      "id": "5c502074bb38401c885f97111fc59f0533b2e145",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2011-09-22",
+          "text": "Kaalia's ability doesn't trigger if it attacks a planeswalker."
+        },
+        {
+          "date": "2011-09-22",
+          "text": "The creature card is already tapped and attacking as it's put onto the battlefield. Any abilities that trigger when a creature becomes tapped or when a creature attacks won't trigger for that card."
+        },
+        {
+          "date": "2011-09-22",
+          "text": "If the opponent Kaalia attacked is no longer in the game when its ability resolves, you may put an Angel, Demon, or Dragon creature card onto the battlefield tapped, but it won't be attacking anyone and it won't be an attacking creature."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Loyal Retainers",
+      "layout": "normal",
+      "mana_cost": "{2}{W}",
+      "cmc": 3,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Advisor",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Advisor"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "Sacrifice Loyal Retainers: Return target legendary creature card from your graveyard to the battlefield. Activate this ability only during your turn, before attackers are declared.",
+      "flavor": null,
+      "artist": "Solomon Au Yeung",
+      "number": "10",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 338450,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "PTK",
+        "ME3",
+        "CM1",
+        "MPS_AKH"
+      ],
+      "original_text": "Sacrifice Loyal Retainers: Return target legendary creature card from your graveyard to the battlefield. Activate this ability only during your turn, before attackers are declared.",
+      "original_type": "Creature \u2014 Human Advisor",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338450&type=card",
+      "set": "CM1",
+      "set_name": "Commander's Arsenal",
+      "id": "8b2f340a58da06fdcca64a7388a782a98ac4ca1f",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-09-20",
+          "text": "If a turn has multiple combat phases, the ability can only be activated before the beginning of the declare attackers step of the first combat phase in that turn."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Maelstrom Wanderer",
+      "layout": "normal",
+      "mana_cost": "{5}{G}{U}{R}",
+      "cmc": 8,
+      "colors": [
+        "Blue",
+        "Red",
+        "Green"
+      ],
+      "color_identity": [
+        "U",
+        "R",
+        "G"
+      ],
+      "names": null,
+      "type": "Legendary Creature \u2014 Elemental",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Elemental"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Creatures you control have haste.\nCascade, cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order. Then do it again.)",
+      "flavor": null,
+      "artist": "Thomas M. Baxa",
+      "number": "11",
+      "power": "7",
+      "toughness": "5",
+      "loyalty": null,
+      "multiverse_id": 338447,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "PC2",
+        "CM1",
+        "EMA",
+        "PCA"
+      ],
+      "original_text": "Creatures you control have haste.\nCascade, cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order. Then do it again.)",
+      "original_type": "Legendary Creature \u2014 Elemental",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338447&type=card",
+      "set": "CM1",
+      "set_name": "Commander's Arsenal",
+      "id": "8aa5299c043566ab8be5101014390feaf94f8350",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2016-06-08",
+          "text": "Maelstrom Wanderer gives itself haste."
+        },
+        {
+          "date": "2016-06-08",
+          "text": "Each instance of cascade triggers and resolves separately. The spell you cast due to the first cascade ability will go on the stack on top of the second cascade ability. That spell will resolve before you exile cards for the second cascade ability."
+        },
+        {
+          "date": "2016-06-08",
+          "text": "No matter what spell you cast with the first cascade trigger (or with any cascade triggers that result from casting that spell), the second cascade trigger will look for a spell with converted mana cost less than Maelstrom Wanderer's converted mana cost of 8."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "The Mimeoplasm",
+      "layout": "normal",
+      "mana_cost": "{2}{B}{G}{U}",
+      "cmc": 5,
+      "colors": [
+        "Blue",
+        "Black",
+        "Green"
+      ],
+      "color_identity": [
+        "U",
+        "B",
+        "G"
+      ],
+      "names": null,
+      "type": "Legendary Creature \u2014 Ooze",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Ooze"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "As The Mimeoplasm enters the battlefield, you may exile two creature cards from graveyards. If you do, it enters the battlefield as a copy of one of those cards with a number of additional +1/+1 counters on it equal to the power of the other card.",
+      "flavor": null,
+      "artist": "Svetlin Velinov",
+      "number": "12",
+      "power": "0",
+      "toughness": "0",
+      "loyalty": null,
+      "multiverse_id": 338445,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "CMD",
+        "CM1"
+      ],
+      "original_text": "As The Mimeoplasm enters the battlefield, you may exile two creature cards from graveyards. If you do, it enters the battlefield as a copy of one of those cards with a number of additional +1/+1 counters on it equal to the power of the other card.",
+      "original_type": "Legendary Creature \u2014 Ooze",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338445&type=card",
+      "set": "CM1",
+      "set_name": "Commander's Arsenal",
+      "id": "451100b4a92d944d3cbbd6bd51387b9a599fd32c",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2011-09-22",
+          "text": "You can't choose to exile just one creature card."
+        },
+        {
+          "date": "2011-09-22",
+          "text": "The two creature cards may come from the same graveyard or different graveyards."
+        },
+        {
+          "date": "2011-09-22",
+          "text": "You choose which one The Mimeoplasm is copying and which one determines how many +1/+1 counters are placed on The Mimeoplasm as The Mimeoplasm enters the battlefield."
+        },
+        {
+          "date": "2011-09-22",
+          "text": "Treat The Mimeoplasm as though it were the creature card it's copying entering the battlefield. Any \"As [this card] enters the battlefield,\" \"[This card] enters the battlefield with,\" and \"When [this card] enters the battlefield\" abilities of that creature card will work."
+        },
+        {
+          "date": "2011-09-22",
+          "text": "Specifically, if The Mimeoplasm enters the battlefield as a copy of a creature card that enters the battlefield with a number of +1/+1 counters, The Mimeoplasm will enter the battlefield with those +1/+1 counters and +1/+1 counters equal to the power of the other exiled card."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Mind's Eye",
+      "layout": "normal",
+      "mana_cost": "{5}",
+      "cmc": 5,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Rare",
+      "text": "Whenever an opponent draws a card, you may pay {1}. If you do, draw a card.",
+      "flavor": "\"Ideas drift like petals on the wind. I have only to lift my face to the breeze.\"",
+      "artist": "Karl Kopinski",
+      "number": "13",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 338452,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MRD",
+        "CM1",
+        "MPS"
+      ],
+      "original_text": "Whenever an opponent draws a card, you may pay {1}. If you do, draw a card.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338452&type=card",
+      "set": "CM1",
+      "set_name": "Commander's Arsenal",
+      "id": "ac0689c2e9828d1fb1aed6f1446f53aa358eb64f",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Mirari's Wake",
+      "layout": "normal",
+      "mana_cost": "{3}{G}{W}",
+      "cmc": 5,
+      "colors": [
+        "White",
+        "Green"
+      ],
+      "color_identity": [
+        "W",
+        "G"
+      ],
+      "names": null,
+      "type": "Enchantment",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Rare",
+      "text": "Creatures you control get +1/+1.\nWhenever you tap a land for mana, add one mana of any type that land produced.",
+      "flavor": "Even after a false god tore the magic from Dominaria, power still radiated from the Mirari sword that slew her.",
+      "artist": "Volkan Baga",
+      "number": "14",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 338455,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "JUD",
+        "pPRO",
+        "CM1",
+        "CNS",
+        "C17"
+      ],
+      "original_text": "Creatures you control get +1/+1.\nWhenever you tap a land for mana, add one mana to your mana pool of any type that land produced.",
+      "original_type": "Enchantment",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338455&type=card",
+      "set": "CM1",
+      "set_name": "Commander's Arsenal",
+      "id": "55b6611f0160baff3c7ecdd25b1bfda24c5e73e7",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Rhystic Study",
+      "layout": "normal",
+      "mana_cost": "{2}{U}",
+      "cmc": 3,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Enchantment",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Common",
+      "text": "Whenever an opponent casts a spell, you may draw a card unless that player pays {1}.",
+      "flavor": "Friends teach what you want to know. Enemies teach what you need to know.",
+      "artist": "Terese Nielsen",
+      "number": "15",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 338457,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "PCY",
+        "CM1"
+      ],
+      "original_text": "Whenever an opponent casts a spell, you may draw a card unless that player pays {1}.",
+      "original_type": "Enchantment",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338457&type=card",
+      "set": "CM1",
+      "set_name": "Commander's Arsenal",
+      "id": "581efc1e5608ed5077b9b8c3000ad3b2ab052df0",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "The player gets the option to pay when this triggered ability resolves. This will be after the spell is announced, but before it resolves."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "You don't have to decide whether or not you are drawing until after the player decides whether or not to pay."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Scroll Rack",
+      "layout": "normal",
+      "mana_cost": "{2}",
+      "cmc": 2,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Rare",
+      "text": "{1}, {T}: Exile any number of cards from your hand face down. Put that many cards from the top of your library into your hand. Then look at the exiled cards and put them on top of your library in any order.",
+      "flavor": null,
+      "artist": "Heather Hudson",
+      "number": "16",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 338458,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "TMP",
+        "CM1",
+        "MPS"
+      ],
+      "original_text": "{1}, {T}: Exile any number of cards from your hand face down. Put that many cards from the top of your library into your hand. Then look at the exiled cards and put them on top of your library in any order.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338458&type=card",
+      "set": "CM1",
+      "set_name": "Commander's Arsenal",
+      "id": "33e285b1559e81e033247ab71090ad36a27cd1c7",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "If there are not enough cards in the library, you do not lose. This is not a draw effect. You just get as many cards as are there, even if there are zero cards in the library."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Sylvan Library",
+      "layout": "normal",
+      "mana_cost": "{1}{G}",
+      "cmc": 2,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Enchantment",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Rare",
+      "text": "At the beginning of your draw step, you may draw two additional cards. If you do, choose two cards in your hand drawn this turn. For each of those cards, pay 4 life or put the card on top of your library.",
+      "flavor": null,
+      "artist": "Yeong-Hao Han",
+      "number": "17",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 338456,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEG",
+        "4ED",
+        "5ED",
+        "MED",
+        "CM1",
+        "VMA",
+        "EMA"
+      ],
+      "original_text": "At the beginning of your draw step, you may draw two additional cards. If you do, choose two cards in your hand drawn this turn. For each of those cards, pay 4 life or put the card on top of your library.",
+      "original_type": "Enchantment",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338456&type=card",
+      "set": "CM1",
+      "set_name": "Commander's Arsenal",
+      "id": "b9901ec7a1bbab53b3dad60cf08bdec239e574ea",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2016-06-08",
+          "text": "You always perform your normal draw before this ability. The normal draw occurs before anything can be placed on the stack during a player's draw step."
+        },
+        {
+          "date": "2016-06-08",
+          "text": "If you control other triggered abilities that allow you to draw cards during your draw step, you can choose to order Sylvan Library's ability before or after those abilities. Triggered abilities controlled by other players will resolve before triggered abilities you control."
+        },
+        {
+          "date": "2016-06-08",
+          "text": "Any cards drawn prior to Sylvan Library's ability resolving, including in your upkeep or in response to Sylvan Library's triggered ability, can be chosen to be put back using this effect. Sylvan Library's controller is responsible for keeping these cards distinguishable in hand, such as by keeping them separate from cards that began the turn in hand."
+        },
+        {
+          "date": "2016-06-08",
+          "text": "If you control more than one Sylvan Library, the triggered ability of each will resolve in sequence. You don't get to draw all the cards at once and then put them all back at once."
+        },
+        {
+          "date": "2016-06-08",
+          "text": "You can put back zero, one, or two cards."
+        },
+        {
+          "date": "2016-06-08",
+          "text": "If you choose to draw two cards, then replace one or more of those draws with some other effect, the rest of Sylvan Library's ability still happens. If you've actually drawn only one card that turn, you must choose that card and either pay 4 life or put it on top of your library. If you haven't actually drawn any cards that turn, the rest of the ability has no effect."
+        },
+        {
+          "date": "2016-06-08",
+          "text": "It's not possible to take any actions between drawing the cards and choosing two cards. You can't cast the cards you drew to avoid having two cards to choose."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Vela the Night-Clad",
+      "layout": "normal",
+      "mana_cost": "{4}{U}{B}",
+      "cmc": 6,
+      "colors": [
+        "Blue",
+        "Black"
+      ],
+      "color_identity": [
+        "U",
+        "B"
+      ],
+      "names": null,
+      "type": "Legendary Creature \u2014 Human Wizard",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Human",
+        "Wizard"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)\nOther creatures you control have intimidate.\nWhenever Vela the Night-Clad or another creature you control leaves the battlefield, each opponent loses 1 life.",
+      "flavor": "Vela snuffs out every trace of Krond's reign, leaving pure nightfall in her wake.",
+      "artist": "Allen Williams",
+      "number": "18",
+      "power": "4",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": 338448,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "PC2",
+        "CM1",
+        "PCA",
+        "C17"
+      ],
+      "original_text": "Intimidate\nOther creatures you control have intimidate.\nWhenever Vela the Night-Clad or another creature you control leaves the battlefield, each opponent loses 1 life.",
+      "original_type": "Legendary Creature \u2014 Human Wizard",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338448&type=card",
+      "set": "CM1",
+      "set_name": "Commander's Arsenal",
+      "id": "6930db07d49d217aab12f95d8f080da8c013eb28",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2012-06-01",
+          "text": "If Vela leaves the battlefield at the same time as other creatures you control, its ability will trigger for each of those creatures."
+        }
+      ],
+      "foreign_names": null
+    }
+  ]
+}

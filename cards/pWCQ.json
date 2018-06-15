@@ -1,0 +1,658 @@
+{
+  "code": "pWCQ",
+  "name": "World Magic Cup Qualifiers",
+  "type": "promo",
+  "border": "black",
+  "mkm_id": null,
+  "mkm_name": null,
+  "release_date": "2013-04-06",
+  "gatherer_code": null,
+  "magic_cards_info_code": "wmcq",
+  "booster": null,
+  "old_code": null,
+  "block": null,
+  "online_only": null,
+  "cards": [
+    {
+      "name": "Vengevine",
+      "layout": "normal",
+      "mana_cost": "{2}{G}{G}",
+      "cmc": 4,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Elemental",
+      "supertypes": null,
+      "subtypes": [
+        "Elemental"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Haste\nWhenever you cast a spell, if it's the second creature spell you cast this turn, you may return Vengevine from your graveyard to the battlefield.",
+      "flavor": "Leave but a shred of root and it will return, bursting with vigor.",
+      "artist": "Trevor Claxton",
+      "number": "1",
+      "power": "4",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2013",
+      "starter": null,
+      "printings": [
+        "ROE",
+        "pWCQ"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "World Magic Cup Qualifiers Participation bonus",
+      "image_url": null,
+      "set": "pWCQ",
+      "set_name": "World Magic Cup Qualifiers",
+      "id": "40b94b420620d3c5c7a9256460af45507b0ad440",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2010-06-15",
+          "text": "If you cast your second creature spell in a turn and Vengevine is in your graveyard, Vengevine's second ability triggers and goes on the stack on top of it. The ability will resolve, allowing you to return Vengevine to the battlefield, before the creature spell does."
+        },
+        {
+          "date": "2010-06-15",
+          "text": "Vengevine's triggered ability works only if Vengevine is already in your graveyard as you finish casting your second creature spell in a turn, and it remains there continuously until the ability resolves."
+        },
+        {
+          "date": "2010-06-15",
+          "text": "Vengevine doesn't need to be in your graveyard as you start casting your second creature spell in a turn, only as you finish. This matters if you sacrifice a Vengevine on the battlefield while casting that creature spell, perhaps to pay a cost of that spell or a cost of a mana ability."
+        },
+        {
+          "date": "2010-06-15",
+          "text": "Vengevine's triggered ability checks the card types of the spells you cast over the course of the entire turn, not just the ones you cast while Vengevine is in your graveyard. For example, if you cast a creature spell, then Vengevine is put into your graveyard, then you cast another creature spell, Vengevine's ability triggers."
+        },
+        {
+          "date": "2010-06-15",
+          "text": "Vengevine's ability triggers only for the second creature spell you cast in a turn. It won't trigger for the third, fourth, or so on. It also doesn't matter how many noncreature spells you cast in a turn; the ability counts just the creature spells."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u590d\u4ec7\u85e4\u8513",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "Vengeliane",
+          "language": "French"
+        },
+        {
+          "name": "Racheranke",
+          "language": "German"
+        },
+        {
+          "name": "Liane Vendicative",
+          "language": "Italian"
+        },
+        {
+          "name": "\u5fa9\u8b90\u8526",
+          "language": "Japanese"
+        },
+        {
+          "name": "Trepadeira Vingativa",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041c\u0441\u0442\u044f\u0449\u0438\u0439 \u041b\u043e\u0437\u043e\u0432\u0438\u043a",
+          "language": "Russian"
+        },
+        {
+          "name": "Parra vengadora",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Geist of Saint Traft",
+      "layout": "normal",
+      "mana_cost": "{1}{W}{U}",
+      "cmc": 3,
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "color_identity": [
+        "W",
+        "U"
+      ],
+      "names": null,
+      "type": "Legendary Creature \u2014 Spirit Cleric",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Spirit",
+        "Cleric"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Hexproof (This creature can't be the target of spells or abilities your opponents control.)\nWhenever Geist of Saint Traft attacks, create a 4/4 white Angel creature token with flying that's tapped and attacking. Exile that token at end of combat.",
+      "flavor": null,
+      "artist": "Izzy",
+      "number": "2",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2014",
+      "starter": null,
+      "printings": [
+        "ISD",
+        "pWCQ",
+        "DDQ"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "World Magic Cup Qualifiers Participation bonus",
+      "image_url": null,
+      "set": "pWCQ",
+      "set_name": "World Magic Cup Qualifiers",
+      "id": "4451913fded84d5de83ff2441add1559055f9d13",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2011-09-22",
+          "text": "You declare which player or planeswalker the token is attacking as you put it onto the battlefield. It doesn't have to be the same player or planeswalker Geist of Saint Traft is attacking."
+        },
+        {
+          "date": "2011-09-22",
+          "text": "Although the token is attacking, it was never declared as an attacking creature (for purposes of abilities that trigger whenever a creature attacks, for example)."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u5723\u6c99\u5f17\u7684\u6e38\u9b42",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u8056\u6c99\u5f17\u7684\u904a\u9b42",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Geist de Saint Traft",
+          "language": "French"
+        },
+        {
+          "name": "Geist von Sankt Traft",
+          "language": "German"
+        },
+        {
+          "name": "Geist di San Traft",
+          "language": "Italian"
+        },
+        {
+          "name": "\u8056\u30c8\u30e9\u30d5\u30c8\u306e\u970a",
+          "language": "Japanese"
+        },
+        {
+          "name": "Geist de Santo Traft",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041f\u0440\u0438\u0432\u0438\u0434\u0435\u043d\u0438\u0435 \u0421\u0432\u044f\u0442\u043e\u0433\u043e \u0422\u0440\u0430\u0444\u0442\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Geist de San Traft",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Thalia, Guardian of Thraben",
+      "layout": "normal",
+      "mana_cost": "{1}{W}",
+      "cmc": 2,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Legendary Creature \u2014 Human Soldier",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Human",
+        "Soldier"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "First strike\nNoncreature spells cost {1} more to cast.",
+      "flavor": "\"Thraben is our home and I will not see it fall to this unhallowed horde.\"",
+      "artist": "Steve Argyle",
+      "number": "3",
+      "power": "2",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": "2015",
+      "starter": null,
+      "printings": [
+        "DKA",
+        "pWCQ"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "World Magic Cup Qualifiers Participation bonus",
+      "image_url": null,
+      "set": "pWCQ",
+      "set_name": "World Magic Cup Qualifiers",
+      "id": "6ccc9891f76711125239109990aea249c53a91f4",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2011-01-22",
+          "text": "The ability affects each spell that's not a creature spell, including your own."
+        },
+        {
+          "date": "2011-01-22",
+          "text": "The ability affects the total cost of each noncreature spell, but it doesn't change that spell's mana cost or converted mana cost."
+        },
+        {
+          "date": "2011-01-22",
+          "text": "When determining a spell's total cost, effects that increase the cost are applied before effects that reduce the cost."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u745f\u73ed\u5b88\u62a4\u8005\u838e\u5229\u96c5",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u745f\u73ed\u5b88\u8b77\u8005\u838e\u5229\u96c5",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Thalia, vigile de Thraben",
+          "language": "French"
+        },
+        {
+          "name": "Thalia, W\u00e4chterin von Thraben",
+          "language": "German"
+        },
+        {
+          "name": "Thalia, Protettrice di Thraben",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30b9\u30ec\u30a4\u30d9\u30f3\u306e\u5b88\u8b77\u8005\u3001\u30b5\u30ea\u30a2",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ud2b8\ub808\uc774\ubca4\uc758 \uc218\ud638\uc790 \ud0c8\ub9ac\uc544",
+          "language": "Korean"
+        },
+        {
+          "name": "Thalia, Guardi\u00e3 de Thraben",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0422\u0430\u043b\u0438\u044f, \u0421\u0442\u0440\u0430\u0436 \u0422\u0440\u0435\u0439\u0431\u0435\u043d\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Thalia, guardiana de Thraben",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Liliana of the Veil",
+      "layout": "normal",
+      "mana_cost": "{1}{B}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Legendary Planeswalker \u2014 Liliana",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Liliana"
+      ],
+      "types": [
+        "Planeswalker"
+      ],
+      "rarity": "Special",
+      "text": "+1: Each player discards a card.\n\u22122: Target player sacrifices a creature.\n\u22126: Separate all permanents target player controls into two piles. That player sacrifices all permanents in the pile of his or her choice.",
+      "flavor": null,
+      "artist": "Steve Argyle",
+      "number": "4",
+      "power": null,
+      "toughness": null,
+      "loyalty": 3,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ISD",
+        "pWCQ",
+        "MM3"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Regional PTQ 2015",
+      "image_url": null,
+      "set": "pWCQ",
+      "set_name": "World Magic Cup Qualifiers",
+      "id": "deaab81889362d156eb6fe190a49bb27d4858cd6",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2017-03-14",
+          "text": "When Liliana's first ability resolves, first the player whose turn it is chooses a card to discard, then each other player in turn order chooses a card to discard, then those cards are discarded simultaneously. No one sees what the other players are discarding before deciding which card to discard."
+        },
+        {
+          "date": "2017-03-14",
+          "text": "The player targeted by Liliana's second ability chooses which creature to sacrifice when the ability resolves. This ability doesn't target any creature."
+        },
+        {
+          "date": "2017-03-14",
+          "text": "When Liliana's third ability resolves, you put each permanent the player controls into one of the two piles. For example, you could put a creature into one pile and an Aura enchanting that creature into the other pile."
+        },
+        {
+          "date": "2017-03-14",
+          "text": "A pile can be empty. If the player chooses an empty pile, no permanents will be sacrificed."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u9762\u7eb1\u7684\u8389\u83b2\u5a1c",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u9762\u7d17\u7684\u8389\u84ee\u5a1c",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Liliana du voile",
+          "language": "French"
+        },
+        {
+          "name": "Liliana mit Schleier",
+          "language": "German"
+        },
+        {
+          "name": "Liliana del Velo",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30f4\u30a7\u30fc\u30eb\u306e\u30ea\u30ea\u30a2\u30ca",
+          "language": "Japanese"
+        },
+        {
+          "name": "Liliana do V\u00e9u",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041b\u0438\u043b\u0438\u0430\u043d\u0430 \u0441 \u0417\u0430\u0432\u0435\u0441\u043e\u0439",
+          "language": "Russian"
+        },
+        {
+          "name": "Liliana del Velo",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Snapcaster Mage",
+      "layout": "normal",
+      "mana_cost": "{1}{U}",
+      "cmc": 2,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Wizard",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Wizard"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Flash\nWhen Snapcaster Mage enters the battlefield, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. (You may cast that card from your graveyard for its flashback cost. Then exile it.)",
+      "flavor": null,
+      "artist": "Joseph Meehan",
+      "number": "5",
+      "power": "2",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ISD",
+        "pWCQ",
+        "MM3"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Regional PTQ 2016",
+      "image_url": null,
+      "set": "pWCQ",
+      "set_name": "World Magic Cup Qualifiers",
+      "id": "4f5c2cc0802213405529455dbfc76563b3fc5267",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2017-03-14",
+          "text": "If you cast an instant or sorcery with {X} in its mana cost this way, you still choose the value of X as part of casting the spell and pay that cost."
+        },
+        {
+          "date": "2017-03-14",
+          "text": "If an instant or sorcery card in your graveyard already has flashback, you may use either flashback ability to cast it from your graveyard."
+        },
+        {
+          "date": "2017-03-14",
+          "text": "You may pay any optional additional costs the spell has, such as conspire costs. You must pay any mandatory additional costs the spell has, such as that of Bone Splinters."
+        },
+        {
+          "date": "2017-04-18",
+          "text": "For split cards, the flashback cost you pay is determined by the half you cast"
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u8fc5\u5492\u6cd5\u5e08",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u8fc5\u5492\u6cd5\u5e2b",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Mage lancevif",
+          "language": "French"
+        },
+        {
+          "name": "Schnellzauberer",
+          "language": "German"
+        },
+        {
+          "name": "Mago Lanciorapido",
+          "language": "Italian"
+        },
+        {
+          "name": "\u77ac\u5531\u306e\u9b54\u9053\u58eb",
+          "language": "Japanese"
+        },
+        {
+          "name": "Mago da Conjura\u00e7\u00e3o-rel\u00e2mpago",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041c\u0430\u0433 \u041c\u043e\u043b\u043d\u0438\u0435\u043d\u043e\u0441\u043d\u044b\u0445 \u0417\u0430\u043a\u043b\u0438\u043d\u0430\u043d\u0438\u0439",
+          "language": "Russian"
+        },
+        {
+          "name": "Mago lanzachasquidos",
+          "language": "Spanish"
+        }
+      ]
+    }
+  ]
+}

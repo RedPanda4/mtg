@@ -1,0 +1,1227 @@
+{
+  "code": "V16",
+  "name": "From the Vault: Lore",
+  "type": "from the vault",
+  "border": "black",
+  "mkm_id": null,
+  "mkm_name": null,
+  "release_date": "2016-08-19",
+  "gatherer_code": null,
+  "magic_cards_info_code": "v16",
+  "booster": null,
+  "old_code": null,
+  "block": null,
+  "online_only": null,
+  "cards": [
+    {
+      "name": "Beseech the Queen",
+      "layout": "normal",
+      "mana_cost": "{2/B}{2/B}{2/B}",
+      "cmc": 6,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "({2/B} can be paid with any two mana or with {B}. This card's converted mana cost is 6.)\nSearch your library for a card with converted mana cost less than or equal to the number of lands you control, reveal it, and put it into your hand. Then shuffle your library.",
+      "flavor": "Those who hear her go mad with inspiration.",
+      "artist": "Jason Chan",
+      "number": "1",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 416743,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "SHM",
+        "HOP",
+        "V16"
+      ],
+      "original_text": "Search your library for a card with converted mana cost less than or equal to the number of lands you control, reveal it, and put it into your hand. Then shuffle your library.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=416743&type=card",
+      "set": "V16",
+      "set_name": "From the Vault: Lore",
+      "id": "9b01c133181bcff1bc27573f50fec8c1e8d92c52",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-05-01",
+          "text": "If an effect reduces the cost to cast a spell by an amount of generic mana, it applies to a monocolored hybrid spell only if you've chosen a method of paying for it that includes generic mana."
+        },
+        {
+          "date": "2008-05-01",
+          "text": "A card with a monocolored hybrid mana symbol in its mana cost is each of the colors that appears in its mana cost, regardless of what mana was spent to cast it. Thus, Beseech the Queen is black even if you spend six red mana to cast it."
+        },
+        {
+          "date": "2008-05-01",
+          "text": "A card with monocolored hybrid mana symbols in its mana cost has a converted mana cost equal to the highest possible cost it could be cast for. Its converted mana cost never changes. Thus, Beseech the Queen has a converted mana cost of 6, even if you spend {B}{B}{B} to cast it."
+        },
+        {
+          "date": "2008-05-01",
+          "text": "If a cost includes more than one monocolored hybrid mana symbol, you can choose a different way to pay for each symbol. For example, you can pay for Beseech the Queen by spending {B}{B}{B}, {2}{B}{B}, {4}{B}, or {6}."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Cabal Ritual",
+      "layout": "normal",
+      "mana_cost": "{1}{B}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Add {B}{B}{B}.\nThreshold \u2014 Add {B}{B}{B}{B}{B} instead if seven or more cards are in your graveyard.",
+      "flavor": "The Patriarch is long dead, but his name still stains the lips of cultists.",
+      "artist": "Kieran Yanner",
+      "number": "2",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 416744,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "TOR",
+        "VMA",
+        "V16"
+      ],
+      "original_text": "Add {B}{B}{B} to your mana pool.\nThreshold \u2014 Add {B}{B}{B}{B}{B} to your mana pool instead if seven or more cards are in your graveyard.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=416744&type=card",
+      "set": "V16",
+      "set_name": "From the Vault: Lore",
+      "id": "aa4c47209d164710beebb691269aff26f6f6a306",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Conflux",
+      "layout": "normal",
+      "mana_cost": "{3}{W}{U}{B}{R}{G}",
+      "cmc": 8,
+      "colors": [
+        "White",
+        "Blue",
+        "Black",
+        "Red",
+        "Green"
+      ],
+      "color_identity": [
+        "W",
+        "U",
+        "B",
+        "R",
+        "G"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Search your library for a white card, a blue card, a black card, a red card, and a green card. Reveal those cards and put them into your hand. Then shuffle your library.",
+      "flavor": "\"It's self-indulgent, I admit, but I do like to watch my own symphony play itself out.\"\n\u2014Nicol Bolas",
+      "artist": "Karl Kopinski",
+      "number": "3",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 416745,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "CON",
+        "V16",
+        "A25"
+      ],
+      "original_text": "Search your library for a white card, a blue card, a black card, a red card, and a green card. Reveal those cards and put them into your hand. Then shuffle your library.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=416745&type=card",
+      "set": "V16",
+      "set_name": "From the Vault: Lore",
+      "id": "e60efe52518b087ea0b0bacb5636d936317e4f0d",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2018-03-16",
+          "text": "You don't have to find all five cards."
+        },
+        {
+          "date": "2018-03-16",
+          "text": "You may find multicolored cards with Conflux. The white card you find, for example, can be any number of colors, as long as white is one of them. What colors it is won't impact what other cards you can find. For example, you may find a white-blue card as the white card and another white-blue card as the blue card."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Dark Depths",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Legendary Snow Land",
+      "supertypes": [
+        "Legendary",
+        "Snow"
+      ],
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Dark Depths enters the battlefield with ten ice counters on it.\n{3}: Remove an ice counter from Dark Depths.\nWhen Dark Depths has no ice counters on it, sacrifice it. If you do, create a legendary 20/20 black Avatar creature token with flying and indestructible named Marit Lage.",
+      "flavor": null,
+      "artist": "Stephan Martiniere",
+      "number": "4",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 416746,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "CSP",
+        "V16"
+      ],
+      "original_text": "Dark Depths enters the battlefield with ten ice counters on it.\n{3}: Remove an ice counter from Dark Depths.\nWhen Dark Depths has no ice counters on it, sacrifice it. If you do, put a legendary 20/20 black Avatar creature token with flying and indestructible named Marit Lage onto the battlefield.",
+      "original_type": "Legendary Snow Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=416746&type=card",
+      "set": "V16",
+      "set_name": "From the Vault: Lore",
+      "id": "21d29d483c0f140b205ee1b44edc4f967b678878",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Banned"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2006-07-15",
+          "text": "Dark Depths is a land with no mana ability."
+        },
+        {
+          "date": "2006-07-15",
+          "text": "Dark Depths's last ability is a state trigger. It will not trigger again while the ability is on the stack, but if the ability is countered and Dark Depths is still on the battlefield with no ice counters on it, it will trigger again immediately."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Glissa, the Traitor",
+      "layout": "normal",
+      "mana_cost": "{B}{G}{G}",
+      "cmc": 3,
+      "colors": [
+        "Black",
+        "Green"
+      ],
+      "color_identity": [
+        "B",
+        "G"
+      ],
+      "names": null,
+      "type": "Legendary Creature \u2014 Zombie Elf",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Zombie",
+        "Elf"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "First strike, deathtouch\nWhenever a creature an opponent controls dies, you may return target artifact card from your graveyard to your hand.",
+      "flavor": "Once Mirrodin's brightest hope. Now Phyrexia's dark champion.",
+      "artist": "Chris Rahn",
+      "number": "5",
+      "power": "3",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": 416747,
+      "variations": null,
+      "watermark": "Phyrexian",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pPRE",
+        "MBS",
+        "V16"
+      ],
+      "original_text": "First strike, deathtouch\nWhenever a creature an opponent controls dies, you may return target artifact card from your graveyard to your hand.",
+      "original_type": "Legendary Creature \u2014 Zombie Elf",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=416747&type=card",
+      "set": "V16",
+      "set_name": "From the Vault: Lore",
+      "id": "f75965d6285e076d6c2e8f2e11c2a7b1ce28792a",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2011-06-01",
+          "text": "If an artifact you own and a creature an opponent controls go to the graveyard at the same time, you may choose that artifact card as the target of Glissa, the Traitor's ability (even if they're the same card: an artifact creature you own that an opponent controlled)."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Helvault",
+      "layout": "normal",
+      "mana_cost": "{3}",
+      "cmc": 3,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Legendary Artifact",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "{1}, {T}: Exile target creature you control.\n{7}, {T}: Exile target creature you don't control.\nWhen Helvault is put into a graveyard from the battlefield, return all cards exiled with it to the battlefield under their owners' control.",
+      "flavor": null,
+      "artist": "Jaime Jones",
+      "number": "6",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 416748,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "DKA",
+        "V16"
+      ],
+      "original_text": "{1}, {T}: Exile target creature you control.\n{7}, {T}: Exile target creature you don't control.\nWhen Helvault is put into a graveyard from the battlefield, return all cards exiled with it to the battlefield under their owners' control.",
+      "original_type": "Legendary Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=416748&type=card",
+      "set": "V16",
+      "set_name": "From the Vault: Lore",
+      "id": "7b1f633e0c87f0e9b775eb746298fe714243a009",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2011-01-22",
+          "text": "Helvault's first and third abilities are linked. Similarly, Helvault's second and third abilities are linked. Only cards exiled as a result of Helvault's first or second abilities will be returned to the battlefield by its third ability."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Memnarch",
+      "layout": "normal",
+      "mana_cost": "{7}",
+      "cmc": 7,
+      "colors": null,
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Legendary Artifact Creature \u2014 Wizard",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Wizard"
+      ],
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "{1}{U}{U}: Target permanent becomes an artifact in addition to its other types. (This effect lasts indefinitely.)\n{3}{U}: Gain control of target artifact. (This effect lasts indefinitely.)",
+      "flavor": "\"An imperfection in the perfect world? We can't allow that.\"",
+      "artist": "Carl Critchlow",
+      "number": "7",
+      "power": "4",
+      "toughness": "5",
+      "loyalty": null,
+      "multiverse_id": 416749,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "DST",
+        "ARC",
+        "V16"
+      ],
+      "original_text": "{1}{U}{U}: Target permanent becomes an artifact in addition to its other types.\n{3}{U}: Gain control of target artifact.",
+      "original_type": "Legendary Artifact Creature \u2014 Wizard",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=416749&type=card",
+      "set": "V16",
+      "set_name": "From the Vault: Lore",
+      "id": "863cbf7f251450c1ad2feca3f26df05a295dcf1a",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-12-01",
+          "text": "The effects of Memnarch's abilities don't end at end of turn, and they don't end when Memnarch leaves the battlefield. Both effects last until the affected permanent leaves the battlefield."
+        },
+        {
+          "date": "2004-12-01",
+          "text": "You can use the first ability on a nonartifact permanent, wait for the ability to resolve, and then use the second ability on that permanent."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Mind's Desire",
+      "layout": "normal",
+      "mana_cost": "{4}{U}{U}",
+      "cmc": 6,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Shuffle your library. Then exile the top card of your library. Until end of turn, you may play that card without paying its mana cost. (If it has X in its mana cost, X is 0.)\nStorm (When you cast this spell, copy it for each spell cast before it this turn.)",
+      "flavor": null,
+      "artist": "Adam Paquette",
+      "number": "8",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 416750,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pJGP",
+        "SCG",
+        "VMA",
+        "V16",
+        "DDS"
+      ],
+      "original_text": "Shuffle your library. Then exile the top card of your library. Until end of turn, you may play that card without paying its mana cost.\nStorm (When you cast this spell, copy it for each spell cast before it this turn.)",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=416750&type=card",
+      "set": "V16",
+      "set_name": "From the Vault: Lore",
+      "id": "1a08d2db6416c2677f9debde101b8898991d6353",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Banned"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Restricted"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "If the card is not played by end of turn, it remains exiled until end of game."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "The card is face-up when exiled."
+        },
+        {
+          "date": "2013-06-07",
+          "text": "The copies are put directly onto the stack. They aren't cast and won't be counted by other spells with storm cast later in the turn."
+        },
+        {
+          "date": "2013-06-07",
+          "text": "Spells cast from zones other than a player's hand and spells that were countered are counted by the storm ability."
+        },
+        {
+          "date": "2013-06-07",
+          "text": "A copy of a spell can be countered like any other spell, but it must be countered individually. Countering a spell with storm won't affect the copies."
+        },
+        {
+          "date": "2013-06-07",
+          "text": "The triggered ability that creates the copies can itself be countered by anything that can counter a triggered ability. If it is countered, no copies will be put onto the stack."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Momir Vig, Simic Visionary",
+      "layout": "normal",
+      "mana_cost": "{3}{G}{U}",
+      "cmc": 5,
+      "colors": [
+        "Blue",
+        "Green"
+      ],
+      "color_identity": [
+        "U",
+        "G"
+      ],
+      "names": null,
+      "type": "Legendary Creature \u2014 Elf Wizard",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Elf",
+        "Wizard"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Whenever you cast a green creature spell, you may search your library for a creature card and reveal it. If you do, shuffle your library and put that card on top of it.\nWhenever you cast a blue creature spell, reveal the top card of your library. If it's a creature card, put that card into your hand.",
+      "flavor": null,
+      "artist": "Victor Adame Minguez",
+      "number": "9",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 416751,
+      "variations": null,
+      "watermark": "Simic",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "DIS",
+        "V16"
+      ],
+      "original_text": "Whenever you cast a green creature spell, you may search your library for a creature card and reveal it. If you do, shuffle your library and put that card on top of it.\nWhenever you cast a blue creature spell, reveal the top card of your library. If it's a creature card, put that card into your hand.",
+      "original_type": "Legendary Creature \u2014 Elf Wizard",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=416751&type=card",
+      "set": "V16",
+      "set_name": "From the Vault: Lore",
+      "id": "080d590a46e262c69918641743f84c16c0913607",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2006-05-01",
+          "text": "If you cast a green and blue creature spell, both abilities will trigger. The abilities may be stacked so that when they resolve, you search your library for a creature card, put it on top of your library, and then put that card into your hand. The abilities may also be stacked in the other order, of course."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Near-Death Experience",
+      "layout": "normal",
+      "mana_cost": "{2}{W}{W}{W}",
+      "cmc": 5,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Enchantment",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "At the beginning of your upkeep, if you have exactly 1 life, you win the game.",
+      "flavor": "Lands ravaged, cities in ruins, so many lives sacrificed, and yet there was no other word for it but victory.",
+      "artist": "Dan Scott",
+      "number": "10",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 416752,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ROE",
+        "V16"
+      ],
+      "original_text": "At the beginning of your upkeep, if you have exactly 1 life, you win the game.",
+      "original_type": "Enchantment",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=416752&type=card",
+      "set": "V16",
+      "set_name": "From the Vault: Lore",
+      "id": "9b247a75106f8b6ba7d8be6e0e439d4e98dfe654",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2010-06-15",
+          "text": "This ability has an \"intervening 'if' clause.\" That means (1) the ability triggers only if you have exactly 1 life as your upkeep begins, and (2) the ability does nothing if your life total is anything other than 1 by the time it resolves."
+        },
+        {
+          "date": "2010-06-15",
+          "text": "In a Two-Headed Giant game, anything that cares about your life total checks your team's life total. You'll win the game if your team has exactly 1 life."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Obliterate",
+      "layout": "normal",
+      "mana_cost": "{6}{R}{R}",
+      "cmc": 8,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "This spell can't be countered.\nDestroy all artifacts, creatures, and lands. They can't be regenerated.",
+      "flavor": "For his family, Barrin made a funeral pyre of Tolaria.",
+      "artist": "Kev Walker",
+      "number": "11",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 416753,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "INV",
+        "8ED",
+        "V16"
+      ],
+      "original_text": "Obliterate can't be countered.\nDestroy all artifacts, creatures, and lands. They can't be regenerated.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=416753&type=card",
+      "set": "V16",
+      "set_name": "From the Vault: Lore",
+      "id": "c50e92d94725deefaecd33a1faa215338b3f8f02",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "Counterspells can be cast that target it, but when they resolve they simply don't counter it since it can't be countered."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Phyrexian Processor",
+      "layout": "normal",
+      "mana_cost": "{4}",
+      "cmc": 4,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "As Phyrexian Processor enters the battlefield, pay any amount of life.\n{4}, {T}: Create an X/X black Minion creature token, where X is the life paid as Phyrexian Processor entered the battlefield.",
+      "flavor": null,
+      "artist": "Dave Kendall",
+      "number": "12",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 416754,
+      "variations": null,
+      "watermark": "Phyrexian",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "USG",
+        "DDE",
+        "V16"
+      ],
+      "original_text": "As Phyrexian Processor enters the battlefield, pay any amount of life.\n{4}, {T}: Put an X/X black Minion creature token onto the battlefield, where X is the life paid as Phyrexian Processor entered the battlefield.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=416754&type=card",
+      "set": "V16",
+      "set_name": "From the Vault: Lore",
+      "id": "5a41789e4f4df4b86283c9148acefb59430e94b7",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "You can pay 0 life if you want, but it's not useful most of the time."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Tolaria West",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Land",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Tolaria West enters the battlefield tapped.\n{T}: Add {U}.\nTransmute {1}{U}{U} ({1}{U}{U}, Discard this card: Search your library for a card with converted mana cost 0, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)",
+      "flavor": null,
+      "artist": "Khang Le",
+      "number": "13",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 416755,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "FUT",
+        "V16"
+      ],
+      "original_text": "Tolaria West enters the battlefield tapped.\n{T}: Add {U} to your mana pool.\nTransmute {1}{U}{U} ({1}{U}{U}, Discard this card: Search your library for a card with converted mana cost 0, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)",
+      "original_type": "Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=416755&type=card",
+      "set": "V16",
+      "set_name": "From the Vault: Lore",
+      "id": "512a29f08b9df8dee9e19f25fd322043f8fe90ab",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2007-05-01",
+          "text": "Cards with mana cost {0} (like Pact of Negation) and cards with no mana cost (like Living End and every land) have converted mana cost 0."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Umezawa's Jitte",
+      "layout": "normal",
+      "mana_cost": "{2}",
+      "cmc": 2,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Legendary Artifact \u2014 Equipment",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Equipment"
+      ],
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "Whenever equipped creature deals combat damage, put two charge counters on Umezawa's Jitte.\nRemove a charge counter from Umezawa's Jitte: Choose one \u2014\n\u2022 Equipped creature gets +2/+2 until end of turn.\n\u2022 Target creature gets -1/-1 until end of turn.\n\u2022 You gain 2 life.\nEquip {2}",
+      "flavor": null,
+      "artist": "Christopher Moeller",
+      "number": "14",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 416756,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "BOK",
+        "pGPX",
+        "V16"
+      ],
+      "original_text": "Whenever equipped creature deals combat damage, put two charge counters on Umezawa's Jitte.\nRemove a charge counter from Umezawa's Jitte: Choose one \u2014\n\u2022 Equipped creature gets +2/+2 until end of turn.\n\u2022 Target creature gets -1/-1 until end of turn.\n\u2022 You gain 2 life.\nEquip {2}",
+      "original_type": "Legendary Artifact \u2014 Equipment",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=416756&type=card",
+      "set": "V16",
+      "set_name": "From the Vault: Lore",
+      "id": "29c7e4120a187b59d88f244aadc40c1b681aea7e",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Banned"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2005-02-01",
+          "text": "Umezawa's Jitte's activated ability generates a modal choice. The choice is made when the ability is activated."
+        },
+        {
+          "date": "2005-02-01",
+          "text": "If the \"target creature gets -1/-1 until end of turn\" mode is chosen, the target creature must also be announced."
+        },
+        {
+          "date": "2005-02-01",
+          "text": "The ability can be used any time Umezawa's Jitte's controller has priority \u2014 only the \"target creature\" choice has additional requirements. Choosing the \"Equipped creature gets +2/+2 until end of turn\" mode does nothing if the Jitte isn't equipped to a creature when the ability resolves."
+        },
+        {
+          "date": "2005-02-01",
+          "text": "If the Jitte is moved after the \"+2/+2\" mode is announced but before it resolves, the bonus is given to the creature that is equipped when the ability resolves."
+        },
+        {
+          "date": "2005-02-01",
+          "text": "If the Jitte leaves the battlefield after the \"+2/+2\" mode is announced but before it resolves, the bonus is given to the creature that was most recently equipped once the ability resolves."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Unmask",
+      "layout": "normal",
+      "mana_cost": "{3}{B}",
+      "cmc": 4,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "You may exile a black card from your hand rather than pay this spell's mana cost.\nTarget player reveals their hand. You choose a nonland card from it. That player discards that card.",
+      "flavor": null,
+      "artist": "rk post",
+      "number": "15",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 416757,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MMQ",
+        "V16"
+      ],
+      "original_text": "You may exile a black card from your hand rather than pay Unmask's mana cost.\nTarget player reveals his or her hand. You choose a nonland card from it. That player discards that card.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=416757&type=card",
+      "set": "V16",
+      "set_name": "From the Vault: Lore",
+      "id": "d5b8cbf83d49dffe24c7c8b22110ae678daa2219",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2014-02-01",
+          "text": "If you target yourself with this spell, you must reveal your entire hand to the other players just as any other player would."
+        }
+      ],
+      "foreign_names": null
+    }
+  ]
+}

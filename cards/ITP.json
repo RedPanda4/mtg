@@ -1,0 +1,5692 @@
+{
+  "code": "ITP",
+  "name": "Introductory Two-Player Set",
+  "type": "starter",
+  "border": "white",
+  "mkm_id": 85,
+  "mkm_name": "Introductory Two-Player Set",
+  "release_date": "1996-12-31",
+  "gatherer_code": null,
+  "magic_cards_info_code": "itp",
+  "booster": null,
+  "old_code": "I2P",
+  "block": null,
+  "online_only": null,
+  "cards": [
+    {
+      "name": "Alabaster Potion",
+      "layout": "normal",
+      "mana_cost": "{X}{W}{W}",
+      "cmc": 2,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Choose one \u2014\n\u2022 Target player gains X life.\n\u2022 Prevent the next X damage that would be dealt to target creature or player this turn.",
+      "flavor": "\"Healing is a matter of time, but it is sometimes also a matter of opportunity.\"\n\u2014D'Avenant proverb",
+      "artist": "Harold McNeill",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEG",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED",
+        "ME3"
+      ],
+      "original_text": "Target player gains X life, or prevent X damage to any creature or player.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "54854318213f48b6e9326fb14899961203ae8ead",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Battering Ram",
+      "layout": "normal",
+      "mana_cost": "{2}",
+      "cmc": 2,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact Creature \u2014 Construct",
+      "supertypes": null,
+      "subtypes": [
+        "Construct"
+      ],
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "At the beginning of combat on your turn, Battering Ram gains banding until end of combat. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's blocking.)\nWhenever Battering Ram becomes blocked by a Wall, destroy that Wall at end of combat.",
+      "flavor": "By the time Mishra was defeated, no mage was foolish enough to rely heavily on walls.",
+      "artist": "Jeff A. Menges",
+      "number": null,
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ATQ",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED"
+      ],
+      "original_text": "Banding when attacking\nWhenever a wall blocks Battering Ram, destroy that creature at end of combat.",
+      "original_type": "Artifact Creature",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "85c5c7ff0f016748813d0ddeac35319722b89fc5",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-10-01",
+          "text": "If a creature with banding attacks, it can team up with any number of other attacking creatures with banding (and up to one nonbanding creature) and attack as a unit called a \"band.\" The band can be blocked by any creature that could block a single creature in the band. Blocking any creature in a band blocks the entire band. If a creature with banding is blocked, the attacking player chooses how the blockers' damage is assigned."
+        },
+        {
+          "date": "2008-10-01",
+          "text": "A maximum of one nonbanding creature can join an attacking band no matter how many creatures with banding are in it."
+        },
+        {
+          "date": "2008-10-01",
+          "text": "Creatures in the same band must all attack the same player or planeswalker."
+        },
+        {
+          "date": "2009-10-01",
+          "text": "If a creature in combat has banding, its controller assigns damage for creatures blocking or blocked by it. That player can ignore the damage assignment order when making this assignment."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Bog Imp",
+      "layout": "normal",
+      "mana_cost": "{1}{B}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Imp",
+      "supertypes": null,
+      "subtypes": [
+        "Imp"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)",
+      "flavor": "On guard for larger dangers, we underestimated the power and speed of the Imp's muck-crusted claws.",
+      "artist": "Ron Spencer",
+      "number": null,
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "DRK",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED",
+        "POR",
+        "6ED",
+        "S99",
+        "S00",
+        "7ED",
+        "8ED",
+        "9ED"
+      ],
+      "original_text": "Flying",
+      "original_type": "Summon \u2014 Imp",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "b472b933887b7bc5cbf269874b83b6c9117a1b6f",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Bog Wraith",
+      "layout": "normal",
+      "mana_cost": "{3}{B}",
+      "cmc": 4,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Wraith",
+      "supertypes": null,
+      "subtypes": [
+        "Wraith"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)",
+      "flavor": "'Twas in the bogs of Cannelbrae\nMy mate did meet an early grave\n'Twas nothing left for us to save\nIn the peat-filled bogs of Cannelbrae.",
+      "artist": "Jeff A. Menges",
+      "number": null,
+      "power": "3",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED",
+        "POR",
+        "6ED",
+        "S99",
+        "7ED",
+        "8ED",
+        "9ED",
+        "10E",
+        "M10"
+      ],
+      "original_text": "Swampwalk",
+      "original_type": "Summon \u2014 Wraith",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "45279696119b2a702d271c4e4497c0c5955cdba9",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Circle of Protection: Black",
+      "layout": "normal",
+      "mana_cost": "{1}{W}",
+      "cmc": 2,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Enchantment",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Special",
+      "text": "{1}: The next time a black source of your choice would deal damage to you this turn, prevent that damage.",
+      "flavor": null,
+      "artist": "Jesper Myrfors",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "ITP",
+        "5ED",
+        "TMP",
+        "6ED",
+        "7ED",
+        "8ED",
+        "9ED"
+      ],
+      "original_text": "{1}: Prevent all damage to you from one black source. Further damage from that source is treated normally.",
+      "original_type": "Enchantment",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "80f2af08d1f4cd04e0c533b2f401d449edba2b35",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "A source of damage is a permanent, a spell on the stack (including one that creates a permanent), or any object referred to by an object on the stack. A source doesn't need to be capable of dealing damage to be a legal choice."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "Can be used even when there is no damage to prevent. It prevents the next damage (if any) from the source this turn."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Circle of Protection: Red",
+      "layout": "normal",
+      "mana_cost": "{1}{W}",
+      "cmc": 2,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Enchantment",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Special",
+      "text": "{1}: The next time a red source of your choice would deal damage to you this turn, prevent that damage.",
+      "flavor": null,
+      "artist": "Mark Tedin",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "ITP",
+        "5ED",
+        "TMP",
+        "6ED",
+        "pFNM",
+        "7ED",
+        "8ED",
+        "9ED"
+      ],
+      "original_text": "{1}: Prevent all damage to you from one red source. Further damage from that source is treated normally.",
+      "original_type": "Enchantment",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "8eb0037c0a60a3f23913ae6415b08ad109fb298f",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "A source of damage is a permanent, a spell on the stack (including one that creates a permanent), or any object referred to by an object on the stack. A source doesn't need to be capable of dealing damage to be a legal choice."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "Can be used even when there is no damage to prevent. It prevents the next damage (if any) from the source this turn."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Clockwork Beast",
+      "layout": "normal",
+      "mana_cost": "{6}",
+      "cmc": 6,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact Creature \u2014 Beast",
+      "supertypes": null,
+      "subtypes": [
+        "Beast"
+      ],
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Clockwork Beast enters the battlefield with seven +1/+0 counters on it.\nAt end of combat, if Clockwork Beast attacked or blocked this combat, remove a +1/+0 counter from it.\n{X}, {T}: Put up to X +1/+0 counters on Clockwork Beast. This ability can't cause the total number of +1/+0 counters on Clockwork Beast to be greater than seven. Activate this ability only during your upkeep.",
+      "flavor": null,
+      "artist": "Drew Tucker",
+      "number": null,
+      "power": "0",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED",
+        "BTD",
+        "MED"
+      ],
+      "original_text": "Put seven +1/+0 counters on Beast. After Beast attacks or blocks a creature, discard a counter. During the untap phase, controller may buy back lost counters for 1 mana per counter instead of tapping Beast; this taps Beast if it wasn't tapped already.",
+      "original_type": "Artifact Creature",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "ed288fe76d1542a817fac71eec737ed740c5587b",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "Loses a counter even if it is affected by a Fog-like effect which prevents it from dealing damage."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "Can attack or block even if it has no counters."
+        },
+        {
+          "date": "2007-09-16",
+          "text": "This is a change from the most recent wording. Now, if some other spell or ability causes +1/+0 counters to be put on Clockwork Beast, it can wind up with more than seven such counters on it."
+        },
+        {
+          "date": "2007-09-16",
+          "text": "If Clockwork Beast has seven or fewer +1/+0 counters on it when its last ability resolves, it can wind up a maximum of seven such counters on it. If it has seven or more +1/+0 counters on it, the ability will have no effect."
+        },
+        {
+          "date": "2007-09-16",
+          "text": "Clockwork Beast's last ability resolves, you can choose to put fewer than X +1/+0 counters on it."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Cursed Land",
+      "layout": "normal",
+      "mana_cost": "{2}{B}{B}",
+      "cmc": 4,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Enchantment \u2014 Aura",
+      "supertypes": null,
+      "subtypes": [
+        "Aura"
+      ],
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Special",
+      "text": "Enchant land\nAt the beginning of the upkeep of enchanted land's controller, Cursed Land deals 1 damage to that player.",
+      "flavor": null,
+      "artist": "Jesper Myrfors",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED"
+      ],
+      "original_text": "During enchanted land's controller's upkeep, Cursed Land deals 1 damage to the player.",
+      "original_type": "Enchant Land",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "142ba7c04ae5f5172ddeb5576600748605c54f28",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Dark Ritual",
+      "layout": "normal",
+      "mana_cost": "{B}",
+      "cmc": 1,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Add {B}{B}{B} to your mana pool.",
+      "flavor": null,
+      "artist": "Sandra Everingham",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "MIR",
+        "ITP",
+        "5ED",
+        "TMP",
+        "pJGP",
+        "USG",
+        "MMQ",
+        "BRB",
+        "BTD",
+        "DKM",
+        "CST",
+        "DDC",
+        "HOP",
+        "DDE",
+        "ME4",
+        "V13",
+        "VMA",
+        "DD3_DVD",
+        "TPR",
+        "MPS_AKH"
+      ],
+      "original_text": "Add 3 black mana to your mana pool.",
+      "original_type": "Interrupt",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "3bfbb3fa67d93b1dadf1ed6046a16359efc8ca00",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Detonate",
+      "layout": "normal",
+      "mana_cost": "{X}{R}",
+      "cmc": 1,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Special",
+      "text": "Destroy target artifact with converted mana cost X. It can't be regenerated. Detonate deals X damage to that artifact's controller.",
+      "flavor": null,
+      "artist": "Randy Asplund-Faith",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ATQ",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED",
+        "MRD",
+        "ME4"
+      ],
+      "original_text": "Bury target artifact with casting cost equal to X. Detonate deals X damage to that artifact's controller.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "864f19013e9b20af41980f1d49776de1ea98f397",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "If the artifact becomes an illegal target before resolution, then no damage is done."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Disintegrate",
+      "layout": "normal",
+      "mana_cost": "{X}{R}",
+      "cmc": 1,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Special",
+      "text": "Disintegrate deals X damage to target creature or player. That creature can't be regenerated this turn. If the creature would die this turn, exile it instead.",
+      "flavor": null,
+      "artist": "Anson Maddocks",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED",
+        "TSB"
+      ],
+      "original_text": "Disintegrate deals X damage to target creature or player. That creature cannot regenerate until end of turn. If the creature is dealt lethal damage this turn, remove it from the game.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "2272c2604b3e5ea713e90354601668f7d5a58743",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "The \"can't regenerate\" is an effect of Disintegrate and not an effect of the damage. It works even if the damage is prevented or redirected. If redirected, the damage does not take this effect with it."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "Disintegrated creatures do not go to the graveyard at all before being exiled. They do not trigger abilities which trigger due to a creature going to the graveyard."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Durkwood Boars",
+      "layout": "normal",
+      "mana_cost": "{4}{G}",
+      "cmc": 5,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Boar",
+      "supertypes": null,
+      "subtypes": [
+        "Boar"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": null,
+      "flavor": "\"And the unclean spirits went out, and entered the swine: and the herd ran violently . . . .\"\n\u2014Mark 5:13",
+      "artist": "Mike Kimble",
+      "number": null,
+      "power": "4",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEG",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED",
+        "S99",
+        "S00"
+      ],
+      "original_text": null,
+      "original_type": "Summon \u2014 Boars",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "e7ce291fb3d68875744b82a14640a19e6dfab861",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Elven Riders",
+      "layout": "normal",
+      "mana_cost": "{3}{G}{G}",
+      "cmc": 5,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Elf",
+      "supertypes": null,
+      "subtypes": [
+        "Elf"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Elven Riders can't be blocked except by Walls and/or creatures with flying.",
+      "flavor": "\"Sometimes it is better to be swift of foot than strong of swordarm.\"\n\u2014Elven proverb",
+      "artist": "Melissa A. Benson",
+      "number": null,
+      "power": "3",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEG",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED",
+        "6ED",
+        "ONS",
+        "10E",
+        "DPA"
+      ],
+      "original_text": "Elven Riders cannot be blocked except by creatures with flying or walls.",
+      "original_type": "Summon \u2014 Riders",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "618d344180076627ff012a95562a8f4d70c4adc8",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2007-05-01",
+          "text": "Creatures with the Reach ability (such as Giant Spider) don't actually have Flying, so they can't block this."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Elvish Archers",
+      "layout": "normal",
+      "mana_cost": "{1}{G}",
+      "cmc": 2,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Elf Archer",
+      "supertypes": null,
+      "subtypes": [
+        "Elf",
+        "Archer"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "First strike",
+      "flavor": "I tell you, there was so many arrows flying about you couldn't hardly see the sun. So I says to young Angus, \"Well, at least now we're fighting in the shade!\"",
+      "artist": "Anson Maddocks",
+      "number": null,
+      "power": "2",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED",
+        "6ED",
+        "7ED"
+      ],
+      "original_text": "First strike",
+      "original_type": "Summon \u2014 Elves",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "08f193544108c49c792e5cf27816ccf74cc0692a",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Energy Flux",
+      "layout": "normal",
+      "mana_cost": "{2}{U}",
+      "cmc": 3,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Enchantment",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Special",
+      "text": "All artifacts have \"At the beginning of your upkeep, sacrifice this artifact unless you pay {2}.\"",
+      "flavor": null,
+      "artist": "Kaja Foglio",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ATQ",
+        "3ED",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED",
+        "MMQ",
+        "ME4"
+      ],
+      "original_text": "All artifacts in play gain \"During your upkeep, pay an additional {2} or bury this artifact.\"",
+      "original_type": "Enchantment",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "6e8f6e6f6c32848823fb6aad979bacdddd444e32",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Feedback",
+      "layout": "normal",
+      "mana_cost": "{2}{U}",
+      "cmc": 3,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Enchantment \u2014 Aura",
+      "supertypes": null,
+      "subtypes": [
+        "Aura"
+      ],
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Special",
+      "text": "Enchant enchantment\nAt the beginning of the upkeep of enchanted enchantment's controller, Feedback deals 1 damage to that player.",
+      "flavor": null,
+      "artist": "Quinton Hoover",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED"
+      ],
+      "original_text": "During enchanted enchantment's controller's upkeep, Feedback deals 1 damage to that player.",
+      "original_type": "Enchant Enchantment",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "086de8ae59dd2d27bc74d6b0f8bb8d08b7fa7a01",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Fireball",
+      "layout": "normal",
+      "mana_cost": "{X}{R}",
+      "cmc": 1,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Special",
+      "text": "Fireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players.\nFireball costs {1} more to cast for each target beyond the first.",
+      "flavor": null,
+      "artist": "Mark Tedin",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "pMEI",
+        "4ED",
+        "RQS",
+        "pARL",
+        "ITP",
+        "5ED",
+        "ATH",
+        "BTD",
+        "pMPR",
+        "DST",
+        "DD2",
+        "M10",
+        "ARC",
+        "M11",
+        "PD2",
+        "ME4",
+        "M12",
+        "C13",
+        "DD3_JVC",
+        "IMA"
+      ],
+      "original_text": "Fireball deals X damage divided evenly, round down, among any number of target creatures and/or players. Pay an additional {1} for each target beyond the first.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "078196dec7769aa9e81c730d0635a16b9b06f241",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2017-11-17",
+          "text": "For example, if X is 5 and you choose three target creatures, Fireball has a total cost of {7}{R} (even though its mana cost is just {5}{R} and its converted mana cost is 6). If those creatures are all still legal targets as Fireball resolves, it deals 1 damage to each of them."
+        },
+        {
+          "date": "2017-11-17",
+          "text": "You may cast Fireball with zero targets, regardless of the value chosen for X. If you do so, it will not be a targeted spell, and no damage will actually be dealt when it resolves."
+        },
+        {
+          "date": "2017-11-17",
+          "text": "Fireball's damage is divided as Fireball resolves, not as it's cast, because there are no choices involved. The division involves only targets that are still legal as Fireball resolves."
+        },
+        {
+          "date": "2017-11-17",
+          "text": "You can target more than X creatures. However, if the number of legal targets at the time Fireball resolves is greater than X, none of them will be dealt any damage."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Forest",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Forest",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Forest"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Christopher Rush",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "EVG",
+        "SHM",
+        "ALA",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "DDD",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "DDM",
+        "M15",
+        "KTK",
+        "C14",
+        "DD3_EVG",
+        "DD3_GVL",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "SOI",
+        "DDR",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN"
+      ],
+      "original_text": "Tap to add {G} to your mana pool.",
+      "original_type": "Land",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "5a3e0b7747e7e6ef9dd2954330d94fe92c87ff09",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Glasses of Urza",
+      "layout": "normal",
+      "mana_cost": "{1}",
+      "cmc": 1,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "{T}: Look at target player's hand.",
+      "flavor": null,
+      "artist": "Douglas Shuler",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED",
+        "6ED",
+        "ME4"
+      ],
+      "original_text": "You may look at opponent's hand.",
+      "original_type": "Mono Artifact",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "a1a5e62261379880b59d9684246a85cc1a960a63",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Grizzly Bears",
+      "layout": "normal",
+      "mana_cost": "{1}{G}",
+      "cmc": 2,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Bear",
+      "supertypes": null,
+      "subtypes": [
+        "Bear"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": null,
+      "flavor": "Don't try to outrun one of Dominia's Grizzlies; it'll catch you, knock you down, and eat you. Of course, you could run up a tree. In that case you'll get a nice view before it knocks the tree down and eats you.",
+      "artist": "Jeff A. Menges",
+      "number": null,
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED",
+        "POR",
+        "6ED",
+        "S99",
+        "7ED",
+        "8ED",
+        "9ED",
+        "10E"
+      ],
+      "original_text": null,
+      "original_type": "Summon \u2014 Bears",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "9b5903a69e3e0fee9b90945d0bcff7925a0e6948",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Healing Salve",
+      "layout": "normal",
+      "mana_cost": "{W}",
+      "cmc": 1,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Choose one \u2014\n\u2022 Target player gains 3 life.\n\u2022 Prevent the next 3 damage that would be dealt to target creature or player this turn.",
+      "flavor": null,
+      "artist": "Dan Frazier",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "RQS",
+        "MIR",
+        "ITP",
+        "5ED",
+        "USG",
+        "6ED",
+        "BRB",
+        "7ED",
+        "8ED",
+        "DDC",
+        "ME4",
+        "DD3_DVD"
+      ],
+      "original_text": "Target player gains 3 life, or prevent up to 3 damage to any creature or player.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "1c270887f4b1a0efcc0a82e5251e4ffab68de91a",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Hill Giant",
+      "layout": "normal",
+      "mana_cost": "{3}{R}",
+      "cmc": 4,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Giant",
+      "supertypes": null,
+      "subtypes": [
+        "Giant"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": null,
+      "flavor": "Fortunately, Hill Giants have large blind spots in which a human can easily hide. Unfortunately, these blind spots are beneath the bottoms of their feet.",
+      "artist": "Dan Frazier",
+      "number": null,
+      "power": "3",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED",
+        "POR",
+        "7ED",
+        "8ED",
+        "9ED",
+        "10E",
+        "DPA"
+      ],
+      "original_text": null,
+      "original_type": "Summon \u2014 Giant",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "d9c352d9cfc6b123145639f502f624389b619915",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Ironclaw Orcs",
+      "layout": "normal",
+      "mana_cost": "{1}{R}",
+      "cmc": 2,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Orc",
+      "supertypes": null,
+      "subtypes": [
+        "Orc"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Ironclaw Orcs can't block creatures with power 2 or greater.",
+      "flavor": "Generations of genetic weeding have given rise to the deviously cowardly Ironclaw clan. To say that Orcs in general are vicious, depraved, and ignoble does not do justice to the Ironclaw.",
+      "artist": "Anson Maddocks",
+      "number": null,
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED",
+        "ME2"
+      ],
+      "original_text": "Ironclaw Orcs cannot be assigned to block any creature with power 2 or greater.",
+      "original_type": "Summon \u2014 Orcs",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "2719fbb57812bc6df1fcd87c8429bf68bd685faf",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Island",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Island",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Island"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Mark Poole",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DD2",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "DDF",
+        "SOM",
+        "MBS",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "M14",
+        "THS",
+        "C13",
+        "DDM",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_JVC",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "DDT"
+      ],
+      "original_text": "Tap to add {U} to your mana pool.",
+      "original_type": "Land",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "46e6956d625e51e2d00d836736c1c7d20e350c0d",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Jayemdae Tome",
+      "layout": "normal",
+      "mana_cost": "{4}",
+      "cmc": 4,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "{4}, {T}: Draw a card.",
+      "flavor": null,
+      "artist": "Mark Tedin",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED",
+        "6ED",
+        "7ED",
+        "8ED",
+        "10E",
+        "M13",
+        "ORI"
+      ],
+      "original_text": "{4}, {T}: Draw a card.",
+      "original_type": "Mono Artifact",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "71c59e83ffb70c84c87d4d602007d3ca023576f5",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Lost Soul",
+      "layout": "normal",
+      "mana_cost": "{1}{B}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Spirit Minion",
+      "supertypes": null,
+      "subtypes": [
+        "Spirit",
+        "Minion"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)",
+      "flavor": "Her hand gently beckons,\nshe whispers your name\u2014\nBut those who go with her\nare never the same.",
+      "artist": "Randy Asplund-Faith",
+      "number": null,
+      "power": "2",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEG",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED",
+        "6ED"
+      ],
+      "original_text": "Swampwalk",
+      "original_type": "Summon \u2014 Lost Soul",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "8a686041e2f11a63036406ac2a17b737e2e951bd",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Merfolk of the Pearl Trident",
+      "layout": "normal",
+      "mana_cost": "{U}",
+      "cmc": 1,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Merfolk",
+      "supertypes": null,
+      "subtypes": [
+        "Merfolk"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": null,
+      "flavor": "Most human scholars believe that Merfolk are the survivors of sunken Atlantis, humans adapted to the water. Merfolk, however, believe that humans sprang forth from Merfolk who adapted themselves in order to explore their last frontier.",
+      "artist": "Jeff A. Menges",
+      "number": null,
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED",
+        "POR",
+        "6ED",
+        "S99",
+        "S00",
+        "7ED",
+        "M13"
+      ],
+      "original_text": null,
+      "original_type": "Summon \u2014 Merfolk",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "7facfcccbf86fc743acfc814b3287865e8457a88",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Mesa Pegasus",
+      "layout": "normal",
+      "mana_cost": "{1}{W}",
+      "cmc": 2,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Pegasus",
+      "supertypes": null,
+      "subtypes": [
+        "Pegasus"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Flying; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)",
+      "flavor": "Before a woman marries in the village of Sursi, she must visit the land of the Mesa Pegasus. Legend has it that if the woman is pure of heart and her love is true, a Mesa Pegasus will appear, blessing her family with long life and good fortune.",
+      "artist": "Melissa A. Benson",
+      "number": null,
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED",
+        "MED"
+      ],
+      "original_text": "Banding, flying",
+      "original_type": "Summon \u2014 Pegasus",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "3effbc6d44473cddae0893e070bd9f3fd1693763",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-10-01",
+          "text": "If a creature with banding attacks, it can team up with any number of other attacking creatures with banding (and up to one nonbanding creature) and attack as a unit called a \"band.\" The band can be blocked by any creature that could block a single creature in the band. Blocking any creature in a band blocks the entire band. If a creature with banding is blocked, the attacking player chooses how the blockers' damage is assigned."
+        },
+        {
+          "date": "2008-10-01",
+          "text": "A maximum of one nonbanding creature can join an attacking band no matter how many creatures with banding are in it."
+        },
+        {
+          "date": "2008-10-01",
+          "text": "Creatures in the same band must all attack the same player or planeswalker."
+        },
+        {
+          "date": "2009-10-01",
+          "text": "If a creature in combat has banding, its controller assigns damage for creatures blocking or blocked by it. That player can ignore the damage assignment order when making this assignment."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Mons's Goblin Raiders",
+      "layout": "normal",
+      "mana_cost": "{R}",
+      "cmc": 1,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Goblin",
+      "supertypes": null,
+      "subtypes": [
+        "Goblin"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": null,
+      "flavor": "The intricate dynamics of Rundvelt Goblin affairs are often confused with anarchy. The chaos, however, is the chaos of a thundercloud, and direction will sporadically and violently appear. Pashalik Mons and his raiders are the thunderhead that leads in the storm.",
+      "artist": "Jeff A. Menges",
+      "number": null,
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED",
+        "S99",
+        "S00"
+      ],
+      "original_text": null,
+      "original_type": "Summon \u2014 Goblins",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "6e17b4ae84426825c6e182c044e18e633d8d4bfd",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Mountain",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Mountain",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Mountain"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Douglas Shuler",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "ARN",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "EVG",
+        "SHM",
+        "ALA",
+        "DD2",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "PD2",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "DDK",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_EVG",
+        "DD3_JVC",
+        "FRF",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "DDT"
+      ],
+      "original_text": "Tap to add {R} to your mana pool.",
+      "original_type": "Land",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "e2b3649ee6b1998f53904e5eaa95cecb435adb4f",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Murk Dwellers",
+      "layout": "normal",
+      "mana_cost": "{3}{B}",
+      "cmc": 4,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Zombie",
+      "supertypes": null,
+      "subtypes": [
+        "Zombie"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Whenever Murk Dwellers attacks and isn't blocked, it gets +2/+0 until end of combat.",
+      "flavor": "When Raganorn unsealed the catacombs, he found more than the dead and their treasures.",
+      "artist": "Drew Tucker",
+      "number": null,
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "DRK",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED"
+      ],
+      "original_text": "If Murk Dwellers attacks and is not blocked, it gets +2/+0 until end of combat.",
+      "original_type": "Summon \u2014 Murk Dwellers",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "e0a4f3a06b34c0ea63ce46dcf020b4975c93a890",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "An ability that triggers when something \"attacks and isn't blocked\" triggers in the declare blockers step after blockers are declared if (1) that creature is attacking and (2) no creatures are declared to block it. It will trigger even if that creature was put onto the battlefield attacking rather than having been declared as an attacker in the declare attackers step."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Orcish Artillery",
+      "layout": "normal",
+      "mana_cost": "{1}{R}{R}",
+      "cmc": 3,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Orc Warrior",
+      "supertypes": null,
+      "subtypes": [
+        "Orc",
+        "Warrior"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "{T}: Orcish Artillery deals 2 damage to target creature or player and 3 damage to you.",
+      "flavor": "In a rare display of ingenuity, the Orcs invented an incredibly destructive weapon. Most Orcish artillerists are those who dared criticize its effectiveness.",
+      "artist": "Anson Maddocks",
+      "number": null,
+      "power": "1",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED",
+        "6ED",
+        "7ED",
+        "8ED",
+        "9ED",
+        "10E"
+      ],
+      "original_text": "Tap to do 2 damage to any target, but you suffer 3 damage as well.",
+      "original_type": "Summon \u2014 Orcs",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "b18e2118900231103cdaa8137da1e42772c8cf8a",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "You do not take the 3 points of damage if the ability is countered because the target is illegal."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Orcish Oriflamme",
+      "layout": "normal",
+      "mana_cost": "{3}{R}",
+      "cmc": 4,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Enchantment",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Special",
+      "text": "Attacking creatures you control get +1/+0.",
+      "flavor": null,
+      "artist": "Dan Frazier",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED",
+        "6ED",
+        "S00",
+        "7ED",
+        "EMA"
+      ],
+      "original_text": "When attacking, all of your attacking creatures gain +1/+0.",
+      "original_type": "Enchantment",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "c2c3486a0fd32470049265c42c3f96a9fd4b0ce8",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Pearled Unicorn",
+      "layout": "normal",
+      "mana_cost": "{2}{W}",
+      "cmc": 3,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Unicorn",
+      "supertypes": null,
+      "subtypes": [
+        "Unicorn"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": null,
+      "flavor": "\"'Do you know, I always thought Unicorns were fabulous monsters, too? I never saw one alive before!' 'Well, now that we have seen each other,' said the Unicorn, 'if you'll believe in me, I'll believe in you.'\" \u2014Lewis Carroll",
+      "artist": "Cornelius Brudi",
+      "number": null,
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED"
+      ],
+      "original_text": null,
+      "original_type": "Summon \u2014 Unicorn",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "4b4ae8cc9e5dcbb4b0cf54b18ce4eff1d58cdf99",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Phantom Monster",
+      "layout": "normal",
+      "mana_cost": "{3}{U}",
+      "cmc": 4,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Illusion",
+      "supertypes": null,
+      "subtypes": [
+        "Illusion"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Flying",
+      "flavor": "\"While, like a ghastly rapid river,\nThrough the pale door,\nA hideous throng rush out forever,\nAnd laugh\u2014but smile no more.\"\n\u2014Edgar Allan Poe, \"The Haunted Palace\"",
+      "artist": "Jesper Myrfors",
+      "number": null,
+      "power": "3",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ITP",
+        "5ED",
+        "MED",
+        "EMA",
+        "IMA"
+      ],
+      "original_text": "Flying",
+      "original_type": "Summon \u2014 Phantasm",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "9bfbdba14ebdd69d81d89a599ccfba7f88642560",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Plains",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Plains",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Plains"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Jesper Myrfors",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "pPRE",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "INV",
+        "7ED",
+        "ODY",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DDC",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "ARC",
+        "M11",
+        "DDF",
+        "SOM",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "RTR",
+        "DDK",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "MD1",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_DVD",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN"
+      ],
+      "original_text": "Tap to add {W} to your mana pool.",
+      "original_type": "Land",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "96f839810a6fe15b0e3d07d26f652f0a60ace3a5",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Power Sink",
+      "layout": "normal",
+      "mana_cost": "{X}{U}",
+      "cmc": 1,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Counter target spell unless its controller pays {X}. If he or she doesn't, that player taps all lands with mana abilities he or she controls and empties his or her mana pool.",
+      "flavor": null,
+      "artist": "Richard Thomas",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "MIR",
+        "ITP",
+        "5ED",
+        "TMP",
+        "USG",
+        "6ED",
+        "BTD",
+        "VMA"
+      ],
+      "original_text": "Counter target spell unless that spell's caster pays an additional {X}. That player draws and pays all available mana from lands and mana pool until {X} is paid; he or she may also draw and pay mana from other sources if desired.",
+      "original_type": "Interrupt",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "8e89ec8c29d83f4e836a16054159a970fd86fcd2",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "Does not increase the mana cost of the spell. It just requires a separate expenditure in order for it to succeed."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "When this spell resolves, you either pay X mana or let your lands become tapped. The lands that become tapped are not \"tapped for mana\". If you choose to pay, you may pay the X mana using whatever mana abilities you want to use."
+        },
+        {
+          "date": "2010-03-01",
+          "text": "Only lands that actually have mana abilities will get tapped. This includes basic lands and lands with mana abilities printed on them, as well as lands which have been granted a mana ability by some effect."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Pyrotechnics",
+      "layout": "normal",
+      "mana_cost": "{4}{R}",
+      "cmc": 5,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Special",
+      "text": "Pyrotechnics deals 4 damage divided as you choose among any number of target creatures and/or players.",
+      "flavor": "\"Hi! ni! ya! Behold the man of flint, that's me!\nFour lightnings zigzag from me, strike and return.\" \u2014Navajo war chant",
+      "artist": "Anson Maddocks",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEG",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED",
+        "ATH",
+        "6ED",
+        "7ED",
+        "8ED",
+        "HOP",
+        "FRF"
+      ],
+      "original_text": "Pyrotechnics deals 4 damage divided any way you choose among any number of target creatures and/or players.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "22a89324b4ffd50bcf94f40b004d66b34e7ac7bd",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2014-11-24",
+          "text": "The number of targets chosen for Pyrotechnics must be at least one and at most four. You choose how the damage is divided as you cast the spell, not as it resolves. Each target must be assigned at least 1 damage."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "If some but not all of Pyrotechnics's targets become illegal, you can't change the division of damage. Damage that would have been dealt to illegal targets simply isn't dealt."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "You can't deal damage to both a player and a planeswalker that player controls using Pyrotechnics. You also can't deal damage to more than one planeswalker controlled by the same player. If you choose to redirect the damage being dealt to a player to a planeswalker, you must redirect all the damage to a single planeswalker."
+        },
+        {
+          "date": "2014-11-24",
+          "text": "If an effect creates a copy of Pyrotechnics, the number of targets and division of damage can't be changed. The effect that creates the copy may allow you to change the targets, however."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Raise Dead",
+      "layout": "normal",
+      "mana_cost": "{B}",
+      "cmc": 1,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Special",
+      "text": "Return target creature card from your graveyard to your hand.",
+      "flavor": null,
+      "artist": "Jeff A. Menges",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED",
+        "POR",
+        "PO2",
+        "6ED",
+        "S99",
+        "7ED",
+        "8ED",
+        "9ED",
+        "CN2",
+        "W17"
+      ],
+      "original_text": "Put target creature card from your graveyard into your hand.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "f370667fe98bd62bff936650324e870d3268959d",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "You must show the card you bring out of the graveyard to your opponent."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "The creature being brought back is chosen on announcement and not on resolution of the spell because it is targeted."
+        },
+        {
+          "date": "2008-04-01",
+          "text": "A \"creature card\" is any card with the type creature, even if it has other types such as artifact, enchantment, or land. Older cards of type summon are also creature cards."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Reverse Damage",
+      "layout": "normal",
+      "mana_cost": "{1}{W}{W}",
+      "cmc": 3,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "The next time a source of your choice would deal damage to you this turn, prevent that damage. You gain life equal to the damage prevented this way.",
+      "flavor": null,
+      "artist": "Dameon Willich",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ITP",
+        "5ED",
+        "6ED",
+        "7ED",
+        "9ED"
+      ],
+      "original_text": "All damage dealt to you frmo one source this turn is retroactively added to your life total instead of subtracted from it. Further damage from that source is treated normally.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "27e1d8c426a32a03dc1f22163491e6c2c6c4eb28",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "It only affects damage dealt by the source one time. If the source damages you a second time this turn, the damage will not be reversed."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Rod of Ruin",
+      "layout": "normal",
+      "mana_cost": "{4}",
+      "cmc": 4,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "{3}, {T}: Rod of Ruin deals 1 damage to target creature or player.",
+      "flavor": null,
+      "artist": "Christopher Rush",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED",
+        "6ED",
+        "S00",
+        "7ED",
+        "8ED",
+        "9ED",
+        "10E",
+        "M10",
+        "M14"
+      ],
+      "original_text": "{3}: Rod of Ruin does 1 damage to any target.",
+      "original_type": "Mono Artifact",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "018e041fc131ec2e3690957f9ee0064b06cc64df",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Scathe Zombies",
+      "layout": "normal",
+      "mana_cost": "{2}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Zombie",
+      "supertypes": null,
+      "subtypes": [
+        "Zombie"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": null,
+      "flavor": "\"They groaned, they stirred, they all uprose,/ Nor spake, nor moved their eyes;/ It had been strange, even in a dream,/ To have seen those dead men rise.\"/ \u2014Samuel Coleridge, \"The Rime of the Ancient Mariner\"",
+      "artist": "Jesper Myrfors",
+      "number": null,
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ITP",
+        "5ED",
+        "6ED",
+        "S99",
+        "S00",
+        "7ED",
+        "8ED",
+        "9ED",
+        "10E"
+      ],
+      "original_text": null,
+      "original_type": "Summon \u2014 Zombies",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "c8a5e17a71f7eb29b8603b60ac3de77c45c1bbcd",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Scryb Sprites",
+      "layout": "normal",
+      "mana_cost": "{G}",
+      "cmc": 1,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Faerie",
+      "supertypes": null,
+      "subtypes": [
+        "Faerie"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Flying",
+      "flavor": "The only sound was the gentle clicking of the Faeries' wings. Then those intruders who were still standing turned and fled. One thing was certain: they didn't think the Scryb were very funny anymore.",
+      "artist": "Amy Weber",
+      "number": null,
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED",
+        "BRB",
+        "MED",
+        "ME3"
+      ],
+      "original_text": "Flying",
+      "original_type": "Summon \u2014 Faeries",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "14dd4165b85c1fc105407901e1d6688921718a19",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Sorceress Queen",
+      "layout": "normal",
+      "mana_cost": "{1}{B}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Wizard",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Wizard"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "{T}: Target creature other than Sorceress Queen has base power and toughness 0/2 until end of turn.",
+      "flavor": null,
+      "artist": "Kaja Foglio",
+      "number": null,
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ARN",
+        "3ED",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED"
+      ],
+      "original_text": "{T}: Make another creature 0/2 until end of turn. Treat this exactly as if the numbers in the lower right of the target card were 0/2. All special characteristics and enchantments on the creature are unaffected.",
+      "original_type": "Summon \u2014 Sorceress",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "beafb2867b2704b3c84050d69216269da38410f9",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Swamp",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Swamp",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Swamp"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Dan Frazier",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DDC",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "DDD",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "MBS",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "PD3",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "DDK",
+        "M14",
+        "THS",
+        "C13",
+        "DDM",
+        "MD1",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_DVD",
+        "DD3_GVL",
+        "FRF",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "DDR",
+        "KLD",
+        "C16",
+        "PCA",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN"
+      ],
+      "original_text": "Tap to add {B} to your mana pool.",
+      "original_type": "Land",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "07bfa66e2224f0b1a557ce8fec64fc275e4a81eb",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Terror",
+      "layout": "normal",
+      "mana_cost": "{1}{B}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Destroy target nonartifact, nonblack creature. It can't be regenerated.",
+      "flavor": null,
+      "artist": "Ron Spencer",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED",
+        "ATH",
+        "6ED",
+        "BRB",
+        "pFNM",
+        "S00",
+        "BTD",
+        "pMPR",
+        "MRD",
+        "10E",
+        "DPA",
+        "ME4"
+      ],
+      "original_text": "Destroys target creature without possibility of regeneration. Does not affect black creatures and artifact creatures.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "c9c1df12441ac480e3383289aee7ad2e2741b93a",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Twiddle",
+      "layout": "normal",
+      "mana_cost": "{U}",
+      "cmc": 1,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "You may tap or untap target artifact, creature, or land.",
+      "flavor": null,
+      "artist": "Rob Alexander",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED",
+        "7ED",
+        "8ED"
+      ],
+      "original_text": "Tap or untap target artifact, creature, or land.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "1599e1c9ef7e988e5c6eaecc9eeb295ad888e4bf",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "This is not a toggle effect. If you use Twiddle to tap a card and before it takes effect your opponent taps it, Twiddle will not automatically untap the card."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "The decision whether or not to tap or untap is made on resolution. This is not a modal spell."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Unsummon",
+      "layout": "normal",
+      "mana_cost": "{U}",
+      "cmc": 1,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Return target creature to its owner's hand.",
+      "flavor": null,
+      "artist": "Douglas Shuler",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED",
+        "6ED",
+        "7ED",
+        "8ED",
+        "10E",
+        "CON",
+        "M10",
+        "DPA",
+        "M11",
+        "M12",
+        "M13",
+        "HOU"
+      ],
+      "original_text": "Return creature to owner's hand; enchantments on creature are discarded. Unsummon cannot be played during the damage-dealing phase of an attack.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "ee4b668e628d48415539cd4735dfa5bd31e5dc23",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Untamed Wilds",
+      "layout": "normal",
+      "mana_cost": "{2}{G}",
+      "cmc": 3,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Special",
+      "text": "Search your library for a basic land card and put that card onto the battlefield. Then shuffle your library.",
+      "flavor": null,
+      "artist": "N\u00e9N\u00e9 Thomas",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEG",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED",
+        "POR",
+        "PO2",
+        "6ED",
+        "S99",
+        "7ED"
+      ],
+      "original_text": "Search your library for a basic land card and put it into play. Shuffle your library afterwards.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "675f82847bc617360dc1a49d3d24d59e03063405",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "Because the \"search\" requires you to find a card with certain characteristics, you don't have to find the card if you don't want to."
+        },
+        {
+          "date": "2006-10-15",
+          "text": "Can fetch a snow land."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Vampire Bats",
+      "layout": "normal",
+      "mana_cost": "{B}",
+      "cmc": 1,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Bat",
+      "supertypes": null,
+      "subtypes": [
+        "Bat"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\n{B}: Vampire Bats gets +1/+0 until end of turn. Activate this ability no more than twice each turn.",
+      "flavor": "\"For something is amiss or out of place\nWhen mice with wings can wear a human face.\"\n\u2014Theodore Roethke, \"The Bat\"",
+      "artist": "Anson Maddocks",
+      "number": null,
+      "power": "0",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEG",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED",
+        "10E",
+        "DDD",
+        "DD3_GVL"
+      ],
+      "original_text": "Flying\n{B}: +1/+0 until end of turn. You cannot spend more than {B}{B} in this way each turn.",
+      "original_type": "Summon \u2014 Bats",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "56434f26b7c1147224068e870191d87add7629a1",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Wall of Bone",
+      "layout": "normal",
+      "mana_cost": "{2}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Skeleton Wall",
+      "supertypes": null,
+      "subtypes": [
+        "Skeleton",
+        "Wall"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Defender (This creature can't attack.)\n{B}: Regenerate Wall of Bone. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)",
+      "flavor": "The Wall of Bone is said to be an aspect of the Great Wall in Hel, where the bones of all sinners wait for Ragnarok, when Hela will call them forth for the final battle.",
+      "artist": "Anson Maddocks",
+      "number": null,
+      "power": "1",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED",
+        "7ED",
+        "M10",
+        "DDD",
+        "DD3_GVL"
+      ],
+      "original_text": "{B}: Regenerate",
+      "original_type": "Summon \u2014 Wall",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "929d6299c321aa9eaa27dc0e9ef96d3746a81527",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "War Mammoth",
+      "layout": "normal",
+      "mana_cost": "{3}{G}",
+      "cmc": 4,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Elephant",
+      "supertypes": null,
+      "subtypes": [
+        "Elephant"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Trample",
+      "flavor": "I didn't think Mammoths could ever hold a candle to a well-trained battle horse. Then one day I turned my back on a drunken soldier. His blow never landed; Mi'cha flung the brute over ten meters.",
+      "artist": "Jeff A. Menges",
+      "number": null,
+      "power": "3",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED",
+        "ME4"
+      ],
+      "original_text": "Trample",
+      "original_type": "Summon \u2014 Mammoth",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "546dc3d6bd20d9f7f8a3086a4d4d0b9722ef0eb6",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Warp Artifact",
+      "layout": "normal",
+      "mana_cost": "{B}{B}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Enchantment \u2014 Aura",
+      "supertypes": null,
+      "subtypes": [
+        "Aura"
+      ],
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Special",
+      "text": "Enchant artifact\nAt the beginning of the upkeep of enchanted artifact's controller, Warp Artifact deals 1 damage to that player.",
+      "flavor": null,
+      "artist": "Amy Weber",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED",
+        "ME4"
+      ],
+      "original_text": "During enchanted artifact's controller's upkeep, Warp Artifact deals 1 damage to that player.",
+      "original_type": "Enchant Artifact",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "d819e3b3804bcfdbd959c197136677f07ea0ee5a",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Weakness",
+      "layout": "normal",
+      "mana_cost": "{B}",
+      "cmc": 1,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Enchantment \u2014 Aura",
+      "supertypes": null,
+      "subtypes": [
+        "Aura"
+      ],
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Special",
+      "text": "Enchant creature\nEnchanted creature gets -2/-1.",
+      "flavor": null,
+      "artist": "Douglas Shuler",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED",
+        "BRB",
+        "M10",
+        "ME4"
+      ],
+      "original_text": "Enchanted creature gets -2/-1.",
+      "original_type": "Enchant Creature",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "7ff9b48f2d93e36f2242f7a142676c94f4f12b44",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Whirling Dervish",
+      "layout": "normal",
+      "mana_cost": "{G}{G}",
+      "cmc": 2,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Human Monk",
+      "supertypes": null,
+      "subtypes": [
+        "Human",
+        "Monk"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Protection from black\nAt the beginning of each end step, if Whirling Dervish dealt damage to an opponent this turn, put a +1/+1 counter on it.",
+      "flavor": null,
+      "artist": "Susan Van Camp",
+      "number": null,
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEG",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED",
+        "pSUS",
+        "TSB"
+      ],
+      "original_text": "Protection from black\nAt the end of any turn in which Whirling Dervish damaged any opponent, put a +1/+1 counter on it.",
+      "original_type": "Summon \u2014 Dervish",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "a46a55c1e2dec9a7ed8caefb8ce70e7150508fd5",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "If it damages the opponent multiple times in a turn, it gets only one +1/+1 counter at end of turn."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Winter Blast",
+      "layout": "normal",
+      "mana_cost": "{X}{G}",
+      "cmc": 1,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Special",
+      "text": "Tap X target creatures. Winter Blast deals 2 damage to each of those creatures with flying.",
+      "flavor": "\"Blow, winds, and crack your cheeks! rage! blow!\" \u2014William Shakespeare, King Lear",
+      "artist": "Kaja Foglio",
+      "number": null,
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEG",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED",
+        "MED"
+      ],
+      "original_text": "Tap X target creatures. Winter Blast deals 2 damage to each of those creatures with flying.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "b3ef31825694f72d1ab60717515589c3cd4eda28",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2007-09-16",
+          "text": "Winter Blast can target tapped creatures. If they have flying, the second part of the effect will still affect them."
+        },
+        {
+          "date": "2007-09-16",
+          "text": "Checks if the creatures are Flying on resolution and not on announcement. It's not a targeting restriction."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Zephyr Falcon",
+      "layout": "normal",
+      "mana_cost": "{1}{U}",
+      "cmc": 2,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Bird",
+      "supertypes": null,
+      "subtypes": [
+        "Bird"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Flying, vigilance",
+      "flavor": "Although greatly prized among falconers, the Zephyr Falcon is capricious and not easily tamed.",
+      "artist": "Heather Hudson",
+      "number": null,
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEG",
+        "4ED",
+        "RQS",
+        "ITP",
+        "5ED"
+      ],
+      "original_text": "Flying\nAttacking does not cause Zephyr Falcon to tap.",
+      "original_type": "Summon \u2014 Falcon",
+      "source": null,
+      "image_url": null,
+      "set": "ITP",
+      "set_name": "Introductory Two-Player Set",
+      "id": "ddb397a7e23b0a2964b53592560c03f80421ad88",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    }
+  ]
+}

@@ -1,0 +1,4365 @@
+{
+  "code": "H09",
+  "name": "Premium Deck Series: Slivers",
+  "type": "premium deck",
+  "border": "black",
+  "mkm_id": 116,
+  "mkm_name": "Premium Deck Series: Slivers",
+  "release_date": "2009-11-20",
+  "gatherer_code": null,
+  "magic_cards_info_code": "pds",
+  "booster": null,
+  "old_code": null,
+  "block": null,
+  "online_only": null,
+  "cards": [
+    {
+      "name": "Metallic Sliver",
+      "layout": "normal",
+      "mana_cost": "{1}",
+      "cmc": 1,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact Creature \u2014 Sliver",
+      "supertypes": null,
+      "subtypes": [
+        "Sliver"
+      ],
+      "types": [
+        "Artifact",
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": null,
+      "flavor": "When the clever counterfeit was accepted by the hive, Volrath's influence upon the slivers grew even stronger.",
+      "artist": "L. A. Williams",
+      "number": "1",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 208040,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "TMP",
+        "H09",
+        "TPR"
+      ],
+      "original_text": null,
+      "original_type": "Artifact Creature \u2014 Sliver",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=208040&type=card",
+      "set": "H09",
+      "set_name": "Premium Deck Series: Slivers",
+      "id": "11ca7585c30a8058eaf8a2ea6dfdc5044768795f",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-07-01",
+          "text": "Abilities that Slivers grant, as well as power/toughness boosts, are cumulative. However, for some abilities, like flying, having more than one instance of the ability doesn't provide any additional benefit."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "If the creature type of a Sliver changes so it's no longer a Sliver, it will no longer be affected by its own ability. Its ability will continue to affect other Sliver creatures."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Virulent Sliver",
+      "layout": "normal",
+      "mana_cost": "{G}",
+      "cmc": 1,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Sliver",
+      "supertypes": null,
+      "subtypes": [
+        "Sliver"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "All Sliver creatures have poisonous 1. (Whenever a Sliver deals combat damage to a player, that player gets a poison counter. A player with ten or more poison counters loses the game.)",
+      "flavor": null,
+      "artist": "Franz Vohwinkel",
+      "number": "2",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 207919,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "FUT",
+        "H09"
+      ],
+      "original_text": "All Sliver creatures have poisonous 1. (Whenever a Sliver deals combat damage to a player, that player gets a poison counter. A player with ten or more poison counters loses the game.)",
+      "original_type": "Creature \u2014 Sliver",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=207919&type=card",
+      "set": "H09",
+      "set_name": "Premium Deck Series: Slivers",
+      "id": "1ce47933ee36a016476a38db18ab856b2b56c091",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-07-01",
+          "text": "Abilities that Slivers grant, as well as power/toughness boosts, are cumulative. However, for some abilities, like flying, having more than one instance of the ability doesn't provide any additional benefit."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "If the creature type of a Sliver changes so it's no longer a Sliver, it will no longer be affected by its own ability. Its ability will continue to affect other Sliver creatures."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Amoeboid Changeling",
+      "layout": "normal",
+      "mana_cost": "{1}{U}",
+      "cmc": 2,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Shapeshifter",
+      "supertypes": null,
+      "subtypes": [
+        "Shapeshifter"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Changeling (This card is every creature type.)\n{T}: Target creature gains all creature types until end of turn.\n{T}: Target creature loses all creature types until end of turn.",
+      "flavor": null,
+      "artist": "Nils Hamm",
+      "number": "3",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 207921,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LRW",
+        "H09"
+      ],
+      "original_text": "Changeling (This card is every creature type at all times.)\n{T}: Target creature gains all creature types until end of turn.\n{T}: Target creature loses all creature types until end of turn.",
+      "original_type": "Creature \u2014 Shapeshifter",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=207921&type=card",
+      "set": "H09",
+      "set_name": "Premium Deck Series: Slivers",
+      "id": "0048a083d8ac55248b0cce79fc74e03c9b507723",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2007-10-01",
+          "text": "If a creature loses all creature types but then gains a new creature type later in the turn, it will be that new creature type."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "Examples of creature types include Sliver, Goblin, and Soldier. Creature types appear after the dash on the type line of creatures."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Winged Sliver",
+      "layout": "normal",
+      "mana_cost": "{1}{U}",
+      "cmc": 2,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Sliver",
+      "supertypes": null,
+      "subtypes": [
+        "Sliver"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "All Sliver creatures have flying.",
+      "flavor": "\"Everything around here has cut a deal with gravity.\"\n\u2014Gerrard of the Weatherlight",
+      "artist": "Anthony S. Waters",
+      "number": "4",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 207920,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "TMP",
+        "H09",
+        "TPR"
+      ],
+      "original_text": "All Sliver creatures have flying.",
+      "original_type": "Creature \u2014 Sliver",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=207920&type=card",
+      "set": "H09",
+      "set_name": "Premium Deck Series: Slivers",
+      "id": "ea347ecfcf72ae0dd86158bdc4079441933fae76",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-07-01",
+          "text": "Abilities that Slivers grant, as well as power/toughness boosts, are cumulative. However, for some abilities, like flying, having more than one instance of the ability doesn't provide any additional benefit."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "If the creature type of a Sliver changes so it's no longer a Sliver, it will no longer be affected by its own ability. Its ability will continue to affect other Sliver creatures."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Clot Sliver",
+      "layout": "normal",
+      "mana_cost": "{1}{B}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Sliver",
+      "supertypes": null,
+      "subtypes": [
+        "Sliver"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "All Slivers have \"{2}: Regenerate this permanent.\"",
+      "flavor": "\"One would think I would be accustomed to unexpected returns.\"\n\u2014Hanna, Weatherlight navigator",
+      "artist": "Jeff Laubenstein",
+      "number": "5",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 207900,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "TMP",
+        "H09",
+        "TPR"
+      ],
+      "original_text": "All Slivers have \"{2}: Regenerate this permanent.\"",
+      "original_type": "Creature \u2014 Sliver",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=207900&type=card",
+      "set": "H09",
+      "set_name": "Premium Deck Series: Slivers",
+      "id": "605143e1b090968b0e46c5234e43b6715d51b727",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-07-01",
+          "text": "Abilities that Slivers grant, as well as power/toughness boosts, are cumulative. However, for some abilities, like flying, having more than one instance of the ability doesn't provide any additional benefit."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "If the creature type of a Sliver changes so it's no longer a Sliver, it will no longer be affected by its own ability. Its ability will continue to affect other Sliver creatures."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Frenzy Sliver",
+      "layout": "normal",
+      "mana_cost": "{1}{B}",
+      "cmc": 2,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Sliver",
+      "supertypes": null,
+      "subtypes": [
+        "Sliver"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "All Sliver creatures have frenzy 1. (Whenever a Sliver attacks and isn't blocked, it gets +1/+0 until end of turn.)",
+      "flavor": "The Arturan conjurers took the strange, alien fossil and patterned their own twisted creations in its image.",
+      "artist": "Glen Angus",
+      "number": "6",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 207902,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "FUT",
+        "H09"
+      ],
+      "original_text": "All Sliver creatures have frenzy 1. (Whenever a Sliver attacks and isn't blocked, it gets +1/+0 until end of turn.)",
+      "original_type": "Creature \u2014 Sliver",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=207902&type=card",
+      "set": "H09",
+      "set_name": "Premium Deck Series: Slivers",
+      "id": "a284828d7b3843fde8581b35b031dd6aacf94000",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-04-15",
+          "text": "An ability that triggers when something \"attacks and isn't blocked\" triggers in the declare blockers step after blockers are declared if (1) that creature is attacking and (2) no creatures are declared to block it. It will trigger even if that creature was put onto the battlefield attacking rather than having been declared as an attacker in the declare attackers step."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "Abilities that Slivers grant, as well as power/toughness boosts, are cumulative. However, for some abilities, like flying, having more than one instance of the ability doesn't provide any additional benefit."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "If the creature type of a Sliver changes so it's no longer a Sliver, it will no longer be affected by its own ability. Its ability will continue to affect other Sliver creatures."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Heart Sliver",
+      "layout": "normal",
+      "mana_cost": "{1}{R}",
+      "cmc": 2,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Sliver",
+      "supertypes": null,
+      "subtypes": [
+        "Sliver"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "All Sliver creatures have haste.",
+      "flavor": "Gerrard looked all around for the source of the mysterious pulse, and at that moment the slivers boiled forth from the crevasses.",
+      "artist": "Ron Spencer",
+      "number": "7",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 207906,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "TMP",
+        "H09"
+      ],
+      "original_text": "All Sliver creatures have haste.",
+      "original_type": "Creature \u2014 Sliver",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=207906&type=card",
+      "set": "H09",
+      "set_name": "Premium Deck Series: Slivers",
+      "id": "6eb0c4bbef5b0fd2e50473311ac920f2c9effe44",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-07-01",
+          "text": "Abilities that Slivers grant, as well as power/toughness boosts, are cumulative. However, for some abilities, like flying, having more than one instance of the ability doesn't provide any additional benefit."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "If the creature type of a Sliver changes so it's no longer a Sliver, it will no longer be affected by its own ability. Its ability will continue to affect other Sliver creatures."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Gemhide Sliver",
+      "layout": "normal",
+      "mana_cost": "{1}{G}",
+      "cmc": 2,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Sliver",
+      "supertypes": null,
+      "subtypes": [
+        "Sliver"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "All Slivers have \"{T}: Add one mana of any color.\"",
+      "flavor": "\"The land is weary. Even Skyshroud is depleted. We must find another source of mana\u2014one that is growing despite our withering world.\"\n\u2014Freyalise",
+      "artist": "John Matson",
+      "number": "8",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 207905,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "TSP",
+        "H09"
+      ],
+      "original_text": "All Slivers have \"{T}: Add one mana of any color to your mana pool.\"",
+      "original_type": "Creature \u2014 Sliver",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=207905&type=card",
+      "set": "H09",
+      "set_name": "Premium Deck Series: Slivers",
+      "id": "1eb1b0bc53e138553ae37bf78cbbde0cc67e0228",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-07-01",
+          "text": "Abilities that Slivers grant, as well as power/toughness boosts, are cumulative. However, for some abilities, like flying, having more than one instance of the ability doesn't provide any additional benefit."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "If the creature type of a Sliver changes so it's no longer a Sliver, it will no longer be affected by its own ability. Its ability will continue to affect other Sliver creatures."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Muscle Sliver",
+      "layout": "normal",
+      "mana_cost": "{1}{G}",
+      "cmc": 2,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Sliver",
+      "supertypes": null,
+      "subtypes": [
+        "Sliver"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "All Sliver creatures get +1/+1.",
+      "flavor": "The air was filled with the cracks and snaps of flesh hardening as the new sliver joined the battle.",
+      "artist": "Richard Kane Ferguson",
+      "number": "9",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 207911,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "TMP",
+        "pFNM",
+        "H09",
+        "TPR"
+      ],
+      "original_text": "All Sliver creatures get +1/+1.",
+      "original_type": "Creature \u2014 Sliver",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=207911&type=card",
+      "set": "H09",
+      "set_name": "Premium Deck Series: Slivers",
+      "id": "aee1f43ce21caf58226b0092c05c78ee18939d9f",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "Yes, it does give the +1/+1 bonus to itself."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "Abilities that Slivers grant, as well as power/toughness boosts, are cumulative. However, for some abilities, like flying, having more than one instance of the ability doesn't provide any additional benefit."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "If the creature type of a Sliver changes so it's no longer a Sliver, it will no longer be affected by its own ability. Its ability will continue to affect other Sliver creatures."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Quick Sliver",
+      "layout": "normal",
+      "mana_cost": "{1}{G}",
+      "cmc": 2,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Sliver",
+      "supertypes": null,
+      "subtypes": [
+        "Sliver"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Flash\nAny player may cast Sliver spells as though they had flash.",
+      "flavor": "The directors of the Riptide Project wanted instant results on the sliver experiments. They got their wish.",
+      "artist": "John Avon",
+      "number": "10",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 207913,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LGN",
+        "H09"
+      ],
+      "original_text": "Flash\nAny player may cast Sliver cards as though they had flash.",
+      "original_type": "Creature \u2014 Sliver",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=207913&type=card",
+      "set": "H09",
+      "set_name": "Premium Deck Series: Slivers",
+      "id": "5b70db881021587e0fe56e94da1c575d725fd4d9",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "The first ability applies when this card is not on the battlefield. The second ability applies when this card is on the battlefield."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "Abilities that Slivers grant, as well as power/toughness boosts, are cumulative. However, for some abilities, like flying, having more than one instance of the ability doesn't provide any additional benefit."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "If the creature type of a Sliver changes so it's no longer a Sliver, it will no longer be affected by its own ability. Its ability will continue to affect other Sliver creatures."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Crystalline Sliver",
+      "layout": "normal",
+      "mana_cost": "{W}{U}",
+      "cmc": 2,
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "color_identity": [
+        "W",
+        "U"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Sliver",
+      "supertypes": null,
+      "subtypes": [
+        "Sliver"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "All Slivers have shroud. (They can't be the targets of spells or abilities.)",
+      "flavor": "Bred as living shields, these slivers have proven unruly\u2014they know they cannot be caught.",
+      "artist": "L. A. Williams",
+      "number": "11",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 207901,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "STH",
+        "pFNM",
+        "H09",
+        "TPR"
+      ],
+      "original_text": "All Slivers have shroud.",
+      "original_type": "Creature \u2014 Sliver",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=207901&type=card",
+      "set": "H09",
+      "set_name": "Premium Deck Series: Slivers",
+      "id": "21228aaf636a445b5d6faabe9dc0ae168fef7d7e",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "The ability only applies while this card is on the battlefield."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "Abilities that Slivers grant, as well as power/toughness boosts, are cumulative. However, for some abilities, like flying, having more than one instance of the ability doesn't provide any additional benefit."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "If the creature type of a Sliver changes so it's no longer a Sliver, it will no longer be affected by its own ability. Its ability will continue to affect other Sliver creatures."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Hibernation Sliver",
+      "layout": "normal",
+      "mana_cost": "{U}{B}",
+      "cmc": 2,
+      "colors": [
+        "Blue",
+        "Black"
+      ],
+      "color_identity": [
+        "U",
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Sliver",
+      "supertypes": null,
+      "subtypes": [
+        "Sliver"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "All Slivers have \"Pay 2 life: Return this permanent to its owner's hand.\"",
+      "flavor": "Mogglings have been known to play ball with hibernating slivers, completely unaware of their true nature.",
+      "artist": "Scott Kirschner",
+      "number": "12",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 207907,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "STH",
+        "H09",
+        "TPR"
+      ],
+      "original_text": "All Slivers have \"Pay 2 life: Return this permanent to its owner's hand.\"",
+      "original_type": "Creature \u2014 Sliver",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=207907&type=card",
+      "set": "H09",
+      "set_name": "Premium Deck Series: Slivers",
+      "id": "5e34db77cf5be8e43ac8e5a511a65439accfce93",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-07-01",
+          "text": "Abilities that Slivers grant, as well as power/toughness boosts, are cumulative. However, for some abilities, like flying, having more than one instance of the ability doesn't provide any additional benefit."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "If the creature type of a Sliver changes so it's no longer a Sliver, it will no longer be affected by its own ability. Its ability will continue to affect other Sliver creatures."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Acidic Sliver",
+      "layout": "normal",
+      "mana_cost": "{B}{R}",
+      "cmc": 2,
+      "colors": [
+        "Black",
+        "Red"
+      ],
+      "color_identity": [
+        "B",
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Sliver",
+      "supertypes": null,
+      "subtypes": [
+        "Sliver"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "All Slivers have \"{2}, Sacrifice this permanent: This permanent deals 2 damage to any target.\"",
+      "flavor": "The first sliver burst against the cave wall, and others piled in behind to deepen the new tunnel.",
+      "artist": "Jeff Miracola",
+      "number": "13",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 207897,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "STH",
+        "H09",
+        "TPR"
+      ],
+      "original_text": "All Slivers have \"{2}, Sacrifice this permanent: This permanent deals 2 damage to target creature or player.\"",
+      "original_type": "Creature \u2014 Sliver",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=207897&type=card",
+      "set": "H09",
+      "set_name": "Premium Deck Series: Slivers",
+      "id": "401c3ad41762953538191df1d69ead08c1b54c8b",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-07-01",
+          "text": "Abilities that Slivers grant, as well as power/toughness boosts, are cumulative. However, for some abilities, like flying, having more than one instance of the ability doesn't provide any additional benefit."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "If the creature type of a Sliver changes so it's no longer a Sliver, it will no longer be affected by its own ability. Its ability will continue to affect other Sliver creatures."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Spined Sliver",
+      "layout": "normal",
+      "mana_cost": "{R}{G}",
+      "cmc": 2,
+      "colors": [
+        "Red",
+        "Green"
+      ],
+      "color_identity": [
+        "R",
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Sliver",
+      "supertypes": null,
+      "subtypes": [
+        "Sliver"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "Whenever a Sliver becomes blocked, that Sliver gets +1/+1 until end of turn for each creature blocking it.",
+      "flavor": "\"Slivers are evil and slivers are sly;\nAnd if you get eaten, then no one will cry.\"\n\u2014Mogg children's rhyme",
+      "artist": "Ron Spencer",
+      "number": "14",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 208041,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "STH",
+        "TSB",
+        "H09",
+        "TPR"
+      ],
+      "original_text": "Whenever a Sliver becomes blocked, that Sliver gets +1/+1 until end of turn for each creature blocking it.",
+      "original_type": "Creature \u2014 Sliver",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=208041&type=card",
+      "set": "H09",
+      "set_name": "Premium Deck Series: Slivers",
+      "id": "c5c843ab4a255e9e23400f6d0bbe0f3c52ff979f",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "If two Spined Slivers are on the battlefield then each blocked sliver gets +2/+2 for each creature blocking it."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "Abilities that Slivers grant, as well as power/toughness boosts, are cumulative. However, for some abilities, like flying, having more than one instance of the ability doesn't provide any additional benefit."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "If the creature type of a Sliver changes so it's no longer a Sliver, it will no longer be affected by its own ability. Its ability will continue to affect other Sliver creatures."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Victual Sliver",
+      "layout": "normal",
+      "mana_cost": "{G}{W}",
+      "cmc": 2,
+      "colors": [
+        "White",
+        "Green"
+      ],
+      "color_identity": [
+        "W",
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Sliver",
+      "supertypes": null,
+      "subtypes": [
+        "Sliver"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "All Slivers have \"{2}, Sacrifice this permanent: You gain 4 life.\"",
+      "flavor": "\"We are kinfolk,\" explained Karn to the sliver queen. \"Just as you need your progeny to complete you, so do I need the pieces of the Legacy to make me whole.\"",
+      "artist": "Terese Nielsen",
+      "number": "15",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 207918,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "STH",
+        "H09",
+        "TPR"
+      ],
+      "original_text": "All Slivers have \"{2}, Sacrifice this permanent: You gain 4 life.\"",
+      "original_type": "Creature \u2014 Sliver",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=207918&type=card",
+      "set": "H09",
+      "set_name": "Premium Deck Series: Slivers",
+      "id": "3244466cd8446ebfe91ec056b5af9360e9112086",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-07-01",
+          "text": "Abilities that Slivers grant, as well as power/toughness boosts, are cumulative. However, for some abilities, like flying, having more than one instance of the ability doesn't provide any additional benefit."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "If the creature type of a Sliver changes so it's no longer a Sliver, it will no longer be affected by its own ability. Its ability will continue to affect other Sliver creatures."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Armor Sliver",
+      "layout": "normal",
+      "mana_cost": "{2}{W}",
+      "cmc": 3,
+      "colors": [
+        "White"
+      ],
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Sliver",
+      "supertypes": null,
+      "subtypes": [
+        "Sliver"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "All Sliver creatures have \"{2}: This creature gets +0/+1 until end of turn.\"",
+      "flavor": "Hanna: \"We must learn how they protect each other.\"\nMirri: \"After they're done trying to kill us, all right?\"",
+      "artist": "Scott Kirschner",
+      "number": "16",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 207898,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "TMP",
+        "H09",
+        "TPR"
+      ],
+      "original_text": "All Sliver creatures have \"{2}: This creature gets +0/+1 until end of turn.\"",
+      "original_type": "Creature \u2014 Sliver",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=207898&type=card",
+      "set": "H09",
+      "set_name": "Premium Deck Series: Slivers",
+      "id": "427c2bac0a8ac2990583ec6209b9d8436d7497d8",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-07-01",
+          "text": "Abilities that Slivers grant, as well as power/toughness boosts, are cumulative. However, for some abilities, like flying, having more than one instance of the ability doesn't provide any additional benefit."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "If the creature type of a Sliver changes so it's no longer a Sliver, it will no longer be affected by its own ability. Its ability will continue to affect other Sliver creatures."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Spectral Sliver",
+      "layout": "normal",
+      "mana_cost": "{2}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Sliver Spirit",
+      "supertypes": null,
+      "subtypes": [
+        "Sliver",
+        "Spirit"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "All Sliver creatures have \"{2}: This creature gets +1/+1 until end of turn.\"",
+      "flavor": "\"Sure, I've seen agents of the Cabal here and there. Well, not here, and certainly not in any of the sliver labs. Oh dear, I've said too much.\"\n\u2014Apprentice researcher",
+      "artist": "Pete Venters",
+      "number": "17",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 207916,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LGN",
+        "H09"
+      ],
+      "original_text": "All Sliver creatures have \"{2}: This creature gets +1/+1 until end of turn.\"",
+      "original_type": "Creature \u2014 Sliver Spirit",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=207916&type=card",
+      "set": "H09",
+      "set_name": "Premium Deck Series: Slivers",
+      "id": "6196ebdc7b8a9a1cd5f27b45754f77919c4fe872",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-07-01",
+          "text": "Abilities that Slivers grant, as well as power/toughness boosts, are cumulative. However, for some abilities, like flying, having more than one instance of the ability doesn't provide any additional benefit."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "If the creature type of a Sliver changes so it's no longer a Sliver, it will no longer be affected by its own ability. Its ability will continue to affect other Sliver creatures."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Barbed Sliver",
+      "layout": "normal",
+      "mana_cost": "{2}{R}",
+      "cmc": 3,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Sliver",
+      "supertypes": null,
+      "subtypes": [
+        "Sliver"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "All Sliver creatures have \"{2}: This creature gets +1/+0 until end of turn.\"",
+      "flavor": "Spans of spines leapt from one sliver to the next, forming a deadly hedge around the Weatherlight.",
+      "artist": "Scott Kirschner",
+      "number": "18",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 207899,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "TMP",
+        "H09",
+        "TPR"
+      ],
+      "original_text": "All Sliver creatures have \"{2}: This creature gets +1/+0 until end of turn.\"",
+      "original_type": "Creature \u2014 Sliver",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=207899&type=card",
+      "set": "H09",
+      "set_name": "Premium Deck Series: Slivers",
+      "id": "7b2bbde8a04928e3a1d00a4c0adaa44701f0322e",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-07-01",
+          "text": "Abilities that Slivers grant, as well as power/toughness boosts, are cumulative. However, for some abilities, like flying, having more than one instance of the ability doesn't provide any additional benefit."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "If the creature type of a Sliver changes so it's no longer a Sliver, it will no longer be affected by its own ability. Its ability will continue to affect other Sliver creatures."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Homing Sliver",
+      "layout": "normal",
+      "mana_cost": "{2}{R}",
+      "cmc": 3,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Sliver",
+      "supertypes": null,
+      "subtypes": [
+        "Sliver"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Each Sliver card in each player's hand has slivercycling {3}.\nSlivercycling {3} ({3}, Discard this card: Search your library for a Sliver card, reveal it, put it into your hand, then shuffle your library.)",
+      "flavor": null,
+      "artist": "Trevor Hairsine",
+      "number": "19",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 207908,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "FUT",
+        "H09"
+      ],
+      "original_text": "Each Sliver card in each player's hand has slivercycling {3}.\nSlivercycling {3} ({3}, Discard this card: Search your library for a Sliver card, reveal it, and put it into your hand. Then shuffle your library.)",
+      "original_type": "Creature \u2014 Sliver",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=207908&type=card",
+      "set": "H09",
+      "set_name": "Premium Deck Series: Slivers",
+      "id": "cd59ef88cf3ecf363b42a6329d88c187c469242f",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2009-02-01",
+          "text": "Unlike the normal cycling ability, Slivercycling doesn't allow you to draw a card. Instead, it lets you search your library for a Sliver card. After you find a Sliver card in your library, you reveal it, put it into your hand, then shuffle your library."
+        },
+        {
+          "date": "2009-02-01",
+          "text": "Slivercycling is a form of cycling. Any ability that triggers on a card being cycled also triggers on Slivercycling this card. Any ability that stops a cycling ability from being activated also stops Plainscycling from being activated."
+        },
+        {
+          "date": "2009-02-01",
+          "text": "Slivercycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with Slivercycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not."
+        },
+        {
+          "date": "2009-02-01",
+          "text": "You can choose to find any card with the Sliver creature type, even if it isn't a creature card. This includes, for example, Tribal cards with the Changeling ability. You can also choose not to find a card, even if there is a Sliver card in your library."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "Abilities that Slivers grant, as well as power/toughness boosts, are cumulative. However, for some abilities, like flying, having more than one instance of the ability doesn't provide any additional benefit."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "If the creature type of a Sliver changes so it's no longer a Sliver, it will no longer be affected by its own ability. Its ability will continue to affect other Sliver creatures."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Necrotic Sliver",
+      "layout": "normal",
+      "mana_cost": "{1}{W}{B}",
+      "cmc": 3,
+      "colors": [
+        "White",
+        "Black"
+      ],
+      "color_identity": [
+        "W",
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Sliver",
+      "supertypes": null,
+      "subtypes": [
+        "Sliver"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "All Slivers have \"{3}, Sacrifice this permanent: Destroy target permanent.\"",
+      "flavor": "Though Volrath is long dead, the slivers have become everything he wanted them to be: mindless instruments of destruction and despair.",
+      "artist": "Dave Allsop",
+      "number": "20",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 207912,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "PLC",
+        "H09"
+      ],
+      "original_text": "All Slivers have \"{3}, Sacrifice this permanent: Destroy target permanent.\"",
+      "original_type": "Creature \u2014 Sliver",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=207912&type=card",
+      "set": "H09",
+      "set_name": "Premium Deck Series: Slivers",
+      "id": "00b8813b679a0d419c6646b0ce2db5f38f43e394",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-07-01",
+          "text": "Abilities that Slivers grant, as well as power/toughness boosts, are cumulative. However, for some abilities, like flying, having more than one instance of the ability doesn't provide any additional benefit."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "If the creature type of a Sliver changes so it's no longer a Sliver, it will no longer be affected by its own ability. Its ability will continue to affect other Sliver creatures."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Fungus Sliver",
+      "layout": "normal",
+      "mana_cost": "{3}{G}",
+      "cmc": 4,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Fungus Sliver",
+      "supertypes": null,
+      "subtypes": [
+        "Fungus",
+        "Sliver"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": "All Sliver creatures have \"Whenever this creature is dealt damage, put a +1/+1 counter on it.\" (The damage is dealt before the counter is put on.)",
+      "flavor": "\"When a sliver of this breed enters the hive, the others claw each other in frenzied fits, thereby ensuring their rapid growth.\"\n\u2014Rukarumel, field journal",
+      "artist": "Daniel Gelon",
+      "number": "21",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 207903,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "TSP",
+        "H09"
+      ],
+      "original_text": "All Sliver creatures have \"Whenever this creature is dealt damage, put a +1/+1 counter on it.\"",
+      "original_type": "Creature \u2014 Fungus Sliver",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=207903&type=card",
+      "set": "H09",
+      "set_name": "Premium Deck Series: Slivers",
+      "id": "c4a42211af89a7992d929cca39d1ede8feb4cc58",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-07-01",
+          "text": "Abilities that Slivers grant, as well as power/toughness boosts, are cumulative. However, for some abilities, like flying, having more than one instance of the ability doesn't provide any additional benefit."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "If the creature type of a Sliver changes so it's no longer a Sliver, it will no longer be affected by its own ability. Its ability will continue to affect other Sliver creatures."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Brood Sliver",
+      "layout": "normal",
+      "mana_cost": "{4}{G}",
+      "cmc": 5,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Sliver",
+      "supertypes": null,
+      "subtypes": [
+        "Sliver"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": "Whenever a Sliver deals combat damage to a player, its controller may create a 1/1 colorless Sliver creature token.",
+      "flavor": "Within weeks, more slivers nested in Otaria than ever existed on Rath.",
+      "artist": "Ron Spears",
+      "number": "22",
+      "power": "3",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": 208039,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LGN",
+        "H09"
+      ],
+      "original_text": "Whenever a Sliver deals combat damage to a player, its controller may put a 1/1 colorless Sliver creature token onto the battlefield.",
+      "original_type": "Creature \u2014 Sliver",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=208039&type=card",
+      "set": "H09",
+      "set_name": "Premium Deck Series: Slivers",
+      "id": "aace2bef0ccbd5fed8c46431e41b0e9f00634d07",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "This card's controller controls the triggered ability, but the controller of the Sliver that deals damage to a player decides whether or not to put the token onto the battlefield under their control."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "Abilities that Slivers grant, as well as power/toughness boosts, are cumulative. However, for some abilities, like flying, having more than one instance of the ability doesn't provide any additional benefit."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "If the creature type of a Sliver changes so it's no longer a Sliver, it will no longer be affected by its own ability. Its ability will continue to affect other Sliver creatures."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Might Sliver",
+      "layout": "normal",
+      "mana_cost": "{4}{G}",
+      "cmc": 5,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Sliver",
+      "supertypes": null,
+      "subtypes": [
+        "Sliver"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "All Sliver creatures get +2/+2.",
+      "flavor": "\"The colossal thing rumbled over the ridge, tree husks crumbling before it. The ones we were already fighting howled as it came, their muscles suddenly surging, and we knew it was time to flee.\"\n\u2014Llanach, Skyshroud ranger",
+      "artist": "Jeff Miracola",
+      "number": "23",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 207910,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "TSP",
+        "H09"
+      ],
+      "original_text": "All Sliver creatures get +2/+2.",
+      "original_type": "Creature \u2014 Sliver",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=207910&type=card",
+      "set": "H09",
+      "set_name": "Premium Deck Series: Slivers",
+      "id": "3163361a582bed62a2c54b6c5a7b18e36b982b75",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-07-01",
+          "text": "Abilities that Slivers grant, as well as power/toughness boosts, are cumulative. However, for some abilities, like flying, having more than one instance of the ability doesn't provide any additional benefit."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "If the creature type of a Sliver changes so it's no longer a Sliver, it will no longer be affected by its own ability. Its ability will continue to affect other Sliver creatures."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Sliver Overlord",
+      "layout": "normal",
+      "mana_cost": "{W}{U}{B}{R}{G}",
+      "cmc": 5,
+      "colors": [
+        "White",
+        "Blue",
+        "Black",
+        "Red",
+        "Green"
+      ],
+      "color_identity": [
+        "W",
+        "U",
+        "B",
+        "R",
+        "G"
+      ],
+      "names": null,
+      "type": "Legendary Creature \u2014 Sliver Mutant",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Sliver",
+        "Mutant"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Mythic Rare",
+      "text": "{3}: Search your library for a Sliver card, reveal that card, and put it into your hand. Then shuffle your library.\n{3}: Gain control of target Sliver. (This effect lasts indefinitely.)",
+      "flavor": "The end of evolution.",
+      "artist": "Tony Szczudlo",
+      "number": "24",
+      "power": "7",
+      "toughness": "7",
+      "loyalty": null,
+      "multiverse_id": 207915,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "SCG",
+        "H09"
+      ],
+      "original_text": "{3}: Search your library for a Sliver card, reveal that card, and put it into your hand. Then shuffle your library.\n{3}: Gain control of target Sliver.",
+      "original_type": "Legendary Creature \u2014 Sliver Mutant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=207915&type=card",
+      "set": "H09",
+      "set_name": "Premium Deck Series: Slivers",
+      "id": "064ea9f5b0b6577480b6eb944bc563ff6ef18feb",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Fury Sliver",
+      "layout": "normal",
+      "mana_cost": "{5}{R}",
+      "cmc": 6,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Sliver",
+      "supertypes": null,
+      "subtypes": [
+        "Sliver"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "All Sliver creatures have double strike.",
+      "flavor": "\"A rift opened, and our arrows were abruptly stilled. To move was to push the world. But the sliver's claw still twitched, red wounds appeared in Thed's chest, and ribbons of blood hung in the air.\"\n\u2014Adom Capashen, Benalish hero",
+      "artist": "Paolo Parente",
+      "number": "25",
+      "power": "3",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": 207904,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "TSP",
+        "H09"
+      ],
+      "original_text": "All Sliver creatures have double strike.",
+      "original_type": "Creature \u2014 Sliver",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=207904&type=card",
+      "set": "H09",
+      "set_name": "Premium Deck Series: Slivers",
+      "id": "ec0fd6cce75e66329bbb1815037cac912b3b1bda",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-07-01",
+          "text": "Abilities that Slivers grant, as well as power/toughness boosts, are cumulative. However, for some abilities, like flying, having more than one instance of the ability doesn't provide any additional benefit."
+        },
+        {
+          "date": "2013-07-01",
+          "text": "If the creature type of a Sliver changes so it's no longer a Sliver, it will no longer be affected by its own ability. Its ability will continue to affect other Sliver creatures."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Heartstone",
+      "layout": "normal",
+      "mana_cost": "{3}",
+      "cmc": 3,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Uncommon",
+      "text": "Activated abilities of creatures cost {1} less to activate. This effect can't reduce the amount of mana an ability costs to activate to less than one mana.",
+      "flavor": "\"Finding a true heartstone is even harder than finding a true heart.\"\n\u2014Hanna, Weatherlight navigator",
+      "artist": "John Matson",
+      "number": "26",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 207924,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "STH",
+        "H09"
+      ],
+      "original_text": "Activated abilities of creatures cost {1} less to activate. This effect can't reduce the amount of mana an ability costs to activate to less than one mana.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=207924&type=card",
+      "set": "H09",
+      "set_name": "Premium Deck Series: Slivers",
+      "id": "7975f329cdce04b5495bc7f02894af17f342c8ce",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "The cost reduction can be applied to additional costs."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "It will not add a {1} to abilities with no generic mana in their activation cost."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "It will never reduce any colored mana portion of an activation cost."
+        },
+        {
+          "date": "2006-07-15",
+          "text": "Can't reduce Snow mana costs."
+        },
+        {
+          "date": "2016-06-08",
+          "text": "Activated abilities contain a colon. They're generally written \"[Cost]: [Effect].\" Some keywords are activated abilities and will have colons in their reminder text."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Distant Melody",
+      "layout": "normal",
+      "mana_cost": "{3}{U}",
+      "cmc": 4,
+      "colors": [
+        "Blue"
+      ],
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Common",
+      "text": "Choose a creature type. Draw a card for each permanent you control of that type.",
+      "flavor": "Oona's song is like a twisted dinner chime. All the faeries return home, but it is Oona who feasts\u2014on the stolen dreams and rumors they serve her.",
+      "artist": "Omar Rayyan",
+      "number": "27",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 207926,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MOR",
+        "H09"
+      ],
+      "original_text": "Choose a creature type. Draw a card for each permanent you control of that type.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=207926&type=card",
+      "set": "H09",
+      "set_name": "Premium Deck Series: Slivers",
+      "id": "b6aa2e023c179637be17221da71264b1ca04aedb",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-04-01",
+          "text": "Note that this spell counts the number of permanents you control of the chosen type, not just the number of creatures you control. It will also take your tribal permanents into account."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Aphetto Dredging",
+      "layout": "normal",
+      "mana_cost": "{3}{B}",
+      "cmc": 4,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Common",
+      "text": "Return up to three target creature cards of the creature type of your choice from your graveyard to your hand.",
+      "flavor": "Phage became both executioner and savior, helping others to the same rebirth she had found.",
+      "artist": "Monte Michael Moore",
+      "number": "28",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 207925,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ONS",
+        "H09"
+      ],
+      "original_text": "Return up to three target creature cards of the creature type of your choice from your graveyard to your hand.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=207925&type=card",
+      "set": "H09",
+      "set_name": "Premium Deck Series: Slivers",
+      "id": "5bbe81278c0d7a7fc734cb3f8d336d0ddf2f2c8a",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "You need to choose the creature type before choosing the targets."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Coat of Arms",
+      "layout": "normal",
+      "mana_cost": "{5}",
+      "cmc": 5,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Rare",
+      "text": "Each creature gets +1/+1 for each other creature on the battlefield that shares at least one creature type with it. (For example, if two Goblin Warriors and a Goblin Shaman are on the battlefield, each gets +2/+2.)",
+      "flavor": "\"Hup, two, three, four,\nDunno how to count no more.\"\n\u2014Mogg march",
+      "artist": "Scott M. Fischer",
+      "number": "29",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 207927,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "EXO",
+        "7ED",
+        "8ED",
+        "9ED",
+        "10E",
+        "M10",
+        "H09",
+        "DPA",
+        "TPR",
+        "DDS"
+      ],
+      "original_text": "Each creature gets +1/+1 for each other creature on the battlefield that shares at least one creature type with it.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=207927&type=card",
+      "set": "H09",
+      "set_name": "Premium Deck Series: Slivers",
+      "id": "3911d08224bd30e5b80888286e1e4dc9bf21bda4",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "If a creature has more than one creature type, and one of those types matches the creature you are calculating for, then count that creature. Only one type needs to match in order to get counted."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "If you have a creature with more than one creature type, count all creatures which have either creature type."
+        },
+        {
+          "date": "2009-10-01",
+          "text": "Sharing multiple creature types doesn't give an additional bonus. Coat of Arms counts creatures, not creature types."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Wild Pair",
+      "layout": "normal",
+      "mana_cost": "{4}{G}{G}",
+      "cmc": 6,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Enchantment",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Rare",
+      "text": "Whenever a creature enters the battlefield, if you cast it from your hand, you may search your library for a creature card with the same total power and toughness and put it onto the battlefield. If you do, shuffle your library.",
+      "flavor": null,
+      "artist": "Mark Brill",
+      "number": "30",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 207929,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "PLC",
+        "H09",
+        "CN2"
+      ],
+      "original_text": "Whenever a creature enters the battlefield, if you cast it from your hand, you may search your library for a creature card with the same total power and toughness, put it onto the battlefield, then shuffle your library.",
+      "original_type": "Enchantment",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=207929&type=card",
+      "set": "H09",
+      "set_name": "Premium Deck Series: Slivers",
+      "id": "d0b42637edd484ab8bb741df51616aa252e861da",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2007-02-01",
+          "text": "If you cast a 2/2 Grizzly Bears, for example, you may then search for any creature with total power and toughness 4. It can be 0/4, 1/3, 2/2, or 3/1."
+        },
+        {
+          "date": "2007-02-01",
+          "text": "The game checks the power and toughness of the creature that just entered the battlefield as it exists on the battlefield. That might mean it's impossible to get another copy of that same card. For example, a Triskelion on the battlefield is 4/4, but a Triskelion in your library is 1/1. The power and toughness might also have been affected while the triggered ability was on the stack (such as with Giant Growth, Sudden Death, or Ovinize)."
+        },
+        {
+          "date": "2007-02-01",
+          "text": "If the creature that entered the battlefield has left the battlefield by the time the ability resolves, use the power and toughness of that creature as it last appeared before leaving the battlefield."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Ancient Ziggurat",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Land",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Uncommon",
+      "text": "{T}: Add one mana of any color. Spend this mana only to cast a creature spell.",
+      "flavor": "Built in honor of Alara's creatures, the ziggurat vanished long ago. When Progenitus awakened, the temple emerged again.",
+      "artist": "John Avon",
+      "number": "31",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 207930,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pFNM",
+        "CON",
+        "H09"
+      ],
+      "original_text": "{T}: Add one mana of any color to your mana pool. Spend this mana only to cast creature spells.",
+      "original_type": "Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=207930&type=card",
+      "set": "H09",
+      "set_name": "Premium Deck Series: Slivers",
+      "id": "9f9dd85fee0fa6f4e6cb7482130070906bf8a702",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2009-02-01",
+          "text": "Mana produced by Ancient Ziggurat can be spent on any part of a creature spell's total cost. This includes additional costs (such as kicker) and alternative costs (such as evoke or Worldheart Phoenix's alternative cost)."
+        },
+        {
+          "date": "2009-02-01",
+          "text": "Mana produced by Ancient Ziggurat can't be spent on activated abilities that put a creature card directly onto the battlefield, such as unearth or ninjutsu."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Rootbound Crag",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "R",
+        "G"
+      ],
+      "names": null,
+      "type": "Land",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Rare",
+      "text": "Rootbound Crag enters the battlefield tapped unless you control a Mountain or a Forest.\n{T}: Add {R} or {G}.",
+      "flavor": null,
+      "artist": "Matt Stewart",
+      "number": "32",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 208042,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "M10",
+        "H09",
+        "M11",
+        "M12",
+        "M13",
+        "C16",
+        "XLN"
+      ],
+      "original_text": "Rootbound Crag enters the battlefield tapped unless you control a Mountain or a Forest.\n{T}: Add {R} or {G} to your mana pool.",
+      "original_type": "Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=208042&type=card",
+      "set": "H09",
+      "set_name": "Premium Deck Series: Slivers",
+      "id": "63fbd76da797df4515a022633fb2b008f48334fd",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2009-10-01",
+          "text": "This checks for lands you control with the land type Mountain or Forest, not for lands named Mountain or Forest. The lands it checks for don't have to be basic lands. For example, if you control Temple Garden (a nonbasic land with the land types Forest and Plains), Rootbound Crag will enter the battlefield untapped."
+        },
+        {
+          "date": "2009-10-01",
+          "text": "As this is entering the battlefield, it checks for lands that are already on the battlefield. It won't see lands that are entering the battlefield at the same time (due to Warp World, for example)."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Rupture Spire",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Land",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Common",
+      "text": "Rupture Spire enters the battlefield tapped.\nWhen Rupture Spire enters the battlefield, sacrifice it unless you pay {1}.\n{T}: Add one mana of any color.",
+      "flavor": null,
+      "artist": "Jaime Jones",
+      "number": "33",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 207933,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "CON",
+        "H09",
+        "CMD",
+        "DDH",
+        "PC2",
+        "C13",
+        "C16",
+        "PCA",
+        "CMA"
+      ],
+      "original_text": "Rupture Spire enters the battlefield tapped.\nWhen Rupture Spire enters the battlefield, sacrifice it unless you pay {1}.\n{T}: Add one mana of any color to your mana pool.",
+      "original_type": "Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=207933&type=card",
+      "set": "H09",
+      "set_name": "Premium Deck Series: Slivers",
+      "id": "be1a22a0a795523e99b8de84d8549c01bbf11eff",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Terramorphic Expanse",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Land",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Common",
+      "text": "{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.",
+      "flavor": null,
+      "artist": "Dan Scott",
+      "number": "34",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 207928,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "TSP",
+        "10E",
+        "M10",
+        "HOP",
+        "H09",
+        "DDE",
+        "ARC",
+        "M11",
+        "CMD",
+        "DDH",
+        "PC2",
+        "MMA",
+        "C13",
+        "DDN",
+        "C14",
+        "C15",
+        "C16",
+        "PCA",
+        "CMA",
+        "C17"
+      ],
+      "original_text": "{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.",
+      "original_type": "Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=207928&type=card",
+      "set": "H09",
+      "set_name": "Premium Deck Series: Slivers",
+      "id": "f3c87191127cb1873f27861641dfec3653063784",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Vivid Creek",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Land",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Uncommon",
+      "text": "Vivid Creek enters the battlefield tapped with two charge counters on it.\n{T}: Add {U}.\n{T}, Remove a charge counter from Vivid Creek: Add one mana of any color.",
+      "flavor": null,
+      "artist": "Fred Fields",
+      "number": "35",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 208043,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LRW",
+        "H09",
+        "CMD",
+        "PC2",
+        "MMA",
+        "C13",
+        "C15",
+        "PCA",
+        "C17"
+      ],
+      "original_text": "Vivid Creek enters the battlefield tapped with two charge counters on it.\n{T}: Add {U} to your mana pool.\n{T}, Remove a charge counter from Vivid Creek: Add one mana of any color to your mana pool.",
+      "original_type": "Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=208043&type=card",
+      "set": "H09",
+      "set_name": "Premium Deck Series: Slivers",
+      "id": "fde598d2e84017175f2d8fb5312ff831ad8c8748",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Vivid Grove",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Land",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Uncommon",
+      "text": "Vivid Grove enters the battlefield tapped with two charge counters on it.\n{T}: Add {G}.\n{T}, Remove a charge counter from Vivid Grove: Add one mana of any color.",
+      "flavor": null,
+      "artist": "Howard Lyon",
+      "number": "36",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 207922,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LRW",
+        "H09",
+        "CMD",
+        "MMA",
+        "C13",
+        "C15",
+        "CMA",
+        "C17"
+      ],
+      "original_text": "Vivid Grove enters the battlefield tapped with two charge counters on it.\n{T}: Add {G} to your mana pool.\n{T}, Remove a charge counter from Vivid Grove: Add one mana of any color to your mana pool.",
+      "original_type": "Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=207922&type=card",
+      "set": "H09",
+      "set_name": "Premium Deck Series: Slivers",
+      "id": "fcf0d3cbaec6a51ad7efa893ffcf0780687e04b7",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Plains",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "W"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Plains",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Plains"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Terese Nielsen",
+      "number": "37",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 207937,
+      "variations": null,
+      "watermark": "White",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "pPRE",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "INV",
+        "7ED",
+        "ODY",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DDC",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "ARC",
+        "M11",
+        "DDF",
+        "SOM",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "RTR",
+        "DDK",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "MD1",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_DVD",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "UST",
+        "RIX",
+        "DOM"
+      ],
+      "original_text": "W",
+      "original_type": "Basic Land \u2014 Plains",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=207937&type=card",
+      "set": "H09",
+      "set_name": "Premium Deck Series: Slivers",
+      "id": "0b968bb952560550a9621c39bc1c509ae3203e68",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Island",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "U"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Island",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Island"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Randy Gallegos",
+      "number": "38",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 207935,
+      "variations": null,
+      "watermark": "Blue",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DD2",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "DDF",
+        "SOM",
+        "MBS",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "M14",
+        "THS",
+        "C13",
+        "DDM",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_JVC",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "DDT",
+        "UST",
+        "RIX",
+        "DDU",
+        "DOM"
+      ],
+      "original_text": "U",
+      "original_type": "Basic Land \u2014 Island",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=207935&type=card",
+      "set": "H09",
+      "set_name": "Premium Deck Series: Slivers",
+      "id": "d7ca32369426cbaf5b96b73346788a4f4ad9d3d7",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Swamp",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Swamp",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Swamp"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Brom",
+      "number": "39",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 207938,
+      "variations": null,
+      "watermark": "Black",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "SHM",
+        "ALA",
+        "DDC",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "DDD",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "MBS",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "PD3",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "DDK",
+        "M14",
+        "THS",
+        "C13",
+        "DDM",
+        "MD1",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_DVD",
+        "DD3_GVL",
+        "FRF",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "DDQ",
+        "SOI",
+        "DDR",
+        "KLD",
+        "C16",
+        "PCA",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "UST",
+        "RIX",
+        "DOM"
+      ],
+      "original_text": "B",
+      "original_type": "Basic Land \u2014 Swamp",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=207938&type=card",
+      "set": "H09",
+      "set_name": "Premium Deck Series: Slivers",
+      "id": "a6e0c67696e2e28d163b37ca3494e6b38fc5d252",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Mountain",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Mountain",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Mountain"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Mark Poole",
+      "number": "40",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 207936,
+      "variations": null,
+      "watermark": "Red",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "ARN",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "EVG",
+        "SHM",
+        "ALA",
+        "DD2",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "PD2",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "DDK",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_EVG",
+        "DD3_JVC",
+        "FRF",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "DDT",
+        "UST",
+        "RIX",
+        "DDU",
+        "DOM"
+      ],
+      "original_text": "R",
+      "original_type": "Basic Land \u2014 Mountain",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=207936&type=card",
+      "set": "H09",
+      "set_name": "Premium Deck Series: Slivers",
+      "id": "0ca4dd5a2fa9d452d4ad9b04ae48f1ed9270c1ce",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Forest",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Forest",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Forest"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Douglas Shuler",
+      "number": "41",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 207934,
+      "variations": null,
+      "watermark": "Green",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "EVG",
+        "SHM",
+        "ALA",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "DDD",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "DDM",
+        "M15",
+        "KTK",
+        "C14",
+        "DD3_EVG",
+        "DD3_GVL",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "SOI",
+        "DDR",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "UST",
+        "RIX",
+        "DDU",
+        "DOM"
+      ],
+      "original_text": "G",
+      "original_type": "Basic Land \u2014 Forest",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=207934&type=card",
+      "set": "H09",
+      "set_name": "Premium Deck Series: Slivers",
+      "id": "ef5b7d421940405b4d45bef7bad7721555d2c828",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    }
+  ]
+}

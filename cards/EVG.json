@@ -1,0 +1,6687 @@
+{
+  "code": "EVG",
+  "name": "Duel Decks: Elves vs. Goblins",
+  "type": "duel deck",
+  "border": "black",
+  "mkm_id": 91,
+  "mkm_name": "Duel Decks: Elves vs. Goblins",
+  "release_date": "2007-11-16",
+  "gatherer_code": null,
+  "magic_cards_info_code": "evg",
+  "booster": null,
+  "old_code": null,
+  "block": null,
+  "online_only": null,
+  "cards": [
+    {
+      "name": "Ambush Commander",
+      "layout": "normal",
+      "mana_cost": "{3}{G}{G}",
+      "cmc": 5,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Elf",
+      "supertypes": null,
+      "subtypes": [
+        "Elf"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": "Forests you control are 1/1 green Elf creatures that are still lands.\n{1}{G}, Sacrifice an Elf: Target creature gets +3/+3 until end of turn.",
+      "flavor": null,
+      "artist": "Lucio Parrillo",
+      "number": "1",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 157950,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "SCG",
+        "EVG",
+        "DD3_EVG"
+      ],
+      "original_text": "Forests you control are 1/1 green Elf creatures that are still lands.\n{1}{G}, Sacrifice an Elf: Target creature gets +3/+3 until end of turn.",
+      "original_type": "Creature \u2014 Elf",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=157950&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "8745fca596e546847246a39643cfd1f7e6600cbc",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-08-01",
+          "text": "A noncreature permanent that turns into a creature can attack, and its {T} abilities can be activated, only if its controller has continuously controlled that permanent since the beginning of their most recent turn. It doesn't matter how long the permanent has been a creature."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Allosaurus Rider",
+      "layout": "normal",
+      "mana_cost": "{5}{G}{G}",
+      "cmc": 7,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Elf Warrior",
+      "supertypes": null,
+      "subtypes": [
+        "Elf",
+        "Warrior"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": "You may exile two green cards from your hand rather than pay this spell's mana cost.\nAllosaurus Rider's power and toughness are each equal to 1 plus the number of lands you control.",
+      "flavor": null,
+      "artist": "Daren Bader",
+      "number": "2",
+      "power": "1+*",
+      "toughness": "1+*",
+      "loyalty": null,
+      "multiverse_id": 158100,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pPRE",
+        "CSP",
+        "EVG",
+        "DD3_EVG"
+      ],
+      "original_text": "You may remove two green cards in your hand from the game rather than pay Allosaurus Rider's mana cost.\nAllosaurus Rider's power and toughness are each equal to 1 plus the number of lands you control.",
+      "original_type": "Creature \u2014 Elf Warrior",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=158100&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "555bf36b0dcb2eac0b830be39ee9deb975dbf2e5",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2006-07-15",
+          "text": "Paying the alternative cost doesn't change when you can cast the spell. A creature spell you cast this way, for example, can still only be cast during your main phase while the stack is empty."
+        },
+        {
+          "date": "2006-07-15",
+          "text": "You may pay the alternative cost rather than the card's mana cost. Any additional costs are paid as normal."
+        },
+        {
+          "date": "2006-07-15",
+          "text": "If you don't have two cards of the right color in your hand, you can't choose to cast the spell using the alternative cost."
+        },
+        {
+          "date": "2006-07-15",
+          "text": "You can't exile a card from your hand to pay for itself. At the time you would pay costs, that card is on the stack, not in your hand."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Elvish Eulogist",
+      "layout": "normal",
+      "mana_cost": "{G}",
+      "cmc": 1,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Elf Shaman",
+      "supertypes": null,
+      "subtypes": [
+        "Elf",
+        "Shaman"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Sacrifice Elvish Eulogist: You gain 1 life for each Elf card in your graveyard.",
+      "flavor": "\"No matter how adept our artistic skill, our effigies can never hope to capture the vibrant beauty of a living elf. Perhaps that is truly why we mourn.\"",
+      "artist": "Ben Thompson",
+      "number": "3",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 158120,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LRW",
+        "EVG",
+        "DPA",
+        "DD3_EVG"
+      ],
+      "original_text": "Sacrifice Elvish Eulogist: You gain 1 life for each Elf card in your graveyard.",
+      "original_type": "Creature \u2014 Elf Shaman",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=158120&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "8f65575573ede49012026c299d0acf509979aa69",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2007-10-01",
+          "text": "By the time this ability resolves, Elvish Eulogist will most likely be in your graveyard, so it will be counted by its own ability."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Elvish Harbinger",
+      "layout": "normal",
+      "mana_cost": "{2}{G}",
+      "cmc": 3,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Elf Druid",
+      "supertypes": null,
+      "subtypes": [
+        "Elf",
+        "Druid"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "When Elvish Harbinger enters the battlefield, you may search your library for an Elf card, reveal it, then shuffle your library and put that card on top of it.\n{T}: Add one mana of any color.",
+      "flavor": null,
+      "artist": "Larry MacDougall",
+      "number": "4",
+      "power": "1",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 158121,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LRW",
+        "EVG",
+        "DD3_EVG"
+      ],
+      "original_text": "When Elvish Harbinger comes into play, you may search your library for an Elf card, reveal it, then shuffle your library and put that card on top of it.\n{T}: Add one mana of any color to your mana pool.",
+      "original_type": "Creature \u2014 Elf Druid",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=158121&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "837494f3ef21116b29a29538e4fa3a61285feba5",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Elvish Warrior",
+      "layout": "normal",
+      "mana_cost": "{G}{G}",
+      "cmc": 2,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Elf Warrior",
+      "supertypes": null,
+      "subtypes": [
+        "Elf",
+        "Warrior"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": null,
+      "flavor": "\"My tales of war are the stories most asked for around the fires at night, but they're the ones I care least to tell.\"",
+      "artist": "Christopher Moeller",
+      "number": "5",
+      "power": "2",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": 158136,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ONS",
+        "9ED",
+        "EVG",
+        "MOR",
+        "DPA",
+        "DD3_EVG"
+      ],
+      "original_text": null,
+      "original_type": "Creature \u2014 Elf Warrior",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=158136&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "bea4013eff2a010073eac1e30dc1ce23b16e4127",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Gempalm Strider",
+      "layout": "normal",
+      "mana_cost": "{1}{G}",
+      "cmc": 2,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Elf",
+      "supertypes": null,
+      "subtypes": [
+        "Elf"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "Cycling {2}{G}{G} ({2}{G}{G}, Discard this card: Draw a card.)\nWhen you cycle Gempalm Strider, Elf creatures get +2/+2 until end of turn.",
+      "flavor": null,
+      "artist": "Tim Hildebrandt",
+      "number": "6",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 158117,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LGN",
+        "EVG",
+        "DD3_EVG"
+      ],
+      "original_text": "Cycling {2}{G}{G} ({2}{G}{G}, Discard this card: Draw a card.)\nWhen you cycle Gempalm Strider, all Elf creatures get +2/+2 until end of turn.",
+      "original_type": "Creature \u2014 Elf",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=158117&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "f0108dab3aaefe872caead7b9f7f0f0c50150796",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-10-01",
+          "text": "Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not."
+        },
+        {
+          "date": "2008-10-01",
+          "text": "When you cycle this card, first the cycling ability goes on the stack, then the triggered ability goes on the stack on top of it. The triggered ability will resolve before you draw a card from the cycling ability."
+        },
+        {
+          "date": "2008-10-01",
+          "text": "The cycling ability and the triggered ability are separate. If the triggered ability doesn't resolve (due to being countered with Stifle, for example, or if all its targets have become illegal), the cycling ability will still resolve and you'll draw a card."
+        },
+        {
+          "date": "2008-10-01",
+          "text": "You can cycle this card even if there are no targets for the triggered ability. That's because the cycling ability itself has no targets."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Heedless One",
+      "layout": "normal",
+      "mana_cost": "{3}{G}",
+      "cmc": 4,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Elf Avatar",
+      "supertypes": null,
+      "subtypes": [
+        "Elf",
+        "Avatar"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "Trample\nHeedless One's power and toughness are each equal to the number of Elves on the battlefield.",
+      "flavor": "\"Channel your vitality through me.\"",
+      "artist": "Mark Zug",
+      "number": "7",
+      "power": "*",
+      "toughness": "*",
+      "loyalty": null,
+      "multiverse_id": 158113,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ONS",
+        "EVG",
+        "DD3_EVG"
+      ],
+      "original_text": "Trample\nHeedless One's power and toughness are each equal to the number of Elves in play.",
+      "original_type": "Creature \u2014 Elf Avatar",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=158113&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "6371ef80b6fbe58648d4ad8a5cebdd3dc74ee36a",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Imperious Perfect",
+      "layout": "normal",
+      "mana_cost": "{2}{G}",
+      "cmc": 3,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Elf Warrior",
+      "supertypes": null,
+      "subtypes": [
+        "Elf",
+        "Warrior"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "Other Elf creatures you control get +1/+1.\n{G}, {T}: Create a 1/1 green Elf Warrior creature token.",
+      "flavor": "In a culture of beauty, the most beautiful are worshipped as gods.",
+      "artist": "Scott M. Fischer",
+      "number": "8",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 158123,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pCMP",
+        "LRW",
+        "EVG",
+        "DPA",
+        "C14",
+        "DD3_EVG",
+        "EMA",
+        "CMA"
+      ],
+      "original_text": "Other Elf creatures you control get +1/+1.\n{G}, {T}: Put a 1/1 green Elf Warrior creature token into play.",
+      "original_type": "Creature \u2014 Elf Warrior",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=158123&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "9b2f1ba0cb2e560b33d588251527504715536154",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Llanowar Elves",
+      "layout": "normal",
+      "mana_cost": "{G}",
+      "cmc": 1,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Elf Druid",
+      "supertypes": null,
+      "subtypes": [
+        "Elf",
+        "Druid"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "{T}: Add {G}.",
+      "flavor": "One bone broken for every twig snapped underfoot.\n\u2014Llanowar penalty for trespassing",
+      "artist": "Kev Walker",
+      "number": "9",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 158112,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "5ED",
+        "ATH",
+        "6ED",
+        "BRB",
+        "pFNM",
+        "S00",
+        "BTD",
+        "7ED",
+        "9ED",
+        "pGTW",
+        "10E",
+        "EVG",
+        "M10",
+        "M11",
+        "M12",
+        "C14",
+        "DD3_EVG",
+        "EMA",
+        "CMA",
+        "DOM"
+      ],
+      "original_text": "{T}: Add {G} to your mana pool.",
+      "original_type": "Creature \u2014 Elf Druid",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=158112&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "e63e86e14307e2519af3e5bed1e25642b63abf28",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Lys Alana Huntmaster",
+      "layout": "normal",
+      "mana_cost": "{2}{G}{G}",
+      "cmc": 4,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Elf Warrior",
+      "supertypes": null,
+      "subtypes": [
+        "Elf",
+        "Warrior"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Whenever you cast an Elf spell, you may create a 1/1 green Elf Warrior creature token.",
+      "flavor": "From the highest tiers of Dawn's Light Palace to the deepest shade of Wren's Run, the silver notes of the horn shimmer through the air, and all who hear it feel its pull.",
+      "artist": "Pete Venters",
+      "number": "10",
+      "power": "3",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": 158125,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LRW",
+        "EVG",
+        "DPA",
+        "C14",
+        "DD3_EVG",
+        "EMA",
+        "CMA"
+      ],
+      "original_text": "Whenever you play an Elf spell, you may put a 1/1 green Elf Warrior creature token into play.",
+      "original_type": "Creature \u2014 Elf Warrior",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=158125&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "39a64985c889944ce03bde162838400b71db1278",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2016-06-08",
+          "text": "Lys Alana Huntmaster's ability will resolve before the Elf spell that caused it to trigger."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Stonewood Invoker",
+      "layout": "normal",
+      "mana_cost": "{1}{G}",
+      "cmc": 2,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Elf Mutant",
+      "supertypes": null,
+      "subtypes": [
+        "Elf",
+        "Mutant"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "{7}{G}: Stonewood Invoker gets +5/+5 until end of turn.",
+      "flavor": "The Mirari pulses in his veins.",
+      "artist": "Eric Peterson",
+      "number": "11",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 159324,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LGN",
+        "EVG",
+        "DD3_EVG"
+      ],
+      "original_text": "{7}{G}: Stonewood Invoker gets +5/+5 until end of turn.",
+      "original_type": "Creature \u2014 Elf Mutant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=159324&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "9dbc2ac5b08c1e5d1bdb829079d2eb1d777e931a",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Sylvan Messenger",
+      "layout": "normal",
+      "mana_cost": "{3}{G}",
+      "cmc": 4,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Elf",
+      "supertypes": null,
+      "subtypes": [
+        "Elf"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)\nWhen Sylvan Messenger enters the battlefield, reveal the top four cards of your library. Put all Elf cards revealed this way into your hand and the rest on the bottom of your library in any order.",
+      "flavor": null,
+      "artist": "Heather Hudson",
+      "number": "12",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 159035,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "APC",
+        "EVG",
+        "DD3_EVG",
+        "ORI"
+      ],
+      "original_text": "Trample\nWhen Sylvan Messenger comes into play, reveal the top four cards of your library. Put all Elf cards revealed this way into your hand and the rest on the bottom of your library.",
+      "original_type": "Creature \u2014 Elf",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=159035&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "09d2d22626951d5e753e49fe95153074a2c41d66",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Timberwatch Elf",
+      "layout": "normal",
+      "mana_cost": "{2}{G}",
+      "cmc": 3,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Elf",
+      "supertypes": null,
+      "subtypes": [
+        "Elf"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "{T}: Target creature gets +X/+X until end of turn, where X is the number of Elves on the battlefield.",
+      "flavor": "Even through the Mirari's voice, the elves still hear the call of their kinship.",
+      "artist": "Dave Dorman",
+      "number": "13",
+      "power": "1",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 158118,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LGN",
+        "EVG",
+        "C14",
+        "DD3_EVG",
+        "EMA",
+        "CMA"
+      ],
+      "original_text": "{T}: Target creature gets +X/+X until end of turn, where X is the number of Elves in play.",
+      "original_type": "Creature \u2014 Elf",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=158118&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "17a024a7cc74d23d4a63253ee82f2888b9e7a783",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2016-06-08",
+          "text": "The number of Elves on the battlefield is counted only as Timberwatch Elf's ability resolves. If Timberwatch Elf is still on the battlefield, it'll count itself."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Voice of the Woods",
+      "layout": "normal",
+      "mana_cost": "{3}{G}{G}",
+      "cmc": 5,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Elf",
+      "supertypes": null,
+      "subtypes": [
+        "Elf"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": "Tap five untapped Elves you control: Create a 7/7 green Elemental creature token with trample.",
+      "flavor": "The ritual of making draws upon the elves' memories and pasts. And elves have long memories and ancient pasts.",
+      "artist": "Pete Venters",
+      "number": "14",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 159029,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ONS",
+        "EVG",
+        "DD3_EVG"
+      ],
+      "original_text": "Tap five untapped Elves you control: Put a 7/7 green Elemental creature token with trample into play.",
+      "original_type": "Creature \u2014 Elf",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=159029&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "42c856156a8b8c2af34aa3a2403836b259ae64ff",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "Since the ability does not have the {T} symbol, you can use the ability before this creature begins a turn under your control."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "It can tap itself but is not required to do so."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Wellwisher",
+      "layout": "normal",
+      "mana_cost": "{1}{G}",
+      "cmc": 2,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Elf",
+      "supertypes": null,
+      "subtypes": [
+        "Elf"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "{T}: You gain 1 life for each Elf on the battlefield.",
+      "flavor": "\"Close your ears to the voice of greed, and you can turn a gift for one into a gift for many.\"",
+      "artist": "Christopher Rush",
+      "number": "15",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 158109,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ONS",
+        "EVG",
+        "C14",
+        "DD3_EVG",
+        "CMA"
+      ],
+      "original_text": "{T}: You gain 1 life for each Elf in play.",
+      "original_type": "Creature \u2014 Elf",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=158109&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "bcb53658f84ccae208be296f53abffe827d31782",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Wirewood Herald",
+      "layout": "normal",
+      "mana_cost": "{1}{G}",
+      "cmc": 2,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Elf",
+      "supertypes": null,
+      "subtypes": [
+        "Elf"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "When Wirewood Herald dies, you may search your library for an Elf card, reveal that card, put it into your hand, then shuffle your library.",
+      "flavor": "The goblins laughed as the elf ran away, until more came back.",
+      "artist": "Alex Horley-Orlandelli",
+      "number": "16",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 158110,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ONS",
+        "EVG",
+        "DD3_EVG"
+      ],
+      "original_text": "When Wirewood Herald is put into a graveyard from play, you may search your library for an Elf card. If you do, reveal that card and put it into your hand. Then shuffle your library.",
+      "original_type": "Creature \u2014 Elf",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=158110&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "cdea6cb746e4f50dc1c3dfe64921551e177e52fe",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Wirewood Symbiote",
+      "layout": "normal",
+      "mana_cost": "{G}",
+      "cmc": 1,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Insect",
+      "supertypes": null,
+      "subtypes": [
+        "Insect"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "Return an Elf you control to its owner's hand: Untap target creature. Activate this ability only once each turn.",
+      "flavor": "It drinks fatigue.",
+      "artist": "Thomas M. Baxa",
+      "number": "17",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 159322,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "SCG",
+        "EVG",
+        "DD3_EVG",
+        "EMA"
+      ],
+      "original_text": "Return an Elf you control to its owner's hand: Untap target creature. Play this ability only once each turn.",
+      "original_type": "Creature \u2014 Insect",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=159322&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "f04401baa5cc70a4d1c1251fb4b41352bcea0b61",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Wood Elves",
+      "layout": "normal",
+      "mana_cost": "{2}{G}",
+      "cmc": 3,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Elf Scout",
+      "supertypes": null,
+      "subtypes": [
+        "Elf",
+        "Scout"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "When Wood Elves enters the battlefield, search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.",
+      "flavor": "Every branch a crossroads, every vine a swift steed.",
+      "artist": "Christopher Moeller",
+      "number": "18",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 159038,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "POR",
+        "EXO",
+        "S99",
+        "7ED",
+        "8ED",
+        "9ED",
+        "pGTW",
+        "EVG",
+        "C14",
+        "DD3_EVG",
+        "C15",
+        "DDR",
+        "CMA"
+      ],
+      "original_text": "When Wood Elves comes into play, search your library for a Forest card and put that card into play. Then shuffle your library.",
+      "original_type": "Creature \u2014 Elf Scout",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=159038&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "b016f7a1c7111535dce68c5529cb1eb4c5a86f28",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "Because the \"search\" requires you to find a card with certain characteristics, you don't have to find the card if you don't want to."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Wren's Run Vanquisher",
+      "layout": "normal",
+      "mana_cost": "{1}{G}",
+      "cmc": 2,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Elf Warrior",
+      "supertypes": null,
+      "subtypes": [
+        "Elf",
+        "Warrior"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "As an additional cost to cast this spell, reveal an Elf card from your hand or pay {3}.\nDeathtouch (Any amount of damage this deals to a creature is enough to destroy it.)",
+      "flavor": null,
+      "artist": "Paolo Parente",
+      "number": "19",
+      "power": "3",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": 158129,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pFNM",
+        "LRW",
+        "EVG",
+        "DD3_EVG"
+      ],
+      "original_text": "As an additional cost to play Wren's Run Vanquisher, reveal an Elf card from your hand or pay {3}.\nDeathtouch (Whenever this creature deals damage to a creature, destroy that creature.)",
+      "original_type": "Creature \u2014 Elf Warrior",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=158129&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "4d621a59faaf768cab399e4d7e7c901e36bd586d",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Elvish Promenade",
+      "layout": "normal",
+      "mana_cost": "{3}{G}",
+      "cmc": 4,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Tribal Sorcery \u2014 Elf",
+      "supertypes": null,
+      "subtypes": [
+        "Elf"
+      ],
+      "types": [
+        "Tribal",
+        "Sorcery"
+      ],
+      "rarity": "Uncommon",
+      "text": "Create a 1/1 green Elf Warrior creature token for each Elf you control.",
+      "flavor": "The faultless and immaculate castes form the lower tiers of elvish society, with the exquisite caste above them. At the pinnacle is the perfect, a consummate blend of aristocrat and predator.",
+      "artist": "Steve Ellis",
+      "number": "20",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 159030,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LRW",
+        "EVG",
+        "DPA",
+        "DD3_EVG"
+      ],
+      "original_text": "Put a 1/1 green Elf Warrior creature token into play for each Elf you control.",
+      "original_type": "Tribal Sorcery \u2014 Elf",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=159030&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "248836272452f035ac8e095b46bfedfbbf883a2e",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Giant Growth",
+      "layout": "normal",
+      "mana_cost": "{G}",
+      "cmc": 1,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Common",
+      "text": "Target creature gets +3/+3 until end of turn.",
+      "flavor": null,
+      "artist": "Matt Cavotta",
+      "number": "21",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 159037,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "5ED",
+        "ATH",
+        "6ED",
+        "BRB",
+        "pSUS",
+        "pFNM",
+        "S00",
+        "BTD",
+        "7ED",
+        "pMPR",
+        "DKM",
+        "8ED",
+        "9ED",
+        "10E",
+        "EVG",
+        "ME2",
+        "M10",
+        "ME3",
+        "DDD",
+        "DPA",
+        "M11",
+        "ME4",
+        "RTR",
+        "M14",
+        "DD3_EVG",
+        "DD3_GVL",
+        "E02",
+        "A25"
+      ],
+      "original_text": "Target creature gets +3/+3 until end of turn.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=159037&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "3f97bf1a1fc36db485b6611746680181f5fdc237",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Harmonize",
+      "layout": "normal",
+      "mana_cost": "{2}{G}{G}",
+      "cmc": 4,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Uncommon",
+      "text": "Draw three cards.",
+      "flavor": "\"Life's greatest lessons don't come from focus or concentration. They come from breathing and simply noticing.\"\n\u2014Seton, centaur druid",
+      "artist": "Rob Alexander",
+      "number": "22",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 159033,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pMPR",
+        "PLC",
+        "EVG",
+        "DDD",
+        "ARC",
+        "CMD",
+        "C13",
+        "DD3_EVG",
+        "DD3_GVL",
+        "EMA",
+        "MM3",
+        "DDS",
+        "C17"
+      ],
+      "original_text": "Draw three cards.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=159033&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "563ad1e5696273173c4cdb47b1ac98a26e183641",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2007-02-01",
+          "text": "This is the timeshifted version of Concentrate."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Wildsize",
+      "layout": "normal",
+      "mana_cost": "{2}{G}",
+      "cmc": 3,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Common",
+      "text": "Target creature gets +2/+2 and gains trample until end of turn.\nDraw a card.",
+      "flavor": "Two times the size, four times the smell.",
+      "artist": "Jim Murray",
+      "number": "23",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 159036,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "GPT",
+        "EVG",
+        "DD3_EVG",
+        "IMA"
+      ],
+      "original_text": "Target creature gets +2/+2 and gains trample until end of turn.\nDraw a card.",
+      "original_type": "Instant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=159036&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "f2673bc708a68b3d9a39acc96b422f0d59bf3793",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Moonglove Extract",
+      "layout": "normal",
+      "mana_cost": "{3}",
+      "cmc": 3,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Common",
+      "text": "Sacrifice Moonglove Extract: It deals 2 damage to any target.",
+      "flavor": "Diluted, moonglove can etch living tissue. Concentrated, a drop will kill a giant.",
+      "artist": "Terese Nielsen",
+      "number": "24",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 159032,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LRW",
+        "EVG",
+        "DDF",
+        "DD3_EVG",
+        "IMA"
+      ],
+      "original_text": "Sacrifice Moonglove Extract: Moonglove Extract deals 2 damage to target creature or player.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=159032&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "165fcdc57efc5ecd3369167e5f0973c72a65bb63",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Slate of Ancestry",
+      "layout": "normal",
+      "mana_cost": "{4}",
+      "cmc": 4,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Artifact",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Artifact"
+      ],
+      "rarity": "Rare",
+      "text": "{4}, {T}, Discard your hand: Draw a card for each creature you control.",
+      "flavor": "The pattern of life can be studied like a book, if you know how to read it.",
+      "artist": "Corey D. Macourek",
+      "number": "25",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 159501,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ONS",
+        "9ED",
+        "EVG",
+        "DD3_EVG"
+      ],
+      "original_text": "{4}, {T}, Discard your hand: Draw a card for each creature you control.",
+      "original_type": "Artifact",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=159501&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "f22b7fd08a3e41a24f9ed1b75d62492a3984dc67",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Wirewood Lodge",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Land",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Uncommon",
+      "text": "{T}: Add {C}.\n{G}, {T}: Untap target Elf.",
+      "flavor": null,
+      "artist": "Anthony S. Waters",
+      "number": "26",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 158111,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ONS",
+        "EVG",
+        "DD3_EVG"
+      ],
+      "original_text": "{T}: Add {1} to your mana pool.\n{G}, {T}: Untap target Elf.",
+      "original_type": "Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=158111&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "a90b87b6e6ae46bfc7752e734f6880fb21bd69bc",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Tranquil Thicket",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Land",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Common",
+      "text": "Tranquil Thicket enters the battlefield tapped.\n{T}: Add {G}.\nCycling {G} ({G}, Discard this card: Draw a card.)",
+      "flavor": null,
+      "artist": "Heather Hudson",
+      "number": "27",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 159325,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ONS",
+        "EVG",
+        "ARC",
+        "CMD",
+        "DDJ",
+        "C13",
+        "VMA",
+        "C14",
+        "DD3_EVG",
+        "CMA",
+        "C17",
+        "DDU"
+      ],
+      "original_text": "Tranquil Thicket comes into play tapped.\n{T}: Add {G} to your mana pool.\nCycling {G} ({G}, Discard this card: Draw a card.)",
+      "original_type": "Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=159325&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "599a3000678e54ba08fba6ba5e38a8788209dc3a",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-10-01",
+          "text": "Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Forest",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Forest",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Forest"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Glen Angus",
+      "number": "28",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 157946,
+      "variations": [
+        157948,
+        159041,
+        159042
+      ],
+      "watermark": "Green",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "EVG",
+        "SHM",
+        "ALA",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "DDD",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "DDM",
+        "M15",
+        "KTK",
+        "C14",
+        "DD3_EVG",
+        "DD3_GVL",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "SOI",
+        "DDR",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "UST",
+        "RIX",
+        "DDU",
+        "DOM"
+      ],
+      "original_text": null,
+      "original_type": "Basic Land \u2014 Forest",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=157946&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "fa0af7ef52df1ff64eea6ab1aa2649d63522f3e2",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Forest",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Forest",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Forest"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "John Avon",
+      "number": "29",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 157948,
+      "variations": [
+        157946,
+        159041,
+        159042
+      ],
+      "watermark": "Green",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "EVG",
+        "SHM",
+        "ALA",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "DDD",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "DDM",
+        "M15",
+        "KTK",
+        "C14",
+        "DD3_EVG",
+        "DD3_GVL",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "SOI",
+        "DDR",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "UST",
+        "RIX",
+        "DDU",
+        "DOM"
+      ],
+      "original_text": null,
+      "original_type": "Basic Land \u2014 Forest",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=157948&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "5b54db4516c300096ffe042846d990cbf2e53624",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Forest",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Forest",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Forest"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "John Avon",
+      "number": "30",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 159042,
+      "variations": [
+        157948,
+        157946,
+        159041
+      ],
+      "watermark": "Green",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "EVG",
+        "SHM",
+        "ALA",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "DDD",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "DDM",
+        "M15",
+        "KTK",
+        "C14",
+        "DD3_EVG",
+        "DD3_GVL",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "SOI",
+        "DDR",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "UST",
+        "RIX",
+        "DDU",
+        "DOM"
+      ],
+      "original_text": null,
+      "original_type": "Basic Land \u2014 Forest",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=159042&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "68c7ef5a44aa6797c7656a8a04d11d144267db85",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Forest",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Forest",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Forest"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Rob Alexander",
+      "number": "31",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 159041,
+      "variations": [
+        157948,
+        157946,
+        159042
+      ],
+      "watermark": "Green",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "EVG",
+        "SHM",
+        "ALA",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "DDD",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "DDM",
+        "M15",
+        "KTK",
+        "C14",
+        "DD3_EVG",
+        "DD3_GVL",
+        "FRF",
+        "DDO",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "SOI",
+        "DDR",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "UST",
+        "RIX",
+        "DDU",
+        "DOM"
+      ],
+      "original_text": null,
+      "original_type": "Basic Land \u2014 Forest",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=159041&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "2310760822b6f350965156fc8c5d06e24fc9bb06",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Siege-Gang Commander",
+      "layout": "normal",
+      "mana_cost": "{3}{R}{R}",
+      "cmc": 5,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Goblin",
+      "supertypes": null,
+      "subtypes": [
+        "Goblin"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": "When Siege-Gang Commander enters the battlefield, create three 1/1 red Goblin creature tokens.\n{1}{R}, Sacrifice a Goblin: Siege-Gang Commander deals 2 damage to any target.",
+      "flavor": null,
+      "artist": "Lucio Parrillo",
+      "number": "32",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 157926,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "SCG",
+        "10E",
+        "EVG",
+        "M10",
+        "DD3_EVG",
+        "EMA",
+        "DOM"
+      ],
+      "original_text": "When Siege-Gang Commander comes into play, put three 1/1 red Goblin creature tokens into play.\n{1}{R}, Sacrifice a Goblin: Siege-Gang Commander deals 2 damage to target creature or player.",
+      "original_type": "Creature \u2014 Goblin",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=157926&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "9f0f1a47bf709e7c48d81d26837bff661595992f",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2018-04-27",
+          "text": "You can sacrifice any Goblin you control to activate Siege-Gang Commander's activated ability, not just the ones its triggered ability puts onto the battlefield. You can even sacrifice Siege-Gang Commander itself."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Akki Coalflinger",
+      "layout": "normal",
+      "mana_cost": "{1}{R}{R}",
+      "cmc": 3,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Goblin Shaman",
+      "supertypes": null,
+      "subtypes": [
+        "Goblin",
+        "Shaman"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "First strike\n{R}, {T}: Attacking creatures gain first strike until end of turn.",
+      "flavor": "No matter where you find them, goblins love rocks.",
+      "artist": "Nottsuo",
+      "number": "33",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 159328,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "CHK",
+        "EVG",
+        "DD3_EVG"
+      ],
+      "original_text": "First strike\n{R}, {T}: Attacking creatures gain first strike until end of turn.",
+      "original_type": "Creature \u2014 Goblin Shaman",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=159328&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "98bc80b6b39421d2e002881272c435b3ec25512a",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Clickslither",
+      "layout": "normal",
+      "mana_cost": "{1}{R}{R}{R}",
+      "cmc": 4,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Insect",
+      "supertypes": null,
+      "subtypes": [
+        "Insect"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": "Haste\nSacrifice a Goblin: Clickslither gets +2/+2 and gains trample until end of turn.",
+      "flavor": "The least popular goblins get the outer caves.",
+      "artist": "Kev Walker",
+      "number": "34",
+      "power": "3",
+      "toughness": "3",
+      "loyalty": null,
+      "multiverse_id": 157928,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LGN",
+        "EVG",
+        "VMA",
+        "DD3_EVG"
+      ],
+      "original_text": "Haste\nSacrifice a Goblin: Clickslither gets +2/+2 and gains trample until end of turn.",
+      "original_type": "Creature \u2014 Insect",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=157928&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "b90dae438cb18ce9f0244fac73bad9f0218ca322",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Emberwilde Augur",
+      "layout": "normal",
+      "mana_cost": "{1}{R}",
+      "cmc": 2,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Goblin Shaman",
+      "supertypes": null,
+      "subtypes": [
+        "Goblin",
+        "Shaman"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Sacrifice Emberwilde Augur: It deals 3 damage to target player or planeswalker. Activate this ability only during your upkeep.",
+      "flavor": "Legends say a djinn gave the goblins a gift they could never hope to master.",
+      "artist": "Brandon Kitkouski",
+      "number": "35",
+      "power": "2",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 157932,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "FUT",
+        "EVG",
+        "DD3_EVG"
+      ],
+      "original_text": "Sacrifice Emberwilde Augur: Emberwilde Augur deals 3 damage to target player. Play this ability only during your upkeep.",
+      "original_type": "Creature \u2014 Goblin Shaman",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=157932&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "8b180d17dcae04975cc65abf0d5175f4f1b190f0",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Flamewave Invoker",
+      "layout": "normal",
+      "mana_cost": "{2}{R}",
+      "cmc": 3,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Goblin Mutant",
+      "supertypes": null,
+      "subtypes": [
+        "Goblin",
+        "Mutant"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "{7}{R}: Flamewave Invoker deals 5 damage to target player or planeswalker.",
+      "flavor": "Inside even the humblest goblin lurks the potential for far greater things\u2014and far worse.",
+      "artist": "Dave Dorman",
+      "number": "36",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 159053,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LGN",
+        "10E",
+        "EVG",
+        "DD2",
+        "DD3_EVG",
+        "DD3_JVC"
+      ],
+      "original_text": "{7}{R}: Flamewave Invoker deals 5 damage to target player.",
+      "original_type": "Creature \u2014 Goblin Mutant",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=159053&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "d87b48f697a79a17a3f033ccf262e5be67700884",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Gempalm Incinerator",
+      "layout": "normal",
+      "mana_cost": "{2}{R}",
+      "cmc": 3,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Goblin",
+      "supertypes": null,
+      "subtypes": [
+        "Goblin"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "Cycling {1}{R} ({1}{R}, Discard this card: Draw a card.)\nWhen you cycle Gempalm Incinerator, you may have it deal X damage to target creature, where X is the number of Goblins on the battlefield.",
+      "flavor": null,
+      "artist": "Luca Zontini",
+      "number": "37",
+      "power": "2",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 157929,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LGN",
+        "EVG",
+        "DD3_EVG",
+        "DDT"
+      ],
+      "original_text": "Cycling {1}{R} ({1}{R}, Discard this card: Draw a card.)\nWhen you cycle Gempalm Incinerator, you may have it deal X damage to target creature, where X is the number of Goblins in play.",
+      "original_type": "Creature \u2014 Goblin",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=157929&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "11f32dede4bd94a792dfe60bc76b0aef6e492b8b",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "The target of the ability can't be a creature with Protection from Creatures, with Protection from Goblins, or with Protection from Red."
+        },
+        {
+          "date": "2008-10-01",
+          "text": "Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not."
+        },
+        {
+          "date": "2008-10-01",
+          "text": "When you cycle this card, first the cycling ability goes on the stack, then the triggered ability goes on the stack on top of it. The triggered ability will resolve before you draw a card from the cycling ability."
+        },
+        {
+          "date": "2008-10-01",
+          "text": "The cycling ability and the triggered ability are separate. If the triggered ability doesn't resolve (due to being countered with Stifle, for example, or if all its targets have become illegal), the cycling ability will still resolve and you'll draw a card."
+        },
+        {
+          "date": "2008-10-01",
+          "text": "You can cycle this card even if there are no targets for the triggered ability. That's because the cycling ability itself has no targets."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Goblin Cohort",
+      "layout": "normal",
+      "mana_cost": "{R}",
+      "cmc": 1,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Goblin Warrior",
+      "supertypes": null,
+      "subtypes": [
+        "Goblin",
+        "Warrior"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Goblin Cohort can't attack unless you've cast a creature spell this turn.",
+      "flavor": "Akki shells provided good protection when downhill charging became headlong tumbling.",
+      "artist": "Darrell Riche",
+      "number": "38",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 157922,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "BOK",
+        "EVG",
+        "DD3_EVG"
+      ],
+      "original_text": "Goblin Cohort can't attack unless you've played a creature spell this turn.",
+      "original_type": "Creature \u2014 Goblin Warrior",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=157922&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "6d24ce4435111e47ca58b028220899cf54a6432c",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Goblin Matron",
+      "layout": "normal",
+      "mana_cost": "{2}{R}",
+      "cmc": 3,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Goblin",
+      "supertypes": null,
+      "subtypes": [
+        "Goblin"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "When Goblin Matron enters the battlefield, you may search your library for a Goblin card, reveal that card, and put it into your hand. If you do, shuffle your library.",
+      "flavor": "There's always room for one more.",
+      "artist": "Daniel Gelon",
+      "number": "39",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 157933,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "PO2",
+        "USG",
+        "ATH",
+        "7ED",
+        "EVG",
+        "VMA",
+        "DD3_EVG"
+      ],
+      "original_text": "When Goblin Matron comes into play, you may search your library for a Goblin card, reveal that card, and put it into your hand. If you do, shuffle your library.",
+      "original_type": "Creature \u2014 Goblin",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=157933&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "9ff1a1a0f54dda453fdb2aaa4a5d99225bd37d70",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "Because the \"search\" requires you to find a card with certain characteristics, you don't have to find the card if you don't want to."
+        },
+        {
+          "date": "2008-04-01",
+          "text": "You can search for any card with the creature type Goblin, including Creature or Tribal cards. Older cards of type \"Summon Goblin\" and \"Summon Goblins\" also count. You can't search for cards that have Goblin in the name but don't have the creature type Goblin."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Goblin Ringleader",
+      "layout": "normal",
+      "mana_cost": "{3}{R}",
+      "cmc": 4,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Goblin",
+      "supertypes": null,
+      "subtypes": [
+        "Goblin"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "Haste\nWhen Goblin Ringleader enters the battlefield, reveal the top four cards of your library. Put all Goblin cards revealed this way into your hand and the rest on the bottom of your library in any order.",
+      "flavor": null,
+      "artist": "Mark Romanoski",
+      "number": "40",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 157937,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pFNM",
+        "APC",
+        "EVG",
+        "VMA",
+        "DD3_EVG",
+        "DDT"
+      ],
+      "original_text": "Haste\nWhen Goblin Ringleader comes into play, reveal the top four cards of your library. Put all Goblin cards revealed this way into your hand and the rest on the bottom of your library.",
+      "original_type": "Creature \u2014 Goblin",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=157937&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "f315862f994a22190bb31c72932f422ab9223dc3",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Goblin Sledder",
+      "layout": "normal",
+      "mana_cost": "{R}",
+      "cmc": 1,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Goblin",
+      "supertypes": null,
+      "subtypes": [
+        "Goblin"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Sacrifice a Goblin: Target creature gets +1/+1 until end of turn.",
+      "flavor": "\"Let's play 'sled.' Here's how it works: you're the sled.\"",
+      "artist": "Ron Spencer",
+      "number": "41",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 159049,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ONS",
+        "EVG",
+        "DD3_EVG"
+      ],
+      "original_text": "Sacrifice a Goblin: Target creature gets +1/+1 until end of turn.",
+      "original_type": "Creature \u2014 Goblin",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=159049&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "ad4edb282de70e13ebc6e29c38d0046c416843fa",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Goblin Warchief",
+      "layout": "normal",
+      "mana_cost": "{1}{R}{R}",
+      "cmc": 3,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Goblin Warrior",
+      "supertypes": null,
+      "subtypes": [
+        "Goblin",
+        "Warrior"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "Goblin spells you cast cost {1} less to cast.\nGoblins you control have haste.",
+      "flavor": "They poured from the Skirk Ridge like lava, burning and devouring everything in their path.",
+      "artist": "Greg & Tim Hildebrandt",
+      "number": "42",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 157934,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pFNM",
+        "SCG",
+        "EVG",
+        "VMA",
+        "DDN",
+        "DD3_EVG",
+        "DOM"
+      ],
+      "original_text": "Goblin spells you play cost {1} less to play.\nGoblin creatures you control have haste.",
+      "original_type": "Creature \u2014 Goblin Warrior",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=157934&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "58151bbdd9c2f102cd18478be30b9fdd99c61abf",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2018-04-27",
+          "text": "Goblin Warchief's effect reduces only generic mana in the cost of Goblin spells you cast. For example, it doesn't reduce the cost of Skirk Prospector below {R}."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Ib Halfheart, Goblin Tactician",
+      "layout": "normal",
+      "mana_cost": "{3}{R}",
+      "cmc": 4,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Legendary Creature \u2014 Goblin Advisor",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": [
+        "Goblin",
+        "Advisor"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": "Whenever another Goblin you control becomes blocked, sacrifice it. If you do, it deals 4 damage to each creature blocking it.\nSacrifice two Mountains: Create two 1/1 red Goblin creature tokens.",
+      "flavor": "\"Everybody but me\u2014CHARGE!\"",
+      "artist": "Wayne Reynolds",
+      "number": "43",
+      "power": "3",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 157923,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "TSP",
+        "EVG",
+        "DD3_EVG"
+      ],
+      "original_text": "Whenever another Goblin you control becomes blocked, sacrifice it. If you do, it deals 4 damage to each creature blocking it.\nSacrifice two Mountains: Put two 1/1 red Goblin creature tokens into play.",
+      "original_type": "Legendary Creature \u2014 Goblin Advisor",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=157923&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "a6ebd4c2022c0d56fbe8a1d5a788f5e95e44c78a",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2006-09-25",
+          "text": "If you don't actually sacrifice the Goblin (because it was removed from the battlefield before the ability resolved, for example), no damage is dealt."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Mogg Fanatic",
+      "layout": "normal",
+      "mana_cost": "{R}",
+      "cmc": 1,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Goblin",
+      "supertypes": null,
+      "subtypes": [
+        "Goblin"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "Sacrifice Mogg Fanatic: It deals 1 damage to any target.",
+      "flavor": "\"I got it! I got it! I\u2014\"",
+      "artist": "Brom",
+      "number": "44",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 157925,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "TMP",
+        "ATH",
+        "pFNM",
+        "pGTW",
+        "10E",
+        "EVG",
+        "PD2",
+        "DD3_EVG",
+        "TPR",
+        "EMA"
+      ],
+      "original_text": "Sacrifice Mogg Fanatic: Mogg Fanatic deals 1 damage to target creature or player.",
+      "original_type": "Creature \u2014 Goblin",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=157925&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "747abb9b5f97d6134d345bf8659ad5fb8f38255f",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2016-06-08",
+          "text": "Once Mogg Fanatic has dealt and been dealt combat damage, it's too late to activate its ability before it's destroyed."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Mogg War Marshal",
+      "layout": "normal",
+      "mana_cost": "{1}{R}",
+      "cmc": 2,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Goblin Warrior",
+      "supertypes": null,
+      "subtypes": [
+        "Goblin",
+        "Warrior"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Echo {1}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\nWhen Mogg War Marshal enters the battlefield or dies, create a 1/1 red Goblin creature token.",
+      "flavor": null,
+      "artist": "Wayne England",
+      "number": "45",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 157924,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "TSP",
+        "EVG",
+        "MMA",
+        "DD3_EVG",
+        "EMA"
+      ],
+      "original_text": "Echo {1}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\nWhen Mogg War Marshal comes into play or is put into a graveyard from play, put a 1/1 red Goblin creature token into play.",
+      "original_type": "Creature \u2014 Goblin Warrior",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=157924&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "6c3c72c1d081783367d4558284dcd1f0445fd623",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Mudbutton Torchrunner",
+      "layout": "normal",
+      "mana_cost": "{2}{R}",
+      "cmc": 3,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Goblin Warrior",
+      "supertypes": null,
+      "subtypes": [
+        "Goblin",
+        "Warrior"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "When Mudbutton Torchrunner dies, it deals 3 damage to any target.",
+      "flavor": "The oil sloshes against his skull as he nears his destination: the Frogtosser Games and the lighting of the Flaming Boggart.",
+      "artist": "Steve Ellis",
+      "number": "46",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 157919,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LRW",
+        "EVG",
+        "DDG",
+        "PC2",
+        "DD3_EVG",
+        "PCA",
+        "MM3"
+      ],
+      "original_text": "When Mudbutton Torchrunner is put into a graveyard from play, it deals 3 damage to target creature or player.",
+      "original_type": "Creature \u2014 Goblin Warrior",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=157919&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "cd35b8138cf262623f528a12376aa026776f4000",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Raging Goblin",
+      "layout": "normal",
+      "mana_cost": "{R}",
+      "cmc": 1,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Goblin Berserker",
+      "supertypes": null,
+      "subtypes": [
+        "Goblin",
+        "Berserker"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Haste (This creature can attack and {T} as soon as it comes under your control.)",
+      "flavor": "He raged at the world, at his family, at his life. But mostly he just raged.",
+      "artist": "Jeff Miracola",
+      "number": "47",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 159326,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "POR",
+        "EXO",
+        "PO2",
+        "ATH",
+        "6ED",
+        "S99",
+        "BRB",
+        "BTD",
+        "7ED",
+        "8ED",
+        "9ED",
+        "10E",
+        "EVG",
+        "M10",
+        "DD3_EVG"
+      ],
+      "original_text": "Haste",
+      "original_type": "Creature \u2014 Goblin Berserker",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=159326&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "1c07ac7723ea735aaa6c9fba01c6da443f46bc61",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Reckless One",
+      "layout": "normal",
+      "mana_cost": "{3}{R}",
+      "cmc": 4,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Goblin Avatar",
+      "supertypes": null,
+      "subtypes": [
+        "Goblin",
+        "Avatar"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "Haste\nReckless One's power and toughness are each equal to the number of Goblins on the battlefield.",
+      "flavor": "\"Release chaos with me!\"",
+      "artist": "Ron Spencer",
+      "number": "48",
+      "power": "*",
+      "toughness": "*",
+      "loyalty": null,
+      "multiverse_id": 159050,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ONS",
+        "EVG",
+        "DD3_EVG"
+      ],
+      "original_text": "Haste\nReckless One's power and toughness are each equal to the number of Goblins in play.",
+      "original_type": "Creature \u2014 Goblin Avatar",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=159050&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "fa6f2a34cee2667ad638fe8eb4f9bab209010976",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Skirk Drill Sergeant",
+      "layout": "normal",
+      "mana_cost": "{1}{R}",
+      "cmc": 2,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Goblin",
+      "supertypes": null,
+      "subtypes": [
+        "Goblin"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "Whenever Skirk Drill Sergeant or another Goblin dies, you may pay {2}{R}. If you do, reveal the top card of your library. If it's a Goblin permanent card, put it onto the battlefield. Otherwise, put it into your graveyard.",
+      "flavor": "\"I order you to volunteer.\"",
+      "artist": "Alex Horley-Orlandelli",
+      "number": "49",
+      "power": "2",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 157931,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LGN",
+        "EVG",
+        "VMA",
+        "DD3_EVG"
+      ],
+      "original_text": "Whenever Skirk Drill Sergeant or another Goblin is put into a graveyard from play, you may pay {2}{R}. If you do, reveal the top card of your library. If it's a Goblin permanent card, put it into play. Otherwise, put it into your graveyard.",
+      "original_type": "Creature \u2014 Goblin",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=157931&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "2383101353f74124d17818dbebe332250d5868d3",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Skirk Fire Marshal",
+      "layout": "normal",
+      "mana_cost": "{3}{R}{R}",
+      "cmc": 5,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Goblin",
+      "supertypes": null,
+      "subtypes": [
+        "Goblin"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Rare",
+      "text": "Protection from red\nTap five untapped Goblins you control: Skirk Fire Marshal deals 10 damage to each creature and each player.",
+      "flavor": "He's boss because he's smart enough to get out of the way.",
+      "artist": "Greg & Tim Hildebrandt",
+      "number": "50",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 157936,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ONS",
+        "EVG",
+        "DD3_EVG"
+      ],
+      "original_text": "Protection from red\nTap five untapped Goblins you control: Skirk Fire Marshal deals 10 damage to each creature and each player.",
+      "original_type": "Creature \u2014 Goblin",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=157936&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "562e70693199f6dff411391bc1c48392a73acedc",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2004-10-04",
+          "text": "Since the ability does not have the {T} symbol, you can use the ability before this creature begins a turn under your control."
+        },
+        {
+          "date": "2004-10-04",
+          "text": "It can tap itself but is not required to do so."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Skirk Prospector",
+      "layout": "normal",
+      "mana_cost": "{R}",
+      "cmc": 1,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Goblin",
+      "supertypes": null,
+      "subtypes": [
+        "Goblin"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Sacrifice a Goblin: Add {R}.",
+      "flavor": "\"I like goblins. They make funny little popping sounds when they die.\"\n\u2014Braids, dementia summoner",
+      "artist": "Doug Chaffee",
+      "number": "51",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 159051,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ONS",
+        "EVG",
+        "DDG",
+        "VMA",
+        "DD3_EVG",
+        "DOM"
+      ],
+      "original_text": "Sacrifice a Goblin: Add {R} to your mana pool.",
+      "original_type": "Creature \u2014 Goblin",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=159051&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "65701956e4d8c72cd5061be1f9faec5cf898f9ea",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Skirk Shaman",
+      "layout": "normal",
+      "mana_cost": "{1}{R}{R}",
+      "cmc": 3,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Goblin Shaman",
+      "supertypes": null,
+      "subtypes": [
+        "Goblin",
+        "Shaman"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Skirk Shaman can't be blocked except by artifact creatures and/or red creatures.",
+      "flavor": "In a shaman's grimy hands, a concoction of dried Skirk Ridge herbs can become the face of panic.",
+      "artist": "Chippy",
+      "number": "52",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 159055,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "PLC",
+        "EVG",
+        "DD3_EVG"
+      ],
+      "original_text": "Skirk Shaman can't be blocked except by artifact creatures and/or red creatures.",
+      "original_type": "Creature \u2014 Goblin Shaman",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=159055&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "043e6bd8e56c499844b01f521eb8264f7bc1ccc9",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2007-02-01",
+          "text": "This is the timeshifted version of Severed Legion."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Tar Pitcher",
+      "layout": "normal",
+      "mana_cost": "{3}{R}",
+      "cmc": 4,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Goblin Shaman",
+      "supertypes": null,
+      "subtypes": [
+        "Goblin",
+        "Shaman"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Uncommon",
+      "text": "{T}, Sacrifice a Goblin: Tar Pitcher deals 2 damage to any target.",
+      "flavor": "\"Auntie Grub had caught a goat, a bleating doe that still squirmed in her arms. At the same time, her warren decided to share with her a sensory greeting of hot tar . . . .\"\n\u2014A tale of Auntie Grub",
+      "artist": "Omar Rayyan",
+      "number": "53",
+      "power": "2",
+      "toughness": "2",
+      "loyalty": null,
+      "multiverse_id": 157920,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LRW",
+        "EVG",
+        "MMA",
+        "DD3_EVG"
+      ],
+      "original_text": "{T}, Sacrifice a Goblin: Tar Pitcher deals 2 damage to target creature or player.",
+      "original_type": "Creature \u2014 Goblin Shaman",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=157920&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "4e6648514098221b9082395a100770e42748aeea",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Boggart Shenanigans",
+      "layout": "normal",
+      "mana_cost": "{2}{R}",
+      "cmc": 3,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Tribal Enchantment \u2014 Goblin",
+      "supertypes": null,
+      "subtypes": [
+        "Goblin"
+      ],
+      "types": [
+        "Tribal",
+        "Enchantment"
+      ],
+      "rarity": "Uncommon",
+      "text": "Whenever another Goblin you control is put into a graveyard from the battlefield, you may have Boggart Shenanigans deal 1 damage to target player or planeswalker.",
+      "flavor": "Boggarts revel in discovering new sensations, from the texture of an otter pellet to the squeak of a dying warren mate.",
+      "artist": "Warren Mahy",
+      "number": "54",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 157915,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LRW",
+        "EVG",
+        "DD3_EVG"
+      ],
+      "original_text": "Whenever another Goblin you control is put into a graveyard from play, you may have Boggart Shenanigans deal 1 damage to target player.",
+      "original_type": "Tribal Enchantment \u2014 Goblin",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=157915&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "11c44230bcbc1c668e33c6933ded606f26e2f05f",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Spitting Earth",
+      "layout": "normal",
+      "mana_cost": "{1}{R}",
+      "cmc": 2,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Sorcery",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Sorcery"
+      ],
+      "rarity": "Common",
+      "text": "Spitting Earth deals damage to target creature equal to the number of Mountains you control.",
+      "flavor": "\"Within each of you is the strength of a landslide.\"\n\u2014Kumano, to his pupils",
+      "artist": "Michael Koelsch",
+      "number": "55",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 159054,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "MIR",
+        "POR",
+        "PO2",
+        "6ED",
+        "S99",
+        "7ED",
+        "10E",
+        "EVG",
+        "DDG",
+        "DD3_EVG"
+      ],
+      "original_text": "Spitting Earth deals damage equal to the number of Mountains you control to target creature.",
+      "original_type": "Sorcery",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=159054&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "d3764b689cfd26497354fcac58e5bd5310385ba9",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Tarfire",
+      "layout": "normal",
+      "mana_cost": "{R}",
+      "cmc": 1,
+      "colors": [
+        "Red"
+      ],
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Tribal Instant \u2014 Goblin",
+      "supertypes": null,
+      "subtypes": [
+        "Goblin"
+      ],
+      "types": [
+        "Tribal",
+        "Instant"
+      ],
+      "rarity": "Common",
+      "text": "Tarfire deals 2 damage to any target.",
+      "flavor": "\"After Auntie brushed the soot from her eyes, she discovered something wonderful: the fire had turned the goat into something that smelled delicious.\"\n\u2014A tale of Auntie Grub",
+      "artist": "Omar Rayyan",
+      "number": "56",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 157921,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LRW",
+        "EVG",
+        "DD3_EVG",
+        "DDT"
+      ],
+      "original_text": "Tarfire deals 2 damage to target creature or player.",
+      "original_type": "Tribal Instant \u2014 Goblin",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=157921&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "c1f6ae811ce8f56b3abf9deadcc945e0d7383202",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Forgotten Cave",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Land",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Common",
+      "text": "Forgotten Cave enters the battlefield tapped.\n{T}: Add {R}.\nCycling {R} ({R}, Discard this card: Draw a card.)",
+      "flavor": null,
+      "artist": "Tony Szczudlo",
+      "number": "57",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 159327,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ONS",
+        "EVG",
+        "CMD",
+        "DDJ",
+        "C13",
+        "VMA",
+        "C14",
+        "DD3_EVG",
+        "C15",
+        "CMA",
+        "DDT"
+      ],
+      "original_text": "Forgotten Cave comes into play tapped.\n{T}: Add {R} to your mana pool.\nCycling {R} ({R}, Discard this card: Draw a card.)",
+      "original_type": "Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=159327&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "a23494e80afe2e5fe5f19ff915cf1d97dc810353",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2008-10-01",
+          "text": "Cycling is an activated ability. Effects that interact with activated abilities (such as Stifle or Rings of Brighthearth) will interact with cycling. Effects that interact with spells (such as Remove Soul or Faerie Tauntings) will not."
+        }
+      ],
+      "foreign_names": null
+    },
+    {
+      "name": "Goblin Burrows",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Land",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Land"
+      ],
+      "rarity": "Uncommon",
+      "text": "{T}: Add {C}.\n{1}{R}, {T}: Target Goblin creature gets +2/+0 until end of turn.",
+      "flavor": null,
+      "artist": "David Martin",
+      "number": "58",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 157935,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "ONS",
+        "EVG",
+        "DD3_EVG"
+      ],
+      "original_text": "{T}: Add {1} to your mana pool.\n{1}{R}, {T}: Target Goblin creature gets +2/+0 until end of turn.",
+      "original_type": "Land",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=157935&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "82016fb93a87a9dabfccdb7e9f9db7d33aacdb8e",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Mountain",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Mountain",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Mountain"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "David Day",
+      "number": "59",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 157940,
+      "variations": [
+        157941,
+        157939,
+        159061
+      ],
+      "watermark": "Red",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "ARN",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "EVG",
+        "SHM",
+        "ALA",
+        "DD2",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "PD2",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "DDK",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_EVG",
+        "DD3_JVC",
+        "FRF",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "DDT",
+        "UST",
+        "RIX",
+        "DDU",
+        "DOM"
+      ],
+      "original_text": null,
+      "original_type": "Basic Land \u2014 Mountain",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=157940&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "2ed93128209a621d27ad4af3e28e8311ceb1a361",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Mountain",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Mountain",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Mountain"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Jeff Miracola",
+      "number": "60",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 159061,
+      "variations": [
+        157941,
+        157939,
+        157940
+      ],
+      "watermark": "Red",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "ARN",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "EVG",
+        "SHM",
+        "ALA",
+        "DD2",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "PD2",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "DDK",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_EVG",
+        "DD3_JVC",
+        "FRF",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "DDT",
+        "UST",
+        "RIX",
+        "DDU",
+        "DOM"
+      ],
+      "original_text": null,
+      "original_type": "Basic Land \u2014 Mountain",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=159061&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "a0ae46076e0e3697a20954a57c583f702f3dcb1c",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Mountain",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Mountain",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Mountain"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Rob Alexander",
+      "number": "61",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 157939,
+      "variations": [
+        157941,
+        159061,
+        157940
+      ],
+      "watermark": "Red",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "ARN",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "EVG",
+        "SHM",
+        "ALA",
+        "DD2",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "PD2",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "DDK",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_EVG",
+        "DD3_JVC",
+        "FRF",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "DDT",
+        "UST",
+        "RIX",
+        "DDU",
+        "DOM"
+      ],
+      "original_text": null,
+      "original_type": "Basic Land \u2014 Mountain",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=157939&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "10831349ba89e7bc5bb9fb7637b90ac793cac9f0",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Mountain",
+      "layout": "normal",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": [
+        "R"
+      ],
+      "names": null,
+      "type": "Basic Land \u2014 Mountain",
+      "supertypes": [
+        "Basic"
+      ],
+      "subtypes": [
+        "Mountain"
+      ],
+      "types": [
+        "Land"
+      ],
+      "rarity": "Basic Land",
+      "text": null,
+      "flavor": null,
+      "artist": "Sam Wood",
+      "number": "62",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": 157941,
+      "variations": [
+        157939,
+        159061,
+        157940
+      ],
+      "watermark": "Red",
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "LEA",
+        "LEB",
+        "2ED",
+        "CED",
+        "CEI",
+        "ARN",
+        "3ED",
+        "4ED",
+        "ICE",
+        "RQS",
+        "pARL",
+        "MIR",
+        "ITP",
+        "5ED",
+        "POR",
+        "TMP",
+        "pJGP",
+        "PO2",
+        "UGL",
+        "pALP",
+        "USG",
+        "ATH",
+        "6ED",
+        "PTK",
+        "pGRU",
+        "S99",
+        "MMQ",
+        "BRB",
+        "pELP",
+        "S00",
+        "BTD",
+        "INV",
+        "7ED",
+        "ODY",
+        "DKM",
+        "ONS",
+        "8ED",
+        "MRD",
+        "CHK",
+        "UNH",
+        "9ED",
+        "RAV",
+        "CST",
+        "TSP",
+        "10E",
+        "MED",
+        "LRW",
+        "EVG",
+        "SHM",
+        "ALA",
+        "DD2",
+        "M10",
+        "HOP",
+        "ME3",
+        "ZEN",
+        "H09",
+        "DDE",
+        "ROE",
+        "DPA",
+        "ARC",
+        "M11",
+        "SOM",
+        "PD2",
+        "MBS",
+        "DDG",
+        "NPH",
+        "CMD",
+        "M12",
+        "DDH",
+        "ISD",
+        "DDI",
+        "AVR",
+        "PC2",
+        "M13",
+        "DDJ",
+        "RTR",
+        "DDK",
+        "M14",
+        "DDL",
+        "THS",
+        "C13",
+        "M15",
+        "DDN",
+        "KTK",
+        "C14",
+        "DD3_EVG",
+        "DD3_JVC",
+        "FRF",
+        "DTK",
+        "TPR",
+        "ORI",
+        "DDP",
+        "BFZ",
+        "C15",
+        "SOI",
+        "KLD",
+        "C16",
+        "PCA",
+        "DDS",
+        "AKH",
+        "CMA",
+        "E01",
+        "HOU",
+        "C17",
+        "XLN",
+        "DDT",
+        "UST",
+        "RIX",
+        "DDU",
+        "DOM"
+      ],
+      "original_text": null,
+      "original_type": "Basic Land \u2014 Mountain",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=157941&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "a081f3f03d9231c4a96381b13554aa9ce43c5287",
+      "legalities": [
+        {
+          "format": "Amonkhet Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Battle for Zendikar Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ice Age Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Invasion Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ixalan Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kaladesh Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Kamigawa Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Lorwyn-Shadowmoor Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Masques Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirage Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Odyssey Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Onslaught Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Return to Ravnica Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Scars of Mirrodin Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shadows over Innistrad Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Shards of Alara Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Standard",
+          "legality": "Legal"
+        },
+        {
+          "format": "Tempest Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Time Spiral Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Un-Sets",
+          "legality": "Legal"
+        },
+        {
+          "format": "Urza Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        },
+        {
+          "format": "Zendikar Block",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Elemental",
+      "layout": "token",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Creature \u2014 Elemental",
+      "supertypes": null,
+      "subtypes": [
+        "Elemental"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": "Trample",
+      "flavor": null,
+      "artist": "Anthony S. Waters",
+      "number": "T1",
+      "power": "7",
+      "toughness": "7",
+      "loyalty": null,
+      "multiverse_id": 159048,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "EVG",
+        "DDR"
+      ],
+      "original_text": "Trample",
+      "original_type": "Creature \u2014 Elemental",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=159048&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "c05b9398b2862d7e9c7457368729a5cf819b86ed",
+      "legalities": null,
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Elf Warrior",
+      "layout": "token",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Creature \u2014 Elf Warrior",
+      "supertypes": null,
+      "subtypes": [
+        "Elf",
+        "Warrior"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": null,
+      "flavor": null,
+      "artist": "Dominick Domingo",
+      "number": "T2",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 159047,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "EVG"
+      ],
+      "original_text": null,
+      "original_type": "Creature \u2014 Elf Warrior",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=159047&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "9751be51a3d179eaa355c55fe9007b5a96a03bc5",
+      "legalities": null,
+      "rulings": null,
+      "foreign_names": null
+    },
+    {
+      "name": "Goblin",
+      "layout": "token",
+      "mana_cost": null,
+      "cmc": 0,
+      "colors": null,
+      "color_identity": null,
+      "names": null,
+      "type": "Creature \u2014 Goblin",
+      "supertypes": null,
+      "subtypes": [
+        "Goblin"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Common",
+      "text": null,
+      "flavor": null,
+      "artist": "Dave Kendall",
+      "number": "T3",
+      "power": "1",
+      "toughness": "1",
+      "loyalty": null,
+      "multiverse_id": 159056,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "EVG",
+        "DDN"
+      ],
+      "original_text": null,
+      "original_type": "Creature \u2014 Goblin",
+      "source": null,
+      "image_url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=159056&type=card",
+      "set": "EVG",
+      "set_name": "Duel Decks: Elves vs. Goblins",
+      "id": "a5de8cdeaa5edf5c87bf83b3e46eb80696fe465e",
+      "legalities": null,
+      "rulings": null,
+      "foreign_names": null
+    }
+  ]
+}

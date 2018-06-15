@@ -1,0 +1,790 @@
+{
+  "code": "CP2",
+  "name": "Fate Reforged Clash Pack",
+  "type": "starter",
+  "border": "black",
+  "mkm_id": null,
+  "mkm_name": null,
+  "release_date": "2015-01-23",
+  "gatherer_code": null,
+  "magic_cards_info_code": "clash",
+  "booster": null,
+  "old_code": null,
+  "block": null,
+  "online_only": null,
+  "cards": [
+    {
+      "name": "Necropolis Fiend",
+      "layout": "normal",
+      "mana_cost": "{7}{B}{B}",
+      "cmc": 9,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Demon",
+      "supertypes": null,
+      "subtypes": [
+        "Demon"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nFlying\n{X}, {T}, Exile X cards from your graveyard: Target creature gets -X/-X until end of turn.",
+      "flavor": null,
+      "artist": "Svetlin Velinov",
+      "number": "1",
+      "power": "4",
+      "toughness": "5",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "pPRE",
+        "KTK",
+        "CP2"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Fate Reforged",
+      "image_url": null,
+      "set": "CP2",
+      "set_name": "Fate Reforged Clash Pack",
+      "id": "53e7ab6426ac6ac6663bfa97bb8577e94ec66cb4",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Khans of Tarkir Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2014-09-20",
+          "text": "The rules for delve have changed slightly since it was last in an expansion. Previously, delve reduced the cost to cast a spell. Under the current rules, you exile cards from your graveyard at the same time you pay the spell's cost. Exiling a card this way is simply another way to pay that cost."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "Delve doesn't change a spell's mana cost or converted mana cost. For example, Dead Drop's converted mana cost is 10 even if you exiled three cards to cast it."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "You can't exile cards to pay for the colored mana requirements of a spell with delve."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "You can't exile more cards than the generic mana requirement of a spell with delve. For example, you can't exile more than nine cards from your graveyard to cast Dead Drop."
+        },
+        {
+          "date": "2014-09-20",
+          "text": "Because delve isn't an alternative cost, it can be used in conjunction with alternative costs."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u53e4\u9675\u5bdd\u90aa\u9b3c",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u53e4\u9675\u5be2\u90aa\u9b3c",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Fielleux des n\u00e9cropoles",
+          "language": "French"
+        },
+        {
+          "name": "Nekropolis-Unhold",
+          "language": "German"
+        },
+        {
+          "name": "Immondo della Necropoli",
+          "language": "Italian"
+        },
+        {
+          "name": "\u6b7b\u6ec5\u90fd\u5e02\u306e\u60aa\u9b3c",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ub124\ud06c\ub85c\ud3f4\ub9ac\uc2a4 \ub9c8\uadc0",
+          "language": "Korean"
+        },
+        {
+          "name": "Dem\u00f4nio da Necr\u00f3pole",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0414\u0435\u043c\u043e\u043d \u041d\u0435\u043a\u0440\u043e\u043f\u043e\u043b\u044f",
+          "language": "Russian"
+        },
+        {
+          "name": "Demonio de la necr\u00f3polis",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Hero's Downfall",
+      "layout": "normal",
+      "mana_cost": "{1}{B}{B}",
+      "cmc": 3,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Instant",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Instant"
+      ],
+      "rarity": "Special",
+      "text": "Destroy target creature or planeswalker.",
+      "flavor": "Destiny exalts a chosen few, but even heroes break.",
+      "artist": "Johannes Voss",
+      "number": "2",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "THS",
+        "CP2"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Fate Reforged",
+      "image_url": null,
+      "set": "CP2",
+      "set_name": "Fate Reforged Clash Pack",
+      "id": "b635e984b82e4db946e5bba6c99c8e26d0009d7d",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u82f1\u96c4\u6b89\u8eab",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u82f1\u96c4\u6b89\u8eab",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Chute du h\u00e9ros",
+          "language": "French"
+        },
+        {
+          "name": "Des Helden Untergang",
+          "language": "German"
+        },
+        {
+          "name": "Caduta dell'Eroe",
+          "language": "Italian"
+        },
+        {
+          "name": "\u82f1\u96c4\u306e\u7834\u6ec5",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uc601\uc6c5\uc758 \ubab0\ub77d",
+          "language": "Korean"
+        },
+        {
+          "name": "Queda do Her\u00f3i",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041f\u0430\u0434\u0435\u043d\u0438\u0435 \u0413\u0435\u0440\u043e\u044f",
+          "language": "Russian"
+        },
+        {
+          "name": "La ca\u00edda del h\u00e9roe",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Sultai Ascendacy",
+      "layout": "normal",
+      "mana_cost": "{U}{B}{G}",
+      "cmc": 3,
+      "colors": [
+        "Blue",
+        "Black",
+        "Green"
+      ],
+      "color_identity": [
+        "U",
+        "B",
+        "G"
+      ],
+      "names": null,
+      "type": "Enchantment",
+      "supertypes": null,
+      "subtypes": null,
+      "types": [
+        "Enchantment"
+      ],
+      "rarity": "Special",
+      "text": "At the beginning of your upkeep, look at the top two cards of your library. Put any number of them into your graveyard and the rest back on top of your library in any order.",
+      "flavor": null,
+      "artist": "Karl Kopinski",
+      "number": "3",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "CP2"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Fate Reforged",
+      "image_url": null,
+      "set": "CP2",
+      "set_name": "Fate Reforged Clash Pack",
+      "id": "39e8a45a9fa49a198eeed4ddb312985d87c87cf5",
+      "legalities": [
+        {
+          "format": "Classic",
+          "legality": "Legal"
+        },
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Extended",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": null,
+      "foreign_names": [
+        {
+          "name": "\u82cf\u52d2\u53f0\u9738\u6743",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u8607\u52d2\u53f0\u9738\u6b0a",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Ascendance sulta\u00ef",
+          "language": "French"
+        },
+        {
+          "name": "Vormacht der Sultai",
+          "language": "German"
+        },
+        {
+          "name": "Autorit\u00e0 Sultai",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30b9\u30a5\u30eb\u30bf\u30a4\u306e\u9686\u76db",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uc220\ud0c0\uc774\uc758 \uc9c0\ubc30\ub825",
+          "language": "Korean"
+        },
+        {
+          "name": "Ascend\u00eancia Sultai",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0412\u043e\u0437\u0432\u044b\u0448\u0435\u043d\u0438\u0435 \u0421\u0443\u043b\u0442\u0430\u044f",
+          "language": "Russian"
+        },
+        {
+          "name": "Supremac\u00eda sultai",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Reaper of the Wilds",
+      "layout": "normal",
+      "mana_cost": "{2}{B}{G}",
+      "cmc": 4,
+      "colors": [
+        "Black",
+        "Green"
+      ],
+      "color_identity": [
+        "B",
+        "G"
+      ],
+      "names": null,
+      "type": "Creature \u2014 Gorgon",
+      "supertypes": null,
+      "subtypes": [
+        "Gorgon"
+      ],
+      "types": [
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Whenever another creature dies, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)\n{B}: Reaper of the Wilds gains deathtouch until end of turn.\n{1}{G}: Reaper of the Wilds gains hexproof until end of turn.",
+      "flavor": null,
+      "artist": "Jeff Simpson",
+      "number": "4",
+      "power": "4",
+      "toughness": "5",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "THS",
+        "DDM",
+        "CP2"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Fate Reforged",
+      "image_url": null,
+      "set": "CP2",
+      "set_name": "Fate Reforged Clash Pack",
+      "id": "079ee99a7ecb22374fec5933185714d6277620ce",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-09-15",
+          "text": "Reaper of the Wilds's first ability triggers separately for each creature. For example, if five creatures die at the same time, you'll scry 1 five times. You won't scry 5."
+        },
+        {
+          "date": "2013-09-15",
+          "text": "If Reaper of the Wilds dies at the same time as another creature, its ability will trigger for that other creature."
+        },
+        {
+          "date": "2013-09-15",
+          "text": "When you scry, you may put all the cards you look at back on top of your library, you may put all of those cards on the bottom of your library, or you may put some of those cards on top and the rest of them on the bottom."
+        },
+        {
+          "date": "2013-09-15",
+          "text": "You choose how to order cards returned to your library after scrying no matter where you put them."
+        },
+        {
+          "date": "2013-09-15",
+          "text": "You perform the actions stated on a card in sequence. For some spells and abilities, that means you'll scry last. For others, that means you'll scry and then perform other actions."
+        },
+        {
+          "date": "2013-09-15",
+          "text": "Scry appears on some spells and abilities with one or more targets. If all of the spell or ability's targets are illegal when it tries to resolve, it will be countered and none of its effects will happen. You won't scry."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u86ee\u8352\u593a\u547d\u5996",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u883b\u8352\u596a\u547d\u5996",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Faucheuse des terres sauvages",
+          "language": "French"
+        },
+        {
+          "name": "Wilde Meuchlerin",
+          "language": "German"
+        },
+        {
+          "name": "Mietitrice delle Terre Selvagge",
+          "language": "Italian"
+        },
+        {
+          "name": "\u8352\u91ce\u306e\u53ce\u7a6b\u8005",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uc57c\uc0dd\uc758 \uc0ac\uc2e0",
+          "language": "Korean"
+        },
+        {
+          "name": "Ceifador das Selvas",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0416\u043d\u0438\u0446\u0430 \u0414\u0435\u0431\u0440\u0435\u0439",
+          "language": "Russian"
+        },
+        {
+          "name": "Segadora de lo salvaje",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Whip of Erebos",
+      "layout": "normal",
+      "mana_cost": "{2}{B}{B}",
+      "cmc": 4,
+      "colors": [
+        "Black"
+      ],
+      "color_identity": [
+        "B"
+      ],
+      "names": null,
+      "type": "Legendary Enchantment Artifact",
+      "supertypes": [
+        "Legendary"
+      ],
+      "subtypes": null,
+      "types": [
+        "Enchantment",
+        "Artifact"
+      ],
+      "rarity": "Special",
+      "text": "Creatures you control have lifelink.\n{2}{B}{B}, {T}: Return target creature card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step. If it would leave the battlefield, exile it instead of putting it anywhere else. Activate this ability only any time you could cast a sorcery.",
+      "flavor": null,
+      "artist": "Marco Nelor",
+      "number": "5",
+      "power": null,
+      "toughness": null,
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "THS",
+        "CP2"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Fate Reforged",
+      "image_url": null,
+      "set": "CP2",
+      "set_name": "Fate Reforged Clash Pack",
+      "id": "72e24931faf9919bd50f896a119fd41742d78eb8",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2013-09-15",
+          "text": "At the beginning of the next end step, the creature returned to the battlefield with Whip of Erebos is exiled. This is a delayed triggered ability. If the ability is countered, the creature will stay on the battlefield and the delayed trigger won't trigger again. However, the replacement effect will still exile the creature when it eventually leaves the battlefield."
+        },
+        {
+          "date": "2013-09-15",
+          "text": "Whip of Erebos grants haste to the creature that's returned to the battlefield. However, neither of the \"exile\" abilities is granted to that creature. If that creature loses all its abilities, it will still be exiled at the beginning of the end step, and if it would leave the battlefield, it is still exiled instead."
+        },
+        {
+          "date": "2013-09-15",
+          "text": "If a creature returned to the battlefield with Whip of Erebos would leave the battlefield for any reason, it's exiled instead. However, if that creature is already being exiled, then the replacement effect won't apply. If the spell or ability that exiles it later returns it to the battlefield (as Chained to the Rocks might, for example), the creature card will return to the battlefield as a new object with no relation to its previous existence. The effects from Whip of Erebos will no longer apply to it."
+        },
+        {
+          "date": "2013-09-15",
+          "text": "The exiled creature is never put into the graveyard. Any abilities the creature has that trigger when it dies won't trigger."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u5384\u777f\u67cf\u65af\u7684\u795e\u97ad",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u5384\u777f\u67cf\u65af\u7684\u795e\u97ad",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Fouet d'\u00c9r\u00e9bos",
+          "language": "French"
+        },
+        {
+          "name": "Peitsche des Erebos",
+          "language": "German"
+        },
+        {
+          "name": "Frusta di Erebos",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30a8\u30ec\u30dc\u30b9\u306e\u97ad",
+          "language": "Japanese"
+        },
+        {
+          "name": "\uc5d0\ub808\ubcf4\uc2a4\uc758 \ucc44\ucc0d",
+          "language": "Korean"
+        },
+        {
+          "name": "Chicote de \u00c9rebo",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u041a\u043d\u0443\u0442 \u042d\u0440\u0435\u0431\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "L\u00e1tigo de Erebos",
+          "language": "Spanish"
+        }
+      ]
+    },
+    {
+      "name": "Courser of Kruphix",
+      "layout": "normal",
+      "mana_cost": "{1}{G}{G}",
+      "cmc": 3,
+      "colors": [
+        "Green"
+      ],
+      "color_identity": [
+        "G"
+      ],
+      "names": null,
+      "type": "Enchantment Creature \u2014 Centaur",
+      "supertypes": null,
+      "subtypes": [
+        "Centaur"
+      ],
+      "types": [
+        "Enchantment",
+        "Creature"
+      ],
+      "rarity": "Special",
+      "text": "Play with the top card of your library revealed.\nYou may play the top card of your library if it's a land card.\nWhenever a land enters the battlefield under your control, you gain 1 life.",
+      "flavor": null,
+      "artist": "Slawomir Maniak",
+      "number": "6",
+      "power": "2",
+      "toughness": "4",
+      "loyalty": null,
+      "multiverse_id": null,
+      "variations": null,
+      "watermark": null,
+      "border": null,
+      "timeshifted": null,
+      "hand": null,
+      "life": null,
+      "release_date": null,
+      "starter": null,
+      "printings": [
+        "BNG",
+        "CP2"
+      ],
+      "original_text": null,
+      "original_type": null,
+      "source": "Fate Reforged",
+      "image_url": null,
+      "set": "CP2",
+      "set_name": "Fate Reforged Clash Pack",
+      "id": "e2e7eaa12f566c5c1461b2b61dd249a6ab7eaee3",
+      "legalities": [
+        {
+          "format": "Commander",
+          "legality": "Legal"
+        },
+        {
+          "format": "Legacy",
+          "legality": "Legal"
+        },
+        {
+          "format": "Modern",
+          "legality": "Legal"
+        },
+        {
+          "format": "Theros Block",
+          "legality": "Legal"
+        },
+        {
+          "format": "Vintage",
+          "legality": "Legal"
+        }
+      ],
+      "rulings": [
+        {
+          "date": "2014-02-01",
+          "text": "Courser of Kruphix doesn't change when you can play lands. You can do so only during your main phase when you have priority and the stack is empty."
+        },
+        {
+          "date": "2014-02-01",
+          "text": "Playing a land with the second ability counts as your land play for the turn. If you play a land from your hand during your turn, you won't be able to play an additional land from the top of your library unless another effect allows you to."
+        },
+        {
+          "date": "2014-02-01",
+          "text": "The last ability triggers whenever a land enters the battlefield under your control for any reason. It triggers whenever you play a land, as well as whenever a spell or ability (such as Rampant Growth) causes you to put a land onto the battlefield under your control. It will even trigger when a spell or ability causes another player to put a land onto the battlefield under your control (as can happen with Yavimaya Dryad's ability, for example)."
+        },
+        {
+          "date": "2014-02-01",
+          "text": "While playing with the top card of your library revealed, if you draw multiple cards, reveal each one before you draw it."
+        }
+      ],
+      "foreign_names": [
+        {
+          "name": "\u514b\u7f57\u82ac\u65af\u7684\u9a8f\u9a6c",
+          "language": "Chinese Simplified"
+        },
+        {
+          "name": "\u514b\u7f85\u82ac\u65af\u7684\u99ff\u99ac",
+          "language": "Chinese Traditional"
+        },
+        {
+          "name": "Coursi\u00e8re de Kruphix",
+          "language": "French"
+        },
+        {
+          "name": "Rennerin des Kruphix",
+          "language": "German"
+        },
+        {
+          "name": "Corsiera di Krufix",
+          "language": "Italian"
+        },
+        {
+          "name": "\u30af\u30eb\u30d5\u30a3\u30c3\u30af\u30b9\u306e\u72e9\u731f\u8005",
+          "language": "Japanese"
+        },
+        {
+          "name": "\ud06c\ub8e8\ud53d\uc2a4\uc758 \uad70\ub9c8",
+          "language": "Korean"
+        },
+        {
+          "name": "Centaura-ca\u00e7adora de Crufix",
+          "language": "Portuguese (Brazil)"
+        },
+        {
+          "name": "\u0420\u0435\u0437\u0432\u0430\u044f \u0411\u0435\u0433\u0443\u043d\u044c\u044f \u041a\u0440\u0443\u0444\u0438\u043a\u0441\u0430",
+          "language": "Russian"
+        },
+        {
+          "name": "Cazadora de Krufix",
+          "language": "Spanish"
+        }
+      ]
+    }
+  ]
+}
