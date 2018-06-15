@@ -1,4 +1,5 @@
 import mtgsdk, json, os
+import django.db as db
 
 card = mtgsdk.Card.where(set="2ED").all()
 # print(json.dumps(card[0].__dict__))
